@@ -1450,3 +1450,16 @@ Dates are UTC (the ledger's); commits are counted by local date.
   repository without history (code, tests, method documentation, aggregate results; the samples with record text, the gold sets
   and the internal documents stay in this repository, which stays private), and Zenodo gets the code only (the corpus stays
   behind the API and MCP). The article page's documents shown as a dated list (they ran together).
+- 5 Nov (the user: a Check tab; open the site; keep scrapers off, agents through MCP; a public repository and a DOI): Check
+  (site/check.js, POST /api/check: every UN symbol in a reader's text held against its record: the document, the page or
+  paragraph, the delegate named, the quotation before it; UN, Bluebook, OSCOLA and Nowak's citation styles; the text kept
+  nowhere). deploy/open_vm.py, to be run once with sudo: the password off; /travaux-api/api/ refused (403, pointing to the MCP
+  server) to cloud data centres and to AI crawlers and scripting clients by User-Agent, Ask capped at 30 questions a minute in
+  all, records and exports at 20 a minute per address, robots.txt for the host; tested on a scratch nginx on the VM (browser
+  200, curl and GPTBot 403, MCP, health and the site 200, the 21st record in a minute 429). HUDOC Researcher's service notice
+  (shown only when the server does not answer). The public repository lszoszk/travaux-preparatoires (deploy/public_tree.py: 591
+  files; no file with record text above 30 sampled runs, which leaves the text of 17 speeches, 0.07%, as quotations in the
+  documentation; no gold sets, evaluation samples or internal documents; one commit, no history), its GitHub Pages site
+  (https://lszoszk.github.io/travaux-preparatoires/, the app shell; the API on the VM allows that origin), and the Zenodo DOI of
+  the code: 10.5281/zenodo.23940406 (all versions; v0.9 is 10.5281/zenodo.23940407; software, MIT). The laptop backup on the VM
+  is complete (4.1 GB).

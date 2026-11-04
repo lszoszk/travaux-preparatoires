@@ -25,7 +25,7 @@ INTERNAL = ("docs/handover.md", "docs/project_brief_", "docs/un_library_", "docs
 TREATY_TEXTS = ("data/concordance/udhr_final.json", "data/concordance/covenants_final.json")
 METHOD_DOCS = ("docs/quality_audit.md",)   # its quotations are examples of errors, as in a methods paper
 CODE = (".py", ".js", ".css", ".html", ".sh", ".yml", ".yaml", ".toml", ".cff", ".txt", ".svg")
-NAMES = {"Magda": "the second annotator", "magda": "annotator2"}
+NAMES = {"the second annotator": "the second annotator", "annotator2": "annotator2"}
 PUBLIC_NOTE = """> **This repository** holds the code (pipeline, API, MCP server, site), the tests and the documentation of the method of the
 > database at https://150.254.115.204/travaux/. The corpus itself (the records' text, the database file, the evaluation samples
 > and gold sets that quote it) is not here: read it in the site, or, from a program or an AI assistant, through the MCP server
