@@ -86,7 +86,7 @@ const FOREIGN_VIEW_KEYS = ["qa", "qi", "vi", "va", "vd", "vo", "vr", "vf", "ai",
 const SITE_URL = CFG.url || "https://150.254.115.204/travaux/";
 const SITE_CITATION = {
   apa: `Szoszkiewicz, Ł. (2026). UN Travaux Préparatoires: A speech-level companion to the drafting records of the UDHR, ICCPR and ICESCR [Database]. Adam Mickiewicz University. ${SITE_URL}`,
-  bibtex: `@misc{szoszkiewicz2026travaux,\n  author       = {Szoszkiewicz, {\\L}ukasz},\n  title        = {{UN Travaux Pr{\\'e}paratoires}: A Speech-Level Companion to the Drafting Records of the {UDHR}, {ICCPR} and {ICESCR}},\n  year         = {2026},\n  howpublished = {Database, Adam Mickiewicz University},\n  url          = {${SITE_URL}},\n  note         = {CC BY-NC 4.0}\n}`,
+  bibtex: `@misc{szoszkiewicz2026travaux,\n  author       = {Szoszkiewicz, {\\L}ukasz},\n  title        = {{UN Travaux Pr{\\'e}paratoires}: A Speech-Level Companion to the Drafting Records of the {UDHR}, {ICCPR} and {ICESCR}},\n  year         = {2026},\n  howpublished = {Database, Adam Mickiewicz University},\n  url          = {${SITE_URL}},\n  note         = {CC BY-NC-SA 4.0}\n}`,
 };
 function writeHash(changes, push = false) {
   const h = readHash();

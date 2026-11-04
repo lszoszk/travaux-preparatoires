@@ -1,0 +1,66 @@
+UN Travaux Préparatoires — attribution and licensing notice
+==========================================================
+
+This project contains three distinct components, each under its own
+terms:
+
+  Software         PolyForm Noncommercial License 1.0.0
+                   See:  LICENSE  (full PolyForm terms)
+                   Covers:  the pipeline under pipeline/, the API under
+                            api/, the evaluation scripts under eval/,
+                            the MCP server and the Claude skill under
+                            mcp/, the website under site/ and the
+                            deployment configuration under deploy/.
+                   Copyright © 2026 Łukasz Szoszkiewicz.
+
+  Curated data     Creative Commons Attribution-NonCommercial-ShareAlike
+                   4.0 International (CC BY-NC-SA 4.0)
+                   See:  DATA_LICENSE.md
+                   Covers:  what the database adds to the documents: the
+                            division of the records into speeches, the
+                            speakers and delegations, the article tags
+                            and the concordance of drafts to final
+                            articles, the decisions and votes, the
+                            sponsors of amendments, the dates read from
+                            the scans, and the machine translations of
+                            the French-only documents.
+                   Copyright © 2026 Łukasz Szoszkiewicz.
+
+  UN documents     © United Nations, 1946–1966.
+                   The text of the UN documents is reused under the UN
+                   Dag Hammarskjöld Library's terms for non-commercial
+                   use (https://digitallibrary.un.org). This project
+                   does not grant rights in it. The UN document is the
+                   authority: every passage carries its UN symbol and
+                   links to the UN copy.
+
+Version v0.9 (4 November 2026) was released with its code under the MIT
+licence and its data under CC BY-NC 4.0; the terms above apply from
+v0.9.1.
+
+Independence
+------------
+The project is an independent academic research resource. It is not
+affiliated with, endorsed by, or an official product of the United
+Nations.
+
+Citation
+--------
+    Szoszkiewicz, Ł. (2026). UN Travaux Préparatoires: a speech-level
+    database of the drafting records of the UDHR, ICCPR and ICESCR.
+    Zenodo. https://doi.org/10.5281/zenodo.23940406
+
+A passage relied on in academic work should be cited to the UN document
+itself (symbol and page or paragraph), not to this project.
+
+Third-party software
+--------------------
+Third-party libraries and services retain their respective licences and
+terms.
+
+Contact
+-------
+For commercial licensing enquiries, attribution questions, or anything
+outside the terms above:
+
+    Łukasz Szoszkiewicz <l.szoszkiewicz@amu.edu.pl>

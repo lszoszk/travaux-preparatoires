@@ -30,6 +30,13 @@ tagged with the article under debate (95.3% ± 3.5% weighted precision, 91% with
   what was done and how the text will be used, under its terms for non-commercial use and with
   its credit line (`docs/un_library_permission_request.md`). No further automated download.
 
+## Licence
+
+The code is under the PolyForm Noncommercial License 1.0.0 (`LICENSE`): research, education, non-profit and personal use
+are permitted; commercial use needs a separate licence from the author. What the database adds to the UN documents is under
+CC BY-NC-SA 4.0 (`DATA_LICENSE.md`); the text of the UN documents stays under the UN's terms. See `NOTICE`. (v0.9 was
+released under MIT for the code and CC BY-NC 4.0 for the data.)
+
 ## Layout
 
 ```

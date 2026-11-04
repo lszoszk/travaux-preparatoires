@@ -65,8 +65,8 @@ def main() -> int:
     shutil.copy2(ROOT / "eval" / "model_bench" / "results.json", out / "eval" / "model_bench" / "results.json")
     # the site, with the settings of this deployment
     shutil.copytree(ROOT / "site", out / "site")
-    settings = {"api": cfg.get("api", "/travaux-api"), "scans": "un", "label": cfg.get("label", "working edition v0.9"), "title": "",
-                "version": cfg.get("version", "v0.9"), "author": cfg.get("author", ""), "affiliation": cfg.get("affiliation", ""),
+    settings = {"api": cfg.get("api", "/travaux-api"), "scans": "un", "label": cfg.get("label", "working edition v0.9.1"), "title": "",
+                "version": cfg.get("version", "v0.9.1"), "author": cfg.get("author", ""), "affiliation": cfg.get("affiliation", ""),
                 "contact": cfg.get("contact", ""), "url": cfg.get("url", ""),
                 # usage counts (site/assets/analytics.js): the GoatCounter endpoint and path prefix, and a GA4 measurement ID or ""
                 "analytics": cfg.get("analytics", {})}

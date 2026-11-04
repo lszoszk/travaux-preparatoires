@@ -19,7 +19,7 @@ A checklist, in order. Each step that changes a file ends with a local commit.
      ICCPR and ICESCR*. Version: `vX.Y`. Publication date: the day of release.
    - Creator: Szoszkiewicz, Łukasz; ORCID 0000-0001-6671-2893; Adam Mickiewicz University, Poznań.
    - Description: the datasheet's "Summary" and "What it is not".
-   - Licence: Creative Commons Attribution Non Commercial 4.0 International; in Additional notes, the UN credit line
+   - Licence: Creative Commons Attribution Non Commercial Share Alike 4.0 International; in Additional notes, the UN credit line
      ("© United Nations, 1946–1966, https://digitallibrary.un.org, downloaded in September 2026") and that the UN text stays
      under the UN Library's terms.
    - Keywords: travaux préparatoires; human rights; UDHR; ICCPR; ICESCR; United Nations; treaty interpretation.

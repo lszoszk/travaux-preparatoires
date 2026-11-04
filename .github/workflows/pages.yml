@@ -28,7 +28,7 @@ jobs:
       - name: Point the site at the API, and give it its own address
         run: |
           cat > site/config.js <<EOF2
-          window.TRAVAUX = { api: "${{ vars.TRAVAUX_API_URL }}", scans: "un", label: "working edition v0.9", version: "v0.9",
+          window.TRAVAUX = { api: "${{ vars.TRAVAUX_API_URL }}", scans: "un", label: "working edition v0.9.1", version: "v0.9.1",
             author: "${{ vars.TRAVAUX_AUTHOR }}", affiliation: "${{ vars.TRAVAUX_AFFILIATION }}", contact: "${{ vars.TRAVAUX_CONTACT }}",
             url: "${{ vars.TRAVAUX_URL }}",
             analytics: { goatcounter: "https://lszoszk.goatcounter.com/count", path: "/travaux", ga4: "${{ vars.TRAVAUX_GA4 }}" } };

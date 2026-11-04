@@ -7,7 +7,7 @@
 | Version | $version, exported $date (database built $built, code $commit) |
 | DOI | $doi |
 | Author | Łukasz Szoszkiewicz, Adam Mickiewicz University, Poznań (ORCID 0000-0001-6671-2893) |
-| Licence | our additions CC BY-NC 4.0; the text of the UN documents under the UN's terms (see "Distribution") |
+| Licence | our additions CC BY-NC-SA 4.0; the text of the UN documents under the UN's terms (see "Distribution") |
 | Contact for corrections | l.szoszkiewicz@amu.edu.pl |
 
 ## Summary
@@ -166,9 +166,9 @@ https://lszoszk.github.io/travaux-preparatoires/.
 
 What this dataset adds to the documents (the division into speeches, the speakers and delegations, the article tags and the
 concordance of drafts, the decisions and votes, the machine translations) is released under the Creative Commons
-Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0). The text of the UN documents is the United Nations' and is
+Attribution-NonCommercial-ShareAlike 4.0 International licence (CC BY-NC-SA 4.0). The text of the UN documents is the United Nations' and is
 used under the UN Library's terms for non-commercial use: © United Nations, 1946–1966, https://digitallibrary.un.org,
-downloaded in September 2026. The code that built the dataset is released under the MIT licence.
+downloaded in September 2026. The code that built the dataset is released under the PolyForm Noncommercial License 1.0.0.
 
 ## Maintenance
 

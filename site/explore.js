@@ -703,7 +703,8 @@ async function renderAbout() {
       grant's GPUs (the Athena cluster) read the scans of the records with the vision model whose text the database uses.</p>`, "", "about-acknowledgements")}
     ${section("Licence and privacy", `<p><b>Licence.</b> What this database adds to the documents (the division into speeches, speakers and delegations, the
       article tags and the concordance of drafts, the decisions and votes, the machine translations) is released under
-      <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>; the code is under the MIT licence. The text of the UN documents is
+      <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a>; the code is under the
+      <a href="https://polyformproject.org/licenses/noncommercial/1.0.0/" target="_blank" rel="noopener">PolyForm Noncommercial License 1.0.0</a>. The text of the UN documents is
       the UN's and stays under the UN's own terms: each passage links to the UN copy.</p>
       <p><b>Privacy.</b> No accounts and no cookies. The passages you save with ☆ stay in this browser. To see how the site is
       used and where it needs work, it keeps counts, never a profile of anyone. A cookie-free counter (GoatCounter) records which

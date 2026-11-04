@@ -1,7 +1,7 @@
 {
   "title": "UN Travaux Préparatoires (code): pipeline, API, MCP server and site of a speech-level database of the drafting records of the UDHR, ICCPR and ICESCR",
   "upload_type": "software",
-  "version": "v0.9",
+  "version": "v0.9.1",
   "description": "<p>The code, tests and documentation of the method of UN Travaux Préparatoires, a speech-level database of the United Nations' records of the drafting of the Universal Declaration of Human Rights (1946–48) and the two International Covenants (1949–66): 2,160 UN documents split into speeches with speaker, delegation, date, final article and the UN's page pinpoint, with the decisions and votes read from the records.</p><p>The repository holds the pipeline (OCR voting, segmentation, speaker and article attribution, measured on blind samples), the API, the MCP server for AI assistants and the web site. The corpus itself is not in it: it is read in the site (https://lszoszk.github.io/travaux-preparatoires/) or through the MCP server. An independent research resource, not an official UN product.</p><p>Computations on the Polish high-performance computing infrastructure PLGrid (ACK Cyfronet AGH), computational grant no. PLG/2026/020181.</p>",
   "creators": [
     {
@@ -10,7 +10,7 @@
       "orcid": "0000-0001-6671-2893"
     }
   ],
-  "license": "MIT",
+  "license": "PolyForm-Noncommercial-1.0.0",
   "access_right": "open",
   "keywords": [
     "travaux préparatoires",

@@ -29,4 +29,4 @@ Use the MCP server: the site's data endpoints are for people reading the site, a
 ## More
 
 - How it was made and how far to trust it: {{SITE_URL}}#view=about and {{SITE_URL}}#view=about&part=methods
-- Licence: the database's additions (division into speeches, speakers, delegations, article tags, decisions, translations) CC BY-NC 4.0; the code MIT; the UN documents stay under the UN's terms.
+- Licence: the database's additions (division into speeches, speakers, delegations, article tags, decisions, translations) CC BY-NC-SA 4.0; the code PolyForm Noncommercial 1.0.0; the UN documents stay under the UN's terms.
