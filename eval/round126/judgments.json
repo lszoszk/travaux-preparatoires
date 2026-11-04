@@ -1,0 +1,2102 @@
+{
+ "R001": {
+  "a": {
+   "correct": false,
+   "note": "Clarifies a previous procedural remark against using the debate on article 2 for political attacks on specific countries rather than discussing the article's substance or wording."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speaker clarifies a point about avoiding political attacks against specific countries during the debate rather than discussing the substance or text of article 2."
+  }
+ },
+ "R002": {
+  "a": {
+   "correct": false,
+   "note": "Procedural motion to adjourn the meeting pending preparation of an official French translation before the vote."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speech is a procedural motion to adjourn the meeting until an official French translation is prepared."
+  }
+ },
+ "R003": {
+  "a": {
+   "correct": true,
+   "note": "Discusses the substance of article 15 and the Argentine amendment proposing to replace 'national or international law' with 'applicable law'."
+  },
+  "b": {
+   "correct": true,
+   "note": "The speaker addresses the Argentine amendments to article 15, specifically the reference to national or international law in paragraph 1 and principles of international criminal law."
+  }
+ },
+ "R004": {
+  "a": {
+   "correct": false,
+   "note": "Raises the general cross-cutting question whether the Declaration should mention duties of States at all and requests a procedural decision on that question of principle before voting."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speaker raises a general cross-cutting question of principle on whether duties of States should be mentioned in the Declaration at all and requests a preliminary decision on that principle."
+  }
+ },
+ "R005": {
+  "a": {
+   "correct": true,
+   "note": "Discusses the text of article 17 and the Indian and three-Power amendments regarding 'family' and interference by public authorities versus private persons."
+  },
+  "b": {
+   "correct": true,
+   "note": "The speaker discusses the text and amendments to article 17, supporting the Indian proposal to insert 'family' and criticizing the three-Power amendment limiting the prohibition of interference to public authorities."
+  }
+ },
+ "R006": {
+  "a": {
+   "correct": true,
+   "note": "Expresses satisfaction with the Greek representative's explanation of the Greek amendment to article 18 concerning parents' religious education of their children."
+  },
+  "b": {
+   "correct": true,
+   "note": "In context, the speakers express satisfaction with the Greek representative's explanation of the Greek amendment to article 18 on parental liberty regarding religious upbringing."
+  }
+ },
+ "R007": {
+  "a": {
+   "correct": false,
+   "note": "Exercises the right of reply to defend a former Pakistani Foreign Minister against personal remarks without addressing the text or substance of article 18."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speech is a personal and political right of reply concerning remarks about a former Pakistani Foreign Minister rather than the substance or text of article 18."
+  }
+ },
+ "R008": {
+  "a": {
+   "correct": true,
+   "note": "Expresses support for the USSR amendment on abolishing the death penalty in peacetime and the joint amendment to article 3."
+  },
+  "b": {
+   "correct": true,
+   "note": "The speaker supports the USSR amendment (including peacetime abolition of the death penalty) and the three-Power joint amendment to article 3."
+  }
+ },
+ "R009": {
+  "a": {
+   "correct": false,
+   "note": "Exercises the right of reply regarding the domestic sentencing of Bertrand Russell in the United Kingdom rather than addressing the text or amendments of article 19."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speech is a right of reply defending the United Kingdom Government's arrest of Bertrand Russell during a public demonstration rather than discussing article 19."
+  }
+ },
+ "R010": {
+  "a": {
+   "correct": false,
+   "note": "Polemical right of reply regarding statements by Khrushchev and film censorship in the United States rather than the provisions or amendments of article 19."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speech is a right of reply concerning Soviet statements on peaceful coexistence and commercial film censorship in the United States, without addressing the text or amendments of article 19."
+  }
+ },
+ "R011": {
+  "a": {
+   "correct": false,
+   "note": "Procedural suggestion that several delegations meet informally to agree on a revised amendment in order to speed up the Committee's work."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speaker makes a procedural suggestion that several delegations meet informally to agree on a consolidated amendment."
+  }
+ },
+ "R012": {
+  "a": {
+   "correct": true,
+   "note": "Refutes the precedent of the draft Convention on Freedom of Information invoked in support of the amendment to replace 'seek' with 'gather' ('rassembler') in article 19."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speaker merely notes how France had voted at a previous session on article 1 of the draft Convention on Freedom of Information."
+  }
+ },
+ "R013": {
+  "a": {
+   "correct": false,
+   "note": "Exercises the right of reply to defend South Africa's domestic policies against Soviet criticism rather than addressing the text or amendments of article 20."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speech is a political right of reply defending South Africa's domestic policies against Soviet criticism rather than addressing the drafting or substance of article 20."
+  }
+ },
+ "R014": {
+  "a": {
+   "correct": true,
+   "note": "Replies to South Africa and argues in favour of prohibiting racialism and incitement to war under article 20."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speech is primarily a political right of reply regarding South African apartheid and communist coexistence, touching only generally at the end on prohibiting racialism and cold war incitement."
+  }
+ },
+ "R015": {
+  "a": {
+   "correct": false,
+   "note": "Concerns inequality in information media and the ability of small countries to make their views heard rather than the prohibition of war propaganda or advocacy of hatred in article 20."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speaker's brief reply concerns unequal access of small countries to information media rather than the prohibition of war propaganda or advocacy of hatred in article 20."
+  }
+ },
+ "R016": {
+  "a": {
+   "correct": true,
+   "note": "Urges the prompt adoption of the draft article on the right of peaceful assembly without complicated debate."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speaker merely makes a procedural appeal for the speedy adoption of the article without complicated debate, without discussing its substance or wording."
+  }
+ },
+ "R017": {
+  "a": {
+   "correct": false,
+   "note": "Procedural objection to considering the three paragraphs of draft article 21 separately rather than as a whole."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speech addresses the procedural question of whether to consider the article's paragraphs separately or as a whole."
+  }
+ },
+ "R018": {
+  "a": {
+   "correct": true,
+   "note": "Defends pressing for equality of rights of married women in article 23, paragraph 4 in light of the legal incapacity suffered by married women under many national laws."
+  },
+  "b": {
+   "correct": true,
+   "note": "While objecting to a remark about feminism, the speaker defends pressing for equal rights of married women in article 23 in consistency with existing UN conventions."
+  }
+ },
+ "R019": {
+  "a": {
+   "correct": true,
+   "note": "Supports Peru's position on the Spanish wording ('las medidas necesarias' versus 'las medidas apropiadas') of the fifteen-Power amendment to article 23, paragraph 4."
+  },
+  "b": {
+   "correct": true,
+   "note": "The speakers express support for Peru's position on the Spanish wording ('medidas necesarias' versus 'medidas apropiadas') of the amendment to article 23, paragraph 4."
+  }
+ },
+ "R020": {
+  "a": {
+   "correct": false,
+   "note": "Procedural request that the Committee be given time to examine the Indian suggestion."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speaker merely requests that the Committee be given time to examine the Indian suggestion, without discussing its substance."
+  }
+ },
+ "R021": {
+  "a": {
+   "correct": true,
+   "note": "Explains that the non-discrimination clause in draft article 24 (final article 26), read in light of article 1, would not prohibit nationalization or measures controlling aliens."
+  },
+  "b": {
+   "correct": true,
+   "note": "The speaker explains the interpretation of the non-discrimination clause in draft article 24 (final article 26) in relation to article 1 and measures controlling foreign enterprises."
+  }
+ },
+ "R022": {
+  "a": {
+   "correct": false,
+   "note": "Addresses whether the non-discrimination clause in draft article 24 (ICCPR article 26) affects nationalization, citing already-adopted article 1 only in support of that interpretation."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speech is part of the debate on draft article 24 (final ICCPR article 26) regarding non-discrimination and nationalization, citing already-adopted article 1 only as a supporting argument."
+  }
+ },
+ "R023": {
+  "a": {
+   "correct": false,
+   "note": "Formal inquiry asking whether the articles of the Covenant will have titles or only numbers, noting that the heading used in the Annotations (A/2929) for article 24 seemed inadequate."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speaker asks a formal question about whether Covenant articles will carry titles, commenting only on the heading used in the Secretariat's annotations document."
+  }
+ },
+ "R024": {
+  "a": {
+   "correct": true,
+   "note": "Post-vote statement on draft article 7 (UDHR article 9) expressing regret that several amendments to the article had not been adopted."
+  },
+  "b": {
+   "correct": true,
+   "note": "The speaker comments on the outcome of the vote on the article, expressing regret that several amendments to it were not adopted."
+  }
+ },
+ "R025": {
+  "a": {
+   "correct": true,
+   "note": "Discusses the substance and form of the proposed article on the rights of the child, including protection of children born out of wedlock and the right to a nationality."
+  },
+  "b": {
+   "correct": true,
+   "note": "The speaker discusses the substance and form of the proposed article on the rights of the child, including special protection, children born out of wedlock, and the right to a nationality."
+  }
+ },
+ "R026": {
+  "a": {
+   "correct": true,
+   "note": "Critiques the paragraphs of the revised Polish-Yugoslav draft article on the rights of the child and proposes specific wording for paragraph 1."
+  },
+  "b": {
+   "correct": true,
+   "note": "In addition to commenting on referral to the Commission on Human Rights, the speaker critiques the paragraphs of the Polish-Yugoslav draft article on the rights of the child and proposes revised wording for paragraph 1."
+  }
+ },
+ "R027": {
+  "a": {
+   "correct": true,
+   "note": "Expresses support for the Polish-Yugoslav proposal for an article on the rights of the child and opposes delaying its adoption."
+  },
+  "b": {
+   "correct": true,
+   "note": "The speaker expresses support for the Polish-Yugoslav proposal for an article on the rights of the child and opposes delaying its adoption."
+  }
+ },
+ "R028": {
+  "a": {
+   "correct": true,
+   "note": "Discusses the wording of ICESCR article 2, paragraph 1, and the Costa Rican and United Kingdom amendments to it."
+  },
+  "b": {
+   "correct": true,
+   "note": "The speaker analyzes the wording and amendments to article 2, paragraph 1 of the draft ICESCR, including progressive realization, the Costa Rican and UK amendments, and the French translation."
+  }
+ },
+ "R029": {
+  "a": {
+   "correct": true,
+   "note": "Discusses the text of ICESCR article 2, paragraphs 1 and 2, opposes the Costa Rican amendment, and suggests adding 'as soon as possible'."
+  },
+  "b": {
+   "correct": true,
+   "note": "The speaker discusses paragraphs 1 and 2 of article 2 of the draft ICESCR, opposing the Costa Rican amendment and addressing concerns about special measures in paragraph 2."
+  }
+ },
+ "R030": {
+  "a": {
+   "correct": false,
+   "note": "Surveys UNESCO's general activities and publications on the status of women without addressing the text or provisions of article 3."
+  },
+  "b": {
+   "correct": false,
+   "note": "The UNESCO representative provides a general informational survey of UNESCO's activities regarding the status and education of women without addressing the text or substance of article 3."
+  }
+ },
+ "R031": {
+  "a": {
+   "correct": false,
+   "note": "Procedural intervention opposing the motion to close the debate on article 2."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speech opposes a procedural motion to close the debate on article 2."
+  }
+ },
+ "R032": {
+  "a": {
+   "correct": true,
+   "note": "Defends the amendment inserting 'especially economic and technical' co-operation in ICESCR article 2, paragraph 1, and explains the meaning of 'technical co-operation'."
+  },
+  "b": {
+   "correct": true,
+   "note": "The speaker defends addressing economic questions in the Third Committee and explains the meaning of 'technical co-operation' in the context of the amendment to article 2, paragraph 1."
+  }
+ },
+ "R033": {
+  "a": {
+   "correct": false,
+   "note": "Brief right of reply clarifying a previous reference to Greece as a developing country rather than addressing the text or amendments of article 2."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speaker makes a brief right of reply clarifying her characterization of Greece as a developing country rather than discussing the text or substance of article 2."
+  }
+ },
+ "R034": {
+  "a": {
+   "correct": false,
+   "note": "Political right of reply concerning United States policy toward Cuba and aid from socialist countries, mentioning the Covenant only in passing."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speech is a political right of reply concerning United States policy toward Cuba and foreign aid, mentioning the draft Covenant only in passing."
+  }
+ },
+ "R035": {
+  "a": {
+   "correct": false,
+   "note": "Factual clarification regarding New Zealand's domestic social security eligibility rules rather than the text or amendments of article 2."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speaker merely provides a one-sentence factual statement about New Zealand's domestic social security eligibility without addressing the text or substance of article 2."
+  }
+ },
+ "R036": {
+  "a": {
+   "correct": true,
+   "note": "Requests that the Indonesian-Burmese amendment to article 2, paragraph 3 be put to the vote first and states she will withdraw her alternative proposal if it is adopted."
+  },
+  "b": {
+   "correct": true,
+   "note": "The speaker requests a voting order on the Indonesian-Burmese amendment adding paragraph 3 to article 2 and announces the conditional withdrawal of her own sub-amendment."
+  }
+ },
+ "R037": {
+  "a": {
+   "correct": true,
+   "note": "Appeals the Chairman's ruling regarding the USSR sub-amendment and requests a roll-call vote on the United Kingdom amendment to UDHR article 14."
+  },
+  "b": {
+   "correct": true,
+   "note": "The speaker appeals the Chairman's ruling on his sub-amendment and requests a roll-call vote on the United Kingdom amendment to the asylum article."
+  }
+ },
+ "R038": {
+  "a": {
+   "correct": false,
+   "note": "Procedural request under rule 142 to postpone the vote on the Brazilian amendment pending a financial estimate and separate consideration."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speaker raises a procedural objection under rule 142 to postpone the vote on the Brazilian proposal pending a financial estimate, noting it is not closely connected with the substance of the article."
+  }
+ },
+ "R039": {
+  "a": {
+   "correct": true,
+   "note": "Addresses the debate over using 'discrimination' versus 'distinction' in ICCPR article 2, paragraph 1, by pointing to definitions of 'discrimination' in ILO and UNESCO conventions."
+  },
+  "b": {
+   "correct": true,
+   "note": "In the debate over using 'distinction' versus 'discrimination' in article 2, paragraph 1, the speaker points to definitions of 'discrimination' in ILO and UNESCO conventions."
+  }
+ },
+ "R040": {
+  "a": {
+   "correct": true,
+   "note": "Reads out the definition of 'discrimination' from the 1958 ILO Convention to inform the Committee's debate on using 'distinction' versus 'discrimination' in ICCPR article 2, paragraph 1."
+  },
+  "b": {
+   "correct": false,
+   "note": "The ILO representative merely reads out the text of article 1 of the 1958 ILO Convention on Discrimination in Employment and Occupation without commenting on ICCPR article 2."
+  }
+ },
+ "R041": {
+  "a": {
+   "correct": true,
+   "note": "Reads out the definition of 'discrimination' from the 1960 UNESCO Convention to inform the Committee's debate on using 'distinction' versus 'discrimination' in ICCPR article 2, paragraph 1."
+  },
+  "b": {
+   "correct": false,
+   "note": "The UNESCO representative merely reads out article 1 of the 1960 UNESCO Convention against Discrimination in Education without commenting on ICCPR article 2."
+  }
+ },
+ "R042": {
+  "a": {
+   "correct": true,
+   "note": "Opposes making the right of marriage non-derogable in time of public emergency under ICCPR article 4, paragraph 2."
+  },
+  "b": {
+   "correct": true,
+   "note": "The speaker argues against making the right of marriage non-derogable in time of war or public emergency under article 4, paragraph 2."
+  }
+ },
+ "R043": {
+  "a": {
+   "correct": true,
+   "note": "Defends making the right of marriage non-derogable under ICCPR article 4, paragraph 2, in reply to the Philippine representative's argument regarding enemy nationals in wartime."
+  },
+  "b": {
+   "correct": true,
+   "note": "The speaker replies to the Philippines in the debate on article 4, paragraph 2, arguing that wartime security measures do not require express derogation from the right of marriage."
+  }
+ },
+ "R044": {
+  "a": {
+   "correct": false,
+   "note": "Explains a vote on a procedural appeal against the Chairman's ruling regarding whether an amendment could be put to the vote."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speaker explains his procedural vote against the Chairman's ruling on the admissibility of a sub-amendment rather than addressing the substance of article 17."
+  }
+ },
+ "R045": {
+  "a": {
+   "correct": true,
+   "note": "Discusses ICCPR article 4 on derogations in public emergencies in light of Ireland's experience under the European Convention on Human Rights."
+  },
+  "b": {
+   "correct": true,
+   "note": "Drawing on Ireland's experience with emergency derogations under the European Convention on Human Rights, the speaker explains why his Government approaches article 4 of the draft Covenant with caution."
+  }
+ },
+ "R046": {
+  "a": {
+   "correct": true,
+   "note": "Supports including a provision on freedom from hunger in the ICESCR and announces a more concise legal draft than the FAO text."
+  },
+  "b": {
+   "correct": true,
+   "note": "The speaker supports including a provision on freedom from hunger in the draft ICESCR and critiques the FAO-based draft as too lengthy and discursive."
+  }
+ },
+ "R047": {
+  "a": {
+   "correct": true,
+   "note": "Rebuts Jamaica's constitutional objection to the Saudi Arabian amendment to ICCPR article 4, paragraph 2."
+  },
+  "b": {
+   "correct": false,
+   "note": "Although replying to an objection to his amendment on article 4, the speaker addresses only the general cross-cutting question of the predominance of treaties over national constitutions."
+  }
+ },
+ "R048": {
+  "a": {
+   "correct": true,
+   "note": "Introduces the four-Power proposal to add a paragraph on freedom from hunger to combined articles 11 and 12 of the ICESCR and suggests referring it to a working group."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speech is primarily a procedural proposal on behalf of the sponsors to refer their draft text on freedom from hunger to an informal working group."
+  }
+ },
+ "R049": {
+  "a": {
+   "correct": false,
+   "note": "Procedural intervention opposing a request for adjournment and urging the Chairman to proceed immediately to the vote."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speaker opposes a procedural request for adjournment and asks the Chairman to proceed immediately to the vote."
+  }
+ },
+ "R050": {
+  "a": {
+   "correct": false,
+   "note": "Procedural point of order regarding the sequence in which separate votes requested by other delegations should be taken."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speech is a procedural point of order concerning the sequence in which separate votes requested by other delegations should be taken."
+  }
+ },
+ "R051": {
+  "a": {
+   "correct": false,
+   "note": "Procedural explanation by the Secretariat regarding voting priority under rule 131 of the rules of procedure."
+  },
+  "b": {
+   "correct": false,
+   "note": "The Committee Secretary explains the procedural priority of proposals in voting under rule 131 of the rules of procedure."
+  }
+ },
+ "R052": {
+  "a": {
+   "correct": true,
+   "note": "Expresses support for the draft text on freedom from hunger to be added to combined articles 11 and 12 of the ICESCR."
+  },
+  "b": {
+   "correct": true,
+   "note": "The speaker supports the proposed text on freedom from hunger as an addition to combined articles 11 and 12 (final article 11) of the draft ICESCR, commenting on its drafting and significance."
+  }
+ },
+ "R053": {
+  "a": {
+   "correct": false,
+   "note": "Procedural/administrative request that the translation services also revise the Russian translation of the text while the vote is deferred."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speaker makes a general request that the Russian translation of the text also be revised before the deferred vote, without discussing any specific wording or substance."
+  }
+ },
+ "R054": {
+  "a": {
+   "correct": false,
+   "note": "Procedural inquiry regarding the order of consideration given that New Zealand's amendment to draft article 20 was consequential to its amendment to draft article 22."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speaker asks a procedural question about the order of work regarding consequential amendments."
+  }
+ },
+ "R055": {
+  "a": {
+   "correct": false,
+   "note": "Procedural announcement regarding ongoing informal consultations among delegations on draft article 17."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speaker makes a procedural announcement about ongoing informal consultations among delegations to reach a consensus before the next meeting."
+  }
+ },
+ "R056": {
+  "a": {
+   "correct": false,
+   "note": "Procedural suggestion to postpone consideration of the proposed article so as not to prejudge the work of the Second Committee."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speaker makes a procedural suggestion to postpone consideration of the proposal so as not to prejudge the work of the Second Committee."
+  }
+ },
+ "R057": {
+  "a": {
+   "correct": true,
+   "note": "Discusses the number of ratifications required for the Covenant's entry into force under article 27 and opposes the amendment in A/C.3/L.1367."
+  },
+  "b": {
+   "correct": true,
+   "note": "The speaker discusses the number of ratifications required for the Covenant's entry into force (final article 27), opposing the amendment in A/C.3/L.1367 and favouring thirty ratifications."
+  }
+ },
+ "R058": {
+  "a": {
+   "correct": true,
+   "note": "Clarifies the wording of the amendment to draft article 31, paragraph 1 (final article 32, paragraph 1), explaining that lots must be drawn by the Chairman of the meeting of States Parties."
+  },
+  "b": {
+   "correct": true,
+   "note": "The speaker explains the wording and cross-reference in draft article 31, paragraph 1 (final article 32, paragraph 1) regarding the Chairman of the meeting of States Parties choosing the nine members by lot."
+  }
+ },
+ "R059": {
+  "a": {
+   "correct": false,
+   "note": "Procedural request that the sponsors of the amendment be given an opportunity to consult each other."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speaker makes a procedural suggestion that the sponsors of the amendment be given time to consult each other."
+  }
+ },
+ "R060": {
+  "a": {
+   "correct": true,
+   "note": "Explains the principles of State equality and non-intervention underlying Argentina's position on the proposed article on ad hoc conciliation commissions (article 42)."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speaker discusses general principles of state equality, non-intervention, and the European Convention on Human Rights without specifically addressing the ad hoc conciliation commission provisions of article 42."
+  }
+ },
+ "R061": {
+  "a": {
+   "correct": true,
+   "note": "Withdraws the Cuban amendment to the article on rest and leisure in favour of the New Zealand amendment and states his voting intention on the remaining amendments."
+  },
+  "b": {
+   "correct": true,
+   "note": "The speaker withdraws the Cuban amendment to the rest and leisure article in favour of the New Zealand amendment and explains his voting intention on the other amendments."
+  }
+ },
+ "R062": {
+  "a": {
+   "correct": true,
+   "note": "Explains his abstention in the vote on the USSR amendment regarding the aims of science in draft article 25 (UDHR article 27)."
+  },
+  "b": {
+   "correct": true,
+   "note": "The speaker explains his abstention in the vote on the USSR amendment to the article on cultural life and scientific advancement."
+  }
+ },
+ "R063": {
+  "a": {
+   "correct": true,
+   "note": "Opposes the Lebanese amendment proposed during the consideration of draft article 28 (UDHR article 30) that would require national laws to conform to the purposes and principles of the United Nations."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speaker opposes a separate Lebanese proposal requiring national laws to conform to the purposes and principles of the United Nations, not the substance or text of article 30."
+  }
+ },
+ "R064": {
+  "a": {
+   "correct": false,
+   "note": "Procedural request to amend the narrative section of the Sub-Committee's report to credit earlier Lebanese proposals, rather than addressing the substance or text of article 23."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speaker requests modifications to the narrative of the Rapporteur's report to credit earlier Lebanese amendments rather than discussing the substance or adoption of the article."
+  }
+ },
+ "R065": {
+  "a": {
+   "correct": false,
+   "note": "Procedural point of order arguing that the proposed alteration went beyond style and therefore required a two-thirds majority vote for reconsideration."
+  },
+  "b": {
+   "correct": false,
+   "note": "The speaker raises a procedural point of order that a proposed alteration is substantive rather than grammatical and therefore requires a two-thirds majority vote."
+  }
+ },
+ "R066": {
+  "a": {
+   "correct": true,
+   "note": "Agrees to restore the words 'peoples and' in the joint amendment on the right of self-determination by re-introducing the original text A/C.3/L.88."
+  },
+  "b": {
+   "correct": true,
+   "note": "The speaker agrees to restore the reference to 'peoples and' in the joint amendment on self-determination and re-introduces the original text of A/C.3/L.88."
+  }
+ },
+ "R067": {
+  "a": {
+   "correct": true,
+   "note": "Explains that the United States will vote against the joint amendment on the right of self-determination because the matter falls within the competence of the Trusteeship Council and Fourth Committee."
+  },
+  "b": {
+   "correct": true,
+   "note": "The speaker explains why the United States will vote against the joint amendment to include the right of self-determination in the Covenant."
+  }
+ },
+ "R068": {
+  "a": {
+   "correct": true,
+   "note": "Argues that the Covenant is not the appropriate instrument for the right of self-determination and explains Brazil's abstention on the joint amendment."
+  },
+  "b": {
+   "correct": true,
+   "note": "The speaker explains why Brazil will abstain on the joint amendment, arguing that the Covenant is not the appropriate instrument for the right of self-determination."
+  }
+ },
+ "R069": {
+  "a": {
+   "correct": true,
+   "note": "Explains that Canada will vote against the joint amendment on the right of self-determination for the reasons stated by the United States."
+  },
+  "b": {
+   "correct": true,
+   "note": "The speaker explains that Canada will vote against the joint amendment on self-determination for the reasons stated by the United States."
+  }
+ },
+ "R070": {
+  "a": {
+   "correct": true,
+   "note": "Argues that although Greece strongly supports the principle of self-determination, it is a collective political right outside the scope of the Covenant and the competence of the Third Committee."
+  },
+  "b": {
+   "correct": true,
+   "note": "The speaker discusses the principle of self-determination and argues that as a collective political right it falls outside the scope of the Covenant and the Third Committee."
+  }
+ },
+ "R071": {
+  "a": {
+   "correct": true,
+   "note": "Explains vote against the joint amendment concerning the inclusion of the right to self-determination in the draft Covenant."
+  },
+  "b": {
+   "correct": true,
+   "note": "Explains the United Kingdom's vote against the amendment to include an article on the right of self-determination in the Covenant."
+  }
+ },
+ "R072": {
+  "a": {
+   "correct": false,
+   "note": "Concerns the withdrawal of a separate draft resolution and a procedural amendment on priority for recommendations on self-determination rather than the Covenant article."
+  },
+  "b": {
+   "correct": false,
+   "note": "Concerns the withdrawal and modification of a separate General Assembly draft resolution on self-determination, not the Covenant article."
+  }
+ },
+ "R073": {
+  "a": {
+   "correct": false,
+   "note": "Discusses an amendment to a separate draft resolution under Agenda item 12 on the ECOSOC report, not Article 1 of the Covenants."
+  },
+  "b": {
+   "correct": false,
+   "note": "Discusses an amendment to a separate draft resolution on self-determination under Agenda Item 12 (ECOSOC report), not Article 1 of the Covenants."
+  }
+ },
+ "R074": {
+  "a": {
+   "correct": false,
+   "note": "Concerns an amendment to a separate draft resolution under Agenda item 12, mentioning the Covenant article on self-determination only in passing."
+  },
+  "b": {
+   "correct": false,
+   "note": "Addresses an amendment to a separate draft resolution under Agenda Item 12, mentioning the Covenant article on self-determination only in passing."
+  }
+ },
+ "R075": {
+  "a": {
+   "correct": false,
+   "note": "Explains vote on a separate draft resolution and amendment under Agenda item 12, mentioning the Covenant article on self-determination only in passing."
+  },
+  "b": {
+   "correct": false,
+   "note": "Concerns voting on a separate draft resolution and amendment under Agenda Item 12, referring to the Covenant article only in passing."
+  }
+ },
+ "R076": {
+  "a": {
+   "correct": false,
+   "note": "Discusses an amendment to a separate draft resolution under Agenda item 12 on the ECOSOC report rather than Article 1 of the Covenants."
+  },
+  "b": {
+   "correct": false,
+   "note": "Debates a separate draft resolution and amendment on self-determination and economic development under Agenda Item 12, not the Covenant article."
+  }
+ },
+ "R077": {
+  "a": {
+   "correct": false,
+   "note": "Argues against an amendment to a separate draft resolution under Agenda item 12, referencing the controversy over the Covenant article only as background."
+  },
+  "b": {
+   "correct": false,
+   "note": "Argues against an amendment to a separate draft resolution under Agenda Item 12, mentioning the Covenant article controversy only as background."
+  }
+ },
+ "R078": {
+  "a": {
+   "correct": false,
+   "note": "Discusses an amendment to a separate draft resolution under Agenda item 12 on the ECOSOC report rather than Article 1 of the Covenants."
+  },
+  "b": {
+   "correct": false,
+   "note": "Discusses an amendment to a separate draft resolution on self-determination under Agenda Item 12, not Article 1 of the Covenants."
+  }
+ },
+ "R079": {
+  "a": {
+   "correct": false,
+   "note": "Explains vote on an amendment to a separate draft resolution under Agenda item 12, mentioning Article 1 of the draft Covenants only in passing."
+  },
+  "b": {
+   "correct": false,
+   "note": "Explains a vote on an amendment to a separate draft resolution under Agenda Item 12, mentioning Article 1 of the draft Covenants only in passing."
+  }
+ },
+ "R080": {
+  "a": {
+   "correct": true,
+   "note": "Welcomes support for the logic of the Brazilian proposal on Article 1 to annex a protocol on self-determination to the draft Covenants."
+  },
+  "b": {
+   "correct": true,
+   "note": "Advocates the Brazilian proposal to address Article 1 by annexing a protocol on self-determination to the draft Covenants."
+  }
+ },
+ "R081": {
+  "a": {
+   "correct": true,
+   "note": "Clarifies his opposition to the Brazilian proposal to replace Article 1 with a protocol on self-determination."
+  },
+  "b": {
+   "correct": true,
+   "note": "States Saudi Arabia's opposition to the Brazilian proposal for a protocol on self-determination in place of Article 1."
+  }
+ },
+ "R082": {
+  "a": {
+   "correct": false,
+   "note": "Merely reserves the right to give an explanation at a later time without discussing the substance or wording of Article 1."
+  },
+  "b": {
+   "correct": false,
+   "note": "Merely reserves the delegation's right to give an explanation at a later time without discussing the substance of Article 1."
+  }
+ },
+ "R083": {
+  "a": {
+   "correct": false,
+   "note": "Concerns the organization of work and procedural arrangements of the Working Party on Article 1 rather than the substance of the article."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural announcement concerning the organization of work and schedule of the Working Party on Article 1."
+  }
+ },
+ "R084": {
+  "a": {
+   "correct": true,
+   "note": "Questions the meaning and Russian translation of the four-Power amendment on national minorities to Article 2."
+  },
+  "b": {
+   "correct": true,
+   "note": "Discusses the meaning and Russian and French wording of the four-Power non-discrimination amendment to Article 2."
+  }
+ },
+ "R085": {
+  "a": {
+   "correct": true,
+   "note": "Analyzes the tension between progressive realization in paragraph 1 and immediate non-discrimination in paragraph 2 of Article 2."
+  },
+  "b": {
+   "correct": true,
+   "note": "Examines the substantive tension between progressive realization in paragraph 1 and immediate non-discrimination in paragraph 2 of Article 2."
+  }
+ },
+ "R086": {
+  "a": {
+   "correct": true,
+   "note": "Replies during the Article 2 debate regarding the immediate versus progressive elimination of sex discrimination such as unequal pay."
+  },
+  "b": {
+   "correct": true,
+   "note": "Argues in the Article 2 debate against progressive realization of non-discrimination with respect to equal pay for equal work."
+  }
+ },
+ "R087": {
+  "a": {
+   "correct": true,
+   "note": "Argues during the Article 6 debate against inserting specific implementation clauses into Article 6 instead of relying on Article 2."
+  },
+  "b": {
+   "correct": true,
+   "note": "Defends the United Kingdom position against inserting specific implementation clauses in Article 6."
+  }
+ },
+ "R088": {
+  "a": {
+   "correct": false,
+   "note": "Point of order concerning voting procedure under Rule 131, the form of the Uruguayan proposal, and extending the time limit for sub-amendments."
+  },
+  "b": {
+   "correct": false,
+   "note": "Point of order mainly concerning voting procedure under rule 131 and extending the deadline for submitting sub-amendments."
+  }
+ },
+ "R089": {
+  "a": {
+   "correct": true,
+   "note": "Responds to linguistic objections to the word 'workers' in Article 7 by arguing that the authentic texts in the official languages are clear and translation issues in other languages can be solved by paraphrasing."
+  },
+  "b": {
+   "correct": true,
+   "note": "Addresses the debate on the Afghan amendment to the word 'workers' in Article 7 regarding translation difficulties in non-official languages."
+  }
+ },
+ "R090": {
+  "a": {
+   "correct": false,
+   "note": "Procedural request for a Secretariat synopsis of the Commission debate and alignment of the Spanish translation of Article 10."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural request for a Secretariat synopsis of past Commission discussions and general alignment of the Spanish translation."
+  }
+ },
+ "R091": {
+  "a": {
+   "correct": false,
+   "note": "Procedural agreement to discuss draft articles 11 and 12 concurrently in the general debate."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural support for holding a concurrent general discussion on draft articles 11 and 12."
+  }
+ },
+ "R092": {
+  "a": {
+   "correct": false,
+   "note": "Explains vote on a procedural motion to postpone consideration of a separate agenda item, item 32, criticizing Article 1 in that context."
+  },
+  "b": {
+   "correct": false,
+   "note": "Explains a vote against postponing Agenda Item 32, criticizing the already-adopted Article 1 only in connection with that procedural vote on another agenda item."
+  }
+ },
+ "R093": {
+  "a": {
+   "correct": false,
+   "note": "Procedural proposal to establish a working party on Article 11."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural proposal to establish a working party to revise Article 11."
+  }
+ },
+ "R094": {
+  "a": {
+   "correct": false,
+   "note": "Supports the procedural proposal to establish a working party on Article 11 and suggests its terms of reference."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural support for establishing a working party and defining its terms of reference."
+  }
+ },
+ "R095": {
+  "a": {
+   "correct": true,
+   "note": "Proposes a drafting change to the Spanish text of the second sentence of Article 11, replacing 'adecuadas' with 'apropiadas'."
+  },
+  "b": {
+   "correct": true,
+   "note": "Proposes replacing 'adecuadas' with 'apropiadas' in the second sentence of the Spanish text of Article 11."
+  }
+ },
+ "R096": {
+  "a": {
+   "correct": false,
+   "note": "Procedural suggestion that representatives who had spoken on draft article 13 meet to draft a joint text to save time."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural suggestion that representatives meet to draft a joint text in order to save time."
+  }
+ },
+ "R097": {
+  "a": {
+   "correct": false,
+   "note": "Procedural statement by the UNESCO representative deferring his reply until the next meeting."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural remark deferring UNESCO's reply to a delegation's question until the next meeting."
+  }
+ },
+ "R098": {
+  "a": {
+   "correct": true,
+   "note": "Endorses the Working Party's text of the education article as clearer and closer to the UDHR than the original draft and proposes a roll-call vote on each paragraph."
+  },
+  "b": {
+   "correct": true,
+   "note": "Endorses the Working Party's text of the education article as clearer and closer to the UDHR and proposes a roll-call vote on each paragraph."
+  }
+ },
+ "R099": {
+  "a": {
+   "correct": false,
+   "note": "Procedural statement by the Committee Secretary on incorporating drafting changes when establishing the text in the three languages."
+  },
+  "b": {
+   "correct": false,
+   "note": "Administrative statement by the Committee Secretary regarding translation of the Working Party's report."
+  }
+ },
+ "R100": {
+  "a": {
+   "correct": false,
+   "note": "Procedural point that mere suggestions, as opposed to formal amendments, cannot be voted on under the rules of procedure."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural objection under the rules of procedure that informal suggestions cannot be put to a vote."
+  }
+ },
+ "R101": {
+  "a": {
+   "correct": false,
+   "note": "Procedural remark urging that the rules of procedure not be applied too rigidly regarding voting on a suggested wording change."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural remark urging flexibility in applying voting rules to an informal suggestion."
+  }
+ },
+ "R102": {
+  "a": {
+   "correct": true,
+   "note": "Defends the colonial Powers' constitutional objection to applying draft article 15 to Non-Self-Governing Territories without consulting their populations."
+  },
+  "b": {
+   "correct": true,
+   "note": "Defends the Administering Powers' constitutional objection to the territorial application phrase in draft article 15 (final Article 14)."
+  }
+ },
+ "R103": {
+  "a": {
+   "correct": true,
+   "note": "Emphasizes the paramount importance of the education article for developing countries and urges the Committee to set aside the colonial issue during the debate on draft article 15."
+  },
+  "b": {
+   "correct": true,
+   "note": "Urges support for the compulsory primary education article as paramount for the future of younger and less advanced countries."
+  }
+ },
+ "R104": {
+  "a": {
+   "correct": true,
+   "note": "Opposes the Iraqi-Irish amendments rearranging provisions between draft articles 14 and 15 and supports the inclusion of draft article 15 to combat illiteracy."
+  },
+  "b": {
+   "correct": true,
+   "note": "Comments on the Iraq-Ireland amendments and supports retaining draft article 15 (final Article 14) to combat illiteracy."
+  }
+ },
+ "R105": {
+  "a": {
+   "correct": false,
+   "note": "Procedural proposal on the order of voting on draft article 15 and the Iraqi-Irish amendments."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural motion on the order of voting between draft article 15 and another proposal."
+  }
+ },
+ "R106": {
+  "a": {
+   "correct": true,
+   "note": "Agrees with the United Kingdom's criticism regarding the difficulty of fixing the number of years for the plan in draft article 15 and invites concrete suggestions."
+  },
+  "b": {
+   "correct": true,
+   "note": "Endorses the United Kingdom's criticisms of the requirement to fix a number of years for implementing the educational plan in draft article 15 (final Article 14)."
+  }
+ },
+ "R107": {
+  "a": {
+   "correct": false,
+   "note": "Points to draft article 53, the territorial application clause, to answer a question about Non-Self-Governing Territories rather than discussing Article 6 itself."
+  },
+  "b": {
+   "correct": false,
+   "note": "Points to draft article 53 on territorial application rather than discussing the substance or wording of Article 6."
+  }
+ },
+ "R108": {
+  "a": {
+   "correct": false,
+   "note": "Procedural motion under Rule 130 to put the Chinese motion for division to a vote."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural motion under rule 130 to put another representative's motion for division to a vote."
+  }
+ },
+ "R109": {
+  "a": {
+   "correct": false,
+   "note": "Procedural proposal to adopt the first sentence of Article 7 immediately and defer consideration of the second sentence to save time."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural proposal to adopt the first sentence immediately and defer consideration of the second sentence to save time."
+  }
+ },
+ "R110": {
+  "a": {
+   "correct": false,
+   "note": "Associates with a procedural suggestion on how to conduct the voting on Article 7 if amendments are withdrawn."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural concurrence with the French suggestion regarding the method of voting on Article 7."
+  }
+ },
+ "R111": {
+  "a": {
+   "correct": true,
+   "note": "Discusses the nine-Power amendment submitted to Article 8, arguing that its clause should instead be placed in Article 5 or in the final clauses."
+  },
+  "b": {
+   "correct": false,
+   "note": "Discusses placing the saving clause in Article 5, Part II, or the final clauses rather than addressing the substance of Article 8."
+  }
+ },
+ "R112": {
+  "a": {
+   "correct": true,
+   "note": "Defends referring to other international conventions in Article 8 as proposed in the nine-Power amendment and urges an immediate decision on it."
+  },
+  "b": {
+   "correct": true,
+   "note": "Argues for taking an immediate decision on the nine-Power amendment to Article 8 while allowing later reconsideration as a general clause."
+  }
+ },
+ "R113": {
+  "a": {
+   "correct": true,
+   "note": "Notes in connection with the nine-Power amendment to Article 8 that the Committee had already referred to an ILO Convention in Article 8 of the ICESCR."
+  },
+  "b": {
+   "correct": false,
+   "note": "Cites ICESCR Article 8 during a procedural debate under rule 132 on the cross-cutting issue of referencing other conventions."
+  }
+ },
+ "R114": {
+  "a": {
+   "correct": true,
+   "note": "Clarifies Japan's understanding of the phrase 'in a language which he understands' in an amendment to Article 9, paragraph 2, and withdraws its request for a separate vote."
+  },
+  "b": {
+   "correct": true,
+   "note": "Clarifies Japan's interpretation of the phrase 'in a language which he understands' in an amendment to Article 9(2) and withdraws a separate-vote request."
+  }
+ },
+ "R115": {
+  "a": {
+   "correct": true,
+   "note": "Explains Canada's vote in favour of Article 9."
+  },
+  "b": {
+   "correct": true,
+   "note": "Explains Canada's vote in favour of Article 9."
+  }
+ },
+ "R116": {
+  "a": {
+   "correct": false,
+   "note": "Procedural request for more time to consider the implications of the Colombian suggestion on Article 11."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural request for more time to consider the Colombian suggestion."
+  }
+ },
+ "R117": {
+  "a": {
+   "correct": false,
+   "note": "Discusses a separate seven-Power draft resolution on a study of capital punishment under Agenda item 12, citing Article 6 only as background."
+  },
+  "b": {
+   "correct": false,
+   "note": "Debates a separate draft resolution on a study of capital punishment under Agenda Item 12 (ECOSOC report), citing Article 6 only by way of argument."
+  }
+ },
+ "R118": {
+  "a": {
+   "correct": false,
+   "note": "Objects generally to clauses permitting individual interpretations and defers stating India's position on Article 12 to a later date."
+  },
+  "b": {
+   "correct": false,
+   "note": "Criticizes Pakistan's local motivation in general terms while deferring a statement of position on Article 12 to a later date."
+  }
+ },
+ "R119": {
+  "a": {
+   "correct": false,
+   "note": "Informational remark by the Secretariat pointing to the document reference for the drafting history of Article 12."
+  },
+  "b": {
+   "correct": false,
+   "note": "Informational statement by the Secretariat indicating where the Secretary-General's annotations on Article 12 are found."
+  }
+ },
+ "R120": {
+  "a": {
+   "correct": false,
+   "note": "Addresses only the general international law question of whether national judicial decisions apply in interpreting treaties under Article 38 of the ICJ Statute."
+  },
+  "b": {
+   "correct": false,
+   "note": "Addresses a general point of international law under Article 38 of the ICJ Statute rather than the substance or text of Article 12."
+  }
+ },
+ "R121": {
+  "a": {
+   "correct": false,
+   "note": "Procedural motion under Rule 132 concerning the order of voting between the original text of Article 12 and the combined text."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural motion under rule 132 concerning the order of voting."
+  }
+ },
+ "R122": {
+  "a": {
+   "correct": true,
+   "note": "Explains the purpose of the final phrase of Article 13 allowing review of an alien's expulsion by a person or persons designated by the competent authority."
+  },
+  "b": {
+   "correct": true,
+   "note": "Explains the necessity of the final phrase of Article 13 allowing review of alien expulsion cases by a designated independent person."
+  }
+ },
+ "R123": {
+  "a": {
+   "correct": false,
+   "note": "Procedural request to postpone the vote on Article 13 until the next meeting."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural request to postpone the vote on Article 13 until the following meeting."
+  }
+ },
+ "R124": {
+  "a": {
+   "correct": true,
+   "note": "Clarifies his interpretation of equality before the courts in Article 14, paragraph 1, as meaning equal rights for all persons within a given category."
+  },
+  "b": {
+   "correct": true,
+   "note": "Clarifies the meaning of equality before the courts and tribunals in Article 14(1)."
+  }
+ },
+ "R125": {
+  "a": {
+   "correct": false,
+   "note": "Merely thanks the representative of Jordan and invites him to co-sponsor the revised sub-amendment without substantive discussion."
+  },
+  "b": {
+   "correct": false,
+   "note": "Merely thanks a representative and invites him to co-sponsor a sub-amendment without substantive discussion."
+  }
+ },
+ "R126": {
+  "a": {
+   "correct": false,
+   "note": "Procedural remark on the order of voting on the Afghan amendment to Article 14."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural suggestion regarding the order in which amendments should be put to the vote."
+  }
+ },
+ "R127": {
+  "a": {
+   "correct": false,
+   "note": "Introduces a procedural draft resolution to refer the seven-Power amendment to the Commission on Human Rights so the Committee can move on to the next agenda item."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural proposal to refer the seven-Power amendment to the Commission on Human Rights so the Committee can take up another agenda item."
+  }
+ },
+ "R128": {
+  "a": {
+   "correct": false,
+   "note": "Procedural argument that the Committee should vote on the seven-Power amendment and complete Article 14 before moving to the draft Convention on Freedom of Information."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural intervention concerning the Committee's schedule of work and completing the vote before moving to another agenda item."
+  }
+ },
+ "R129": {
+  "a": {
+   "correct": false,
+   "note": "Procedural remark that the question could be reconsidered at the next session."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural remark suggesting that the question could be reconsidered at the next session."
+  }
+ },
+ "R130": {
+  "a": {
+   "correct": false,
+   "note": "Procedural request to postpone the vote until the next meeting because the revised amendment had not yet been circulated."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural request to postpone the vote until the next meeting because the revised amendment had not yet been circulated."
+  }
+ },
+ "R131": {
+  "a": {
+   "correct": true,
+   "note": "Explains vote against deleting Draft Article 20, supporting a provision on non-discrimination in the Covenant."
+  },
+  "b": {
+   "correct": true,
+   "note": "Explains the Soviet vote against deleting draft Article 20 on non-discrimination in the enjoyment of Covenant rights."
+  }
+ },
+ "R132": {
+  "a": {
+   "correct": true,
+   "note": "Explains vote against deleting Draft Article 20 and in favour of a separate article on discrimination."
+  },
+  "b": {
+   "correct": true,
+   "note": "Explains the Soviet vote against deleting draft Article 20 and in favour of a separate article on discrimination."
+  }
+ },
+ "R133": {
+  "a": {
+   "correct": true,
+   "note": "Explains vote for deleting Draft Article 20 on the ground that non-discrimination was already adequately expressed in previous articles of the Covenant."
+  },
+  "b": {
+   "correct": true,
+   "note": "Explains Lebanon's vote to delete draft Article 20 on the ground that non-discrimination in Covenant rights was already covered in earlier articles."
+  }
+ },
+ "R134": {
+  "a": {
+   "correct": true,
+   "note": "Explains vote for deleting Draft Article 20 because he was dissatisfied with its wording and considered non-discrimination already covered in previous articles."
+  },
+  "b": {
+   "correct": true,
+   "note": "Explains Lebanon's vote to delete draft Article 20 due to dissatisfaction with its wording as a separate provision on discrimination."
+  }
+ },
+ "R135": {
+  "a": {
+   "correct": true,
+   "note": "Argues in the debate on Draft Article 20 that Lebanon should logically have voted for including a provision on discrimination in the Covenant."
+  },
+  "b": {
+   "correct": true,
+   "note": "Argues in response to Lebanon's explanation of vote that a provision on non-discrimination should be included in the Covenant."
+  }
+ },
+ "R136": {
+  "a": {
+   "correct": true,
+   "note": "Argues in the debate on Draft Article 20 in favour of including a separate provision on discrimination in the Covenant."
+  },
+  "b": {
+   "correct": true,
+   "note": "Argues for the inclusion of a provision on discrimination following the vote on draft Article 20."
+  }
+ },
+ "R137": {
+  "a": {
+   "correct": true,
+   "note": "Argues that Draft Article 20 emphasized the right to enjoy the rights and freedoms in the Covenant without distinction as to race, sex, or language, prompting reconsideration of the vote."
+  },
+  "b": {
+   "correct": true,
+   "note": "Defends draft Article 20 as guaranteeing enjoyment of the rights set forth in the Covenant without distinction as to race, sex, or language."
+  }
+ },
+ "R138": {
+  "a": {
+   "correct": true,
+   "note": "Defends the inclusion of Draft Article 20 prohibiting discrimination as to race, sex, or language, leading the Committee to reconsider the vote on the article."
+  },
+  "b": {
+   "correct": true,
+   "note": "Defends retaining draft Article 20 as a distinct non-discrimination guarantee in the Covenant and requests reconsideration of the vote."
+  }
+ },
+ "R139": {
+  "a": {
+   "correct": true,
+   "note": "Criticizes the Soviet amendment to the freedom of expression article regarding its reference to freedom of assembly and State provision of material resources for the press."
+  },
+  "b": {
+   "correct": true,
+   "note": "Critiques the two paragraphs of the Soviet amendment to draft Article 17 on freedom of expression and the press."
+  }
+ },
+ "R140": {
+  "a": {
+   "correct": false,
+   "note": "Procedural agreement to refer the matter to the Commission on Human Rights rather than appointing a drafting sub-committee."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural agreement to refer the matter to the Commission on Human Rights rather than a drafting sub-committee."
+  }
+ },
+ "R141": {
+  "a": {
+   "correct": true,
+   "note": "Santa Cruz discusses the drafting of the Declaration provision on the determination of civil rights and obligations and separating criminal from civil provisions."
+  },
+  "b": {
+   "correct": true,
+   "note": "Discusses reverting to draft article 6 for the determination of civil rights and obligations and separating criminal from civil provisions in UDHR art. 10."
+  }
+ },
+ "R142": {
+  "a": {
+   "correct": true,
+   "note": "Bogomolov comments on the wording of the United States proposal for the article on duties and limitations."
+  },
+  "b": {
+   "correct": true,
+   "note": "Critiques the United States proposal for the general limitations and duties clause (UDHR art. 29) as too general."
+  }
+ },
+ "R143": {
+  "a": {
+   "correct": true,
+   "note": "Cassin presents his redrafted text for the Declaration article on the right to justice and access to independent and impartial tribunals."
+  },
+  "b": {
+   "correct": true,
+   "note": "Introduces a revised draft of Article 9 on access to independent and impartial tribunals for determining rights and obligations (UDHR art. 10)."
+  }
+ },
+ "R144": {
+  "a": {
+   "correct": true,
+   "note": "Ingles argues that a limitation phrase in the French text of the peaceful assembly article belongs in the freedom of expression article and requests a separate vote on it."
+  },
+  "b": {
+   "correct": true,
+   "note": "Argues that a limitation phrase in the French draft of article 18 (ICCPR art. 21) belongs in the freedom of expression article and requests a separate vote on it."
+  }
+ },
+ "R145": {
+  "a": {
+   "correct": true,
+   "note": "Woulbroun discusses the right to work, full employment, and finding a formula for including the principle of the right to work in the Covenant."
+  },
+  "b": {
+   "correct": true,
+   "note": "Discusses the right to work and full employment and including the principle of the right to work in the Covenant (ICESCR art. 6)."
+  }
+ },
+ "R146": {
+  "a": {
+   "correct": false,
+   "note": "The speech is procedural, objecting to voting on principles in general and suggesting postponement of the decision on draft article 5."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural remarks on voting on texts rather than principles and postponing the decision on article 5 until Monday."
+  }
+ },
+ "R147": {
+  "a": {
+   "correct": true,
+   "note": "Santa Cruz associates himself with the substantive remarks of Uruguay and the United States in the debate on paragraph 1 of draft article 9."
+  },
+  "b": {
+   "correct": false,
+   "note": "Merely associates with unnamed remarks of previous speakers and reserves the right to intervene later, with no substantive content."
+  }
+ },
+ "R148": {
+  "a": {
+   "correct": true,
+   "note": "Sorensen explains how his vote on draft article 11 as a whole depends on the Indian amendment to paragraph 1 and asks to reverse the voting order."
+  },
+  "b": {
+   "correct": true,
+   "note": "Explains how Denmark will vote on draft article 11 (ICCPR art. 12), the Indian amendment to paragraph 1, and the UK deletion proposal."
+  }
+ },
+ "R149": {
+  "a": {
+   "correct": true,
+   "note": "Jevremovic explains the Yugoslav amendment to the Philippine amendment on draft article 12 regarding exempting political crimes from extradition."
+  },
+  "b": {
+   "correct": false,
+   "note": "Concerns an amendment exempting a category of political crimes from extradition rather than the expulsion of aliens (ICCPR art. 13)."
+  }
+ },
+ "R150": {
+  "a": {
+   "correct": false,
+   "note": "The speech is a purely procedural reservation of the right to submit amendments and comment later before the vote."
+  },
+  "b": {
+   "correct": false,
+   "note": "Purely procedural reservation of the right to submit amendments and comment later."
+  }
+ },
+ "R151": {
+  "a": {
+   "correct": true,
+   "note": "Jevremovic explains the meaning of the phrase 'relations of inequality between the nations' in the Yugoslav proposal for draft article 17."
+  },
+  "b": {
+   "correct": true,
+   "note": "Explains the phrase 'relations of inequality between the nations' in the Yugoslav proposal for draft article 17 (ICCPR art. 19) prior to the vote."
+  }
+ },
+ "R152": {
+  "a": {
+   "correct": true,
+   "note": "Malik proposes replacing 'desirability' with 'necessity of promoting' or 'promoting' in the drafting group's text on rehabilitation of juveniles in draft article 13."
+  },
+  "b": {
+   "correct": true,
+   "note": "Proposes replacing 'desirability' with 'necessity' in the juvenile rehabilitation clause of draft article 13 (ICCPR art. 14(4))."
+  }
+ },
+ "R153": {
+  "a": {
+   "correct": true,
+   "note": "Valenzuela defends the Chilean amendment to draft article 20 regarding the words 'race, colour'."
+  },
+  "b": {
+   "correct": true,
+   "note": "Defends the Chilean amendment to draft article 20 (ICCPR art. 26) regarding the words 'race, colour' against concerns of misunderstanding."
+  }
+ },
+ "R154": {
+  "a": {
+   "correct": false,
+   "note": "The speech is a purely procedural request to postpone discussion of draft article 20 until the next meeting."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural request to postpone discussion on article 20 until the next meeting."
+  }
+ },
+ "R155": {
+  "a": {
+   "correct": false,
+   "note": "The speech is a procedural motion to adjourn the debate."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural motion to adjourn the debate to study the Australian proposal."
+  }
+ },
+ "R156": {
+  "a": {
+   "correct": false,
+   "note": "Cassin is exercising a political right of reply regarding French versus Soviet workers' wages and living standards rather than discussing the Covenant article."
+  },
+  "b": {
+   "correct": false,
+   "note": "Political right of reply comparing French and Soviet workers' wages and purchasing power, mentioning social security only in passing."
+  }
+ },
+ "R157": {
+  "a": {
+   "correct": true,
+   "note": "Nisot comments on the United States text and argues that draft article 32 should be clarified to allow legitimate exceptions regarding non-nationals."
+  },
+  "b": {
+   "correct": true,
+   "note": "Argues that draft article 32 (ICESCR art. 2) should be clarified to allow legitimate exceptions regarding non-nationals."
+  }
+ },
+ "R158": {
+  "a": {
+   "correct": true,
+   "note": "Santa Cruz compares the substance of the USSR, Chilean, French, and joint Lebanese-US proposals on the right to work and argues how they should be voted on."
+  },
+  "b": {
+   "correct": true,
+   "note": "Compares the substantive obligations in the USSR, Chilean, French, and joint US-Lebanese amendments on the right to work (ICESCR art. 6) and how they should be voted on."
+  }
+ },
+ "R159": {
+  "a": {
+   "correct": false,
+   "note": "The speech is a procedural request to defer the vote until the afternoon meeting when the Russian translation is distributed."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural request to postpone the vote until the afternoon meeting when the Russian translation is distributed."
+  }
+ },
+ "R160": {
+  "a": {
+   "correct": false,
+   "note": "The speech is a procedural remark hoping the United States will withdraw its amendment to expedite the Commission's work while awaiting document distribution."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural appeal for the United States to withdraw its uncirculated amendment to expedite the Commission's work."
+  }
+ },
+ "R161": {
+  "a": {
+   "correct": true,
+   "note": "Morozov defends the USSR amendment to draft article 26 against the United States representative's criticism that it was vague and restrictive."
+  },
+  "b": {
+   "correct": false,
+   "note": "Rhetorical question about whether the US representative had principles to add to a USSR amendment, with no substantive content on ICESCR art. 10."
+  }
+ },
+ "R162": {
+  "a": {
+   "correct": false,
+   "note": "The speech is a purely procedural request for permission to introduce an amendment after the submission deadline."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural request for permission to introduce an amendment after the time limit had elapsed."
+  }
+ },
+ "R163": {
+  "a": {
+   "correct": true,
+   "note": "Pickford expresses the ILO's support for including a saving clause on the lines of draft article 18(2) in the covenant on economic and social rights."
+  },
+  "b": {
+   "correct": true,
+   "note": "Supports including a saving clause on the lines of article 18(2) in the economic and social covenant (ICESCR art. 5(2)) to protect existing ILO conventions."
+  }
+ },
+ "R164": {
+  "a": {
+   "correct": true,
+   "note": "Hoare discusses the joint and USSR amendments to draft article 9 concerning the right of asylum and why the United Kingdom cannot support them."
+  },
+  "b": {
+   "correct": false,
+   "note": "Discusses proposals on the right of asylum rather than the expulsion of aliens (ICCPR art. 13)."
+  }
+ },
+ "R165": {
+  "a": {
+   "correct": true,
+   "note": "Bracco explains the revisions made to the joint amendment to draft article 9 concerning political and military offences and asylum."
+  },
+  "b": {
+   "correct": false,
+   "note": "Discusses the right of asylum and military or political offences rather than the expulsion of aliens (ICCPR art. 13)."
+  }
+ },
+ "R166": {
+  "a": {
+   "correct": true,
+   "note": "Jacoby comments on the amendments to draft article 9 concerning the right of asylum during the debate on that article."
+  },
+  "b": {
+   "correct": false,
+   "note": "Advocates including an article on the right of asylum (corresponding to UDHR art. 14) in the Covenant, not ICCPR art. 13 on expulsion of aliens."
+  }
+ },
+ "R167": {
+  "a": {
+   "correct": true,
+   "note": "Boratynski supports the USSR amendment to draft article 9 introducing provisions on the right of asylum."
+  },
+  "b": {
+   "correct": false,
+   "note": "Argues for guaranteeing the right of asylum in the Covenant, not the expulsion of aliens (ICCPR art. 13)."
+  }
+ },
+ "R168": {
+  "a": {
+   "correct": true,
+   "note": "Doyle speaks during the debate on the amendments to draft article 9 in support of incorporating a provision on the right of asylum."
+  },
+  "b": {
+   "correct": false,
+   "note": "Urges the incorporation of an article on the right of asylum in the draft Covenant, not the expulsion of aliens (ICCPR art. 13)."
+  }
+ },
+ "R169": {
+  "a": {
+   "correct": true,
+   "note": "Nisot states that Belgium cannot support the proposed amendments to draft article 9 transforming a State's right to grant asylum into a legal obligation."
+  },
+  "b": {
+   "correct": false,
+   "note": "Addresses the right of asylum for political refugees rather than the expulsion of aliens (ICCPR art. 13)."
+  }
+ },
+ "R170": {
+  "a": {
+   "correct": true,
+   "note": "Morozov discusses the French, joint, and USSR amendments to draft article 9 regarding the right of asylum."
+  },
+  "b": {
+   "correct": false,
+   "note": "Argues for including a provision on the right of asylum in the Covenant rather than discussing expulsion of aliens (ICCPR art. 13)."
+  }
+ },
+ "R171": {
+  "a": {
+   "correct": true,
+   "note": "Waheed expresses support for the French, USSR, and joint amendments to draft article 9 on the right of asylum."
+  },
+  "b": {
+   "correct": false,
+   "note": "Supports including an article on the right of asylum in the Covenant rather than discussing expulsion of aliens (ICCPR art. 13)."
+  }
+ },
+ "R172": {
+  "a": {
+   "correct": true,
+   "note": "Jevremovic explains how he will vote on the joint, USSR, and French amendments to draft article 9 and requests a separate vote on the words 'war crimes'."
+  },
+  "b": {
+   "correct": false,
+   "note": "Concerns the voting procedure and wording of proposals on the right of asylum and extradition, not expulsion of aliens (ICCPR art. 13)."
+  }
+ },
+ "R173": {
+  "a": {
+   "correct": true,
+   "note": "Hoare criticizes the USSR and French sub-amendments to draft article 9 and explains why his delegation will vote against them."
+  },
+  "b": {
+   "correct": false,
+   "note": "Critiques the USSR, joint, and French proposals on the right of asylum rather than discussing expulsion of aliens (ICCPR art. 13)."
+  }
+ },
+ "R174": {
+  "a": {
+   "correct": true,
+   "note": "Boratynski defends the USSR sub-amendment and comments on the revised joint amendment to draft article 9."
+  },
+  "b": {
+   "correct": false,
+   "note": "Defends the USSR sub-amendment on the right of asylum rather than discussing expulsion of aliens (ICCPR art. 13)."
+  }
+ },
+ "R175": {
+  "a": {
+   "correct": true,
+   "note": "Morozov clarifies that the Russian text of the USSR amendment to draft article 9 refers to war crimes under international law rather than military offences."
+  },
+  "b": {
+   "correct": false,
+   "note": "Clarifies the meaning of 'war crimes' in the USSR amendment on the right of asylum, not expulsion of aliens (ICCPR art. 13)."
+  }
+ },
+ "R176": {
+  "a": {
+   "correct": true,
+   "note": "Mrs. Roosevelt explains why the revised wording of the French sub-amendment to draft article 9 is unacceptable to the United States."
+  },
+  "b": {
+   "correct": false,
+   "note": "Objects to the French sub-amendment on 'the right to seek asylum from persecution', not expulsion of aliens (ICCPR art. 13)."
+  }
+ },
+ "R177": {
+  "a": {
+   "correct": false,
+   "note": "The speech is a purely procedural statement supporting a motion to reconsider a prior decision of the Commission."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural support for a motion to reconsider a prior decision, too vague to identify any substantive article."
+  }
+ },
+ "R178": {
+  "a": {
+   "correct": true,
+   "note": "Santa Cruz argues against the United States request for a divided vote on the amendment to paragraph 1 of draft article 16."
+  },
+  "b": {
+   "correct": true,
+   "note": "Addresses the request for a separate vote in parts on the words of paragraph 1 of draft article 16 (ICCPR art. 22)."
+  }
+ },
+ "R179": {
+  "a": {
+   "correct": true,
+   "note": "Nisot discusses the phrase 'within a reasonable time' and the Lebanese proposal for paragraph 2 of the general obligations article."
+  },
+  "b": {
+   "correct": true,
+   "note": "Discusses the phrase 'within a reasonable time' and the Lebanese proposal for paragraph 2 of the general obligations article (ICCPR art. 2)."
+  }
+ },
+ "R180": {
+  "a": {
+   "correct": true,
+   "note": "Hoare supports the Indian representative's defence of draft article 38 regarding election and continuity/re-election of Committee members."
+  },
+  "b": {
+   "correct": false,
+   "note": "Discusses members serving in their personal capacity and election by the Court with equitable geographical distribution (ICCPR arts. 28-31), not terms of office (ICCPR art. 32)."
+  }
+ },
+ "R181": {
+  "a": {
+   "correct": true,
+   "note": "Morozov addresses whether the Human Rights Committee should have competence under draft article 52 over violations of the right of self-determination."
+  },
+  "b": {
+   "correct": false,
+   "note": "Mainly attacks France's opposition to Article 1 on the right of self-determination, mentioning the Human Rights Committee only in passing."
+  }
+ },
+ "R182": {
+  "a": {
+   "correct": true,
+   "note": "Abdel-Ghani discusses the Indian and Chilean amendments to draft article 52 regarding the Committee's competence to receive petitions and initiate action."
+  },
+  "b": {
+   "correct": false,
+   "note": "Discusses individual and NGO petitions and ex officio Committee action rather than inter-State communications (ICCPR art. 41)."
+  }
+ },
+ "R183": {
+  "a": {
+   "correct": true,
+   "note": "Mrs. Lord raises substantive questions and objections regarding the three proposed texts for the article on minorities."
+  },
+  "b": {
+   "correct": true,
+   "note": "Questions the implementation and scope of the three draft texts for the minorities article (ICCPR art. 27), including obligations regarding linguistic groups."
+  }
+ },
+ "R184": {
+  "a": {
+   "correct": true,
+   "note": "Whitlam explains why Australia opposes legislative prohibition of fomenting national hostility in the debate on the proposed incitement article."
+  },
+  "b": {
+   "correct": true,
+   "note": "Explains why Australia opposes legislative prohibition of advocacy of national hostility in textbooks as tending toward censorship under the proposed hatred article (ICCPR art. 20)."
+  }
+ },
+ "R185": {
+  "a": {
+   "correct": true,
+   "note": "Cheng Paonan comments on the relationship between the proposed article on advocacy of hatred and the restrictions permitted under draft article 16(3)."
+  },
+  "b": {
+   "correct": true,
+   "note": "Reminds members considering the proposed article on advocacy of hatred (ICCPR art. 20) to keep in mind the permissible restrictions in paragraph 3 of the freedom of expression article."
+  }
+ },
+ "R186": {
+  "a": {
+   "correct": false,
+   "note": "The speech is under another agenda item (a resolution on the Sub-Commission's report) and only recalls the earlier Covenant vote in passing."
+  },
+  "b": {
+   "correct": false,
+   "note": "Concerns another agenda item (modifying a draft resolution of the Sub-Commission on Prevention of Discrimination and Protection of Minorities), recalling the Covenant article only for comparison."
+  }
+ },
+ "R187": {
+  "a": {
+   "correct": true,
+   "note": "Miss Sender discusses the periodic reporting system for the ICESCR and utilizing the reporting procedures of the specialized agencies."
+  },
+  "b": {
+   "correct": false,
+   "note": "General debate statement on the need for implementation measures and reviewing ILO convention reporting procedures rather than specifically addressing ICESCR art. 16."
+  }
+ },
+ "R188": {
+  "a": {
+   "correct": true,
+   "note": "Hoare replies to a question on the United Kingdom amendment to draft article 60 regarding the competence of specialized agencies in the reporting system."
+  },
+  "b": {
+   "correct": true,
+   "note": "Replies to a question on how the differing competence of specialized agencies receiving reports under draft article 60 (ICESCR art. 16(2)(b)) would be settled."
+  }
+ },
+ "R189": {
+  "a": {
+   "correct": true,
+   "note": "Cassin replies to a question on how reporting to specialized agencies under draft article 60 would be settled in practice."
+  },
+  "b": {
+   "correct": true,
+   "note": "Addresses a question on how reporting to specialized agencies under draft article 60 (ICESCR art. 16(2)(b)) would be settled in practice."
+  }
+ },
+ "R190": {
+  "a": {
+   "correct": true,
+   "note": "Dayal discusses the scope and proper placement of draft article 67 on international action for achieving the rights in the Covenant."
+  },
+  "b": {
+   "correct": true,
+   "note": "Discusses the substance and placement of draft article 67 on international action for achieving economic, social and cultural rights (ICESCR art. 23)."
+  }
+ },
+ "R191": {
+  "a": {
+   "correct": true,
+   "note": "Lebeau asks that the vote on the article be taken on the English text because 'are entitled' was mistranslated in the French text."
+  },
+  "b": {
+   "correct": true,
+   "note": "Requests that the vote on the equality and non-discrimination article (UDHR art. 7) be taken on the English text due to a faulty French translation of 'are entitled'."
+  }
+ },
+ "R192": {
+  "a": {
+   "correct": true,
+   "note": "Loutfi comments on the Nuremberg trials and the International Penal Code during the debate on the non-retroactivity provision."
+  },
+  "b": {
+   "correct": true,
+   "note": "Comments on the Nuremberg trials and revising the International Penal Code during the debate on 'international law' in the non-retroactivity clause (UDHR art. 11(2))."
+  }
+ },
+ "R193": {
+  "a": {
+   "correct": false,
+   "note": "The speech is a procedural consent to establishing a drafting committee and referring the article to it."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural consent to establishing a drafting committee and referring article 14 to it."
+  }
+ },
+ "R194": {
+  "a": {
+   "correct": true,
+   "note": "In the debate on whether to mention trade unions in the freedom of association article, Lopez notes that draft article 24 already covers trade unions."
+  },
+  "b": {
+   "correct": false,
+   "note": "Specifically describes draft article 24 assuring the freedom to belong to trade unions (which became UDHR art. 23(4)) rather than UDHR art. 20."
+  }
+ },
+ "R195": {
+  "a": {
+   "correct": true,
+   "note": "Lopez describes and endorses the Drafting Committee's text for draft article 24 assuring the freedom to belong to trade unions."
+  },
+  "b": {
+   "correct": true,
+   "note": "Endorses the Drafting Committee's text for draft article 24 assuring the freedom to belong to trade unions to protect their interests (UDHR art. 23(4))."
+  }
+ },
+ "R196": {
+  "a": {
+   "correct": false,
+   "note": "The speech is a procedural suggestion that four representatives meet to prepare an agreed text for the afternoon meeting."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural suggestion that an informal group of four delegations prepare an agreed text for the afternoon meeting."
+  }
+ },
+ "R197": {
+  "a": {
+   "correct": false,
+   "note": "The speech is about the procedural order of examining and voting on proposals regarding draft articles 27 and 28."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural suggestion regarding the order of considering and voting on articles 27 and 28."
+  }
+ },
+ "R198": {
+  "a": {
+   "correct": false,
+   "note": "The speech is a procedural statement supporting Pavlov's suggestion on the order of examining draft articles 27 and 28."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural support for examining paragraph 2 of article 27 before deciding whether to retain article 28."
+  }
+ },
+ "R199": {
+  "a": {
+   "correct": false,
+   "note": "The speech is about the procedural order in which the Commission should take decisions on merging or deleting draft article 28."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural argument on the sequence of decisions and votes regarding articles 27 and 28."
+  }
+ },
+ "R200": {
+  "a": {
+   "correct": false,
+   "note": "The speech is about the procedural question of whether the Commission must choose between two drafting methods or submit both texts to Governments."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural remark that the Commission must choose between the two drafting methods rather than submitting two texts to Governments."
+  }
+ },
+ "R201": {
+  "a": {
+   "correct": false,
+   "note": "The speech is a procedural statement on whether the Commission has reached the stage of choosing between the two drafting methods."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural remark that the Commission was not yet ready to choose between the two drafting methods."
+  }
+ },
+ "R202": {
+  "a": {
+   "correct": false,
+   "note": "The speech is a procedural statement supporting the inclusion of minority proposals in the Commission's report to Governments."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural support for inserting minority proposals in the report to Governments after the vote on article 9."
+  }
+ },
+ "R203": {
+  "a": {
+   "correct": true,
+   "note": "Miss Bowie replies to the Ukrainian SSR regarding how undue use of force by police authorities is covered in the draft right to life provision."
+  },
+  "b": {
+   "correct": true,
+   "note": "Defends the UK draft of the right to life article (ICCPR art. 6) regarding police use of force against a Ukrainian objection."
+  }
+ },
+ "R204": {
+  "a": {
+   "correct": false,
+   "note": "The speech is a procedural observation that the USSR amendment should be treated as an amendment to the United States text following the withdrawal of the UK amendment."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural observation that the USSR amendment should be treated as an amendment to the US text following withdrawal of the UK amendment."
+  }
+ },
+ "R205": {
+  "a": {
+   "correct": false,
+   "note": "The speech is a procedural suggestion that members write out their proposed alterations and refer the text back to the Drafting Committee."
+  },
+  "b": {
+   "correct": false,
+   "note": "Procedural suggestion that Sub-Commission members write out proposed alterations for the Drafting Committee."
+  }
+ },
+ "R206": {
+  "a": {
+   "correct": false,
+   "note": "The speech is about another document (Mr. Ferguson's Statement on the concept of freedom of information), not the UDHR article."
+  },
+  "b": {
+   "correct": false,
+   "note": "Proposes an amendment to paragraph 7 of Mr. Ferguson's Statement on the Concept of Freedom of Information, a separate document from UDHR art. 19."
+  }
+ },
+ "R207": {
+  "a": {
+   "correct": false,
+   "note": "The speech proposes an amendment to another document (Mr. Ferguson's Statement on freedom of information), citing the Covenant only as a source of wording."
+  },
+  "b": {
+   "correct": false,
+   "note": "Proposes copying words from Article 17 of the Covenant into Mr. Ferguson's Statement on the Concept of Freedom of Information, a separate document."
+  }
+ },
+ "R208": {
+  "a": {
+   "correct": false,
+   "note": "The speech is about drafting another document (Mr. Ferguson's Statement on freedom of information) and avoiding duplication of the Covenant."
+  },
+  "b": {
+   "correct": false,
+   "note": "Argues against duplicating the Covenant in Mr. Ferguson's Statement on the Concept of Freedom of Information, a separate document."
+  }
+ },
+ "R209": {
+  "a": {
+   "correct": false,
+   "note": "The speech proposes an amendment to another document (Mr. Ferguson's Statement on freedom of information), not the UDHR article."
+  },
+  "b": {
+   "correct": false,
+   "note": "Amends paragraph 7 of Mr. Ferguson's Statement on the Concept of Freedom of Information, a separate document from UDHR art. 19."
+  }
+ },
+ "R210": {
+  "a": {
+   "correct": false,
+   "note": "The speech proposes an amendment to another document (Mr. Ferguson's Statement on freedom of information), not the UDHR article."
+  },
+  "b": {
+   "correct": false,
+   "note": "Proposes an insertion in Mr. Ferguson's Statement on the Concept of Freedom of Information, a separate document from UDHR art. 19."
+  }
+ }
+}

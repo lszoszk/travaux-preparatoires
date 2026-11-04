@@ -1,0 +1,223 @@
+{
+ "article": 9,
+ "texts": {
+  "secretariat_outline": "No one shall be deprived of his personal liberty save by a judgment of a court of law, in conformity with the law and after a fair public trial at which he has had an opportunity for a full hearing, or pending his trial which must take place within a reasonable time after his arrest. Detention by purely executive order shall be unlawful except in time of national emergency. Every one shall be protected against arbitrary and unauthorized arrest. He shall have the right to immediate judicial determination of the legality of any detention to which he may be subject",
+  "cassin_draft": "No one shall be deprived of his personal liberty or kept in custody except in cases prescribed by law and after due process. Every one placed under arrest or detention shall have the right to immediate judicial determination of the legality of any detention to which he may be subject.",
+  "drafting_committee_1": "No one shall be deprived of his personal liberty or kept in custody except in cases prescribed by law and after due process. Every one placed under arrest or detention shall have the right to immediate judicial determination of the legality of any detention to which he may be subject.",
+  "e_cn4_57": "No one shall be deprived of his personal liberty or kept in custody except in cases prescribed by law and after due process. Everyone placed under arrest or detention shall have the right to immediate judicial determination of the legality of any detention to which he may be subject and to trial within a reasonable time or to release.\"",
+  "geneva_draft": "No one shall be deprived of his personal liberty or kept in custody except in cases prescribed by law and after due process. Every one placed under arrest or detention shall have the right to immediate judicial determination of the legality of any detention to which he may be subject and to trial within a reasonable time or to release.",
+  "drafting_committee_2": "No one shall be deprived of his personal liberty or kept in custody except in cases prescribed by law and after due process. Every one placed under arrest or detention, shall have the right to immediate judicial determination of the legality of any detention to which he may be subject and to trial within a reasonable time or to release.",
+  "chr_3": "No one shall be subjected to arbitrary arrest or detention.",
+  "a777": "No one shall be subjected to arbitrary arrest, detention or exile.",
+  "final": "No one shall be subjected to arbitrary arrest, detention or exile."
+ },
+ "sources": {
+  "secretariat_outline": [
+   {
+    "symbol": "E/CN.4/AC.1/3",
+    "draft_article": 6,
+    "page": 4,
+    "text_from": "vision reader"
+   },
+   {
+    "symbol": "E/CN.4/AC.1/3",
+    "draft_article": 7,
+    "page": 4,
+    "text_from": "vision reader"
+   }
+  ],
+  "cassin_draft": [
+   {
+    "symbol": "E/CN.4/AC.1/W.2/Rev.2",
+    "draft_article": 8,
+    "page": 2,
+    "text_from": "vision reader"
+   }
+  ],
+  "drafting_committee_1": [
+   {
+    "symbol": "E/CN.4/21",
+    "draft_article": 8,
+    "page": 74,
+    "text_from": "vision reader"
+   }
+  ],
+  "e_cn4_57": [
+   {
+    "symbol": "E/CN.4/57",
+    "draft_article": 8,
+    "page": 7,
+    "text_from": "vision reader"
+   }
+  ],
+  "geneva_draft": [
+   {
+    "symbol": "E/600",
+    "draft_article": 5,
+    "page": 17,
+    "text_from": "vision reader"
+   }
+  ],
+  "drafting_committee_2": [
+   {
+    "symbol": "E/CN.4/95",
+    "draft_article": 6,
+    "page": 5,
+    "text_from": "vision reader"
+   }
+  ],
+  "chr_3": [
+   {
+    "symbol": "E/800",
+    "draft_article": 7,
+    "page": 11,
+    "text_from": "vision reader"
+   }
+  ],
+  "a777": [
+   {
+    "symbol": "A/777",
+    "draft_article": 10,
+    "page": 4,
+    "text_from": "vision reader"
+   }
+  ],
+  "final": [
+   {
+    "symbol": "A/RES/217(III)",
+    "text_from": "un.org"
+   }
+  ]
+ },
+ "steps": [
+  {
+   "from": "secretariat_outline",
+   "to": "cassin_draft",
+   "changes": [
+    {
+     "kind": "replaced",
+     "old": "save",
+     "new": "or kept in custody except in cases prescribed",
+     "context": "of his personal liberty or kept in custody except in cases prescribed by law and after",
+     "n": "secretariat_outline>cassin_draft#1"
+    },
+    {
+     "kind": "dropped",
+     "old": "a judgment of a court of law in conformity with the",
+     "new": "",
+     "context": "personal liberty save by a judgment of a court of law in conformity with the law and after a",
+     "n": "secretariat_outline>cassin_draft#2"
+    },
+    {
+     "kind": "replaced",
+     "old": "a fair public trial at which he has had an opportunity for a full hearing or pending his trial which must take place within a reasonable time after his arrest detention by purely executive order shall be unlawful except in time of national emergency",
+     "new": "due process",
+     "context": "by law and after due process every one placed under",
+     "n": "secretariat_outline>cassin_draft#3"
+    },
+    {
+     "kind": "replaced",
+     "old": "shall be protected against arbitrary and unauthorized",
+     "new": "placed under",
+     "context": "due process every one placed under arrest or detention shall",
+     "n": "secretariat_outline>cassin_draft#4"
+    },
+    {
+     "kind": "replaced",
+     "old": "he",
+     "new": "or detention",
+     "context": "one placed under arrest or detention shall have the right",
+     "n": "secretariat_outline>cassin_draft#5"
+    }
+   ]
+  },
+  {
+   "from": "cassin_draft",
+   "to": "drafting_committee_1",
+   "changes": []
+  },
+  {
+   "from": "drafting_committee_1",
+   "to": "e_cn4_57",
+   "changes": [
+    {
+     "kind": "replaced",
+     "old": "every one",
+     "new": "everyone",
+     "context": "and after due process everyone placed under arrest or",
+     "n": "drafting_committee_1>e_cn4_57#1"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "and to trial within a reasonable time or to release",
+     "context": "he may be subject and to trial within a reasonable time or to release",
+     "n": "drafting_committee_1>e_cn4_57#2"
+    }
+   ]
+  },
+  {
+   "from": "e_cn4_57",
+   "to": "geneva_draft",
+   "changes": [
+    {
+     "kind": "replaced",
+     "old": "everyone",
+     "new": "every one",
+     "context": "and after due process every one placed under arrest or",
+     "n": "e_cn4_57>geneva_draft#1"
+    }
+   ]
+  },
+  {
+   "from": "geneva_draft",
+   "to": "drafting_committee_2",
+   "changes": []
+  },
+  {
+   "from": "drafting_committee_2",
+   "to": "chr_3",
+   "changes": [
+    {
+     "kind": "replaced",
+     "old": "deprived of his personal liberty or kept in custody except in cases prescribed by law and after due process every one placed under",
+     "new": "subjected to arbitrary",
+     "context": "no one shall be subjected to arbitrary arrest or detention",
+     "n": "drafting_committee_2>chr_3#1"
+    },
+    {
+     "kind": "dropped",
+     "old": "shall have the right to immediate judicial determination of the legality of any detention to which he may be subject and to trial within a reasonable time or to release",
+     "new": "",
+     "context": "under arrest or detention shall have the right to immediate judicial determination of the legality of any detention to which he may be subject and to trial within a reasonable time or to release",
+     "n": "drafting_committee_2>chr_3#2"
+    }
+   ]
+  },
+  {
+   "from": "chr_3",
+   "to": "a777",
+   "changes": [
+    {
+     "kind": "added",
+     "old": "",
+     "new": "detention",
+     "context": "subjected to arbitrary arrest detention or exile",
+     "n": "chr_3>a777#1"
+    },
+    {
+     "kind": "replaced",
+     "old": "detention",
+     "new": "exile",
+     "context": "arbitrary arrest detention or exile",
+     "n": "chr_3>a777#2"
+    }
+   ]
+  },
+  {
+   "from": "a777",
+   "to": "final",
+   "changes": []
+  }
+ ]
+}

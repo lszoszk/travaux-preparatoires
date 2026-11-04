@@ -1,0 +1,1118 @@
+{
+ "pages": [
+  {
+   "id": "p0",
+   "stratum": "changed93",
+   "symbol": "A/PV.46",
+   "page": 5
+  },
+  {
+   "id": "p1",
+   "stratum": "changed93",
+   "symbol": "A/PV.46",
+   "page": 6
+  },
+  {
+   "id": "p2",
+   "stratum": "changed93",
+   "symbol": "A/PV.46",
+   "page": 7
+  },
+  {
+   "id": "p3",
+   "stratum": "changed93",
+   "symbol": "A/PV.55",
+   "page": 7
+  },
+  {
+   "id": "p4",
+   "stratum": "changed93",
+   "symbol": "A/PV.55",
+   "page": 10
+  },
+  {
+   "id": "p5",
+   "stratum": "changed93",
+   "symbol": "A/PV.55",
+   "page": 11
+  },
+  {
+   "id": "p6",
+   "stratum": "changed93",
+   "symbol": "A/PV.55",
+   "page": 15
+  },
+  {
+   "id": "p7",
+   "stratum": "changed93",
+   "symbol": "A/PV.55",
+   "page": 16
+  },
+  {
+   "id": "p8",
+   "stratum": "changed93",
+   "symbol": "A/PV.55",
+   "page": 17
+  },
+  {
+   "id": "p9",
+   "stratum": "changed93",
+   "symbol": "A/PV.55",
+   "page": 23
+  },
+  {
+   "id": "p10",
+   "stratum": "changed93",
+   "symbol": "A/PV.55",
+   "page": 27
+  },
+  {
+   "id": "p11",
+   "stratum": "changed93",
+   "symbol": "A/PV.7",
+   "page": 1
+  },
+  {
+   "id": "p12",
+   "stratum": "changed93",
+   "symbol": "A/PV.7",
+   "page": 7
+  },
+  {
+   "id": "p13",
+   "stratum": "changed93",
+   "symbol": "A/PV.7",
+   "page": 9
+  },
+  {
+   "id": "p14",
+   "stratum": "changed93",
+   "symbol": "A/PV.7",
+   "page": 10
+  },
+  {
+   "id": "p15",
+   "stratum": "changed93",
+   "symbol": "A/PV.7",
+   "page": 11
+  },
+  {
+   "id": "p16",
+   "stratum": "changed93",
+   "symbol": "A/PV.7",
+   "page": 17
+  },
+  {
+   "id": "p17",
+   "stratum": "changed93",
+   "symbol": "E/CN.4/AC.1/SR.16",
+   "page": 3
+  },
+  {
+   "id": "p18",
+   "stratum": "changed93",
+   "symbol": "E/CN.4/AC.1/SR.32",
+   "page": 4
+  },
+  {
+   "id": "p19",
+   "stratum": "changed93",
+   "symbol": "E/CN.4/SR.249",
+   "page": 13
+  },
+  {
+   "id": "p20",
+   "stratum": "changed93",
+   "symbol": "E/CN.4/SR.249",
+   "page": 16
+  },
+  {
+   "id": "p21",
+   "stratum": "changed93",
+   "symbol": "E/CN.4/SR.249",
+   "page": 18
+  },
+  {
+   "id": "p22",
+   "stratum": "changed93",
+   "symbol": "E/CN.4/SR.297",
+   "page": 9
+  },
+  {
+   "id": "p23",
+   "stratum": "changed93",
+   "symbol": "E/CN.4/SR.297",
+   "page": 10
+  },
+  {
+   "id": "p24",
+   "stratum": "changed93",
+   "symbol": "E/CN.4/SR.408",
+   "page": 12
+  },
+  {
+   "id": "p25",
+   "stratum": "changed93",
+   "symbol": "E/CN.4/SR.408",
+   "page": 13
+  },
+  {
+   "id": "p26",
+   "stratum": "changed93",
+   "symbol": "E/CN.4/SR.408",
+   "page": 14
+  },
+  {
+   "id": "p27",
+   "stratum": "changed93",
+   "symbol": "E/CN.4/SR.409",
+   "page": 18
+  },
+  {
+   "id": "p28",
+   "stratum": "changed93",
+   "symbol": "E/CN.4/SR.477",
+   "page": 10
+  },
+  {
+   "id": "p29",
+   "stratum": "changed93",
+   "symbol": "E/CN.4/SUB.1/SR.45",
+   "page": 10
+  }
+ ],
+ "results": [
+  {
+   "label": "old93",
+   "i": 0,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": []
+  },
+  {
+   "label": "old93",
+   "i": 1,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_pv.46-0012",
+     "detail": "The page prints a separate President turn, 'Is the Australian suggestion maintained?', after Noel-Baker's speech. The segment's ending ('The Present (translated from French): Is the Australian suggestion maintained?') shows it left inside Noel-Baker's speech."
+    }
+   ]
+  },
+  {
+   "label": "old93",
+   "i": 2,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_pv.46-0015",
+     "detail": "The PRESIDENT (translated from French) begins a new turn mid-page ('We now have to examine the report of the General Committee...'), but the Makin segment runs on and ends with the President's words about referring item 31 to the First and Sixth Committees."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.46-0015",
+     "detail": "The italic decision 'The amendment was withdrawn.' between Makin's speech and the President's turn is not split out, so it sits inside the Makin speech segment."
+    }
+   ]
+  },
+  {
+   "label": "old93",
+   "i": 3,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.55-0013",
+     "detail": "The heading for item 146 ('Pensions of the members of the International Court of Justice ... A/217') is printed on its own, but it has been merged into the decision/vote segment instead of getting its own heading segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.55-0015",
+     "detail": "The heading for item 147 ('Agreement between the United Nations and the Carnegie Foundation ... A/219') has been merged into the decision/vote segment instead of getting its own heading segment."
+    },
+    {
+     "type": "other",
+     "segment_id": "a_pv.55-0019",
+     "detail": "The image reads 'Decision: The resolution was adopted unanimously.' The segment has only 'Decision: The unanimously.' and is marked procedural, not vote. The words 'resolution was adopted' turn up inside the chair's turn 0021."
+    },
+    {
+     "type": "other_column_or_page_text",
+     "segment_id": "a_pv.55-0021",
+     "detail": "The chair's turn under item 148 contains stray fragments: 'resolution was ‘adopted' from the decision and '(United Nations Relief and Rehabili-' from the heading, spliced into the President's sentence."
+    }
+   ]
+  },
+  {
+   "label": "old93",
+   "i": 4,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.55-0028",
+     "detail": "The agenda heading '149. Political Rights of Women: report of the Third Committee: resolution (document A/220)' is a separate bold heading on the image but is merged into the decision segment (kind vote) instead of being its own heading segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.55-0030",
+     "detail": "The second 'Decision: The resolution was adopted unanimously' is merged with the next item's heading '150. Accessions to the Convention...' (on the next page) in one procedural segment; the heading should be its own segment."
+    }
+   ]
+  },
+  {
+   "label": "old93",
+   "i": 5,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.55-0030",
+     "detail": "Agenda-item heading '150. Accessions to the Convention on the Privileges and Immunities... (document A/221)' at top of page is not its own heading segment; it is merged into the previous page's decision (procedural) segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.55-0032",
+     "detail": "Heading '151. Progressive development of international law and its codification... (document A/222)' is merged into the vote segment 'Decision: The resolution was adopted unanimously.' instead of being its own heading segment."
+    }
+   ]
+  },
+  {
+   "label": "old93",
+   "i": 6,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_pv.55-0036",
+     "detail": "Item 152: the President's turn ('The PRESIDENT (translated from French): The report of the Fifth Committee...' through 'the resolution is adopted unanimously') sits inside the vote segment and is not a chair segment of its own."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.55-0036",
+     "detail": "The heading '152. Provisional Financial Regulations of the United Nations: report of the Fifth Committee: resolution (document A/218)' is inside the vote segment. It should be a heading segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.55-0037",
+     "detail": "The heading '153. Administration of the International Court of Justice: report of the Joint Fifth and Sixth Committee: resolution (document A/226)' is inside the vote segment after the decision. It should be a heading segment."
+    }
+   ]
+  },
+  {
+   "label": "old93",
+   "i": 7,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_pv.55-0044",
+     "detail": "Mr. VITERI LAFRONTE (Ecuador), Rapporteur, starts his own speech on this page after the President's call, but it is inside the President's chair segment; the President's next turn on p.17 is in it too."
+    },
+    {
+     "type": "false_split",
+     "segment_id": "a_pv.55-0041",
+     "detail": "'The Rapporteur is present, but I do not think...' continues the same President turn as 0040 (item 154), with no new speaker; it is split off as a separate chair segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.55-0039",
+     "detail": "Heading '154. Report of the Security Council: report of the First Committee: resolution (document A/225)' at the top of this page is merged into the previous item's vote segment, not its own heading."
+    }
+   ]
+  },
+  {
+   "label": "old93",
+   "i": 8,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_pv.55-0044",
+     "detail": "The President's new turn 'If no one has any remarks to make...' starts on this page after the Rapporteur's reading of the resolution, but sits at the end of 0044, which opens with the President calling on Viteri Lafronte on p16."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.55-0046",
+     "detail": "The heading '156. Establishment of an International Children's Emergency Fund (postponement of the discussion)' is inside the vote segment with the decision. It should be its own heading segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.55-0049",
+     "detail": "The heading '157. The Crime of Genocide: report of the Sixth Committee: resolution (document A/231)' is left at the end of the President's chair turn. It should be a separate heading segment."
+    }
+   ]
+  },
+  {
+   "label": "old93",
+   "i": 9,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_pv.55-0062",
+     "detail": "The President's turn 'The PRESIDENT (translated from French): If no one wishes to speak, I shall consider the resolution as adopted unanimously' starts on this page but sits at the end of Viteri Lafronte's speech."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.55-0063",
+     "detail": "The vote segment also holds the agenda heading '160. Application of Article 27 of the Charter (postponement of the discussion).' Its second half went to heading segment 0064, so the heading is split across a vote and a heading."
+    }
+   ]
+  },
+  {
+   "label": "old93",
+   "i": 10,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.55-0077",
+     "detail": "Heading '161. Affirmation of the principles of international law recognized by the Charter of the Nürnberg Tribunal: report of the Sixth Committee: resolution (document A/236)' is left at the end of the President's turn instead of its own heading segment."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "a_pv.55-0079",
+     "detail": "The President's new turn at the foot of the left column ('I think it would be better to postpone the rest of the agenda...') is inside the vote segment after 'Decision: The resolution was adopted unanimously.'"
+    },
+    {
+     "type": "other_column_or_page_text",
+     "segment_id": "a_pv.55-0079",
+     "detail": "Vote segment mixes in French right-column text ('portun. Je retire ma proposition, sinon cela...', '...mission relatif aux mesures de secours qui sui-')."
+    }
+   ]
+  },
+  {
+   "label": "old93",
+   "i": 11,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_pv.7-0001",
+     "detail": "The President's opening turn ('The first item on the agenda is the General Committee's report...' to 'attention to this point') is inside the procedural masthead/contents segment instead of being its own chair segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.7-0001",
+     "detail": "Agenda heading '18. Supplementary List of Items for inclusion in the Agenda ... Report of the General Committee to the General Assembly' is left inside the procedural segment, not its own heading."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "a_pv.7-0002",
+     "detail": "The President's reply 'I would mention that we have discussed the position with the Chairman of the Sixth Committee...' is inside Perez Cisneros's speech segment."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "a_pv.7-0002",
+     "detail": "Perez Cisneros's second turn 'The Cuban delegation accepts that interpretation' is merged into the same segment as his first speech and the President's reply."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "a_pv.7-0002",
+     "detail": "The President's turn starting at page foot ('The PRESIDENT (Translation from the French): I thank the Cuban representative... paragraph 4 (a) is adopted') is inside Perez Cisneros's segment."
+    }
+   ]
+  },
+  {
+   "label": "old93",
+   "i": 12,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_pv.7-0007",
+     "detail": "The President's turn 'I call upon Mr. Dihigo, representative of Cuba' starts on this page but sits at the end of Manuilsky's speech segment."
+    },
+    {
+     "type": "other",
+     "segment_id": "a_pv.7-0007",
+     "detail": "The ending has a line from Dihigo's next speech, 'the question of the rights of man should be taken', placed after the President's words. Dihigo's text is split out of order."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "a_pv.7-0008",
+     "detail": "The President's turn 'A vote can only be taken if the Cuban delegation submits an amendment...' is inside Dihigo's segment (opening shows '- The President (Translation fr')."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "a_pv.7-0008",
+     "detail": "Dihigo's second turn, 'The Cuban delegation merely asks that there should be a division...', is in the same segment as his first speech and the President's turn, not its own segment."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "a_pv.7-0008",
+     "detail": "The President's turn 'I request the Cuban delegation to read the text of its amendment' is left at the end of Dihigo's segment."
+    }
+   ]
+  },
+  {
+   "label": "old93",
+   "i": 13,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_pv.7-0013",
+     "detail": "The President's second turn on the page ('Paragraph (d) is adopted by 21 votes with 2 abstentions... open on paragraph (e)... I call upon Mr. Lopez') sits inside the procedural vote note instead of being its own chair segment."
+    }
+   ]
+  },
+  {
+   "label": "old93",
+   "i": 14,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_pv.7-0014",
+     "detail": "The page prints a separate President's turn ('The PRESIDENT (Translation from the French): I call upon Mr. Vandenberg...'), but it sits at the end of Lopez's speech segment and has no chair segment of its own."
+    }
+   ]
+  },
+  {
+   "label": "old93",
+   "i": 15,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_pv.7-0017",
+     "detail": "The President's turn 'I take it that we can consider paragraph 4 (e) ... as approved' starts after Lopez's 'Thank you.' but sits inside Lopez's speech segment, which ends with the chair's words about Vandenberg."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.7-0021",
+     "detail": "The italic procedural note '(The meeting was adjourned at 4.45 p.m. and resumed at 5.10 p.m.)' is left inside the chair's adjournment turn. The segment also runs on into the President's new turn on p.12 ('We now proceed...')."
+    }
+   ]
+  },
+  {
+   "label": "old93",
+   "i": 16,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_pv.7-0024",
+     "detail": "The image shows the President's own turn, 'The PRESIDENT (Translation from the French): I call upon Mr. Bianchi, representative of Chile.', after the Brazil speech ends. The segment's ending runs it into Brazil's speech instead of giving it a separate chair segment."
+    }
+   ]
+  },
+  {
+   "label": "old93",
+   "i": 17,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_ac.1_sr.16-0017",
+     "detail": "Image shows heading 'Paragraph 7' then its own decision; segment merges decision for 6, the 'Paragraph 7' heading and the decision for 7 into one vote segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_ac.1_sr.16-0020",
+     "detail": "Heading 'Paragraph 9' (underlined, after Malik's first speech) is left at the end of Malik's speech as 'Parogyacn 2' instead of being its own heading segment."
+    },
+    {
+     "type": "text_missing",
+     "segment_id": null,
+     "detail": "Underlined heading 'Paragraph 10' before the Chairman's second turn appears in no segment; 0021 ends 'summary records.' and 0022 starts 'The CLAYRMAN'."
+    }
+   ]
+  },
+  {
+   "label": "old93",
+   "i": 18,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_ac.1_sr.32-0018",
+     "detail": "Segment of kind heading holds OCR noise ('eS TASTE Le TRIOS ARTES...'). The page has no heading between the underlined decision and the votes on paragraphs 3 and 4; it is a spurious segment, probably the underline read as text."
+    }
+   ]
+  },
+  {
+   "label": "old93",
+   "i": 19,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.249-0024",
+     "detail": "Page 13 opens with a new turn: 'The CHAIRMAN observed that even if the Danish-French amendment were withdrawn...'. The segment includes it at the end of the AZMI Bey speech that started on p.12, when it should be a separate chair segment."
+    },
+    {
+     "type": "wrong_delegation",
+     "segment_id": "e_cn.4_sr.249-0024",
+     "detail": "The segment's opening shows 'AZMT Bey (Zaypt)', which is Egypt, but its delegation is null."
+    }
+   ]
+  },
+  {
+   "label": "old93",
+   "i": 20,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": []
+  },
+  {
+   "label": "old93",
+   "i": 21,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.249-0038",
+     "detail": "Mid-page turn 'AZMI Bey (Egypt) thanked the Guatemalan representative...' has no segment of its own; Sorensen's segment (pp. 16-19) runs straight through it."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.249-0038",
+     "detail": "Turn 'Mr. DUPONT-WILLEMIN (Guatemala) agreed to include the word \"groups\"' at the foot of the page also sits inside Sorensen's segment, which ends on p.19 with another speaker's words about 'the Danish representative'."
+    }
+   ]
+  },
+  {
+   "label": "old93",
+   "i": 22,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.297-0018",
+     "detail": "Whitlam's segment (continued from p.8) ends with 'B7UN s+) anger:', which is the garbled running header 'E/CN.4/SR.297' printed at the top of page 9."
+    }
+   ]
+  },
+  {
+   "label": "old93",
+   "i": 23,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.297-0021",
+     "detail": "Image: 'AZMI Bey (Egypt) was unable to accede...' starts a new turn after Morozov's quoted amendment. Segment 0021 (Morozov) ends with Azmi Bey's words '...could hardly be regarded as exploitation.', so his speech is inside Morozov's."
+    }
+   ]
+  },
+  {
+   "label": "old93",
+   "i": 24,
+   "page_ok": true,
+   "speeches_on_image": 0,
+   "errors": []
+  },
+  {
+   "label": "old93",
+   "i": 25,
+   "page_ok": false,
+   "speeches_on_image": 0,
+   "errors": [
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.408-0071",
+     "detail": "Vote segment 'Paragraphs 132 and 133 were adopted' also holds the separate decisions 'At the request of Mr. HOARE (United Kingdom), it was agreed...' (para 134), Juvigny's request and 'Paragraph 135 was adopted'; earlier such requests are split as procedural segments."
+    }
+   ]
+  },
+  {
+   "label": "old93",
+   "i": 26,
+   "page_ok": true,
+   "speeches_on_image": 0,
+   "errors": []
+  },
+  {
+   "label": "old93",
+   "i": 27,
+   "page_ok": false,
+   "speeches_on_image": 0,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.409-0152",
+     "detail": "The underlined decision 'Article 52 was adopted as amended.' is printed as a separate line but sits at the end of Hoare's speech text."
+    },
+    {
+     "type": "false_split",
+     "segment_id": "e_cn.4_sr.409-0161",
+     "detail": "One narrative sentence ('After a discussion in which Mr. CASSIN..., Mr. HOARE..., Mr. WHITLAM (Australia) and the CHAIRMAN took part, it was agreed...') is cut in two at the line break, segments 0160 and 0161."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.409-0161",
+     "detail": "The second half of the procedural sentence, with the decision 'it was agreed to retain the word matter', is filed as a Whitlam (Australia) speech. Whitlam makes no statement here."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.409-0168",
+     "detail": "The Article 59 vote segment also holds the headings 'First new article' and 'Second new article' and both of their adoption decisions, which should each be separate segments."
+    }
+   ]
+  },
+  {
+   "label": "old93",
+   "i": 28,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.477-0043",
+     "detail": "The underlined heading 'Document E/CN.4/L.366/Add.3' is its own heading on the page, but the segment appends it to the end of the vote result 'Paragraphs 20 to 31 were adopted... Add.2 was adopted...'."
+    }
+   ]
+  },
+  {
+   "label": "old93",
+   "i": 29,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sub.1_sr.45-0094",
+     "detail": "Vote segment holds the chair's turn 'In connection with paragraph 5, the CHAIRMAN informed the Commission that Mr. MORA...' between the underlined decisions; that turn should be its own chair segment, with 'Paragraph 5 was adopted' and 'Paragraphs 6...11' split off."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sub.1_sr.45-0097",
+     "detail": "The underlined decisions 'Mr. Lomakin's proposal was rejected by six votes to one' and 'Mr. Sychrava's proposal was rejected by six votes to two' are left inside the CHAIRMAN's turn; they should be vote segments."
+    }
+   ]
+  },
+  {
+   "label": "new93",
+   "i": 0,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": []
+  },
+  {
+   "label": "new93",
+   "i": 1,
+   "page_ok": true,
+   "speeches_on_image": 3,
+   "errors": []
+  },
+  {
+   "label": "new93",
+   "i": 2,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.46-0017",
+     "detail": "The italic decision 'The amendment was withdrawn.', printed after Makin's speech and before the President speaks, is left at the end of Makin's speech segment rather than standing as its own decision segment."
+    }
+   ]
+  },
+  {
+   "label": "new93",
+   "i": 3,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.55-0016",
+     "detail": "Heading '147. Agreement between the United Nations and the Carnegie Foundation ... (document A/219)' is merged into the vote segment after 'Decision: The resolution was adopted unanimously,' instead of being its own heading segment."
+    },
+    {
+     "type": "other",
+     "segment_id": "a_pv.55-0022",
+     "detail": "The chair's turn under item 148 has stray words from the decision ('resolution was adopted') and from heading 148 ('(United Nations Relief and Rehabili-') woven into its opening, so the decision before it is left reading 'Decision: The unanimously.'"
+    },
+    {
+     "type": "other",
+     "segment_id": "a_pv.55-0020",
+     "detail": "Decision 'The resolution was adopted unanimously.' (after the abstention of Poland) is cut down to 'Decision: The unanimously.' and tagged procedural, while the decisions above it are tagged vote."
+    }
+   ]
+  },
+  {
+   "label": "new93",
+   "i": 4,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.55-0032",
+     "detail": "The decision at the foot of page 10 ('The resolution was adopted unanimously') shares a procedural segment with heading 150 (Accessions to the Convention..., A/221), which is on the next page. The heading should be its own heading segment."
+    }
+   ]
+  },
+  {
+   "label": "new93",
+   "i": 5,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.55-0032",
+     "detail": "Heading '150. Accessions to the Convention on the Privileges and Immunities... (document A/221)' at the top of page 11 sits inside the procedural segment holding the previous page's decision ('The resolution was adopted unanimously'); it should be its own heading segment."
+    }
+   ]
+  },
+  {
+   "label": "new93",
+   "i": 6,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.55-0039",
+     "detail": "The image prints heading '152. Provisional Financial Regulations ... (document A/218)' on its own after the decision. The vote segment holds this heading, and no heading segment exists for item 152."
+    },
+    {
+     "type": "other",
+     "segment_id": "a_pv.55-0041",
+     "detail": "The image reads 'Decision: The resolution was adopted unanimously.' The segment reads 'Decision: unanimously. The was adopted unanimously.', so 'resolution' is dropped and 'unanimously' is doubled. Segment 0044 has the same garbled order, '...adopted unanimously, resolution'."
+    }
+   ]
+  },
+  {
+   "label": "new93",
+   "i": 7,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_pv.55-0050",
+     "detail": "Mr. VITERI LAFRONTE (Ecuador), Rapporteur, starts his own turn on this page after the President calls on him, but his speech and the quoted resolution sit inside the President's chair segment 0050."
+    },
+    {
+     "type": "false_split",
+     "segment_id": "a_pv.55-0047",
+     "detail": "'The Rapporteur is present, but I do not think...' continues the President's turn from 0046 after the quoted resolution, yet it is a separate chair segment."
+    }
+   ]
+  },
+  {
+   "label": "new93",
+   "i": 8,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.55-0053",
+     "detail": "Heading '156. Establishment of an International Children's Emergency Fund (postponement of the discussion)' is a separate bold heading on the page but sits inside the vote/decision segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.55-0056",
+     "detail": "Heading '157. The Crime of Genocide: report of the Sixth Committee: resolution (document A/231)' is printed as its own heading but is left at the end of the President's turn."
+    }
+   ]
+  },
+  {
+   "label": "new93",
+   "i": 9,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.55-0071",
+     "detail": "The image shows heading '160. Application of Article 27 of the Charter (postponement of the discussion). Question of procedure concerning the debates' after the decision. Its first half sits in this vote segment; only the rest is in heading a_pv.55-0072."
+    }
+   ]
+  },
+  {
+   "label": "new93",
+   "i": 10,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.55-0085",
+     "detail": "Agenda heading '161. Affirmation of the principles of international law recognized by the Charter of the Nürnberg Tribunal: report of the Sixth Committee: resolution (document A/236)' sits at the end of the President's turn, not as its own heading segment."
+    },
+    {
+     "type": "other_column_or_page_text",
+     "segment_id": "a_pv.55-0088",
+     "detail": "The opening carries French-column text ('portun. Je retire ma proposition, sinon cela') and the ending carries more French ('mission relatif aux mesures de secours qui sui') inside the English President's turn."
+    }
+   ]
+  },
+  {
+   "label": "new93",
+   "i": 11,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_pv.7-0003",
+     "detail": "Chair segment ends with 'Mr. PEREZ CISNEROS (Cuba): The Cuban delegation accepts that interpretation.' and the next President turn ('I thank the Cuban representative...'); Cuba's second turn starts on this page and is merged into the chair."
+    },
+    {
+     "type": "text_missing",
+     "segment_id": null,
+     "detail": "The President's opening turn ('The first item on the agenda is the General Committee's report...' to 'attention to this point') is in no segment listed for this page."
+    },
+    {
+     "type": "text_missing",
+     "segment_id": null,
+     "detail": "Agenda heading '18. Supplementary list of items for inclusion in the agenda... Report of the General Committee' has no heading segment on this page."
+    }
+   ]
+  },
+  {
+   "label": "new93",
+   "i": 12,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_pv.7-0014",
+     "detail": "The President's turn ('A vote can only be taken... I call upon Mr. Dihigo') runs on into Mr. Dihigo (Cuba)'s second turn, 'merely asks that there should be a division... rights and duties of nations'. Dihigo's turn has no segment of its own."
+    },
+    {
+     "type": "other",
+     "segment_id": "a_pv.7-0012",
+     "detail": "The chair segment ends with 'the question of the rights of man should be taken', which belongs to Dihigo's first speech (a0013). The Dihigo segment lacks that phrase and reads 'the vote on by roll-call'."
+    }
+   ]
+  },
+  {
+   "label": "new93",
+   "i": 13,
+   "page_ok": true,
+   "speeches_on_image": 3,
+   "errors": []
+  },
+  {
+   "label": "new93",
+   "i": 14,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": []
+  },
+  {
+   "label": "new93",
+   "i": 15,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.7-0031",
+     "detail": "The italic note '(The meeting was adjourned at 4.45 p.m. and resumed at 5.10 p.m.)' at the foot of the English column sits inside the President's turn. The segment also runs on into the President's next turn on p.12 ('We now proceed... Mr. Byrnes')."
+    }
+   ]
+  },
+  {
+   "label": "new93",
+   "i": 16,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": []
+  },
+  {
+   "label": "new93",
+   "i": 17,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_ac.1_sr.16-0022",
+     "detail": "Underlined heading 'Paragraph 9' after Malik's first speech is left inside his speech (ending '...Drafting Committee, Parogyacn 2') instead of being its own heading segment."
+    },
+    {
+     "type": "text_missing",
+     "segment_id": null,
+     "detail": "Underlined heading 'Paragraph 10' before the Chairman's turn is in no segment: 0023 ends '...summary records.' and 0024 opens 'The CLAYRMAN recalled'."
+    }
+   ]
+  },
+  {
+   "label": "new93",
+   "i": 18,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_ac.1_sr.32-0018",
+     "detail": "No heading on the page. The segment 'eS TASTE Le TRIOS ARTES...' is OCR noise, likely from the underlined decision lines, and was kept as a heading. It should be dropped."
+    }
+   ]
+  },
+  {
+   "label": "new93",
+   "i": 19,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.249-0024",
+     "detail": "Page opens with 'The CHAIRMAN observed that even if the Danish-French amendment were withdrawn...'; the segment ending shows this chair turn appended to Azmi Bey's speech from page 12 instead of being its own chair segment."
+    }
+   ]
+  },
+  {
+   "label": "new93",
+   "i": 20,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": []
+  },
+  {
+   "label": "new93",
+   "i": 21,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.249-0040",
+     "detail": "Page has 'Mr. DUPONT-WILLEMIN (Guatemala) agreed to include the word \"groups\"...' after Azmi Bey's turn; no segment starts there, so it sits inside the Egypt segment (pp. 18-19). Speaker field 'ATM' is a garble of AZMI."
+    }
+   ]
+  },
+  {
+   "label": "new93",
+   "i": 22,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.297-0018",
+     "detail": "Whitlam's speech (pp. 8-9) ends with 'B7UN s+) anger:', the garbled running header 'E/CN.4/SR.297' from the top of page 9, left in the text. Roosevelt, Hoare and Morozov turns are otherwise correct."
+    }
+   ]
+  },
+  {
+   "label": "new93",
+   "i": 23,
+   "page_ok": true,
+   "speeches_on_image": 5,
+   "errors": []
+  },
+  {
+   "label": "new93",
+   "i": 24,
+   "page_ok": true,
+   "speeches_on_image": 0,
+   "errors": []
+  },
+  {
+   "label": "new93",
+   "i": 25,
+   "page_ok": false,
+   "speeches_on_image": 0,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.408-0073",
+     "detail": "Page shows the vote 'Paragraphs 132 and 133 were adopted' and then two separate agreements (at Hoare's and Juvigny's request). The segment, kind vote, holds all three, so the two procedural decisions sit inside the vote segment."
+    }
+   ]
+  },
+  {
+   "label": "new93",
+   "i": 26,
+   "page_ok": true,
+   "speeches_on_image": 0,
+   "errors": []
+  },
+  {
+   "label": "new93",
+   "i": 27,
+   "page_ok": false,
+   "speeches_on_image": 0,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.409-0152",
+     "detail": "Underlined decision 'Article 52 was adopted as amended.' is printed as a separate line after Hoare's speech, but the segment ends with it inside the speech text."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.409-0161",
+     "detail": "The page has one narrative sentence: 'After a discussion in which Mr. CASSIN, Mr. HOARE, Mr. WHITLAM and the CHAIRMAN took part, it was agreed...'. Its second line was split off and made a speech by Whitlam. It is not a turn."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.409-0168",
+     "detail": "The heading 'First new article' is a separate line on the page but sits inside the vote segment 'Article 59 was adopted without discussion.'"
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.409-0169",
+     "detail": "The heading 'Second new article' is a separate line on the page but sits inside the vote segment 'The first new article was adopted without discussion.'"
+    }
+   ]
+  },
+  {
+   "label": "new93",
+   "i": 28,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.477-0044",
+     "detail": "The image has the underlined heading 'Document E/CN.4/L.366/Add.3' standing alone before the CHAIRMAN's turn. The segment joins it onto the end of the vote 'Document E/CN.4/L.366/Add.2 was adopted...' when it should be its own heading segment."
+    }
+   ]
+  },
+  {
+   "label": "new93",
+   "i": 29,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sub.1_sr.45-0094",
+     "detail": "The vote segment 'Paragraphs 1, 2, 3 and 4 were adopted without discussion' also holds the CHAIRMAN's turn 'In connection with paragraph 5, the CHAIRMAN informed...' (about Mora and Illueca). That turn should be its own chair segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sub.1_sr.45-0099",
+     "detail": "The chair's turn ends with the two underlined vote results ('Mr. Lomakin's proposal was rejected by six votes to one.' and 'Mr. Sychrava's proposal was rejected by six votes to two.'). These are left inside the turn instead of being separate vote segments."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1813 @@
+{
+  "summary": "Two blind judges per record give the article of each tagged segment in the remaining A-B-A context-switch runs and stranded non-speech context tags; a third on splits",
+  "agentCount": 6,
+  "logs": [],
+  "result": [
+    {
+      "file": "eval/round122/input/A_C.3_SR.120.json",
+      "opus": [
+        {
+          "id": "a_c.3_sr.120-0051",
+          "instrument": "UDHR",
+          "final_article": 13,
+          "certainty": "sure",
+          "reason": "The Chairman puts draft article 11 (final UDHR article 13 on freedom of movement and residence) as a whole to the vote."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "a_c.3_sr.120-0051",
+          "instrument": "UDHR",
+          "final_article": 13,
+          "certainty": "sure",
+          "reason": "The Chairman puts draft article 11 (freedom of movement, corresponding to final UDHR article 13) as a whole to the vote."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/A_C.3_SR.1404.json",
+      "opus": [
+        {
+          "id": "a_c.3_sr.1404-0051",
+          "instrument": "ICESCR",
+          "final_article": 25,
+          "certainty": "sure",
+          "reason": "The Chairman announces additional sponsors for proposed new article 25 bis of the draft ICESCR on the right of peoples to natural wealth and resources, which became final ICESCR article 25."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "a_c.3_sr.1404-0051",
+          "instrument": "ICESCR",
+          "final_article": 25,
+          "certainty": "sure",
+          "reason": "The Chairman announces additional sponsors for proposed draft article 25 bis (A/C.3/L.1357) on the right of peoples to natural wealth and resources, which became final ICESCR article 25."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/A_C.3_SR.1420.json",
+      "opus": [
+        {
+          "id": "a_c.3_sr.1420-0005",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "The Chairman asks whether the representative of the Congo (Brazzaville) maintains his amendment to draft article 27 (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0006",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "The representative of the Congo (Brazzaville) withdraws and explains his amendment to draft article 27 regarding the establishment of the Human Rights Committee (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0007",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "Procedural proposal on the order of voting between draft article 27 and draft article 40 rather than articles 28 to 39."
+        },
+        {
+          "id": "a_c.3_sr.1420-0009",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "probable",
+          "reason": "The USSR representative explains her delegation's compromise position on setting up the Human Rights Committee and welcomes the withdrawal of the Congo (Brazzaville) amendment to draft article 27 (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0010",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "probable",
+          "reason": "The representative of Senegal states that his delegation cannot vote on draft article 27 (final ICCPR article 28) without knowing the functions of the committee under article 40."
+        },
+        {
+          "id": "a_c.3_sr.1420-0011",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "Procedural suggestion on the order of business that the Committee vote on draft article 27 and then take up draft article 40."
+        },
+        {
+          "id": "a_c.3_sr.1420-0012",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "The Chairman invites the Committee to vote on draft article 27 of the ICCPR (final ICCPR article 28) and the three amendments thereto."
+        },
+        {
+          "id": "a_c.3_sr.1420-0013",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "Heading for the vote on paragraph 1 of draft article 27 (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0014",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "Votes adopting the first amendment to draft article 27 and paragraph 1 of draft article 27 as amended (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0015",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "Heading for the vote on paragraph 2 of draft article 27 (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0016",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "Votes adopting the amendments to paragraph 2, paragraph 2 as amended, and draft article 27 as a whole (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0017",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "Hungary explains its vote in favour of draft article 27 (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0018",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "Togo explains its abstention in the vote on draft article 27 as a whole (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0019",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "Romania explains its vote in favour of draft article 27 as a whole (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0020",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "Senegal explains its vote on the amendments and its abstention on draft article 27 as a whole (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0021",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "The Netherlands explains its vote in favour of draft article 27 as a whole (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0022",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "The Democratic Republic of the Congo explains its abstention in the vote on draft article 27 (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0023",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "The United Republic of Tanzania explains its vote in favour of draft article 27 (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0024",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "Mali explains its vote in favour of draft article 27 (final ICCPR article 28)."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "a_c.3_sr.1420-0005",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "The Chairman asks the representative of the Congo (Brazzaville) whether he maintains his amendment to draft article 27 (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0006",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "The representative of the Congo (Brazzaville) withdraws his amendment to draft article 27 on the establishment of the Human Rights Committee (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0007",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "Procedural suggestion regarding the order of voting between draft article 27 and draft article 40."
+        },
+        {
+          "id": "a_c.3_sr.1420-0009",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "probable",
+          "reason": "The USSR representative states her position on setting up a committee and welcomes the withdrawal of the Congo (Brazzaville) amendment to draft article 27 (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0010",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "probable",
+          "reason": "The representative of Senegal explains why his delegation cannot vote on draft article 27 (final ICCPR article 28) without knowing the committee's functions under draft article 40."
+        },
+        {
+          "id": "a_c.3_sr.1420-0011",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "Procedural proposal on the order of work, suggesting that the Committee vote on draft article 27 and then take up draft article 40."
+        },
+        {
+          "id": "a_c.3_sr.1420-0012",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "The Chairman invites the Committee to vote on draft article 27 (final ICCPR article 28) and the three amendments thereto."
+        },
+        {
+          "id": "a_c.3_sr.1420-0013",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "Sub-heading for the vote on paragraph 1 of draft article 27 (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0014",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "Votes adopting the first amendment to draft article 27 and paragraph 1 of draft article 27 as amended (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0015",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "Sub-heading for the vote on paragraph 2 of draft article 27 (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0016",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "Votes adopting the second and third amendments, paragraph 2 as amended, and draft article 27 as a whole (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0017",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "Explanation of vote by Hungary on draft article 27 (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0018",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "Explanation of vote by Togo on draft article 27 as a whole (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0019",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "Explanation of vote by Romania on draft article 27 as a whole (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0020",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "Explanation of vote by Senegal on the amendments to draft article 27 and on draft article 27 as a whole (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0021",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "Explanation of vote by the Netherlands on draft article 27 as a whole (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0022",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "Explanation of vote by the Democratic Republic of the Congo on draft article 27 (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0023",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "Explanation of vote by the United Republic of Tanzania on draft article 27 (final ICCPR article 28)."
+        },
+        {
+          "id": "a_c.3_sr.1420-0024",
+          "instrument": "ICCPR",
+          "final_article": 28,
+          "certainty": "sure",
+          "reason": "Explanation of vote by Mali on draft article 27 (final ICCPR article 28)."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/A_C.3_SR.1435.json",
+      "opus": [
+        {
+          "id": "a_c.3_sr.1435-0047",
+          "instrument": "ICCPR",
+          "final_article": 46,
+          "certainty": "sure",
+          "reason": "The Chairman invites the Committee to vote on draft article 50 of the ICCPR, which became final ICCPR article 46."
+        },
+        {
+          "id": "a_c.3_sr.1435-0048",
+          "instrument": "ICCPR",
+          "final_article": 46,
+          "certainty": "sure",
+          "reason": "Vote adopting draft article 50 of the ICCPR, which became final ICCPR article 46."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "a_c.3_sr.1435-0047",
+          "instrument": "ICCPR",
+          "final_article": 46,
+          "certainty": "sure",
+          "reason": "The Chairman invites the Committee to vote on draft article 50 (corresponding to final ICCPR article 46)."
+        },
+        {
+          "id": "a_c.3_sr.1435-0048",
+          "instrument": "ICCPR",
+          "final_article": 46,
+          "certainty": "sure",
+          "reason": "Vote adopting draft article 50 (corresponding to final ICCPR article 46)."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/A_C.3_SR.177.json",
+      "opus": [
+        {
+          "id": "a_c.3_sr.177-0084",
+          "instrument": "UDHR",
+          "final_article": 24,
+          "certainty": "sure",
+          "reason": "The Chairman puts the New Zealand amendment to draft article 24 (final UDHR article 24 on rest and leisure) to the vote."
+        },
+        {
+          "id": "a_c.3_sr.177-0085",
+          "instrument": "UDHR",
+          "final_article": 24,
+          "certainty": "sure",
+          "reason": "Vote adopting the New Zealand amendment to draft article 24 (final UDHR article 24 on rest and leisure)."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "a_c.3_sr.177-0084",
+          "instrument": "UDHR",
+          "final_article": 24,
+          "certainty": "sure",
+          "reason": "The Chairman puts the New Zealand amendment to draft article 24 (final UDHR article 24 on rest and leisure) to the vote."
+        },
+        {
+          "id": "a_c.3_sr.177-0085",
+          "instrument": "UDHR",
+          "final_article": 24,
+          "certainty": "sure",
+          "reason": "Vote adopting the New Zealand amendment to draft article 24 (final UDHR article 24)."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/A_C.3_SR.178.json",
+      "opus": [
+        {
+          "id": "a_c.3_sr.178-0013",
+          "instrument": "UDHR",
+          "final_article": 2,
+          "certainty": "sure",
+          "reason": "The Committee agrees to New Zealand's drafting change to the additional article on Trust and Non-Self-Governing Territories, which became paragraph 2 of final UDHR article 2."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "a_c.3_sr.178-0013",
+          "instrument": "UDHR",
+          "final_article": 2,
+          "certainty": "sure",
+          "reason": "The Committee agrees to a drafting amendment to the additional article on Trust and Non-Self-Governing Territories, which became paragraph 2 of final UDHR article 2."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/A_PV.183.json",
+      "opus": [
+        {
+          "id": "a_pv.183-0029",
+          "instrument": "UDHR",
+          "final_article": 1,
+          "certainty": "sure",
+          "reason": "Plenary vote adopting article 1 of the Universal Declaration of Human Rights (final UDHR article 1)."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "a_pv.183-0029",
+          "instrument": "UDHR",
+          "final_article": 1,
+          "certainty": "sure",
+          "reason": "Plenary vote adopting article 1 of the UDHR."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/E_CN.4_AC.1_SR.13.json",
+      "opus": [
+        {
+          "id": "e_cn.4_ac.1_sr.13-0109",
+          "instrument": "UDHR",
+          "final_article": 15,
+          "certainty": "sure",
+          "reason": "The Chairman reads draft article 18 on the right to a nationality ('Every one has the right to a nationality'), which corresponds to final UDHR article 15."
+        },
+        {
+          "id": "e_cn.4_ac.1_sr.13-0111",
+          "instrument": "UDHR",
+          "final_article": 15,
+          "certainty": "sure",
+          "reason": "The Chairman proposes and the Committee agrees to send forward the text of draft article 18 on the right to a nationality, corresponding to final UDHR article 15."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "e_cn.4_ac.1_sr.13-0109",
+          "instrument": "UDHR",
+          "final_article": 15,
+          "certainty": "sure",
+          "reason": "The Chairman reads draft Article 18 on the right to a nationality, which corresponds to final UDHR article 15."
+        },
+        {
+          "id": "e_cn.4_ac.1_sr.13-0111",
+          "instrument": "UDHR",
+          "final_article": 15,
+          "certainty": "sure",
+          "reason": "The Committee agrees to send forward the text of draft Article 18 on the right to a nationality (final UDHR article 15) with a note."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/E_CN.4_AC.1_SR.32.json",
+      "opus": [
+        {
+          "id": "e_cn.4_ac.1_sr.32-0056",
+          "instrument": "ICCPR",
+          "final_article": 12,
+          "certainty": "sure",
+          "reason": "The USSR representative proposes an amendment to draft article 11 of the Covenant (corresponding to final ICCPR article 12 on freedom of movement)."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "e_cn.4_ac.1_sr.32-0056",
+          "instrument": "ICCPR",
+          "final_article": 12,
+          "certainty": "sure",
+          "reason": "Mr. Pavlov proposes an amendment regarding limitations to draft article 11 of the Covenant (freedom of movement, corresponding to final ICCPR article 12)."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/E_CN.4_AC.1_SR.34.json",
+      "opus": [
+        {
+          "id": "e_cn.4_ac.1_sr.34-0002",
+          "instrument": "ICCPR",
+          "final_article": 4,
+          "certainty": "sure",
+          "reason": "The Chairman reads Brazil's comment on draft article 4 of the Covenant (final ICCPR article 4), discusses the two paragraphs of the Geneva text of article 4, and proposes a substitute general limitation clause for it."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "e_cn.4_ac.1_sr.34-0002",
+          "instrument": "ICCPR",
+          "final_article": 4,
+          "certainty": "sure",
+          "reason": "The Chairman discusses the Geneva text of draft article 4 of the Covenant (derogation in public emergencies, final ICCPR article 4) and proposes a substitute general limitation clause."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/E_CN.4_AC.1_SR.4.json",
+      "opus": [
+        {
+          "id": "e_cn.4_ac.1_sr.4-0082",
+          "instrument": "UDHR",
+          "final_article": 10,
+          "certainty": "sure",
+          "reason": "Records France's sponsorship of the substance of draft article 26, which corresponds to UDHR article 10."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "e_cn.4_ac.1_sr.4-0082",
+          "instrument": "UDHR",
+          "final_article": 10,
+          "certainty": "sure",
+          "reason": "Cassin sponsors the inclusion of the substance of Secretariat draft Article 26 (which corresponds to final UDHR Article 10) under the heading for Article 26."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/E_CN.4_AC.1_SR.40.json",
+      "opus": [
+        {
+          "id": "e_cn.4_ac.1_sr.40-0082",
+          "instrument": "UDHR",
+          "final_article": 11,
+          "certainty": "sure",
+          "reason": "The Chair puts to the vote the USSR amendment to draft article 7 regarding acts criminal under general principles of law, corresponding to UDHR article 11."
+        },
+        {
+          "id": "e_cn.4_ac.1_sr.40-0083",
+          "instrument": "UDHR",
+          "final_article": 11,
+          "certainty": "sure",
+          "reason": "Vote adopting the amendment to draft article 7 on non-retroactivity and acts criminal under general principles of law (UDHR article 11)."
+        },
+        {
+          "id": "e_cn.4_ac.1_sr.40-0084",
+          "instrument": "UDHR",
+          "final_article": 11,
+          "certainty": "sure",
+          "reason": "The Chair reads amendments to draft article 7 concerning the presumption of innocence and guarantees of criminal defence (UDHR article 11)."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "e_cn.4_ac.1_sr.40-0082",
+          "instrument": "UDHR",
+          "final_article": 11,
+          "certainty": "sure",
+          "reason": "The Chairman puts to the vote the USSR amendment to draft Article 7 (final UDHR Article 11) providing that the non-retroactivity clause shall not prejudice the trial and punishment of acts criminal under the general principles of law recognized by civilized nations."
+        },
+        {
+          "id": "e_cn.4_ac.1_sr.40-0083",
+          "instrument": "UDHR",
+          "final_article": 11,
+          "certainty": "sure",
+          "reason": "Vote adopting the USSR amendment to draft Article 7 (final UDHR Article 11) regarding acts criminal under the general principles of law recognized by civilized nations."
+        },
+        {
+          "id": "e_cn.4_ac.1_sr.40-0084",
+          "instrument": "UDHR",
+          "final_article": 11,
+          "certainty": "sure",
+          "reason": "The Chairman introduces the next part of draft Article 7 (final UDHR Article 11) concerning the presumption of innocence and guarantees for defence in criminal trials."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/E_CN.4_AC.1_SR.8.json",
+      "opus": [
+        {
+          "id": "e_cn.4_ac.1_sr.8-0036",
+          "instrument": "UDHR",
+          "final_article": 11,
+          "certainty": "sure",
+          "reason": "Under the heading for draft article 10 (UDHR article 11), the Chair presents United States drafting suggestions and notes criminal trial defence guarantees."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "e_cn.4_ac.1_sr.8-0036",
+          "instrument": "UDHR",
+          "final_article": 11,
+          "certainty": "sure",
+          "reason": "Under the heading for Cassin's draft Article 10 (which corresponds to final UDHR Article 11), the Chairman presents United States drafting suggestions and notes related defence guarantees."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/E_CN.4_AC.2_SR.4.json",
+      "opus": [
+        {
+          "id": "e_cn.4_ac.2_sr.4-0009",
+          "instrument": "UDHR",
+          "final_article": 4,
+          "certainty": "sure",
+          "reason": "During the examination of draft article 11 on slavery (UDHR article 4), the Chair responds to the Byelorussian representative's remarks about slavery in the United States."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.4-0012",
+          "instrument": "UDHR",
+          "final_article": 4,
+          "certainty": "sure",
+          "reason": "The Chair proposes adopting the Drafting Committee's text of draft article 11 on slavery (UDHR article 4) with a statement in the record that it covers traffic in women, involuntary servitude, and forced labour."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.4-0014",
+          "instrument": "UDHR",
+          "final_article": 4,
+          "certainty": "sure",
+          "reason": "The Chair responds to the USSR representative's argument for adding 'by law' to draft article 11 on the prohibition of slavery (UDHR article 4)."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "e_cn.4_ac.2_sr.4-0009",
+          "instrument": "UDHR",
+          "final_article": 4,
+          "certainty": "sure",
+          "reason": "During the examination of draft Article 11 on the prohibition of slavery (final UDHR Article 4), the Chairman responds to the Byelorussian representative's claim about slavery in the United States."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.4-0012",
+          "instrument": "UDHR",
+          "final_article": 4,
+          "certainty": "sure",
+          "reason": "The Chairman suggests adopting the Drafting Committee's text for draft Article 11 (final UDHR Article 4) with a record note that it covers traffic in women, involuntary servitude, and forced labour."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.4-0014",
+          "instrument": "UDHR",
+          "final_article": 4,
+          "certainty": "sure",
+          "reason": "The Chairman responds to the USSR representative's argument for adding 'by law' to the prohibition of slavery in draft Article 11 (final UDHR Article 4)."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/E_CN.4_AC.2_SR.5.json",
+      "opus": [
+        {
+          "id": "e_cn.4_ac.2_sr.5-0012",
+          "instrument": "UDHR",
+          "final_article": 5,
+          "certainty": "sure",
+          "reason": "The Chair opens consideration of the second sentence of draft article 10, which deals with torture and cruel or inhuman punishment (UDHR article 5)."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.5-0015",
+          "instrument": "UDHR",
+          "final_article": 5,
+          "certainty": "sure",
+          "reason": "The Chair comments on the proposed inclusion of 'unusual punishment' in the clause prohibiting torture and cruel or inhuman punishment (UDHR article 5)."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.5-0016",
+          "instrument": "UDHR",
+          "final_article": 5,
+          "certainty": "sure",
+          "reason": "Vote adopting the text prohibiting torture or cruel or inhuman punishment or indignity (UDHR article 5)."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.5-0042",
+          "instrument": "UDHR",
+          "final_article": 6,
+          "certainty": "sure",
+          "reason": "The Chair proposes a text for draft article 15 affirming the right to recognition everywhere as a person before the law (UDHR article 6)."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.5-0043",
+          "instrument": "UDHR",
+          "final_article": 6,
+          "certainty": "sure",
+          "reason": "Vote adopting the text of draft article 15 on recognition as a person before the law (UDHR article 6)."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "e_cn.4_ac.2_sr.5-0012",
+          "instrument": "UDHR",
+          "final_article": 5,
+          "certainty": "sure",
+          "reason": "The Chairman opens discussion on the second sentence of draft Article 10, which deals with the prohibition of torture and cruel or inhuman punishment (final UDHR Article 5)."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.5-0015",
+          "instrument": "UDHR",
+          "final_article": 5,
+          "certainty": "sure",
+          "reason": "The Chairman comments on the Philippine proposal to add the word 'unusual' to the clause prohibiting torture and inhuman punishment (final UDHR Article 5)."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.5-0016",
+          "instrument": "UDHR",
+          "final_article": 5,
+          "certainty": "sure",
+          "reason": "Vote adopting the United States text prohibiting torture or cruel or inhuman punishment or indignity (final UDHR Article 5)."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.5-0042",
+          "instrument": "UDHR",
+          "final_article": 6,
+          "certainty": "sure",
+          "reason": "The Chairman proposes the text for draft Article 15 affirming the right everywhere to recognition as a person before the law (final UDHR Article 6)."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.5-0043",
+          "instrument": "UDHR",
+          "final_article": 6,
+          "certainty": "sure",
+          "reason": "Vote adopting the text of draft Article 15 on recognition as a person before the law (final UDHR Article 6)."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/E_CN.4_AC.2_SR.6.json",
+      "opus": [
+        {
+          "id": "e_cn.4_ac.2_sr.6-0005",
+          "instrument": "UDHR",
+          "final_article": 16,
+          "certainty": "sure",
+          "reason": "The Chair proposes the United States draft article on the freedom to marry and compares it with the Byelorussian proposal on marriage and the family (UDHR article 16)."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.6-0009",
+          "instrument": "UDHR",
+          "final_article": 16,
+          "certainty": "probable",
+          "reason": "During the debate on the proposed marriage and family article (UDHR article 16), the Chair argues against including the Byelorussian clause on mothers and children here rather than under social security."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.6-0015",
+          "instrument": "UDHR",
+          "final_article": 16,
+          "certainty": "sure",
+          "reason": "The Chair summarizes the four proposals on marriage and the family and proposes voting on the first two paragraphs of the Philippine draft (UDHR article 16)."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.6-0018",
+          "instrument": "UDHR",
+          "final_article": 16,
+          "certainty": "sure",
+          "reason": "The Chair calls for a vote on the first sentence of the Philippine proposal on equal freedom of men and women to contract marriage (UDHR article 16)."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.6-0019",
+          "instrument": "UDHR",
+          "final_article": 16,
+          "certainty": "sure",
+          "reason": "Vote adopting the first sentence of the new article on marriage (UDHR article 16)."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.6-0020",
+          "instrument": "UDHR",
+          "final_article": 16,
+          "certainty": "sure",
+          "reason": "The Chair calls for a vote on the second sentence of the Philippine proposal on protection of marriage and the family by the State and society (UDHR article 16)."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.6-0021",
+          "instrument": "UDHR",
+          "final_article": 16,
+          "certainty": "sure",
+          "reason": "Vote adopting the second sentence of the new article on marriage and the family (UDHR article 16)."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.6-0022",
+          "instrument": "UDHR",
+          "final_article": 16,
+          "certainty": "sure",
+          "reason": "The Chair clarifies that the newly adopted text on marriage and the family (UDHR article 16) will form a separate article following draft article 15."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.6-0024",
+          "instrument": "UDHR",
+          "final_article": 16,
+          "certainty": "sure",
+          "reason": "The Chair suggests placing the United Kingdom proposal on the right of married persons to reside together in the comments on the marriage article (UDHR article 16)."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.6-0027",
+          "instrument": "UDHR",
+          "final_article": 16,
+          "certainty": "sure",
+          "reason": "Decision to include as a comment on the marriage and family article (UDHR article 16) that married persons should have the right to reside together."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "e_cn.4_ac.2_sr.6-0005",
+          "instrument": "UDHR",
+          "final_article": 16,
+          "certainty": "sure",
+          "reason": "The Chairman proposes the United States draft for a new article on the equal freedom of women and men to marry (final UDHR Article 16) and compares it with the Byelorussian proposal on marriage and the family."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.6-0009",
+          "instrument": "UDHR",
+          "final_article": 16,
+          "certainty": "probable",
+          "reason": "During the debate on the proposed marriage and family article (final UDHR Article 16), the Chairman argues that the Byelorussian clause on mothers and children should be omitted from this article and dealt with under social security."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.6-0015",
+          "instrument": "UDHR",
+          "final_article": 16,
+          "certainty": "sure",
+          "reason": "The Chairman summarizes the four proposals for the new article on marriage and the family (final UDHR Article 16) and proposes voting on the first two paragraphs of the Philippine draft."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.6-0018",
+          "instrument": "UDHR",
+          "final_article": 16,
+          "certainty": "sure",
+          "reason": "The Chairman calls for a vote on the first sentence of the Philippine proposal on equal freedom of men and women to contract marriage (final UDHR Article 16)."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.6-0019",
+          "instrument": "UDHR",
+          "final_article": 16,
+          "certainty": "sure",
+          "reason": "Vote adopting the first sentence of the new article on the right to marry (final UDHR Article 16)."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.6-0020",
+          "instrument": "UDHR",
+          "final_article": 16,
+          "certainty": "sure",
+          "reason": "The Chairman calls for a vote on the second sentence of the Philippine proposal providing that marriage and the family shall be protected by the State and society (final UDHR Article 16)."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.6-0021",
+          "instrument": "UDHR",
+          "final_article": 16,
+          "certainty": "sure",
+          "reason": "Vote adopting the second sentence of the new article on protection of marriage and the family (final UDHR Article 16)."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.6-0022",
+          "instrument": "UDHR",
+          "final_article": 16,
+          "certainty": "sure",
+          "reason": "The Chairman states that the newly adopted text on marriage and the family will form a separate article following Article 15 (final UDHR Article 16)."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.6-0024",
+          "instrument": "UDHR",
+          "final_article": 16,
+          "certainty": "sure",
+          "reason": "The Chairman suggests that the United Kingdom proposal on the right of married persons to reside together be placed in the comments on the newly adopted marriage article (final UDHR Article 16)."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.6-0027",
+          "instrument": "UDHR",
+          "final_article": 16,
+          "certainty": "sure",
+          "reason": "Decision to include as a comment on the newly adopted marriage and family article (final UDHR Article 16) that married persons should have the right to reside together."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/E_CN.4_AC.2_SR.9.json",
+      "opus": [
+        {
+          "id": "e_cn.4_ac.2_sr.9-0113",
+          "instrument": "UDHR",
+          "final_article": 1,
+          "certainty": "sure",
+          "reason": "Upon resumption of discussion on draft article 1, the Philippine representative proposes a new text for UDHR article 1."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.9-0114",
+          "instrument": "UDHR",
+          "final_article": 1,
+          "certainty": "sure",
+          "reason": "The USSR representative criticizes the proposed text of draft article 1 (UDHR article 1)."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.9-0115",
+          "instrument": "UDHR",
+          "final_article": 1,
+          "certainty": "sure",
+          "reason": "The French representative defends the reference to brotherhood in draft article 1 (UDHR article 1)."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.9-0116",
+          "instrument": "UDHR",
+          "final_article": 1,
+          "certainty": "sure",
+          "reason": "The Chair proposes revised wording for draft article 1 (UDHR article 1)."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.9-0117",
+          "instrument": "UDHR",
+          "final_article": 1,
+          "certainty": "sure",
+          "reason": "The USSR representative objects to the philosophical and deistic wording of the proposals for draft article 1 (UDHR article 1) and asks for its deletion."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.9-0118",
+          "instrument": "UDHR",
+          "final_article": 1,
+          "certainty": "sure",
+          "reason": "The Chair calls for a vote on the joint Philippine-French text of draft article 1 (UDHR article 1)."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "e_cn.4_ac.2_sr.9-0113",
+          "instrument": "UDHR",
+          "final_article": 1,
+          "certainty": "sure",
+          "reason": "Upon resuming discussion of draft Article 1 (final UDHR Article 1), Romulo proposes a new text stating that all men are brothers, endowed with reason and conscience, and born free and equal in dignity and rights."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.9-0114",
+          "instrument": "UDHR",
+          "final_article": 1,
+          "certainty": "sure",
+          "reason": "Bogomolov criticizes the proposed text for draft Article 1 (final UDHR Article 1)."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.9-0115",
+          "instrument": "UDHR",
+          "final_article": 1,
+          "certainty": "sure",
+          "reason": "Cassin defends the brotherhood formulation in draft Article 1 (final UDHR Article 1) and suggests 'should act like brothers'."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.9-0116",
+          "instrument": "UDHR",
+          "final_article": 1,
+          "certainty": "sure",
+          "reason": "The Chairman proposes revised wording for draft Article 1 (final UDHR Article 1)."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.9-0117",
+          "instrument": "UDHR",
+          "final_article": 1,
+          "certainty": "sure",
+          "reason": "Bogomolov objects to the philosophical and deistic origins of the proposals for draft Article 1 (final UDHR Article 1) and asks for its deletion."
+        },
+        {
+          "id": "e_cn.4_ac.2_sr.9-0118",
+          "instrument": "UDHR",
+          "final_article": 1,
+          "certainty": "sure",
+          "reason": "The Chairman calls for a vote on the joint Philippine-French text of draft Article 1 (final UDHR Article 1)."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/E_CN.4_SR.102.json",
+      "opus": [
+        {
+          "id": "e_cn.4_sr.102-0014",
+          "instrument": "ICCPR",
+          "final_article": 9,
+          "certainty": "sure",
+          "reason": "The United States representative argues for including its amendment on non-suspension of habeas corpus directly in the text of draft article 9 (ICCPR article 9)."
+        },
+        {
+          "id": "e_cn.4_sr.102-0015",
+          "instrument": "ICCPR",
+          "final_article": 9,
+          "certainty": "probable",
+          "reason": "During the debate on draft article 9 (ICCPR article 9), the French representative argues that deferring the United States amendment on habeas corpus suspension until article 4 is discussed will not endanger it."
+        },
+        {
+          "id": "e_cn.4_sr.102-0016",
+          "instrument": "ICCPR",
+          "final_article": 9,
+          "certainty": "sure",
+          "reason": "The United States representative requests an immediate vote on her delegation's amendment to draft article 9 (ICCPR article 9)."
+        },
+        {
+          "id": "e_cn.4_sr.102-0018",
+          "instrument": "ICCPR",
+          "final_article": 9,
+          "certainty": "sure",
+          "reason": "Decision to postpone the vote on draft article 9 (ICCPR article 9) as a whole until article 4 has been adopted."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "e_cn.4_sr.102-0014",
+          "instrument": "ICCPR",
+          "final_article": 9,
+          "certainty": "sure",
+          "reason": "The Chairman, speaking as the US representative, explains why the US amendment restricting suspension of habeas corpus should be included directly in draft Article 9 (final ICCPR Article 9) rather than left to Article 4."
+        },
+        {
+          "id": "e_cn.4_sr.102-0015",
+          "instrument": "ICCPR",
+          "final_article": 9,
+          "certainty": "probable",
+          "reason": "During the debate on the US amendment to draft Article 9 (final ICCPR Article 9), Cassin argues that deferring the vote until Article 4 is discussed will not endanger the US amendment."
+        },
+        {
+          "id": "e_cn.4_sr.102-0016",
+          "instrument": "ICCPR",
+          "final_article": 9,
+          "certainty": "sure",
+          "reason": "The Chairman, speaking as the US representative, states her preference for an immediate vote on the US amendment to draft Article 9 (final ICCPR Article 9)."
+        },
+        {
+          "id": "e_cn.4_sr.102-0018",
+          "instrument": "ICCPR",
+          "final_article": 9,
+          "certainty": "sure",
+          "reason": "The Chairman accepts the USSR proposal to postpone the vote on draft Article 9 (final ICCPR Article 9) as a whole until Article 4 has been adopted."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/E_CN.4_SR.121.json",
+      "opus": [
+        {
+          "id": "e_cn.4_sr.121-0058",
+          "instrument": "ICCPR",
+          "final_article": 22,
+          "certainty": "sure",
+          "reason": "The Chair puts to the vote the USSR amendment to the United States text of draft article 19 on freedom of association (ICCPR article 22)."
+        },
+        {
+          "id": "e_cn.4_sr.121-0059",
+          "instrument": "ICCPR",
+          "final_article": 22,
+          "certainty": "sure",
+          "reason": "Vote rejecting the USSR amendment to draft article 19 (ICCPR article 22)."
+        },
+        {
+          "id": "e_cn.4_sr.121-0060",
+          "instrument": "ICCPR",
+          "final_article": 22,
+          "certainty": "sure",
+          "reason": "The Chair puts to the vote the French amendment to draft article 19 (ICCPR article 22)."
+        },
+        {
+          "id": "e_cn.4_sr.121-0061",
+          "instrument": "ICCPR",
+          "final_article": 22,
+          "certainty": "sure",
+          "reason": "Vote adopting the French amendment to draft article 19 (ICCPR article 22)."
+        },
+        {
+          "id": "e_cn.4_sr.121-0062",
+          "instrument": "ICCPR",
+          "final_article": 22,
+          "certainty": "sure",
+          "reason": "The Chair puts to the vote the Lebanese amendment to draft article 19 (ICCPR article 22)."
+        },
+        {
+          "id": "e_cn.4_sr.121-0063",
+          "instrument": "ICCPR",
+          "final_article": 22,
+          "certainty": "sure",
+          "reason": "Vote rejecting the Lebanese amendment to draft article 19 (ICCPR article 22)."
+        },
+        {
+          "id": "e_cn.4_sr.121-0064",
+          "instrument": "ICCPR",
+          "final_article": 22,
+          "certainty": "sure",
+          "reason": "The Chair puts to the vote the Egyptian amendment to draft article 19 (ICCPR article 22)."
+        },
+        {
+          "id": "e_cn.4_sr.121-0065",
+          "instrument": "ICCPR",
+          "final_article": 22,
+          "certainty": "sure",
+          "reason": "Vote adopting the Egyptian amendment to draft article 19 (ICCPR article 22)."
+        },
+        {
+          "id": "e_cn.4_sr.121-0066",
+          "instrument": "ICCPR",
+          "final_article": 22,
+          "certainty": "sure",
+          "reason": "The Chair puts to the vote the first part of the United States text of draft article 19 (ICCPR article 22)."
+        },
+        {
+          "id": "e_cn.4_sr.121-0067",
+          "instrument": "ICCPR",
+          "final_article": 22,
+          "certainty": "sure",
+          "reason": "Vote adopting the first part of the United States text of draft article 19 (ICCPR article 22)."
+        },
+        {
+          "id": "e_cn.4_sr.121-0068",
+          "instrument": "ICCPR",
+          "final_article": 22,
+          "certainty": "sure",
+          "reason": "The Chair puts to the vote the second part of the United States text of draft article 19 as amended (ICCPR article 22)."
+        },
+        {
+          "id": "e_cn.4_sr.121-0069",
+          "instrument": "ICCPR",
+          "final_article": 22,
+          "certainty": "sure",
+          "reason": "Vote adopting the second part of the United States text of draft article 19 as amended (ICCPR article 22)."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "e_cn.4_sr.121-0058",
+          "instrument": "ICCPR",
+          "final_article": 22,
+          "certainty": "sure",
+          "reason": "The Chairman puts to the vote the USSR amendment to the US text of draft Article 19 on freedom of association (final ICCPR Article 22)."
+        },
+        {
+          "id": "e_cn.4_sr.121-0059",
+          "instrument": "ICCPR",
+          "final_article": 22,
+          "certainty": "sure",
+          "reason": "Vote rejecting the USSR amendment to draft Article 19 (final ICCPR Article 22)."
+        },
+        {
+          "id": "e_cn.4_sr.121-0060",
+          "instrument": "ICCPR",
+          "final_article": 22,
+          "certainty": "sure",
+          "reason": "The Chairman puts to the vote the French amendment, as amended by the US, to draft Article 19 (final ICCPR Article 22)."
+        },
+        {
+          "id": "e_cn.4_sr.121-0061",
+          "instrument": "ICCPR",
+          "final_article": 22,
+          "certainty": "sure",
+          "reason": "Vote adopting the French amendment to draft Article 19 (final ICCPR Article 22)."
+        },
+        {
+          "id": "e_cn.4_sr.121-0062",
+          "instrument": "ICCPR",
+          "final_article": 22,
+          "certainty": "sure",
+          "reason": "The Chairman puts to the vote the Lebanese amendment to draft Article 19 (final ICCPR Article 22)."
+        },
+        {
+          "id": "e_cn.4_sr.121-0063",
+          "instrument": "ICCPR",
+          "final_article": 22,
+          "certainty": "sure",
+          "reason": "Vote rejecting the Lebanese amendment to draft Article 19 (final ICCPR Article 22)."
+        },
+        {
+          "id": "e_cn.4_sr.121-0064",
+          "instrument": "ICCPR",
+          "final_article": 22,
+          "certainty": "sure",
+          "reason": "The Chairman puts to the vote the Egyptian amendment deleting 'reasonable and' from the US text of draft Article 19 (final ICCPR Article 22)."
+        },
+        {
+          "id": "e_cn.4_sr.121-0065",
+          "instrument": "ICCPR",
+          "final_article": 22,
+          "certainty": "sure",
+          "reason": "Vote adopting the Egyptian amendment to draft Article 19 (final ICCPR Article 22)."
+        },
+        {
+          "id": "e_cn.4_sr.121-0066",
+          "instrument": "ICCPR",
+          "final_article": 22,
+          "certainty": "sure",
+          "reason": "The Chairman puts to the vote the first part of the US text of draft Article 19 (final ICCPR Article 22)."
+        },
+        {
+          "id": "e_cn.4_sr.121-0067",
+          "instrument": "ICCPR",
+          "final_article": 22,
+          "certainty": "sure",
+          "reason": "Vote adopting the first part of the US text of draft Article 19 (final ICCPR Article 22)."
+        },
+        {
+          "id": "e_cn.4_sr.121-0068",
+          "instrument": "ICCPR",
+          "final_article": 22,
+          "certainty": "sure",
+          "reason": "The Chairman puts to the vote the second part of the US text of draft Article 19 (final ICCPR Article 22), as amended by Egypt and France."
+        },
+        {
+          "id": "e_cn.4_sr.121-0069",
+          "instrument": "ICCPR",
+          "final_article": 22,
+          "certainty": "sure",
+          "reason": "Vote adopting the second part of the US text of draft Article 19 (final ICCPR Article 22), as amended."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/E_CN.4_SR.149.json",
+      "opus": [
+        {
+          "id": "e_cn.4_sr.149-0054",
+          "instrument": "ICCPR",
+          "final_article": 6,
+          "certainty": "sure",
+          "reason": "During the discussion of draft article 5 on the right to life (ICCPR article 6), the United States representative supports the Egyptian proposal to delete adjectives qualifying the tribunal."
+        },
+        {
+          "id": "e_cn.4_sr.149-0055",
+          "instrument": "ICCPR",
+          "final_article": 6,
+          "certainty": "sure",
+          "reason": "The Chinese representative comments on the words 'competent' and 'intentional' in the Lebanese amendment to draft article 5 (ICCPR article 6)."
+        },
+        {
+          "id": "e_cn.4_sr.149-0056",
+          "instrument": "ICCPR",
+          "final_article": 6,
+          "certainty": "sure",
+          "reason": "The Lebanese representative agrees to delete the word 'independent' from his amendment to draft article 5 (ICCPR article 6)."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "e_cn.4_sr.149-0054",
+          "instrument": "ICCPR",
+          "final_article": 6,
+          "certainty": "sure",
+          "reason": "During the discussion of draft Article 5 on the right to life (final ICCPR Article 6), the Chairman supports the Egyptian proposal to delete the adjectives qualifying the tribunal in the Lebanese amendment."
+        },
+        {
+          "id": "e_cn.4_sr.149-0055",
+          "instrument": "ICCPR",
+          "final_article": 6,
+          "certainty": "sure",
+          "reason": "Chang comments on the words 'competent' and 'intentional' in the Lebanese amendment to draft Article 5 (final ICCPR Article 6) and asks for a separate vote on 'intentional'."
+        },
+        {
+          "id": "e_cn.4_sr.149-0056",
+          "instrument": "ICCPR",
+          "final_article": 6,
+          "certainty": "sure",
+          "reason": "Malik agrees to delete the word 'independent' before 'tribunal' in his amendment to draft Article 5 (final ICCPR Article 6) provided it is retained in draft Article 13."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/E_CN.4_SR.195.json",
+      "opus": [
+        {
+          "id": "e_cn.4_sr.195-0141",
+          "instrument": "ICCPR",
+          "final_article": 4,
+          "certainty": "sure",
+          "reason": "The Chairman puts to the vote the French amendment to paragraph 2 of draft article 4 (list of non-derogable articles under the derogation clause, final ICCPR Article 4)."
+        },
+        {
+          "id": "e_cn.4_sr.195-0142",
+          "instrument": "ICCPR",
+          "final_article": 4,
+          "certainty": "sure",
+          "reason": "Vote adopting the French amendment to paragraph 2 of draft article 4 (final ICCPR Article 4)."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "e_cn.4_sr.195-0141",
+          "instrument": "ICCPR",
+          "final_article": 4,
+          "certainty": "sure",
+          "reason": "The Chairman puts to the vote the French amendment to paragraph 2 of draft article 4 (non-derogable provisions in public emergencies, final ICCPR article 4)."
+        },
+        {
+          "id": "e_cn.4_sr.195-0142",
+          "instrument": "ICCPR",
+          "final_article": 4,
+          "certainty": "sure",
+          "reason": "Records the adoption of the French amendment to paragraph 2 of draft article 4 (final ICCPR article 4)."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/E_CN.4_SR.200.json",
+      "opus": [
+        {
+          "id": "e_cn.4_sr.200-0089",
+          "instrument": "ICCPR",
+          "final_article": 41,
+          "certainty": "sure",
+          "reason": "Adoption of the UK amendment to paragraph 2 of draft article 20 of the Measures of Implementation concerning referral of inter-State disputes to the Human Rights Committee, corresponding to final ICCPR Article 41."
+        },
+        {
+          "id": "e_cn.4_sr.200-0091",
+          "instrument": "ICCPR",
+          "final_article": 41,
+          "certainty": "sure",
+          "reason": "Adoption of Belgian drafting amendments to paragraphs 1 and 2 of draft article 20 of the Measures of Implementation on inter-State communications (final ICCPR Article 41)."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "e_cn.4_sr.200-0089",
+          "instrument": "ICCPR",
+          "final_article": 41,
+          "certainty": "sure",
+          "reason": "Adopts the United Kingdom amendment to paragraph 2 of draft implementation article 20 on referring inter-State complaints to the Human Rights Committee (final ICCPR article 41)."
+        },
+        {
+          "id": "e_cn.4_sr.200-0091",
+          "instrument": "ICCPR",
+          "final_article": 41,
+          "certainty": "sure",
+          "reason": "Adopts the Belgian drafting amendments to paragraphs 1 and 2 of draft implementation article 20 on inter-State communications (final ICCPR article 41)."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/E_CN.4_SR.229.json",
+      "opus": [
+        {
+          "id": "e_cn.4_sr.229-0042",
+          "instrument": "ICESCR",
+          "final_article": 13,
+          "certainty": "sure",
+          "reason": "The UK representative explains the word 'available' in paragraph 3 of Article 1 of the Chilean proposal on the right to education ('that primary education should be compulsory and available free to all'), which became final ICESCR Article 13(2)(a)."
+        },
+        {
+          "id": "e_cn.4_sr.229-0043",
+          "instrument": "ICESCR",
+          "final_article": 13,
+          "certainty": "sure",
+          "reason": "The UNESCO representative proposes the French translation of 'available free to all' in paragraph 3 of Article 1 of the Chilean proposal on the right to education (final ICESCR Article 13)."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "e_cn.4_sr.229-0042",
+          "instrument": "ICESCR",
+          "final_article": 13,
+          "certainty": "sure",
+          "reason": "The United Kingdom representative explains the word 'available' in paragraph 3 ('that primary education should be compulsory and available free to all') of Article 1 of the Chilean proposal on the right to education (final ICESCR article 13)."
+        },
+        {
+          "id": "e_cn.4_sr.229-0043",
+          "instrument": "ICESCR",
+          "final_article": 13,
+          "certainty": "sure",
+          "reason": "The UNESCO representative proposes the French translation of 'available free to all' in paragraph 3 of Article 1 of the Chilean proposal on the right to education (final ICESCR article 13)."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/E_CN.4_SR.258.json",
+      "opus": [
+        {
+          "id": "e_cn.4_sr.258-0049",
+          "instrument": "ICCPR+ICESCR",
+          "final_article": 1,
+          "certainty": "sure",
+          "reason": "The Chairman comments on the inclusion and similarity of the draft article on the right of peoples to self-determination in both Covenants (final Article 1 of both the ICCPR and the ICESCR)."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "e_cn.4_sr.258-0049",
+          "instrument": "ICCPR+ICESCR",
+          "final_article": 1,
+          "certainty": "sure",
+          "reason": "The Chairman comments on including the article on the right of peoples to self-determination in both Covenants and whether their wording should be similar (final ICCPR and ICESCR article 1)."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/E_CN.4_SR.37.json",
+      "opus": [
+        {
+          "id": "e_cn.4_sr.37-0010",
+          "instrument": "ICCPR",
+          "final_article": 15,
+          "certainty": "sure",
+          "reason": "The Chairman puts to the vote the proposal to add the second paragraph (on acts criminal under general principles of law recognized by civilized nations) to draft Article 13 of the Convention, which became final ICCPR Article 15(2)."
+        },
+        {
+          "id": "e_cn.4_sr.37-0011",
+          "instrument": "ICCPR",
+          "final_article": 15,
+          "certainty": "sure",
+          "reason": "Vote adopting the second paragraph of draft Article 13 of the Convention (final ICCPR Article 15)."
+        },
+        {
+          "id": "e_cn.4_sr.37-0012",
+          "instrument": "ICCPR",
+          "final_article": 15,
+          "certainty": "sure",
+          "reason": "The Chairman puts to the vote the first paragraph of draft Article 13 of the Convention on non-retroactivity of criminal law (final ICCPR Article 15)."
+        },
+        {
+          "id": "e_cn.4_sr.37-0013",
+          "instrument": "ICCPR",
+          "final_article": 15,
+          "certainty": "sure",
+          "reason": "Vote adopting the first paragraph of draft Article 13 of the Convention (final ICCPR Article 15)."
+        },
+        {
+          "id": "e_cn.4_sr.37-0022",
+          "instrument": "UDHR",
+          "final_article": 4,
+          "certainty": "sure",
+          "reason": "The Chairman puts to the vote and the Commission rejects Lord Dukeston's amendment to draft Article 11 of the Declaration on slavery and compulsory labour (final UDHR Article 4)."
+        },
+        {
+          "id": "e_cn.4_sr.37-0064",
+          "instrument": "UDHR",
+          "final_article": 16,
+          "certainty": "sure",
+          "reason": "Vote adopting the first sentence of Dr. Malik's amendment ('The family deriving from marriage is the natural and fundamental group unit of society') to draft Article 15A of the Declaration (final UDHR Article 16)."
+        },
+        {
+          "id": "e_cn.4_sr.37-0065",
+          "instrument": "UDHR",
+          "final_article": 16,
+          "certainty": "sure",
+          "reason": "Vote rejecting the second sentence of Dr. Malik's amendment to draft Article 15A of the Declaration (final UDHR Article 16)."
+        },
+        {
+          "id": "e_cn.4_sr.37-0066",
+          "instrument": "UDHR",
+          "final_article": 16,
+          "certainty": "sure",
+          "reason": "Vote adopting draft Article 15A of the Declaration on marriage and the family as amended (final UDHR Article 16)."
+        },
+        {
+          "id": "e_cn.4_sr.37-0080",
+          "instrument": "UDHR",
+          "final_article": 18,
+          "certainty": "sure",
+          "reason": "Vote adopting the Philippine substitute text for paragraph 2 of draft Article 20 of the Declaration on freedom of thought, conscience and religion (final UDHR Article 18)."
+        },
+        {
+          "id": "e_cn.4_sr.37-0091",
+          "instrument": "UDHR",
+          "final_article": 19,
+          "certainty": "probable",
+          "reason": "Vote on the UK amendment to delete paragraph 5 (concerning whether freedom of information is dependent on social, economic and political conditions) and on the resolution referring the freedom of information articles (Declaration Articles 21-22, final UDHR Article 19, and Convention Article 16, final ICCPR Article 19) to the Sub-Commission and Conference on Freedom of Information."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "e_cn.4_sr.37-0010",
+          "instrument": "ICCPR",
+          "final_article": 15,
+          "certainty": "sure",
+          "reason": "The Chairman puts to the vote the proposal to add the Belgian-Philippine clause on acts criminal under general principles of law as a second paragraph to Article 13 of the draft Convention (final ICCPR article 15)."
+        },
+        {
+          "id": "e_cn.4_sr.37-0011",
+          "instrument": "ICCPR",
+          "final_article": 15,
+          "certainty": "sure",
+          "reason": "Records the vote adopting the second paragraph of Article 13 of the draft Convention (final ICCPR article 15)."
+        },
+        {
+          "id": "e_cn.4_sr.37-0012",
+          "instrument": "ICCPR",
+          "final_article": 15,
+          "certainty": "sure",
+          "reason": "The Chairman puts to the vote the first paragraph of Article 13 of the draft Convention on non-retroactivity of criminal offences and penalties (final ICCPR article 15)."
+        },
+        {
+          "id": "e_cn.4_sr.37-0013",
+          "instrument": "ICCPR",
+          "final_article": 15,
+          "certainty": "sure",
+          "reason": "Records the adoption of the first paragraph of Article 13 of the draft Convention (final ICCPR article 15)."
+        },
+        {
+          "id": "e_cn.4_sr.37-0022",
+          "instrument": "UDHR",
+          "final_article": 4,
+          "certainty": "sure",
+          "reason": "The Chairman responds regarding comments by specialized agencies and puts to the vote Lord Dukeston's amendment to Article 11 of the draft Declaration on compulsory labour (final UDHR article 4)."
+        },
+        {
+          "id": "e_cn.4_sr.37-0064",
+          "instrument": "UDHR",
+          "final_article": 16,
+          "certainty": "sure",
+          "reason": "The Chairman puts to the vote the first sentence of Dr. Malik's amendment to Article 15A of the draft Declaration on the family as the natural and fundamental group unit of society (final UDHR article 16)."
+        },
+        {
+          "id": "e_cn.4_sr.37-0065",
+          "instrument": "UDHR",
+          "final_article": 16,
+          "certainty": "sure",
+          "reason": "Records the rejection of the second sentence of Dr. Malik's amendment to Article 15A of the draft Declaration (final UDHR article 16)."
+        },
+        {
+          "id": "e_cn.4_sr.37-0066",
+          "instrument": "UDHR",
+          "final_article": 16,
+          "certainty": "sure",
+          "reason": "The Chairman puts to the vote and records the adoption of Article 15A of the draft Declaration as amended (final UDHR article 16)."
+        },
+        {
+          "id": "e_cn.4_sr.37-0080",
+          "instrument": "UDHR",
+          "final_article": 18,
+          "certainty": "sure",
+          "reason": "The Chairman puts to the vote the Philippine substitute text for paragraph 2 of Article 20 of the draft Declaration on manifesting beliefs (final UDHR article 18)."
+        },
+        {
+          "id": "e_cn.4_sr.37-0091",
+          "instrument": "UDHR",
+          "final_article": 19,
+          "certainty": "probable",
+          "reason": "Under the joint heading on Declaration Articles 21 and 22 (final UDHR article 19) and Resolution 1 of the Convention Report (relating also to Convention Article 16, final ICCPR article 19), the Commission votes on the UK amendment and adopts the resolution referring the freedom of information provisions."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/E_CN.4_SR.426.json",
+      "opus": [
+        {
+          "id": "e_cn.4_sr.426-0002",
+          "instrument": "ICESCR",
+          "final_article": 23,
+          "certainty": "sure",
+          "reason": "The Chairman rules that discussion of draft article 67 (international action for the achievement of ICESCR rights, final ICESCR Article 23) should be completed first and explains how the Polish amendment to article 67 will be put to the vote."
+        },
+        {
+          "id": "e_cn.4_sr.426-0004",
+          "instrument": "ICESCR",
+          "final_article": 23,
+          "certainty": "sure",
+          "reason": "The Chairman puts to the vote the second part of the Polish amendment (E/CN.4/L.330) to draft article 67 (final ICESCR Article 23)."
+        },
+        {
+          "id": "e_cn.4_sr.426-0005",
+          "instrument": "ICESCR",
+          "final_article": 23,
+          "certainty": "sure",
+          "reason": "Vote rejecting the second part of the Polish amendment to draft article 67 (final ICESCR Article 23)."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "e_cn.4_sr.426-0002",
+          "instrument": "ICESCR",
+          "final_article": 23,
+          "certainty": "sure",
+          "reason": "The Chairman states that discussion of draft article 67 (international action for the achievement of economic, social and cultural rights, final ICESCR article 23) should be finished before touching on article 69, and rules on the voting procedure for the Polish amendment to article 67."
+        },
+        {
+          "id": "e_cn.4_sr.426-0004",
+          "instrument": "ICESCR",
+          "final_article": 23,
+          "certainty": "sure",
+          "reason": "The Chairman puts to the vote the second part of the Polish amendment to draft article 67 (final ICESCR article 23)."
+        },
+        {
+          "id": "e_cn.4_sr.426-0005",
+          "instrument": "ICESCR",
+          "final_article": 23,
+          "certainty": "sure",
+          "reason": "Records the rejection of the Polish amendment to draft article 67 (final ICESCR article 23)."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/E_CN.4_SR.56.json",
+      "opus": [
+        {
+          "id": "e_cn.4_sr.56-0004",
+          "instrument": "UDHR",
+          "final_article": 11,
+          "certainty": "sure",
+          "reason": "The Chairman reads out the drafting sub-committee's text for draft Article 8, paragraph 1 (presumption of innocence and public trial, final UDHR Article 11) and proposes deleting the exception clause."
+        },
+        {
+          "id": "e_cn.4_sr.56-0006",
+          "instrument": "UDHR",
+          "final_article": 11,
+          "certainty": "sure",
+          "reason": "The UK representative supports the Chinese amendment to draft Article 8, paragraph 1 (final UDHR Article 11)."
+        },
+        {
+          "id": "e_cn.4_sr.56-0007",
+          "instrument": "UDHR",
+          "final_article": 11,
+          "certainty": "sure",
+          "reason": "Vote rejecting the Chinese amendment to draft Article 8, paragraph 1 (final UDHR Article 11)."
+        },
+        {
+          "id": "e_cn.4_sr.56-0008",
+          "instrument": "UDHR",
+          "final_article": 11,
+          "certainty": "sure",
+          "reason": "The Chairman puts the first part of the first sentence of draft Article 8, paragraph 1 (final UDHR Article 11) to a vote in parts."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "e_cn.4_sr.56-0004",
+          "instrument": "UDHR",
+          "final_article": 11,
+          "certainty": "sure",
+          "reason": "The Chairman reads out the drafting sub-committee's text for draft article 8, paragraph 1 on presumption of innocence and public trial (final UDHR article 11) and proposes deleting the clause on exceptions."
+        },
+        {
+          "id": "e_cn.4_sr.56-0006",
+          "instrument": "UDHR",
+          "final_article": 11,
+          "certainty": "sure",
+          "reason": "The United Kingdom representative supports the Chinese amendment to draft article 8, paragraph 1 (final UDHR article 11)."
+        },
+        {
+          "id": "e_cn.4_sr.56-0007",
+          "instrument": "UDHR",
+          "final_article": 11,
+          "certainty": "sure",
+          "reason": "Records the rejection of the Chinese amendment to draft article 8, paragraph 1 (final UDHR article 11)."
+        },
+        {
+          "id": "e_cn.4_sr.56-0008",
+          "instrument": "UDHR",
+          "final_article": 11,
+          "certainty": "sure",
+          "reason": "The Chairman proposes voting on draft article 8, paragraph 1 (final UDHR article 11) in four parts and puts the first part to the vote."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/E_CN.4_SR.71.json",
+      "opus": [
+        {
+          "id": "e_cn.4_sr.71-0053",
+          "instrument": "UDHR",
+          "final_article": 25,
+          "certainty": "sure",
+          "reason": "Vote adopting the UK amendment to the ILO text for paragraph 1 of joint draft article 25/26 on an adequate standard of living and security in case of unemployment, sickness, etc. (final UDHR Article 25)."
+        },
+        {
+          "id": "e_cn.4_sr.71-0054",
+          "instrument": "UDHR",
+          "final_article": 25,
+          "certainty": "sure",
+          "reason": "Vote adopting the amended ILO text as paragraph 1 of joint draft article 25/26 (final UDHR Article 25(1)) and proceeding to vote on the second paragraph concerning special protection for mothers and children (final UDHR Article 25(2))."
+        },
+        {
+          "id": "e_cn.4_sr.71-0055",
+          "instrument": "UDHR",
+          "final_article": 25,
+          "certainty": "sure",
+          "reason": "The Chairman clarifies the scope of the second paragraph on special care and protection for mothers and children in joint draft article 25/26 (final UDHR Article 25(2))."
+        },
+        {
+          "id": "e_cn.4_sr.71-0056",
+          "instrument": "UDHR",
+          "final_article": 25,
+          "certainty": "sure",
+          "reason": "Vote unanimously adopting the second paragraph on special protection for mothers and children as part of joint draft article 25/26 (final UDHR Article 25(2))."
+        },
+        {
+          "id": "e_cn.4_sr.71-0057",
+          "instrument": "UDHR",
+          "final_article": 25,
+          "certainty": "sure",
+          "reason": "Mr. Cassin explains his abstention on paragraph 1 of joint draft article 25/26 (final UDHR Article 25(1))."
+        },
+        {
+          "id": "e_cn.4_sr.71-0058",
+          "instrument": "UDHR",
+          "final_article": 25,
+          "certainty": "sure",
+          "reason": "Mr. Hood concurs with Mr. Cassin's explanation of vote regarding paragraph 1 of joint draft article 25/26 (final UDHR Article 25(1))."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "e_cn.4_sr.71-0053",
+          "instrument": "UDHR",
+          "final_article": 25,
+          "certainty": "sure",
+          "reason": "Records the adoption of the United Kingdom amendment and the vote on the ILO text for paragraph 1 of joint draft article 25/26 on an adequate standard of living and security in case of lack of livelihood (final UDHR article 25)."
+        },
+        {
+          "id": "e_cn.4_sr.71-0054",
+          "instrument": "UDHR",
+          "final_article": 25,
+          "certainty": "sure",
+          "reason": "Records the adoption of the amended ILO text for paragraph 1 and moves to the vote on the second paragraph dealing with special protection for mothers and children (final UDHR article 25)."
+        },
+        {
+          "id": "e_cn.4_sr.71-0055",
+          "instrument": "UDHR",
+          "final_article": 25,
+          "certainty": "sure",
+          "reason": "The Chairman clarifies that the second paragraph of joint draft article 25/26 refers to mothers and children in general (final UDHR article 25, paragraph 2)."
+        },
+        {
+          "id": "e_cn.4_sr.71-0056",
+          "instrument": "UDHR",
+          "final_article": 25,
+          "certainty": "sure",
+          "reason": "Records the unanimous adoption of the second paragraph on special care and assistance for mothers and children (final UDHR article 25, paragraph 2)."
+        },
+        {
+          "id": "e_cn.4_sr.71-0057",
+          "instrument": "UDHR",
+          "final_article": 25,
+          "certainty": "probable",
+          "reason": "Mr. Cassin explains his abstention on paragraph 1 of joint draft article 25/26 (final UDHR article 25) because it omitted the term 'social security', reserving the right to raise it under the 'umbrella' clause (final UDHR article 22)."
+        },
+        {
+          "id": "e_cn.4_sr.71-0058",
+          "instrument": "UDHR",
+          "final_article": 25,
+          "certainty": "probable",
+          "reason": "Mr. Hood associates himself with Mr. Cassin's explanation of vote on paragraph 1 of joint draft article 25/26 (final UDHR article 25)."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/E_CN.4_SR.77.json",
+      "opus": [
+        {
+          "id": "e_cn.4_sr.77-0023",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Purely procedural vote on the arrangement and ordering of already-adopted articles in the Declaration (where to place draft article 12 relative to draft article 3) without substantive debate on any article."
+        },
+        {
+          "id": "e_cn.4_sr.77-0024",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Vote rejecting the proposal on the arrangement and order of articles in the Declaration."
+        },
+        {
+          "id": "e_cn.4_sr.77-0026",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Vote adopting the Lebanese proposal on the arrangement and renumbering of articles in the Declaration."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "e_cn.4_sr.77-0023",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Purely procedural vote on the arrangement of articles in the Declaration (where to place draft article 12, UDHR 6, relative to article 3, UDHR 3) without substantive debate on the article."
+        },
+        {
+          "id": "e_cn.4_sr.77-0024",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Records the rejection of the procedural proposal regarding the placement of draft article 12 in the order of articles of the Declaration."
+        },
+        {
+          "id": "e_cn.4_sr.77-0026",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Records the adoption of the Lebanese procedural proposal regarding the placement of draft article 12 and the renumbering of subsequent articles in the Declaration."
+        }
+      ]
+    },
+    {
+      "file": "eval/round122/input/E_CN.4_SR.91.json",
+      "opus": [
+        {
+          "id": "e_cn.4_sr.91-0018",
+          "instrument": "ICCPR",
+          "final_article": 7,
+          "certainty": "sure",
+          "reason": "The Chairman invites the representative of the International Union of Catholic Women's Leagues to speak on draft article 6 concerning physical mutilation and experimentation (final ICCPR Article 7)."
+        },
+        {
+          "id": "e_cn.4_sr.91-0019",
+          "instrument": "ICCPR",
+          "final_article": 7,
+          "certainty": "sure",
+          "reason": "Statement opposing the Danish amendment to draft article 6 on physical mutilation, sterilization, and castration (final ICCPR Article 7)."
+        }
+      ],
+      "sonnet": [
+        {
+          "id": "e_cn.4_sr.91-0018",
+          "instrument": "ICCPR",
+          "final_article": 7,
+          "certainty": "sure",
+          "reason": "The Chairman invites the representative of the International Union of Catholic Women's Leagues to make a statement on draft article 6 concerning physical mutilation and experimentation (final ICCPR article 7)."
+        },
+        {
+          "id": "e_cn.4_sr.91-0019",
+          "instrument": "ICCPR",
+          "final_article": 7,
+          "certainty": "sure",
+          "reason": "Miss Schaefer speaks against the Danish amendment to draft article 6 on sterilization, castration, and bodily mutilation (final ICCPR article 7)."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+[
+ {
+  "item": 1,
+  "id": "a_c.3_sr.1009-0013",
+  "kind": "procedural",
+  "tag": "ICCPR 15"
+ },
+ {
+  "item": 2,
+  "id": "a_c.3_sr.1012-0023",
+  "kind": "procedural",
+  "tag": "ICCPR 15"
+ },
+ {
+  "item": 3,
+  "id": "a_c.3_sr.1073-0005",
+  "kind": "procedural",
+  "tag": "ICCPR 19"
+ },
+ {
+  "item": 4,
+  "id": "a_c.3_sr.1091-0020",
+  "kind": "procedural",
+  "tag": "ICCPR 23"
+ },
+ {
+  "item": 5,
+  "id": "a_c.3_sr.1205-0018",
+  "kind": "procedural",
+  "tag": "ICESCR 2"
+ },
+ {
+  "item": 6,
+  "id": "a_c.3_sr.1260-0011",
+  "kind": "procedural",
+  "tag": "ICCPR 4"
+ },
+ {
+  "item": 7,
+  "id": "a_c.3_sr.1403-0016",
+  "kind": "procedural",
+  "tag": "ICESCR 21"
+ },
+ {
+  "item": 8,
+  "id": "a_c.3_sr.1430-0010",
+  "kind": "procedural",
+  "tag": "ICCPR 42"
+ },
+ {
+  "item": 9,
+  "id": "a_c.3_sr.1431-0047",
+  "kind": "procedural",
+  "tag": "ICCPR 42"
+ },
+ {
+  "item": 10,
+  "id": "a_c.3_sr.651-0007",
+  "kind": "procedural",
+  "tag": "ICCPR+ICESCR 1"
+ },
+ {
+  "item": 11,
+  "id": "a_c.3_sr.712-0023",
+  "kind": "procedural",
+  "tag": "ICESCR 6"
+ },
+ {
+  "item": 12,
+  "id": "a_c.3_sr.734-0007",
+  "kind": "procedural",
+  "tag": "ICESCR 10"
+ },
+ {
+  "item": 13,
+  "id": "a_c.3_sr.739-0009",
+  "kind": "procedural",
+  "tag": "ICESCR 11"
+ },
+ {
+  "item": 14,
+  "id": "a_c.3_sr.744-0006",
+  "kind": "procedural",
+  "tag": "ICESCR 12"
+ },
+ {
+  "item": 15,
+  "id": "a_c.3_sr.780-0018",
+  "kind": "procedural",
+  "tag": "ICESCR 13"
+ },
+ {
+  "item": 16,
+  "id": "a_c.3_sr.781-0021",
+  "kind": "procedural",
+  "tag": "ICESCR 13"
+ },
+ {
+  "item": 17,
+  "id": "a_c.3_sr.784-0021",
+  "kind": "procedural",
+  "tag": "ICESCR 13"
+ },
+ {
+  "item": 18,
+  "id": "a_c.3_sr.794-0025",
+  "kind": "procedural",
+  "tag": "ICESCR 14"
+ },
+ {
+  "item": 19,
+  "id": "a_c.3_sr.798-0012",
+  "kind": "procedural",
+  "tag": "ICESCR 15"
+ },
+ {
+  "item": 20,
+  "id": "a_c.3_sr.818-0031",
+  "kind": "procedural",
+  "tag": "ICCPR 6"
+ },
+ {
+  "item": 21,
+  "id": "a_c.3_sr.858-0017",
+  "kind": "procedural",
+  "tag": "ICCPR 8"
+ },
+ {
+  "item": 22,
+  "id": "a_c.3_sr.862-0010",
+  "kind": "procedural",
+  "tag": "ICCPR 9"
+ },
+ {
+  "item": 23,
+  "id": "a_c.3_sr.968-0010",
+  "kind": "procedural",
+  "tag": "ICCPR 14"
+ },
+ {
+  "item": 24,
+  "id": "e_cn.4_sr.143-0009",
+  "kind": "procedural",
+  "tag": "ICCPR 8"
+ },
+ {
+  "item": 25,
+  "id": "e_cn.4_sr.146-0003",
+  "kind": "procedural",
+  "tag": "ICCPR 9"
+ },
+ {
+  "item": 26,
+  "id": "e_cn.4_sr.149-0009",
+  "kind": "procedural",
+  "tag": "ICCPR 8"
+ },
+ {
+  "item": 27,
+  "id": "e_cn.4_sr.150-0023",
+  "kind": "procedural",
+  "tag": "ICCPR 6"
+ },
+ {
+  "item": 28,
+  "id": "e_cn.4_sr.157-0082",
+  "kind": "procedural",
+  "tag": "ICCPR 14"
+ },
+ {
+  "item": 29,
+  "id": "e_cn.4_sr.160-0011",
+  "kind": "procedural",
+  "tag": "ICCPR 19"
+ },
+ {
+  "item": 30,
+  "id": "e_cn.4_sr.166-0004",
+  "kind": "procedural",
+  "tag": "ICCPR 19"
+ },
+ {
+  "item": 31,
+  "id": "e_cn.4_sr.171-0004",
+  "kind": "procedural",
+  "tag": "ICCPR 22"
+ },
+ {
+  "item": 32,
+  "id": "e_cn.4_sr.175-0004",
+  "kind": "procedural",
+  "tag": "ICCPR 26"
+ },
+ {
+  "item": 33,
+  "id": "e_cn.4_sr.183-0004",
+  "kind": "procedural",
+  "tag": "ICCPR 7"
+ },
+ {
+  "item": 34,
+  "id": "e_cn.4_sr.293-0006",
+  "kind": "procedural",
+  "tag": "ICESCR 15"
+ },
+ {
+  "item": 35,
+  "id": "e_cn.4_sr.311-0015",
+  "kind": "procedural",
+  "tag": "ICCPR 6"
+ },
+ {
+  "item": 36,
+  "id": "e_cn.4_sr.329-0027",
+  "kind": "procedural",
+  "tag": "ICCPR 2"
+ },
+ {
+  "item": 37,
+  "id": "e_cn.4_sr.348-0012",
+  "kind": "procedural",
+  "tag": "ICCPR 30"
+ },
+ {
+  "item": 38,
+  "id": "e_cn.4_sr.362-0002",
+  "kind": "procedural",
+  "tag": "ICCPR 41"
+ },
+ {
+  "item": 39,
+  "id": "e_cn.4_sr.93-0003",
+  "kind": "procedural",
+  "tag": "ICCPR 8"
+ },
+ {
+  "item": 40,
+  "id": "e_cn.4_sr.93-0016",
+  "kind": "procedural",
+  "tag": "ICCPR 8"
+ }
+]

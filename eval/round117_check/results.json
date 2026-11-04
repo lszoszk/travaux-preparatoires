@@ -1,0 +1,495 @@
+{
+  "summary": "Two blind judges (opus, sonnet) check 40 segments the vision-label step changed; a third (opus) on splits",
+  "agentCount": 3,
+  "logs": [],
+  "result": {
+    "opus": [
+      {
+        "item": 1,
+        "verdict": "right",
+        "reason": "Footnote citing the Inter-American Council of Jurists Final Act (marker '/' after 'Jurists,') moved to a footnote segment; the speech is intact."
+      },
+      {
+        "item": 2,
+        "verdict": "right",
+        "reason": "Footnote 'Subsequently circulated as A/C.3/L.875' moved to a footnote segment. Footnote 1 ('United Nations publication, Sales No.') still sits in the speech, but this change didn't cause it."
+      },
+      {
+        "item": 3,
+        "verdict": "right",
+        "reason": "Footnote 'Subsequently circulated as document A/C.3/L.939' moved to a footnote segment between paragraphs; no speech text lost."
+      },
+      {
+        "item": 4,
+        "verdict": "wrong",
+        "reason": "The footnote (Official Records, A/4785) was deleted instead of moved to a footnote segment, and 'Com=- mittee' was not rejoined."
+      },
+      {
+        "item": 5,
+        "verdict": "right",
+        "reason": "Law of the Sea conventions footnote (marker after 'sea,') moved to a footnote segment; the sentence continues cleanly at 'Vienna Convention'."
+      },
+      {
+        "item": 6,
+        "verdict": "right",
+        "reason": "Footnote 'Subsequently circulated as A/C.3/L.1250' moved to a footnote segment. The masthead left in the speech is old residue, not from this change."
+      },
+      {
+        "item": 7,
+        "verdict": "right",
+        "reason": "Footnote 'Subsequently circulated as A/C.3/L.1396' (marker after 'New Zealand,') moved to a footnote segment; the speech is intact."
+      },
+      {
+        "item": 8,
+        "verdict": "right",
+        "reason": "Footnote 'Article 29 of the draft declaration (A/777)' broke a sentence mid-phrase; it was moved to a footnote segment and the sentence now reads on."
+      },
+      {
+        "item": 9,
+        "verdict": "wrong",
+        "reason": "Only part of the running head was removed: '~ 4/C.3/SR.375' remains, and 'gene- ... rosity' was not rejoined as 'generosity'."
+      },
+      {
+        "item": 10,
+        "verdict": "right",
+        "reason": "Footnote citing the 1951 Refugee Conference Final Act sat mid-sentence; it was moved to a footnote segment and the sentence rejoins at 'in collecting funds'."
+      },
+      {
+        "item": 11,
+        "verdict": "right",
+        "reason": "Footnote 'Item 58 of the General Assembly agenda' sat mid-sentence; it was moved to a footnote segment and the sentence rejoins cleanly."
+      },
+      {
+        "item": 12,
+        "verdict": "right",
+        "reason": "Footnote 'Indicates the item number on the General Assembly agenda' moved to a footnote segment; the speech is intact."
+      },
+      {
+        "item": 13,
+        "verdict": "right",
+        "reason": "Footnote on the agenda item number moved to a footnote segment; 'serious set-backs' now rejoins correctly."
+      },
+      {
+        "item": 14,
+        "verdict": "right",
+        "reason": "Footnote 'proposals issued as A/C.3/L.427 and Add.1' removed from the procedural text and moved to a footnote segment; the sentence rejoins cleanly."
+      },
+      {
+        "item": 15,
+        "verdict": "right",
+        "reason": "Footnote 'Official Records, Ninth Session, Supplement No. 1' moved to a footnote segment; 'Independence and sovereignty' rejoins cleanly."
+      },
+      {
+        "item": 16,
+        "verdict": "right",
+        "reason": "ECOSOC Official Records footnote moved to a footnote segment; 'devotion of the United States' rejoins cleanly."
+      },
+      {
+        "item": 17,
+        "verdict": "right",
+        "reason": "Footnote on the joint UN/ILO forced-labour report moved to a footnote segment; the sentence continues at 'many countries'."
+      },
+      {
+        "item": 18,
+        "verdict": "right",
+        "reason": "Footnote 'Ibid., paras. 62 and 68' moved to a footnote segment. A stray 'Council,' was already in the text and remains."
+      },
+      {
+        "item": 19,
+        "verdict": "right",
+        "reason": "Footnote on the Tenth Inter-American Conference Final Act moved to a footnote segment between sentences; no speech text lost."
+      },
+      {
+        "item": 20,
+        "verdict": "right",
+        "reason": "Two footnotes split 'Ar-gentine'; both were moved to the footnote segment and the word was correctly rejoined as 'Argentine delegation'."
+      },
+      {
+        "item": 21,
+        "verdict": "right",
+        "reason": "Footnote 'Multilingual Demographic Dictionary' sat mid-sentence; it was moved to a footnote segment and 'adopted by the Ninth International Conference' rejoins."
+      },
+      {
+        "item": 22,
+        "verdict": "right",
+        "reason": "Closing line 'The meeting rose at 12.55 p.m.' now stands in its own closing segment; the leftover amendment note is correctly a footnote."
+      },
+      {
+        "item": 23,
+        "verdict": "right",
+        "reason": "A footnote split 'pub-lic'; it was moved to a footnote segment and the word correctly rejoined as 'public health services'."
+      },
+      {
+        "item": 24,
+        "verdict": "right",
+        "reason": "Footnote 1/ (ECOSOC Twenty-sixth Session, Supplement No. 8) moved to a footnote segment; 'of the Commission on Human Rights' rejoins."
+      },
+      {
+        "item": 25,
+        "verdict": "right",
+        "reason": "Footnote on ILO Convention No. 111 sat mid-sentence; it was moved to a footnote segment and the sentence rejoins at 'to circumstances'."
+      },
+      {
+        "item": 26,
+        "verdict": "right",
+        "reason": "Footnote citing A/3525, para. 75 moved to a footnote segment; the sentence rejoins at 'anyone who had been'."
+      },
+      {
+        "item": 27,
+        "verdict": "wrong",
+        "reason": "Text was added, not removed: '11 December 1946' was inserted into the middle of a contents entry, garbling the list."
+      },
+      {
+        "item": 28,
+        "verdict": "right",
+        "reason": "Footnote 'See Summary Record of the 222nd meeting' removed from the end of the speech and moved to a footnote segment."
+      },
+      {
+        "item": 29,
+        "verdict": "right",
+        "reason": "Chairman's note now stands in its own chair segment; the leftover '(1) See page 8 of this summary record' is correctly a footnote."
+      },
+      {
+        "item": 30,
+        "verdict": "right",
+        "reason": "Footnote '(1) General Assembly resolution 545(VI)' moved to a footnote segment; the speech continues at 'As to procedure'."
+      },
+      {
+        "item": 31,
+        "verdict": "right",
+        "reason": "Footnote on SR.373 split 'absolute ... equality' mid-sentence; it was moved to a footnote segment and the sentence rejoins."
+      },
+      {
+        "item": 32,
+        "verdict": "right",
+        "reason": "Editorial footnote on the misprinted Belgian amendment interrupted a sentence; it was moved to a footnote segment and 'prevented from actually dealing' rejoins."
+      },
+      {
+        "item": 33,
+        "verdict": "right",
+        "reason": "Footnote 'See summary record of the 367th meeting' removed from the end of the speech and moved to a footnote segment."
+      },
+      {
+        "item": 34,
+        "verdict": "right",
+        "reason": "Footnote '(1) Chapter IV appeared under the symbol E/CN.4/L.298/Add.5' (marker in text) moved out of the chair segment into a footnote segment."
+      },
+      {
+        "item": 35,
+        "verdict": "right",
+        "reason": "Asterisk footnote 'This correction only affects the French text' matches the '*' in the text; it was moved to a footnote segment and 'Agreed.' kept."
+      },
+      {
+        "item": 36,
+        "verdict": "right",
+        "reason": "Footnote citing GA resolution No. 50 split 'put ... forward'; it was moved to a footnote segment and the sentence rejoins."
+      },
+      {
+        "item": 37,
+        "verdict": "right",
+        "reason": "Footnote citing the 172nd meeting moved to a footnote segment; marker '1' and page number '61' remain, but the speech is intact."
+      },
+      {
+        "item": 38,
+        "verdict": "right",
+        "reason": "Footnote citing resolution 96 (I) moved to a footnote segment; the residue 'nner' was already there, and the speech text is intact."
+      },
+      {
+        "item": 39,
+        "verdict": "right",
+        "reason": "Closing line 'The meeting rose at 6.20 p.m.' now in its own closing segment; the leftover resolution 96 (I) note is correctly a footnote."
+      },
+      {
+        "item": 40,
+        "verdict": "wrong",
+        "reason": "Quoted ECOSOC resolution text moved into a footnote segment; it may be record text. Also 'page 43.' left behind, garbling 'on page 43. the subject'."
+      }
+    ],
+    "sonnet": [
+      {
+        "item": 1,
+        "verdict": "right",
+        "reason": "Removed text is a page footnote (Final Act citation); it now stands in a footnote segment."
+      },
+      {
+        "item": 2,
+        "verdict": "right",
+        "reason": "Removed text is a footnote about document A/C.3/L.875, now in a footnote segment; no speaker words lost."
+      },
+      {
+        "item": 3,
+        "verdict": "right",
+        "reason": "Footnote 'Subsequently circulated as document' moved to a footnote segment; speech continues cleanly."
+      },
+      {
+        "item": 4,
+        "verdict": "wrong",
+        "reason": "Footnote (Official Records, Supplement No. 15) was deleted from the record and stands in no footnote segment; text lost."
+      },
+      {
+        "item": 5,
+        "verdict": "right",
+        "reason": "Law of the sea conventions footnote moved to a footnote segment; speech reads on correctly."
+      },
+      {
+        "item": 6,
+        "verdict": "right",
+        "reason": "Footnote on document A/C.3/L.1250 moved to footnote segment; speech words untouched."
+      },
+      {
+        "item": 7,
+        "verdict": "right",
+        "reason": "Footnote on document A/C.3/L.1396 moved to a footnote segment; speech text intact."
+      },
+      {
+        "item": 8,
+        "verdict": "right",
+        "reason": "Footnote citing draft declaration article 29 (A/777) moved to footnote segment."
+      },
+      {
+        "item": 9,
+        "verdict": "right",
+        "reason": "Removed text is the running head (General Assembly, Sixth Session, Third Committee); furniture, now nowhere."
+      },
+      {
+        "item": 10,
+        "verdict": "right",
+        "reason": "Refugee Convention citation is a footnote, now in a footnote segment."
+      },
+      {
+        "item": 11,
+        "verdict": "right",
+        "reason": "'Item 58 of the General Assembly agenda' is a footnote, now in a footnote segment."
+      },
+      {
+        "item": 12,
+        "verdict": "right",
+        "reason": "Agenda-item-number note is a footnote, now in a footnote segment."
+      },
+      {
+        "item": 13,
+        "verdict": "right",
+        "reason": "Agenda-item-number note is a footnote, now in a footnote segment."
+      },
+      {
+        "item": 14,
+        "verdict": "right",
+        "reason": "Footnote on the proposals' document A/C.3/L.427 moved to footnote segment."
+      },
+      {
+        "item": 15,
+        "verdict": "right",
+        "reason": "Official Records citation is a footnote, now in a footnote segment."
+      },
+      {
+        "item": 16,
+        "verdict": "right",
+        "reason": "ECOSOC Official Records citation is a footnote, now in a footnote segment."
+      },
+      {
+        "item": 17,
+        "verdict": "right",
+        "reason": "ILO document citation is a footnote, now in a footnote segment; speech continues."
+      },
+      {
+        "item": 18,
+        "verdict": "right",
+        "reason": "'Ibid., paras. 62 and 68' is a footnote, now in a footnote segment."
+      },
+      {
+        "item": 19,
+        "verdict": "right",
+        "reason": "Tenth Inter-American Conference citation is a footnote, now in a footnote segment."
+      },
+      {
+        "item": 20,
+        "verdict": "right",
+        "reason": "Two footnotes moved out; 'Ar- ... gentine' correctly rejoined as 'Argentine', reading 'the Argentine delegation'."
+      },
+      {
+        "item": 21,
+        "verdict": "right",
+        "reason": "Demographic Dictionary citation is a footnote, now in a footnote segment."
+      },
+      {
+        "item": 22,
+        "verdict": "right",
+        "reason": "Closing line now stands in its own closing segment; remaining segment is the footnote."
+      },
+      {
+        "item": 23,
+        "verdict": "right",
+        "reason": "Footnote moved out and 'pub- ... lic' correctly rejoined as 'public health services'."
+      },
+      {
+        "item": 24,
+        "verdict": "right",
+        "reason": "ECOSOC Official Records footnote moved to footnote segment; speech words intact."
+      },
+      {
+        "item": 25,
+        "verdict": "right",
+        "reason": "ILO Convention No. 111 citation is a footnote, now in a footnote segment."
+      },
+      {
+        "item": 26,
+        "verdict": "right",
+        "reason": "General Assembly Official Records citation is a footnote, now in a footnote segment."
+      },
+      {
+        "item": 27,
+        "verdict": "wrong",
+        "reason": "Nothing removed, but '11 December 1946' was inserted mid-index in the masthead; added text does not belong there."
+      },
+      {
+        "item": 28,
+        "verdict": "right",
+        "reason": "Cross-reference to E/CN.4/SR.222 is a footnote, now in a footnote segment."
+      },
+      {
+        "item": 29,
+        "verdict": "right",
+        "reason": "Chair's note now in its own chair segment; remainder is the footnote."
+      },
+      {
+        "item": 30,
+        "verdict": "right",
+        "reason": "Resolution 545(VI) citation is a footnote, now in a footnote segment."
+      },
+      {
+        "item": 31,
+        "verdict": "right",
+        "reason": "Cross-reference to SR.373 is a footnote, now in a footnote segment."
+      },
+      {
+        "item": 32,
+        "verdict": "right",
+        "reason": "Footnote on the Belgian amendment document is now in a footnote segment."
+      },
+      {
+        "item": 33,
+        "verdict": "right",
+        "reason": "Cross-reference to SR.367 is a footnote, now in a footnote segment."
+      },
+      {
+        "item": 34,
+        "verdict": "right",
+        "reason": "Footnote on chapter IV symbol moved to footnote segment; chair's sentence intact."
+      },
+      {
+        "item": 35,
+        "verdict": "right",
+        "reason": "'This correction only affects the French text' is a footnote, now in a footnote segment."
+      },
+      {
+        "item": 36,
+        "verdict": "right",
+        "reason": "Resolution 50 citation is a footnote, now in a footnote segment."
+      },
+      {
+        "item": 37,
+        "verdict": "right",
+        "reason": "Footnote citing Council 172nd meeting moved to footnote segment (OCR errors only)."
+      },
+      {
+        "item": 38,
+        "verdict": "right",
+        "reason": "Resolution 96(I) citation is a footnote, now in a footnote segment."
+      },
+      {
+        "item": 39,
+        "verdict": "right",
+        "reason": "Closing line now in its own closing segment; remaining segment is the footnote."
+      },
+      {
+        "item": 40,
+        "verdict": "wrong",
+        "reason": "Removed text is a quoted ECOSOC resolution, the record's own text; moved to a footnote and stray 'page 43.' left in speech."
+      }
+    ],
+    "third": [
+      {
+        "item": 9,
+        "verdict": "wrong",
+        "reason": "The running head was rightly removed, but '~ 4/C.3/SR.375' is still there and 'gene- ... rosity' was never rejoined into 'generosity'."
+      }
+    ]
+  },
+  "workflowProgress": [
+    {
+      "type": "workflow_phase",
+      "index": 1,
+      "title": "Judge"
+    },
+    {
+      "type": "workflow_phase",
+      "index": 2,
+      "title": "Third"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 1,
+      "label": "opus",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a9768a3a0ab3b4b50",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1793463118591,
+      "queuedAt": 1793463118572,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent checker. Read /Users/lszoszk/Desktop/AI/travaux/eval/round117_check/sample.json: 40 items, each a segment of a UN meeting record (OCR text, 1946-66) that a text pipeline changed. For each item you see the segment's kind and speaker before (\"old\") and after (\"new\"), and each text change: the words before it, the words \"removed\", what was \"put_in_its_place\" (often a wor…",
+      "promptFramed": true,
+      "lastProgressAt": 1793463306469,
+      "tokens": 67588,
+      "toolCalls": 3,
+      "durationMs": 187876,
+      "resultPreview": "{\"verdicts\":[{\"item\":1,\"verdict\":\"right\",\"reason\":\"Footnote citing the Inter-American Council of Jurists Final Act (marker '/' after 'Jurists,') moved to a footnote segment; the speech is intact.\"},{\"item\":2,\"verdict\":\"right\",\"reason\":\"Footnote 'Subsequently circulated as A/C.3/L.875' moved to a footnote segment. Footnote 1 ('United Nations publication, Sales No.') still sits in the speech, but th…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 2,
+      "label": "sonnet",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a5b69c764ac79e345",
+      "model": "claude-sonnet-5-5",
+      "state": "done",
+      "startedAt": 1793463118592,
+      "queuedAt": 1793463118572,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent checker. Read /Users/lszoszk/Desktop/AI/travaux/eval/round117_check/sample.json: 40 items, each a segment of a UN meeting record (OCR text, 1946-66) that a text pipeline changed. For each item you see the segment's kind and speaker before (\"old\") and after (\"new\"), and each text change: the words before it, the words \"removed\", what was \"put_in_its_place\" (often a wor…",
+      "promptFramed": true,
+      "lastProgressAt": 1793463189331,
+      "tokens": 66083,
+      "toolCalls": 5,
+      "durationMs": 70736,
+      "resultPreview": "{\"verdicts\":[{\"item\":1,\"verdict\":\"right\",\"reason\":\"Removed text is a page footnote (Final Act citation); it now stands in a footnote segment.\"},{\"item\":2,\"verdict\":\"right\",\"reason\":\"Removed text is a footnote about document A/C.3/L.875, now in a footnote segment; no speaker words lost.\"},{\"item\":3,\"verdict\":\"right\",\"reason\":\"Footnote 'Subsequently circulated as document' moved to a footnote segmen…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 3,
+      "label": "third",
+      "phaseIndex": 2,
+      "phaseTitle": "Third",
+      "agentId": "ab09041887234437f",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1793463309313,
+      "queuedAt": 1793463309307,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent checker. Read /Users/lszoszk/Desktop/AI/travaux/eval/round117_check/sample.json: 40 items, each a segment of a UN meeting record (OCR text, 1946-66) that a text pipeline changed. For each item you see the segment's kind and speaker before (\"old\") and after (\"new\"), and each text change: the words before it, the words \"removed\", what was \"put_in_its_place\" (often a wor…",
+      "promptFramed": true,
+      "lastProgressAt": 1793463322888,
+      "tokens": 51689,
+      "toolCalls": 2,
+      "durationMs": 13574,
+      "resultPreview": "{\"verdicts\":[{\"item\":9,\"verdict\":\"wrong\",\"reason\":\"The running head was rightly removed, but '~ 4/C.3/SR.375' is still there and 'gene- ... rosity' was never rejoined into 'generosity'.\"}]}"
+    }
+  ],
+  "totalTokens": 185360,
+  "totalToolCalls": 10
+}

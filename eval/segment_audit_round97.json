@@ -1,0 +1,994 @@
+{
+ "pages": [
+  {
+   "id": "p0",
+   "stratum": "changed97",
+   "symbol": "E/CN.4/SR.267",
+   "page": 6
+  },
+  {
+   "id": "p1",
+   "stratum": "changed97",
+   "symbol": "E/CN.4/SR.138",
+   "page": 20
+  },
+  {
+   "id": "p2",
+   "stratum": "changed97",
+   "symbol": "A/C.3/SR.316",
+   "page": 2
+  },
+  {
+   "id": "p3",
+   "stratum": "changed97",
+   "symbol": "E/CN.4/SR.151",
+   "page": 12
+  },
+  {
+   "id": "p4",
+   "stratum": "changed97",
+   "symbol": "E/CN.4/SUB.2/SR.9",
+   "page": 11
+  },
+  {
+   "id": "p5",
+   "stratum": "changed97",
+   "symbol": "A/C.3/SR.676",
+   "page": 1
+  },
+  {
+   "id": "p6",
+   "stratum": "changed97",
+   "symbol": "A/C.3/SR.138",
+   "page": 14
+  },
+  {
+   "id": "p7",
+   "stratum": "changed97",
+   "symbol": "A/C.3/SR.313",
+   "page": 5
+  },
+  {
+   "id": "p8",
+   "stratum": "changed97",
+   "symbol": "A/C.3/SR.385",
+   "page": 6
+  },
+  {
+   "id": "p9",
+   "stratum": "changed97",
+   "symbol": "E/CN.4/SR.136",
+   "page": 5
+  },
+  {
+   "id": "p10",
+   "stratum": "changed97",
+   "symbol": "E/CN.4/SR.61",
+   "page": 3
+  },
+  {
+   "id": "p11",
+   "stratum": "changed97",
+   "symbol": "E/CN.4/AC.1/SR.4",
+   "page": 10
+  },
+  {
+   "id": "p12",
+   "stratum": "changed97",
+   "symbol": "A/C.3/SR.405",
+   "page": 4
+  },
+  {
+   "id": "p13",
+   "stratum": "changed97",
+   "symbol": "E/CN.4/AC.1/SR.27",
+   "page": 8
+  },
+  {
+   "id": "p14",
+   "stratum": "changed97",
+   "symbol": "E/CN.4/SR.259",
+   "page": 7
+  },
+  {
+   "id": "p15",
+   "stratum": "changed97",
+   "symbol": "E/CN.4/SR.350",
+   "page": 14
+  },
+  {
+   "id": "p16",
+   "stratum": "changed97",
+   "symbol": "E/CN.4/SR.52",
+   "page": 12
+  },
+  {
+   "id": "p17",
+   "stratum": "changed97",
+   "symbol": "A/C.3/SR.408",
+   "page": 3
+  },
+  {
+   "id": "p18",
+   "stratum": "changed97",
+   "symbol": "E/CN.4/SR.33",
+   "page": 7
+  },
+  {
+   "id": "p19",
+   "stratum": "changed97",
+   "symbol": "E/CN.4/SR.382",
+   "page": 4
+  },
+  {
+   "id": "p20",
+   "stratum": "changed97",
+   "symbol": "E/CN.4/SR.153",
+   "page": 8
+  },
+  {
+   "id": "p21",
+   "stratum": "changed97",
+   "symbol": "A/C.3/SR.122",
+   "page": 4
+  },
+  {
+   "id": "p22",
+   "stratum": "changed97",
+   "symbol": "E/CN.4/SR.199",
+   "page": 7
+  },
+  {
+   "id": "p23",
+   "stratum": "changed97",
+   "symbol": "A/C.3/SR.126",
+   "page": 10
+  },
+  {
+   "id": "p24",
+   "stratum": "changed97",
+   "symbol": "E/CN.4/AC.1/SR.38",
+   "page": 11
+  },
+  {
+   "id": "p25",
+   "stratum": "changed97",
+   "symbol": "E/CN.4/SR.12",
+   "page": 4
+  },
+  {
+   "id": "p26",
+   "stratum": "changed97",
+   "symbol": "A/C.3/SR.391",
+   "page": 6
+  }
+ ],
+ "results": [
+  {
+   "label": "old",
+   "i": 0,
+   "page_ok": true,
+   "speeches_on_image": 3,
+   "errors": []
+  },
+  {
+   "label": "old",
+   "i": 1,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.138-0026",
+     "detail": "Para 74, 'The CHAIRMAN, speaking as the representative of the United States of America', starts on this page. It has no segment of its own and falls inside Ordonneau's (France) segment, which runs to page 21."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 2,
+   "page_ok": false,
+   "speeches_on_image": 18,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_c.3_sr.316-0025",
+     "detail": "Vote segment 'The paragraph, as amended, was adopted...' also contains para 22, the CHAIRMAN's turn ('Before putting the entire draft resolution... the CHAIRMAN noted'), which should be its own chair segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.316-0034",
+     "detail": "Italic vote result 'The Chairman's ruling was upheld by 37 votes to one, with 9 abstentions.' is left inside the chair's turn (para 30) instead of being a separate vote segment."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 3,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.151-0015",
+     "detail": "Para 42, 'The CHAIRMAN submitted her ruling to the vote.', is a separate chair turn, but the segment includes it at the end of Sorensen's (Denmark) speech."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.151-0015",
+     "detail": "The underlined result 'The Chairman's ruling was upheld by 4 votes to 3, with 5 abstentions.' sits inside Sorensen's speech. It should be its own vote segment."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 4,
+   "page_ok": false,
+   "speeches_on_image": 7,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sub.2_sr.9-0059",
+     "detail": "The image prints 'The whole of Article 28 was then put to the vote. There were 9 votes in favour and 2 abstentions.' as its own indented paragraph, a vote result. The segment leaves it inside the chair's turn on the second sentence."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 5,
+   "page_ok": false,
+   "speeches_on_image": 10,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.676-0012",
+     "detail": "Italic vote result 'The ruling was upheld by 32 votes to 19, with 6 abstentions.' is printed as a separate decision after Morozov's challenge, but it is left inside his speech segment."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 6,
+   "page_ok": false,
+   "speeches_on_image": 11,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_c.3_sr.138-0039",
+     "detail": "Vote segment ('rejected by 34 votes to one') also holds the next paragraph, 'On the request of the delegations of AUSTRALIA... the CHAIRMAN put to the vote the question...', which is the Chairman's own turn, plus its separate italic result."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.138-0039",
+     "detail": "The italic result 'It was so decided by 18 votes to 13, with 7 abstentions.' is a separate vote on the image, but it sits inside the merged segment after the Chairman's procedural paragraph."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.138-0042",
+     "detail": "The italic result 'The Chairman's ruling was upheld by 18 votes to 7, with 13 abstentions.' is a separate line on the image, but it is left inside Kaminsky's segment."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 7,
+   "page_ok": false,
+   "speeches_on_image": 17,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.313-0051",
+     "detail": "The italic vote result 'The Chairman's ruling was upheld by 32 votes to 1, with 10 abstentions.' follows para 81 as a separate decision, but the segment leaves it inside Baroody's speech instead of a vote segment."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 8,
+   "page_ok": false,
+   "speeches_on_image": 18,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.385-0033",
+     "detail": "Italic vote result at top of right column, 'The Chairman's ruling was upheld by 22 votes to 10, with 12 abstentions.', is left inside the chair's turn (para. 67) instead of its own vote segment."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 9,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.136-0006",
+     "detail": "The underlined result 'The ruling of the Chairman was upheld by 13 votes to 2.' is printed as a separate decision but is left inside the Chairman's turn (para. 11); it should be its own vote segment."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 10,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": []
+  },
+  {
+   "label": "old",
+   "i": 11,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_ac.1_sr.4-0117",
+     "detail": "Wilson (UK) segment also contains 'The CHAIRMAN suggested that some members of the Committee might wish to suggest possible drafts...'; the chair's turn should be its own segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_ac.1_sr.4-0118",
+     "detail": "The underlined heading 'Article 46' is left inside Cassin's speech (OCR 'Article 4S'); it should be a separate heading segment."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_ac.1_sr.4-0118",
+     "detail": "Cassin's segment ends with 'The inclusion of the substance of Article 46 was sponsored by Dr. MALIK (Lebanon).' That is a separate item under Article 46 and is attributed to Malik, not Cassin."
+    },
+    {
+     "type": "false_split",
+     "segment_id": "e_cn.4_ac.1_sr.4-0114",
+     "detail": "The sentence 'The inclusion of the substance of Article 35 was sponsored by Mr. SANTA CRUZ (Chile).' is cut mid-sentence. Its first half is a procedural segment and the name opens the speech in 0115."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 12,
+   "page_ok": false,
+   "speeches_on_image": 17,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.405-0041",
+     "detail": "Para 46: the italic result 'The Chairman's ruling was upheld by 18 votes to 9, with 16 abstentions.' is printed as a separate vote line but is left inside the chair's turn."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 13,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_ac.1_sr.27-0020",
+     "detail": "Page shows a separate turn 'Mr. PAVLOV (Union of Soviet Socialist Republics) said that the emphasis in Article 20...' after Santa Cruz; no segment for it, so it sits inside the Santa Cruz segment (pages 8-9)."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_ac.1_sr.27-0020",
+     "detail": "Underlined decision 'The Committee agreed without objection to vote again on the inclusion of Article 20...' is left inside the Santa Cruz speech, which runs on to the vote result on page 9."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 14,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.259-0017",
+     "detail": "The image has a separate turn, 'The CHAIRMAN put to the vote the second part of his ruling.', after Morozov's speech. The segment runs it into Morozov's speech."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.259-0017",
+     "detail": "The underlined result 'The Chairman's ruling was upheld by 7 votes to 4, with 7 abstentions' sits inside Morozov's speech segment. It should be its own vote segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.259-0018",
+     "detail": "The chair's turn ('accordingly put the various documents to the vote') also holds four underlined vote results: the Polish amendment, the first and second parts of the Egyptian amendment, and the whole amendment. These should be vote segments."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 15,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.350-0043",
+     "detail": "The underlined vote result 'The Chairman's ruling was upheld by 9 votes to 5, with 4 abstentions.' is left inside the chair's turn instead of being its own vote segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.350-0044",
+     "detail": "The underlined result 'Article 43, as amended by the United Kingdom proposal (E/CN.4/L.239), was rejected by 8 votes to 7, with 3 abstentions.' is inside the chair's turn."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.350-0046",
+     "detail": "The separate paragraph 'At the proposal of Mr. CHENG PAONAN (China), the Commission agreed by 12 votes to 2, with 1 abstention, that further discussion should be deferred' is left inside Hoare's speech, not its own decision segment."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 16,
+   "page_ok": false,
+   "speeches_on_image": 7,
+   "errors": [
+    {
+     "type": "wrong_speaker",
+     "segment_id": "e_cn.4_sr.52-0063",
+     "detail": "Page prints 'Mr. WILSON (United Kingdom) observed that...'; the segment has speaker and delegation null."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.52-0068",
+     "detail": "The vote result 'The proposal was adopted by ten votes to four...' and the next chair's turn 'The CHAIRMAN put to the vote the proposal to delete the word \"arbitrary\"' are both in one vote segment. The chair's turn should be a separate chair segment."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 17,
+   "page_ok": false,
+   "speeches_on_image": 21,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "a_c.3_sr.408-0012",
+     "detail": "Running header '408th Meeting—28 January 1952' leaks into Cassin's speech text: opening ends '...to cover the exercise of 408th M'."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.408-0015",
+     "detail": "The italic result 'The Chairman's ruling was upheld by 12 votes to 5, with 30 abstentions.' is left inside Pavlov's para 22 speech; it should be a separate vote segment."
+    },
+    {
+     "type": "false_split",
+     "segment_id": "a_c.3_sr.408-0017",
+     "detail": "Para 23 is a joint statement, 'Mr. BAROODY (Saudi Arabia) and Mrs. COELHO LISBOA DE LARRAGOITI (Brazil) had abstained...'. It is cut at the hyphen 'COE-/LHO' into two speeches."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 18,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.33-0024",
+     "detail": "The vote result 'There were 6 votes in favour, 6 against and 4 abstentions; the proposal was therefore rejected' is left inside the chair's turn and should be its own vote segment."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 19,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.382-0002",
+     "detail": "Agenda heading '1. COMMUNICATIONS (item 20 of the agenda)(continued): Confidential list of communications...' at top of p.4 is the tail of a procedural segment running pp.1-4, not its own heading segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.382-0006",
+     "detail": "Underlined vote result 'The Chairman's interpretation was upheld by 14 votes to none, with 4 abstentions.' is left inside the chair's turn instead of a separate vote segment."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.382-0006",
+     "detail": "Footnote (1) at page foot (provisional record wording; see also SR.381, SR.385, SR.390) is inside the chair segment; its ending shows the footnote text, no separate footnote segment."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 20,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.153-0030",
+     "detail": "Para 28, 'The CHAIRMAN, speaking as representative of the United States of America, stated that the French amendment...', is a separate chair turn. It sits inside Ordonneau's (France) para 27 segment, whose ending is the chair's text."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 21,
+   "page_ok": false,
+   "speeches_on_image": 8,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.122-0018",
+     "detail": "Italic result 'The Chairman's ruling was upheld by 19 votes to 9, with 12 abstentions.' is left inside the Chairman's turn; it should be its own vote segment."
+    },
+    {
+     "type": "other_column_or_page_text",
+     "segment_id": "a_c.3_sr.122-0021",
+     "detail": "Saint-Lot's speech opening contains French-column text 'Par 18 voix contre 14, avec 8 abstentions, cet' from the top of the right column."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 22,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.199-0009",
+     "detail": "Para 17, Mr. WHITLAM (Australia) supporting the Lebanese draft as amended by the UK, is a separate turn, but it sits inside Malik's segment, which ends with Whitlam's last words, 'advisable to improve it'."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 23,
+   "page_ok": false,
+   "speeches_on_image": 9,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_c.3_sr.126-0055",
+     "detail": "The vote segment runs on to the Chairman's own turn, 'In reply to the request of the representative of the USSR, the CHAIRMAN refused to put to the vote...'. That turn should be a separate chair segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.126-0055",
+     "detail": "The italic decision 'On the suggestion of the Greek representative, it was agreed that the French text...' and its French wording are merged into the vote result. The decision should be its own procedural segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.126-0057",
+     "detail": "The italic result 'The Chairman's ruling was upheld by 19 votes to 8 with 10 abstentions.' is left inside the chair's turn. It should be a separate vote segment."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 24,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_ac.1_sr.38-0049",
+     "detail": "The underlined 'The vote was taken. There were three votes for, three against and two abstentions.' is a vote result, but it is left inside the chair's turn."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_ac.1_sr.38-0050",
+     "detail": "The underlined decision 'It was decided to delete the first sentence by four votes to three, with one abstention.' is left inside the chair's turn and should be a vote or decision segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_ac.1_sr.38-0050",
+     "detail": "The underlined heading 'Second sentence.' sits at the end of the chair's turn when it should be a separate heading segment."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 25,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.12-0014",
+     "detail": "The underlined heading 'Second Paragraph' is printed on its own line after the DECISION. In the segment it is part of the procedural decision text, not a separate heading segment."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 26,
+   "page_ok": false,
+   "speeches_on_image": 7,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "a_c.3_sr.391-0038",
+     "detail": "The page footer 'Printed in France' (OCR 'Prirted in France') sits in the ending of Katz-Suchy's speech, between '(A/C.3/L.220),' and 'his delegation would accept'."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.391-0041",
+     "detail": "The italic result 'The Chairman's ruling was upheld by 30 votes to 2, with 14 abstentions.' is printed below para 61 but left inside the chair's turn. It should be its own vote segment."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 0,
+   "page_ok": true,
+   "speeches_on_image": 3,
+   "errors": []
+  },
+  {
+   "label": "new",
+   "i": 1,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.138-0026",
+     "detail": "Para 74, 'The CHAIRMAN, speaking as the representative of the United States of America, said...', starts on this page but is inside Ordonneau's (France) segment, which runs on to page 21."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 2,
+   "page_ok": false,
+   "speeches_on_image": 18,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_c.3_sr.316-0025",
+     "detail": "Vote segment 'The paragraph, as amended, was adopted by 37 votes to 2...' also holds para 22, the CHAIRMAN's turn on the title 'Human Rights Day'; that turn should be its own chair segment."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 3,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.151-0015",
+     "detail": "Image shows para 42, 'The CHAIRMAN submitted her ruling to the vote.', as a separate chair turn after Sorensen's para 41. The segment's ending includes it inside the Denmark speech."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 4,
+   "page_ok": false,
+   "speeches_on_image": 7,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sub.2_sr.9-0058",
+     "detail": "The vote result 'It was adopted unanimously.' is left inside the chair's turn ('The CHAIRMAN took the vote on the first sentence.'). The later results on the page were split out as procedural, but this one was not."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 5,
+   "page_ok": true,
+   "speeches_on_image": 10,
+   "errors": []
+  },
+  {
+   "label": "new",
+   "i": 6,
+   "page_ok": false,
+   "speeches_on_image": 11,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_c.3_sr.138-0039",
+     "detail": "Vote segment 'rejected by 34 votes to one' also holds the next paragraph 'On the request of the delegations of AUSTRALIA... the CHAIRMAN put to the vote the question whether...', a chair's turn that should be its own chair segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.138-0039",
+     "detail": "The italic result 'It was so decided by 18 votes to 13, with 7 abstentions.' is printed separately on the image but sits at the end of the same merged segment and is not a vote segment of its own."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 7,
+   "page_ok": true,
+   "speeches_on_image": 17,
+   "errors": []
+  },
+  {
+   "label": "new",
+   "i": 8,
+   "page_ok": false,
+   "speeches_on_image": 18,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.385-0034",
+     "detail": "The italic 'The Chairman's ruling was upheld by 22 votes to 10, with 12 abstentions.' is a vote result but is marked procedural, while the parallel results on the page (0038, 0045) are marked vote."
+    },
+    {
+     "type": "other",
+     "segment_id": "a_c.3_sr.385-0033",
+     "detail": "The chair's turn (para. 67) ends with OCR garbage ('. Ler aattaameemeepemimesnneenimemememne nee eo') that is not on the page. It probably comes from the rule at the foot of the column."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 9,
+   "page_ok": true,
+   "speeches_on_image": 3,
+   "errors": []
+  },
+  {
+   "label": "new",
+   "i": 10,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": []
+  },
+  {
+   "label": "new",
+   "i": 11,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "false_split",
+     "segment_id": "e_cn.4_ac.1_sr.4-0114",
+     "detail": "'The inclusion of the substance of Article 35 was sponsored by' is the start of the sentence naming Mr. SANTA CRUZ (Chile); it is cut off as a procedural segment, separate from his speech in 0115."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_ac.1_sr.4-0119",
+     "detail": "The underlined heading 'Article 46' (OCR 'Article 4S') is left inside Cassin's speech instead of being its own heading segment."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_ac.1_sr.4-0119",
+     "detail": "Under Article 46, 'The inclusion of the substance of Article 46 was sponsored by Dr. MALIK (Lebanon).' is a separate turn by Malik (Lebanon), but it sits at the end of Cassin's (France) segment."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 12,
+   "page_ok": false,
+   "speeches_on_image": 17,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.405-0042",
+     "detail": "Italic 'The Chairman's ruling was upheld by 18 votes to 9, with 16 abstentions' is a vote result like 0040 and 0048, but the segment is marked procedural rather than vote."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 13,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_ac.1_sr.27-0020",
+     "detail": "Image shows a separate turn 'Mr. PAVLOV (Union of Soviet Socialist Republics) said that the emphasis in Article 20...' after Santa Cruz; the segment runs on through to the end of the page, so Pavlov's speech is inside Santa Cruz's segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_ac.1_sr.27-0020",
+     "detail": "The underlined decision 'The Committee agreed without objection to vote again on the inclusion of Article 20...reconsider the vote.' is left inside the speech; the segment's ending is that decision."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 14,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.259-0017",
+     "detail": "The image has a separate chair turn, 'The CHAIRMAN put to the vote the second part of his ruling.', after Morozov's paragraph. The segment's ending runs Morozov's speech into that chair turn."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.259-0019",
+     "detail": "The chair's turn contains four underlined results: Polish amendment adopted 8-7-3; first part adopted 12-0-6; second part 9-7-2; Egyptian amendment as a whole 12-0-6. Each should be a vote segment outside the turn."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.259-0022",
+     "detail": "The vote segment for the Belgian amendment (6-5-7) runs on into page 8. It takes in the chair's statement that amendments to the US amendment were accepted, and another vote result on point 1 (12-3-3)."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 15,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.350-0045",
+     "detail": "The underlined result 'Article 43, as amended by the United Kingdom proposal (E/CN.4/L.239), was rejected by 8 votes to 7, with 3 abstentions' is left inside the chair's turn; it should be its own vote/decision segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.350-0047",
+     "detail": "Hoare's speech runs on into 'At the proposal of Mr. CHENG PAONAN (China), the Commission agreed by 12 votes to 2, with 1 abstention...' (underlined decision), which should be a separate decision segment."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.350-0041",
+     "detail": "Ending of Hoare's p.13 speech carries 'Gy', the OCR of the handwritten '92' mark at the top of page 14; the segment is extended onto p.14 only by this stray mark."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 16,
+   "page_ok": false,
+   "speeches_on_image": 7,
+   "errors": [
+    {
+     "type": "wrong_speaker",
+     "segment_id": "e_cn.4_sr.52-0063",
+     "detail": "Image: 'Mr. WILSON (United Kingdom) observed that the \"without distinction\"...'. Segment has speaker null and delegation null; should be WILSON, United Kingdom."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 17,
+   "page_ok": false,
+   "speeches_on_image": 21,
+   "errors": [
+    {
+     "type": "false_split",
+     "segment_id": "a_c.3_sr.408-0018",
+     "detail": "Para 23 is a joint statement: 'Mr. BAROODY (Saudi Arabia) and Mrs. COELHO LISBOA DE LARRAGOITI (Brazil) had abstained...'. It is split at the hyphenated name 'COE-/LHO' into 0017 (opening fragment only) and 0018 (a separate Brazil speech)."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "a_c.3_sr.408-0012",
+     "detail": "Cassin's speech runs over from p.2. The running header '408th Meeting' from p.3 is left in the text: 'to cover the exercise of 408th M'."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.408-0016",
+     "detail": "The italic result 'The Chairman's ruling was upheld by 12 votes to 5, with 30 abstentions.' is a vote result, but the segment is marked procedural, not vote."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 18,
+   "page_ok": true,
+   "speeches_on_image": 6,
+   "errors": []
+  },
+  {
+   "label": "new",
+   "i": 19,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.382-0002",
+     "detail": "The heading '1. COMMUNICATIONS (item 20 of the agenda)(continued): Confidential list of communications...' at the top of p.4 has no segment of its own. It sits at the end of a procedural segment that starts with the page-1 agenda list (pages 1-4)."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.382-0007",
+     "detail": "Footnote (1) at the foot of the page ('In the provisional summary record this phrase read...' through 'pages 7 to 1C') is in the same procedural segment as the vote result. It should be a separate footnote segment."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 20,
+   "page_ok": true,
+   "speeches_on_image": 5,
+   "errors": []
+  },
+  {
+   "label": "new",
+   "i": 21,
+   "page_ok": false,
+   "speeches_on_image": 8,
+   "errors": [
+    {
+     "type": "other_column_or_page_text",
+     "segment_id": "a_c.3_sr.122-0022",
+     "detail": "Saint-Lot's English speech opening includes French-column text 'Par 18 voix contre 14, avec 8 abstentions, cet' (the French vote result from the top of the right column)."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 22,
+   "page_ok": true,
+   "speeches_on_image": 4,
+   "errors": []
+  },
+  {
+   "label": "new",
+   "i": 23,
+   "page_ok": false,
+   "speeches_on_image": 9,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_c.3_sr.126-0055",
+     "detail": "Image: the paragraph 'In reply to the request of the representative of the USSR, the CHAIRMAN refused to put to the vote...' is a separate chair turn. In the data it sits at the end of the vote segment 0055."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.126-0055",
+     "detail": "After the vote result, segment 0055 also holds a separate decision: 'On the suggestion of the Greek representative, it was agreed...', with the French text and the English-text note. It should be a procedural/decision segment of its own, not part of the vote."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 24,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_ac.1_sr.38-0049",
+     "detail": "The underlined procedural line 'The vote was taken.' is printed apart from the Chairman's turn, but the segment includes it in the chair segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_ac.1_sr.38-0051",
+     "detail": "The underlined decision 'It was decided to delete the first sentence by four votes to three, with one abstention.' is part of the chair segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_ac.1_sr.38-0051",
+     "detail": "The underlined heading 'Second sentence.' is at the end of the chair segment. It should be a separate heading segment."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 25,
+   "page_ok": true,
+   "speeches_on_image": 4,
+   "errors": []
+  },
+  {
+   "label": "new",
+   "i": 26,
+   "page_ok": false,
+   "speeches_on_image": 7,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "a_c.3_sr.391-0038",
+     "detail": "The page footer 'Printed in France' (OCR 'Prirted in France') sits inside Katz-Suchy's speech ending, between paras 58 and the column-2 continuation."
+    }
+   ]
+  }
+ ]
+}

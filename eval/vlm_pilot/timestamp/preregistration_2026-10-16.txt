@@ -1,0 +1,9 @@
+Travaux DB: the vision-reader pilot, preregistration timestamp
+Date (local): 2026-10-16 21:07 CEST
+Git commit (HEAD of the local repository): 1cad764dcd434c72755cb61d2a3c0b460a8f6beb
+Tree of that commit: 398e7ce4390081c0257b5ef1c20c9596c8bd06fd
+SHA-256 of docs/preregistration_vlm_pilot.md: c9bd6fba824723d2ff396e5a33f6644dc11c6dd98eecde3b46825795bcc7294e
+SHA-256 of eval/vlm_pilot/sample.json: abf5242e14eb665a5b274a6c60ef1e9dbeb4af4edb3c761b0bb0552b9703edaa
+SHA-256 of docs/vlm_pilot_plan.md: d9b2f89bba5966bd8555af6c6be05b07524542f712264ff02df88e7a5014bcc0
+State: the hypotheses, sample and thresholds are as in the files above; the local model's readings of block B exist
+(16 Oct 2026) and have not been scored; block C is being read; the API reader (b) has not been run.

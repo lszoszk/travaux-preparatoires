@@ -1,0 +1,295 @@
+{
+ "article": 20,
+ "texts": {
+  "secretariat_outline": "There shall be freedom of peaceful assembly. There shall be freedom to form associations for purposes not inconsistent with this Bill of Rights",
+  "cassin_draft": "There shall be freedom of peaceful assembly and of association for political, religious, cultural, scientific, professional and other purposes compatible with this Declaration. No restriction shall be placed on the exercise of this right except for the protection of public order.",
+  "drafting_committee_1": "There shall be freedom of peaceful assembly and of association for political, religious, cultural, scientific, professional and other purposes.",
+  "e_cn4_57": "Everyone has the right to freedom of peaceful assembly and to participate in local, national and international associations for purposes of a political, economic, religious, social, cultural, trade union or any other character, not inconsistent with this Declaration.\"",
+  "geneva_draft": "Every one has the right to freedom of peaceful assembly and to participate in local, national and international associations for purposes of a political, economic, religious, social, cultural, trade union or any other character, not inconsistent with this Declaration.",
+  "drafting_committee_2": "Every one has the right to freedom of peaceful assembly and to participate in local, national, international and trade union associations for the promotion, defence and protection of purposes and interests not inconsistent with this Declaration.",
+  "chr_3": "Everyone has the right to freedom of assembly and association.",
+  "a777": "Article 21 1. Everyone has the right to freedom of peaceful assembly and association. 2. No one may be compelled to belong to an association.",
+  "final": "Everyone has the right to freedom of peaceful assembly and association. No one may be compelled to belong to an association."
+ },
+ "sources": {
+  "secretariat_outline": [
+   {
+    "symbol": "E/CN.4/AC.1/3",
+    "draft_article": 19,
+    "page": 8,
+    "text_from": "vision reader"
+   },
+   {
+    "symbol": "E/CN.4/AC.1/3",
+    "draft_article": 20,
+    "page": 8,
+    "text_from": "vision reader"
+   }
+  ],
+  "cassin_draft": [
+   {
+    "symbol": "E/CN.4/AC.1/W.2/Rev.2",
+    "draft_article": 23,
+    "page": 4,
+    "text_from": "vision reader"
+   }
+  ],
+  "drafting_committee_1": [
+   {
+    "symbol": "E/CN.4/21",
+    "draft_article": 23,
+    "page": 78,
+    "text_from": "vision reader"
+   }
+  ],
+  "e_cn4_57": [
+   {
+    "symbol": "E/CN.4/57",
+    "draft_article": 23,
+    "page": 12,
+    "text_from": "vision reader"
+   }
+  ],
+  "geneva_draft": [
+   {
+    "symbol": "E/600",
+    "draft_article": 19,
+    "page": 19,
+    "text_from": "vision reader"
+   }
+  ],
+  "drafting_committee_2": [
+   {
+    "symbol": "E/CN.4/95",
+    "draft_article": 19,
+    "page": 9,
+    "text_from": "vision reader"
+   }
+  ],
+  "chr_3": [
+   {
+    "symbol": "E/800",
+    "draft_article": 18,
+    "page": 12,
+    "text_from": "vision reader"
+   }
+  ],
+  "a777": [
+   {
+    "symbol": "A/777",
+    "draft_article": 21,
+    "page": 5,
+    "text_from": "vision reader"
+   }
+  ],
+  "final": [
+   {
+    "symbol": "A/RES/217(III)",
+    "text_from": "un.org"
+   }
+  ]
+ },
+ "steps": [
+  {
+   "from": "secretariat_outline",
+   "to": "cassin_draft",
+   "changes": [
+    {
+     "kind": "replaced",
+     "old": "there",
+     "new": "and of association for political religious cultural scientific professional and other purposes compatible with this declaration no restriction",
+     "context": "freedom of peaceful assembly and of association for political religious cultural scientific professional and other purposes compatible with this declaration no restriction shall be placed on",
+     "n": "secretariat_outline>cassin_draft#1"
+    },
+    {
+     "kind": "replaced",
+     "old": "freedom to form associations",
+     "new": "placed on the exercise of this right except",
+     "context": "no restriction shall be placed on the exercise of this right except for the protection of",
+     "n": "secretariat_outline>cassin_draft#2"
+    },
+    {
+     "kind": "replaced",
+     "old": "purposes not inconsistent with this bill",
+     "new": "the protection",
+     "context": "this right except for the protection of public order",
+     "n": "secretariat_outline>cassin_draft#3"
+    },
+    {
+     "kind": "replaced",
+     "old": "rights",
+     "new": "public order",
+     "context": "for the protection of public order",
+     "n": "secretariat_outline>cassin_draft#4"
+    }
+   ]
+  },
+  {
+   "from": "cassin_draft",
+   "to": "drafting_committee_1",
+   "changes": [
+    {
+     "kind": "dropped",
+     "old": "compatible with this declaration no restriction shall be placed on the exercise of this right except for the protection of public order",
+     "new": "",
+     "context": "professional and other purposes compatible with this declaration no restriction shall be placed on the exercise of this right except for the protection of public order",
+     "n": "cassin_draft>drafting_committee_1#1"
+    }
+   ]
+  },
+  {
+   "from": "drafting_committee_1",
+   "to": "e_cn4_57",
+   "changes": [
+    {
+     "kind": "replaced",
+     "old": "there shall be",
+     "new": "everyone has the right to",
+     "context": "everyone has the right to freedom of peaceful assembly",
+     "n": "drafting_committee_1>e_cn4_57#1"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "to participate in local national and international associations for purposes",
+     "context": "of peaceful assembly and to participate in local national and international associations for purposes of a political economic",
+     "n": "drafting_committee_1>e_cn4_57#2"
+    },
+    {
+     "kind": "replaced",
+     "old": "association for",
+     "new": "a",
+     "context": "associations for purposes of a political economic religious social",
+     "n": "drafting_committee_1>e_cn4_57#3"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "economic",
+     "context": "purposes of a political economic religious social cultural trade",
+     "n": "drafting_committee_1>e_cn4_57#4"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "social",
+     "context": "a political economic religious social cultural trade union or",
+     "n": "drafting_committee_1>e_cn4_57#5"
+    },
+    {
+     "kind": "replaced",
+     "old": "scientific professional and",
+     "new": "trade union or any",
+     "context": "economic religious social cultural trade union or any other character not inconsistent",
+     "n": "drafting_committee_1>e_cn4_57#6"
+    },
+    {
+     "kind": "replaced",
+     "old": "purposes",
+     "new": "character not inconsistent with this declaration",
+     "context": "union or any other character not inconsistent with this declaration",
+     "n": "drafting_committee_1>e_cn4_57#7"
+    }
+   ]
+  },
+  {
+   "from": "e_cn4_57",
+   "to": "geneva_draft",
+   "changes": [
+    {
+     "kind": "replaced",
+     "old": "everyone",
+     "new": "every one",
+     "context": "every one has the right to",
+     "n": "e_cn4_57>geneva_draft#1"
+    }
+   ]
+  },
+  {
+   "from": "geneva_draft",
+   "to": "drafting_committee_2",
+   "changes": [
+    {
+     "kind": "added",
+     "old": "",
+     "new": "international",
+     "context": "participate in local national international and trade union associations",
+     "n": "geneva_draft>drafting_committee_2#1"
+    },
+    {
+     "kind": "replaced",
+     "old": "international",
+     "new": "trade union",
+     "context": "local national international and trade union associations for the promotion",
+     "n": "geneva_draft>drafting_committee_2#2"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "the promotion defence and protection of",
+     "context": "trade union associations for the promotion defence and protection of purposes and interests not",
+     "n": "geneva_draft>drafting_committee_2#3"
+    },
+    {
+     "kind": "replaced",
+     "old": "of a political economic religious social cultural trade union or any other character",
+     "new": "and interests",
+     "context": "and protection of purposes and interests not inconsistent with this",
+     "n": "geneva_draft>drafting_committee_2#4"
+    }
+   ]
+  },
+  {
+   "from": "drafting_committee_2",
+   "to": "chr_3",
+   "changes": [
+    {
+     "kind": "replaced",
+     "old": "every one",
+     "new": "everyone",
+     "context": "everyone has the right to",
+     "n": "drafting_committee_2>chr_3#1"
+    },
+    {
+     "kind": "dropped",
+     "old": "peaceful",
+     "new": "",
+     "context": "right to freedom of peaceful assembly and to participate",
+     "n": "drafting_committee_2>chr_3#2"
+    },
+    {
+     "kind": "replaced",
+     "old": "to participate in local national international and trade union associations for the promotion defence and protection of purposes and interests not inconsistent with this declaration",
+     "new": "association",
+     "context": "freedom of assembly and association",
+     "n": "drafting_committee_2>chr_3#3"
+    }
+   ]
+  },
+  {
+   "from": "chr_3",
+   "to": "a777",
+   "changes": [
+    {
+     "kind": "added",
+     "old": "",
+     "new": "peaceful",
+     "context": "right to freedom of peaceful assembly and association no",
+     "n": "chr_3>a777#1"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "no one may be compelled to belong to an association",
+     "context": "peaceful assembly and association no one may be compelled to belong to an association",
+     "n": "chr_3>a777#2"
+    }
+   ]
+  },
+  {
+   "from": "a777",
+   "to": "final",
+   "changes": []
+  }
+ ]
+}

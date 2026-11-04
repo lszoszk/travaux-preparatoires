@@ -1,0 +1,114 @@
+[
+ {
+  "kind": "P",
+  "a": {
+   "e_cn.4_sr.352-0014": {
+    "correct": true,
+    "note": "UK explains its amendment adding a second paragraph to draft article 39 (terms of office), consequential on the casual-vacancies article, and that its amendment to the second sentence of article 39 has lapsed."
+   },
+   "e_cn.4_sr.354-0044": {
+    "correct": true,
+    "note": "Yugoslavia reserves its position on the UK amendment to draft article 47(c) (which States may take part when the Committee considers a case), compared with the Australian new article; the article under debate, though the content of 47(c) later migrated to art. 41(1)(g)."
+   },
+   "e_cn.4_sr.387-0034": {
+    "correct": true,
+    "note": "Chile asks how to read 'unreasonably prolonged' in the last sentence of draft article 54, the domestic-remedies rule now in final art. 41(1)(c)."
+   },
+   "e_cn.4_sr.354-0048": {
+    "correct": true,
+    "note": "UK explains the meaning and purpose of its amendment to draft article 47(c) (limiting interventions to written submissions by the State whose national is concerned), using article 52 as context, and agrees to defer the article."
+   },
+   "e_cn.4_sr.354-0046": {
+    "correct": true,
+    "note": "China reads paragraph (c) of draft article 47 as overlapping with the inter-State complaint article 52 and proposes deferring the decision on article 47 until articles 52-53 are settled; about the article's scope, though borderline as procedure."
+   },
+   "e_cn.4_sr.346-0021": {
+    "correct": true,
+    "note": "France on draft article 33: deleting the introductory phrase of paragraph 1, the size of the Committee (nine members) and the legal experience of its members."
+   },
+   "e_cn.4_sr.354-0047": {
+    "correct": true,
+    "note": "Chile finds paragraph (c) of draft article 47 ambiguous and says the UK amendment's issue belongs in article 52, since article 47 is about rules of procedure; about the article's content and place."
+   },
+   "e_cn.4_sr.354-0042": {
+    "correct": true,
+    "note": "UK explains why its amendment to draft article 47(c) treats a State whose national is concerned differently at the two stages of the procedure."
+   },
+   "e_cn.4_sr.354-0038": {
+    "correct": true,
+    "note": "France flags that its forthcoming amendment to article 53 might require adding to draft article 47 a reference to article 53; a short procedural point about article 47's text at the opening of its debate (borderline, as it is partly about article 53)."
+   },
+   "e_cn.4_sr.354-0049": {
+    "correct": true,
+    "note": "Belgium asks for decisions on the UK amendment and the Australian new article and proposes detaching sub-paragraph (c) from draft article 47 and reserving it; about how to handle the article's text."
+   },
+   "e_cn.4_sr.354-0041": {
+    "correct": true,
+    "note": "France asks the UK about the differentiation in its amendment to sub-paragraph (c) of draft article 47."
+   },
+   "e_cn.4_sr.354-0039": {
+    "correct": true,
+    "note": "UK revises its amendment to draft article 47 (delete 'then', keep 'inter alia', withdraw the quorum amendment to paragraph (a)) and explains its amendment to paragraph (c)."
+   },
+   "e_cn.4_sr.354-0040": {
+    "correct": true,
+    "note": "Belgium explains its mainly drafting amendment to draft article 47, objecting to the term 'hearings' because the Committee is conciliatory, not a court."
+   }
+  },
+  "c": {
+   "e_cn.4_sr.352-0014": {
+    "correct": true,
+    "note": "UK amendment adding a second paragraph to draft article 39 (terms of office), with the amendment to its second sentence lapsing."
+   },
+   "e_cn.4_sr.354-0044": {
+    "correct": true,
+    "note": "Yugoslav position on the UK amendment to draft article 47 (rules of procedure, States' participation in the Committee's proceedings) and the Australian proposal."
+   },
+   "e_cn.4_sr.387-0034": {
+    "correct": true,
+    "note": "Question on how 'unreasonably prolonged' in the last sentence of draft article 54 (inter-State communications) should be interpreted."
+   },
+   "e_cn.4_sr.354-0048": {
+    "correct": true,
+    "note": "UK defence of its amendment to paragraph (c) of draft article 47, agreeing that discussion might be deferred until article 52."
+   },
+   "e_cn.4_sr.354-0046": {
+    "correct": true,
+    "note": "Reads paragraph (c) of draft article 47 as concerning inter-State complaints and proposes deferring the decision on article 47 until articles 52 and 53 are settled (its place and scope)."
+   },
+   "e_cn.4_sr.346-0021": {
+    "correct": true,
+    "note": "Size (nine members) and composition (jurists) of the Committee and the UK deletion proposal for paragraph 1 of draft article 33."
+   },
+   "e_cn.4_sr.354-0047": {
+    "correct": true,
+    "note": "Chile on the ambiguity of paragraph (c) of draft article 47 and the UK amendment, arguing the issue belongs in article 52."
+   },
+   "e_cn.4_sr.354-0042": {
+    "correct": true,
+    "note": "UK explains the two-stage differentiation in its amendment to sub-paragraph (c) of draft article 47."
+   },
+   "e_cn.4_sr.354-0038": {
+    "correct": true,
+    "note": "Short point of procedure at the opening of the article 47 debate, about a possible reference in article 47 to the last paragraph of article 53 (borderline: prompted by an article 53 amendment, but the proposed change is to article 47)."
+   },
+   "e_cn.4_sr.354-0049": {
+    "correct": true,
+    "note": "Belgium on the UK amendment to draft article 47 and the Australian new article, proposing to separate sub-paragraph (c) from the rest of article 47 and reserve decision on it."
+   },
+   "e_cn.4_sr.354-0041": {
+    "correct": true,
+    "note": "France asks the UK to explain its amendment to sub-paragraph (c) of draft article 47."
+   },
+   "e_cn.4_sr.354-0039": {
+    "correct": true,
+    "note": "UK amends and partly withdraws its amendment (L.227) to draft article 47 and explains its paragraph (c) amendment."
+   },
+   "e_cn.4_sr.354-0040": {
+    "correct": true,
+    "note": "Belgian amendment to draft article 47 and the objection to the term 'hearings' given the Committee's conciliatory nature."
+   }
+  },
+  "third": {}
+ }
+]

@@ -1,0 +1,951 @@
+{
+  "summary": "Two blind judges (opus, sonnet) give the article of 40 segments whose tag the context-rule variant changes; a third (opus) on splits",
+  "agentCount": 11,
+  "logs": [],
+  "result": [
+    {
+      "file": "/Users/lszoszk/Desktop/AI/travaux/eval/round114/batch1.json",
+      "opus": [
+        {
+          "item": 1,
+          "id": "a_c.3_sr.1257-0010",
+          "instrument": "ICCPR",
+          "final_article": 2,
+          "certainty": "sure",
+          "reason": "Under the heading on draft ICCPR article 2: the chair weighs 'discrimination' against 'distinction' and the Japanese 'persons' amendment to article 2. Article 24 is only mentioned in passing."
+        },
+        {
+          "item": 2,
+          "id": "a_c.3_sr.1402-0025",
+          "instrument": "ICESCR",
+          "final_article": 19,
+          "certainty": "sure",
+          "reason": "The chair opens ICESCR draft article 20 and its two amendments; the numbering maps draft 20 to final ICESCR 19."
+        },
+        {
+          "item": 3,
+          "id": "a_c.3_sr.1424-0054",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "This is the debate on deleting draft ICCPR article 34 (members staying on for pending matters). The numbering lists it as former-34, with no final article."
+        },
+        {
+          "item": 4,
+          "id": "a_c.3_sr.1424-0057",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Tunisia supports deleting draft article 34, which was dropped (former-34, no final counterpart). Article 39 comes up only in passing."
+        },
+        {
+          "item": 5,
+          "id": "a_c.3_sr.1424-0061",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "India answers the Philippines on continuity during the debate on deleting draft article 34, which has no final article."
+        },
+        {
+          "item": 6,
+          "id": "a_c.3_sr.1424-0063",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Italy argues for keeping the deleted draft article 34 and changing 'case' to 'matter'. Article 40 is a passing mention."
+        },
+        {
+          "item": 7,
+          "id": "a_c.3_sr.178-0045",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Cuba's offer is about where articles 16 and 17 sit in the Declaration. It concerns the order of the articles, not their content."
+        },
+        {
+          "item": 8,
+          "id": "e_cn.4_ac.1_sr.32-0057",
+          "instrument": "ICCPR",
+          "final_article": 12,
+          "certainty": "probable",
+          "reason": "The decision transmits draft Covenant article 11 (Geneva text); by subject that is freedom of movement, and its limitations are linked to article 9. The record does not name the subject."
+        },
+        {
+          "item": 9,
+          "id": "e_cn.4_ac.1_sr.34-0009",
+          "instrument": "ICCPR",
+          "final_article": 4,
+          "certainty": "sure",
+          "reason": "China reserves the question of which rights cannot be derogated in war or public emergency, during the debate on the Article 4 war-and-emergency clause."
+        },
+        {
+          "item": 10,
+          "id": "e_cn.4_ac.1_sr.34-0011",
+          "instrument": "ICCPR",
+          "final_article": 4,
+          "certainty": "sure",
+          "reason": "Lebanon says some rights must never be derogated even in emergencies, and the record notes how the two Article 4 (derogation) drafts were to be transmitted."
+        }
+      ],
+      "sonnet": [
+        {
+          "item": 1,
+          "id": "a_c.3_sr.1257-0010",
+          "instrument": "ICCPR",
+          "final_article": 2,
+          "certainty": "sure",
+          "reason": "Chair on 'individuals' vs 'persons' and 'discrimination' vs 'distinction' in article 2 of the draft Covenant (draft 2 = final 2); article 24 only mentioned in passing."
+        },
+        {
+          "item": 2,
+          "id": "a_c.3_sr.1402-0025",
+          "instrument": "ICESCR",
+          "final_article": 19,
+          "certainty": "sure",
+          "reason": "Chair takes up draft ICESCR article 20 with its amendments; numbering maps draft 20 to final ICESCR 19."
+        },
+        {
+          "item": 3,
+          "id": "a_c.3_sr.1424-0054",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "Debate on deleting draft article 34 (members continuing in office); draft 34 is absent from the numbering, so no final article matches."
+        },
+        {
+          "item": 4,
+          "id": "a_c.3_sr.1424-0057",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "Tunisia favours deleting draft article 34 on practical grounds; draft 34 has no final counterpart in the numbering, so not final ICCPR 34."
+        },
+        {
+          "item": 5,
+          "id": "a_c.3_sr.1424-0061",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "India answers on continuity if draft article 34 is deleted; draft 34 is unmapped, with no final article."
+        },
+        {
+          "item": 6,
+          "id": "a_c.3_sr.1424-0063",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "Italy wants draft article 34 retained, with 'matter' for 'case'; draft 34 is unmapped, so not final ICCPR 34 (vacancies)."
+        },
+        {
+          "item": 7,
+          "id": "a_c.3_sr.178-0045",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Cuba's offer to withdraw proposals if articles 16 and 17 keep their new position concerns the arrangement and order of articles, not content."
+        },
+        {
+          "item": 8,
+          "id": "e_cn.4_ac.1_sr.32-0057",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "guess",
+          "reason": "Procedural decision to transmit draft Article 11 with a note; the file gives no numbering or subject for it, so no final article can be named."
+        },
+        {
+          "item": 9,
+          "id": "e_cn.4_ac.1_sr.34-0009",
+          "instrument": "ICCPR",
+          "final_article": 4,
+          "certainty": "sure",
+          "reason": "China reserves the question of which rights may not be derogated in war or public emergency, within discussion of the war and emergency clause (Article 4)."
+        },
+        {
+          "item": 10,
+          "id": "e_cn.4_ac.1_sr.34-0011",
+          "instrument": "ICCPR",
+          "final_article": 4,
+          "certainty": "sure",
+          "reason": "Lebanon says some rights must never be derogated even in war or emergency; the discussion concerns the two drafts of the emergency clause, Article 4."
+        }
+      ],
+      "third": [
+        {
+          "item": 8,
+          "id": "e_cn.4_ac.1_sr.32-0057",
+          "instrument": "ICCPR",
+          "final_article": 12,
+          "certainty": "probable",
+          "reason": "Vote transmitting draft covenant Article 11 (two paragraphs, limitations tied to Article 9 detention); fits liberty of movement, but record never names subject."
+        }
+      ]
+    },
+    {
+      "file": "/Users/lszoszk/Desktop/AI/travaux/eval/round114/batch2.json",
+      "opus": [
+        {
+          "item": 11,
+          "id": "e_cn.4_ac.1_sr.8-0080",
+          "instrument": "UDHR",
+          "final_article": 18,
+          "certainty": "sure",
+          "reason": "Under heading Article 20 (draft 20 -> UDHR 18); Chair reads it, religious groups' views, US view on wording of paragraph 2."
+        },
+        {
+          "item": 12,
+          "id": "e_cn.4_ac.1_sr.8-0085",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "Harry speaks of the whole bracket of Chapter V freedoms (convention vs declaration), not specifically draft Article 20; several articles, none dominating."
+        },
+        {
+          "item": 13,
+          "id": "e_cn.4_ac.2_sr.4-0012",
+          "instrument": "UDHR",
+          "final_article": 4,
+          "certainty": "sure",
+          "reason": "Chair proposes adopting draft Article 11 (slavery -> UDHR 4), noting it covers traffic in women, servitude, forced labour."
+        },
+        {
+          "item": 14,
+          "id": "e_cn.4_ac.2_sr.7-0075",
+          "instrument": "UDHR",
+          "final_article": 23,
+          "certainty": "sure",
+          "reason": "Vote adopting text of draft Article 30 (pay, just conditions, trade unions, equal pay) -> UDHR 23; stray 'Article 34' heading misplaced."
+        },
+        {
+          "item": 15,
+          "id": "e_cn.4_ac.2_sr.9-0119",
+          "instrument": "UDHR",
+          "final_article": 1,
+          "certainty": "sure",
+          "reason": "Decision adopting the Philippines-France text of Article 1 ('born free and equal...'); trailing 'Comment on Article 36' is a following heading."
+        },
+        {
+          "item": 16,
+          "id": "e_cn.4_sr.113-0056",
+          "instrument": "ICCPR",
+          "final_article": 16,
+          "certainty": "sure",
+          "reason": "Under heading draft Article 15 (-> ICCPR 16); Philippine wording mirrors UDHR article 6, which is cited, not the subject."
+        },
+        {
+          "item": 17,
+          "id": "e_cn.4_sr.124-0051",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Roll-call vote on USSR procedural proposal about order of work (additional articles vs Parts I and III)."
+        },
+        {
+          "item": 18,
+          "id": "e_cn.4_sr.135-0152",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair's closing thanks to members, officers and Secretariat at session end."
+        },
+        {
+          "item": 19,
+          "id": "e_cn.4_sr.138-0019",
+          "instrument": "ICCPR",
+          "final_article": 2,
+          "certainty": "sure",
+          "reason": "US proposal to add 'territory and subject to its jurisdiction' in draft article 2, paragraph 1 (-> ICCPR 2)."
+        },
+        {
+          "item": 20,
+          "id": "e_cn.4_sr.142-0024",
+          "instrument": "ICCPR",
+          "final_article": 8,
+          "certainty": "probable",
+          "reason": "In debate on draft article 8 (forced labour); Egypt's martial-law question about article 8's scope; article 4 cited as covering it."
+        }
+      ],
+      "sonnet": [
+        {
+          "item": 11,
+          "id": "e_cn.4_ac.1_sr.8-0080",
+          "instrument": "UDHR",
+          "final_article": 18,
+          "certainty": "sure",
+          "reason": "Chair reads draft Article 20 (freedom of worship, teaching religious belief, conscience); numbering maps draft 20 to UDHR 18."
+        },
+        {
+          "item": 12,
+          "id": "e_cn.4_ac.1_sr.8-0085",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "Harry speaks of the whole bracket of Chapter V freedoms and Convention versus Declaration treatment, not one article."
+        },
+        {
+          "item": 13,
+          "id": "e_cn.4_ac.2_sr.4-0012",
+          "instrument": "UDHR",
+          "final_article": 4,
+          "certainty": "sure",
+          "reason": "Chair proposes adopting draft Article 11 on slavery, covering traffic in women and forced labour; draft 11 maps to UDHR 4."
+        },
+        {
+          "item": 14,
+          "id": "e_cn.4_ac.2_sr.7-0075",
+          "instrument": "UDHR",
+          "final_article": 23,
+          "certainty": "sure",
+          "reason": "Adopted text for draft Article 30: pay, just conditions, trade unions, women's equal pay; maps to UDHR 23. The Article 34 heading precedes it."
+        },
+        {
+          "item": 15,
+          "id": "e_cn.4_ac.2_sr.9-0119",
+          "instrument": "UDHR",
+          "final_article": 1,
+          "certainty": "sure",
+          "reason": "Vote adopting the Article 1 text (born free and equal in dignity and rights); the trailing 'Comment on Article 36' is only a following heading."
+        },
+        {
+          "item": 16,
+          "id": "e_cn.4_sr.113-0056",
+          "instrument": "ICCPR",
+          "final_article": 16,
+          "certainty": "sure",
+          "reason": "Under draft Covenant Article 15 (recognition as person before the law, from UDHR art. 6 wording); draft 15 maps to ICCPR 16."
+        },
+        {
+          "item": 17,
+          "id": "e_cn.4_sr.124-0051",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Roll-call vote on the order of work: whether to take the additional economic and social articles before Parts I and III."
+        },
+        {
+          "item": 18,
+          "id": "e_cn.4_sr.135-0152",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair's closing thanks to members, vice-presidents, rapporteur and Secretariat; purely procedural."
+        },
+        {
+          "item": 19,
+          "id": "e_cn.4_sr.138-0019",
+          "instrument": "ICCPR",
+          "final_article": 2,
+          "certainty": "sure",
+          "reason": "US amendment to draft article 2(1), 'territory and subject to its jurisdiction'; draft 2 maps to ICCPR 2."
+        },
+        {
+          "item": 20,
+          "id": "e_cn.4_sr.142-0024",
+          "instrument": "ICCPR",
+          "final_article": 4,
+          "certainty": "probable",
+          "reason": "Ramadan says martial law falls under article 4(1) (derogation), not article 8(4)(c); the debate is on article 8, but this remark turns on article 4."
+        }
+      ],
+      "third": [
+        {
+          "item": 20,
+          "id": "e_cn.4_sr.142-0024",
+          "instrument": "ICCPR",
+          "final_article": 8,
+          "certainty": "probable",
+          "reason": "Exchange on whether martial law affects draft article 8 (forced labour); Egypt cites article 4(1) only as where his concern falls, versus 8(4)(c)."
+        }
+      ]
+    },
+    {
+      "file": "/Users/lszoszk/Desktop/AI/travaux/eval/round114/batch3.json",
+      "opus": [
+        {
+          "item": 21,
+          "id": "e_cn.4_sr.162-0020",
+          "instrument": "ICCPR",
+          "final_article": 19,
+          "certainty": "sure",
+          "reason": "Ordonneau on the adequacy of draft article 17 (freedom of information) and the French text; draft 17 maps to final ICCPR 19."
+        },
+        {
+          "item": 22,
+          "id": "e_cn.4_sr.162-0021",
+          "instrument": "ICCPR",
+          "final_article": 19,
+          "certainty": "probable",
+          "reason": "Asks that the vote be taken on the French text of draft article 17 as it stands; this is about the vote on ICCPR 19."
+        },
+        {
+          "item": 23,
+          "id": "e_cn.4_sr.172-0030",
+          "instrument": "ICCPR",
+          "final_article": 26,
+          "certainty": "sure",
+          "reason": "Sorensen on draft article 20 paragraph 2: discrimination grounds, minority association, amendments; draft 20 maps to final ICCPR 26."
+        },
+        {
+          "item": 24,
+          "id": "e_cn.4_sr.194-0027",
+          "instrument": "ICCPR",
+          "final_article": 2,
+          "certainty": "sure",
+          "reason": "Defends the US 'territory and jurisdiction' amendment to article 2; the article 11 reference is in passing."
+        },
+        {
+          "item": 25,
+          "id": "e_cn.4_sr.194-0028",
+          "instrument": "ICCPR",
+          "final_article": 2,
+          "certainty": "sure",
+          "reason": "Nisot proposes wording on jurisdiction and territory for the first sentence of article 2, paragraph 1 (scope of obligations)."
+        },
+        {
+          "item": 26,
+          "id": "e_cn.4_sr.196-0004",
+          "instrument": "ICCPR",
+          "final_article": 4,
+          "certainty": "sure",
+          "reason": "Chair names the open points on article 4: whether articles 9 and 20 go in the non-derogable list of paragraph 2."
+        },
+        {
+          "item": 27,
+          "id": "e_cn.4_sr.197-0032",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Vote on the UK additional article on reservations; no final Covenant article corresponds."
+        },
+        {
+          "item": 28,
+          "id": "e_cn.4_sr.269-0019",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "Cassin on the order of work: discussing articles 20-32 entails the general clause (article 19(4)). Procedural, no single article dominates."
+        },
+        {
+          "item": 29,
+          "id": "e_cn.4_sr.275-0042",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "About whether to meet on 1 May; purely procedural."
+        },
+        {
+          "item": 30,
+          "id": "e_cn.4_sr.300-0053",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair announces the end of article 27 and moves to article 31; order of work only."
+        }
+      ],
+      "sonnet": [
+        {
+          "item": 21,
+          "id": "e_cn.4_sr.162-0020",
+          "instrument": "ICCPR",
+          "final_article": 19,
+          "certainty": "sure",
+          "reason": "French delegate on draft article 17 (freedom of information/expression), its adequacy and his text; draft 17 maps to final ICCPR 19."
+        },
+        {
+          "item": 22,
+          "id": "e_cn.4_sr.162-0021",
+          "instrument": "ICCPR",
+          "final_article": 19,
+          "certainty": "sure",
+          "reason": "Chair insists the vote be taken on the French text for draft article 17 (freedom of information); draft 17 maps to final ICCPR 19."
+        },
+        {
+          "item": 23,
+          "id": "e_cn.4_sr.172-0030",
+          "instrument": "ICCPR",
+          "final_article": 26,
+          "certainty": "sure",
+          "reason": "Danish speaker on draft article 20 paragraph 2, grounds of non-discrimination (minorities); draft 20 maps to final ICCPR 26."
+        },
+        {
+          "item": 24,
+          "id": "e_cn.4_sr.194-0027",
+          "instrument": "ICCPR",
+          "final_article": 2,
+          "certainty": "sure",
+          "reason": "Chair defends the US 'territory and jurisdiction' amendment to article 2; the reference to article 11 is incidental."
+        },
+        {
+          "item": 25,
+          "id": "e_cn.4_sr.194-0028",
+          "instrument": "ICCPR",
+          "final_article": 2,
+          "certainty": "sure",
+          "reason": "Belgian wording on persons within territory or subject to jurisdiction, in the article 2 debate; Chair's aliens reply stays on scope."
+        },
+        {
+          "item": 26,
+          "id": "e_cn.4_sr.196-0004",
+          "instrument": "ICCPR",
+          "final_article": 4,
+          "certainty": "sure",
+          "reason": "Chair recalls the open points in article 4 paragraph 2, which articles are non-derogable; heading is Articles 4 and 23; draft 4 maps to ICCPR 4."
+        },
+        {
+          "item": 27,
+          "id": "e_cn.4_sr.197-0032",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Vote on inserting 'only' in the UK additional reservations article, a clause that did not become any final article; procedural."
+        },
+        {
+          "item": 28,
+          "id": "e_cn.4_sr.269-0019",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "Cassin on order of work: discussing articles 20-32 will involve article 19 paragraph 4, the general clause; procedural, spans many articles."
+        },
+        {
+          "item": 29,
+          "id": "e_cn.4_sr.275-0042",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Roosevelt says the Commission should work on 1 May rather than celebrate it; purely a scheduling matter."
+        },
+        {
+          "item": 30,
+          "id": "e_cn.4_sr.300-0053",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "Chair announces end of draft article 27 and the move to article 31; an order-of-work statement naming two articles, neither dominating."
+        }
+      ],
+      "third": []
+    },
+    {
+      "file": "/Users/lszoszk/Desktop/AI/travaux/eval/round114/batch4.json",
+      "opus": [
+        {
+          "item": 31,
+          "id": "e_cn.4_sr.310-0006",
+          "instrument": "ICCPR",
+          "final_article": 6,
+          "certainty": "sure",
+          "reason": "Continuation of the French chairman's analysis of approaches to draft article 3 (right to life) and amendments to its paragraph 2; draft 3 maps to ICCPR 6."
+        },
+        {
+          "item": 32,
+          "id": "e_cn.4_sr.310-0007",
+          "instrument": "ICCPR",
+          "final_article": 6,
+          "certainty": "sure",
+          "reason": "Poland objects to self-defence and the riot exception in draft article 3 on the right to life (draft 3 maps to ICCPR 6)."
+        },
+        {
+          "item": 33,
+          "id": "e_cn.4_sr.350-0028",
+          "instrument": "ICCPR",
+          "final_article": 34,
+          "certainty": "probable",
+          "reason": "Chair invites the Rapporteur to introduce the new text of draft article 40, which the numbering maps to ICCPR 34 (filling vacancies)."
+        },
+        {
+          "item": 34,
+          "id": "e_cn.4_sr.352-0048",
+          "instrument": "ICCPR",
+          "final_article": 33,
+          "certainty": "sure",
+          "reason": "UK accepts an amendment to draft article 42 on declaring a member's seat vacant; draft 42 maps to ICCPR 33."
+        },
+        {
+          "item": 35,
+          "id": "e_cn.4_sr.352-0050",
+          "instrument": "ICCPR",
+          "final_article": 33,
+          "certainty": "sure",
+          "reason": "Chile withdraws its amendment to draft article 42, paragraph 1 (removal and vacancy of a member), which maps to ICCPR 33."
+        },
+        {
+          "item": 36,
+          "id": "e_cn.4_sr.426-0030",
+          "instrument": "ICESCR",
+          "final_article": 24,
+          "certainty": "probable",
+          "reason": "Chair opens examination of draft article 69 (Charter and specialized agencies' constitutions), mapped to ICESCR 24; no amendments submitted."
+        },
+        {
+          "item": 37,
+          "id": "e_cn.4_sr.70-0036",
+          "instrument": "UDHR",
+          "final_article": 25,
+          "certainty": "probable",
+          "reason": "USSR criticises merged draft 25/26 for dropping housing and medical care; the merged text is the ancestor of UDHR 25."
+        },
+        {
+          "item": 38,
+          "id": "e_cn.4_sr.70-0037",
+          "instrument": "UDHR",
+          "final_article": 25,
+          "certainty": "probable",
+          "reason": "Chair explains 'social security' in merged draft 25/26 as the right to an adequate standard of living; the text became UDHR 25."
+        },
+        {
+          "item": 39,
+          "id": "e_cn.4_sr.91-0018",
+          "instrument": "ICCPR",
+          "final_article": 7,
+          "certainty": "probable",
+          "reason": "Chair calls on an NGO to speak on draft article 6 (mutilation, experimentation), which the numbering maps to ICCPR 7."
+        },
+        {
+          "item": 40,
+          "id": "e_cn.4_sr.91-0025",
+          "instrument": "ICCPR",
+          "final_article": 7,
+          "certainty": "sure",
+          "reason": "China supports reproducing UDHR article 5 in draft article 7 and deleting draft 6 for now; both map to ICCPR 7."
+        }
+      ],
+      "sonnet": [
+        {
+          "item": 31,
+          "id": "e_cn.4_sr.310-0006",
+          "instrument": "ICCPR",
+          "final_article": 6,
+          "certainty": "sure",
+          "reason": "Chair Cassin continues his analysis of the three approaches to draft article 3 (right to life), which maps to final ICCPR 6."
+        },
+        {
+          "item": 32,
+          "id": "e_cn.4_sr.310-0007",
+          "instrument": "ICCPR",
+          "final_article": 6,
+          "certainty": "sure",
+          "reason": "Boratynski objects to self-defence and riot exceptions in draft article 3 on the right to life, which maps to ICCPR 6."
+        },
+        {
+          "item": 33,
+          "id": "e_cn.4_sr.350-0028",
+          "instrument": "ICCPR",
+          "final_article": 34,
+          "certainty": "probable",
+          "reason": "Chair invites the Rapporteur to present the new text for draft article 40, which the numbering maps to ICCPR 34; the line gives no content."
+        },
+        {
+          "item": 34,
+          "id": "e_cn.4_sr.352-0048",
+          "instrument": "ICCPR",
+          "final_article": 33,
+          "certainty": "sure",
+          "reason": "Hoare accepts a Chilean amendment to draft article 42 on vacancies (unanimity vs two-thirds); draft 42 maps to ICCPR 33."
+        },
+        {
+          "item": 35,
+          "id": "e_cn.4_sr.352-0050",
+          "instrument": "ICCPR",
+          "final_article": 33,
+          "certainty": "sure",
+          "reason": "Chile withdraws its unanimity proposal to the UK text of draft article 42 on vacating a Committee seat; draft 42 maps to ICCPR 33."
+        },
+        {
+          "item": 36,
+          "id": "e_cn.4_sr.426-0030",
+          "instrument": "ICESCR",
+          "final_article": 24,
+          "certainty": "sure",
+          "reason": "Chair opens examination of draft article 69 (UN Charter and specialized agencies' constitutions), which maps to ICESCR 24."
+        },
+        {
+          "item": 37,
+          "id": "e_cn.4_sr.70-0036",
+          "instrument": "UDHR",
+          "final_article": 25,
+          "certainty": "probable",
+          "reason": "Pavlov complains housing and medical assistance were dropped and questions 'security'; this is mostly standard-of-living wording (UDHR 25), though joint 25/26 text also touches social security."
+        },
+        {
+          "item": 38,
+          "id": "e_cn.4_sr.70-0037",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "Chair equates 'right to social security' with standard of living and social services in the merged draft 25/26; this straddles UDHR 22 and 25 with neither dominating."
+        },
+        {
+          "item": 39,
+          "id": "e_cn.4_sr.91-0018",
+          "instrument": "ICCPR",
+          "final_article": 7,
+          "certainty": "sure",
+          "reason": "Chair invites a statement on draft article 6 (sterilization, mutilation, experiments), which maps to ICCPR 7."
+        },
+        {
+          "item": 40,
+          "id": "e_cn.4_sr.91-0025",
+          "instrument": "ICCPR",
+          "final_article": 7,
+          "certainty": "sure",
+          "reason": "Chang backs reproducing UDHR art. 5 in draft article 7 and deleting article 6 for now; both draft 6 and 7 map to ICCPR 7."
+        }
+      ],
+      "third": [
+        {
+          "item": 38,
+          "id": "e_cn.4_sr.70-0037",
+          "instrument": "UDHR",
+          "final_article": 25,
+          "certainty": "probable",
+          "reason": "Chair interprets wording of combined draft Articles 25/26 (standard of living, social services, security against unemployment), which became UDHR 25."
+        }
+      ]
+    }
+  ],
+  "workflowProgress": [
+    {
+      "type": "workflow_phase",
+      "index": 1,
+      "title": "Judge"
+    },
+    {
+      "type": "workflow_phase",
+      "index": 2,
+      "title": "Third"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 1,
+      "label": "opus:batch1.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a0bcaa8ed1975bfab",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1793460684264,
+      "queuedAt": 1793460684233,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round114/batch1.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793460774469,
+      "tokens": 92003,
+      "toolCalls": 10,
+      "durationMs": 90204,
+      "resultPreview": "{\"answers\":[{\"item\":1,\"id\":\"a_c.3_sr.1257-0010\",\"instrument\":\"ICCPR\",\"final_article\":2,\"certainty\":\"sure\",\"reason\":\"Under the heading on draft ICCPR article 2: the chair weighs 'discrimination' against 'distinction' and the Japanese 'persons' amendment to article 2. Article 24 is only mentioned in passing.\"},{\"item\":2,\"id\":\"a_c.3_sr.1402-0025\",\"instrument\":\"ICESCR\",\"final_article\":19,\"certainty\":\"…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 2,
+      "label": "sonnet:batch1.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a7dedf6c84a3ea022",
+      "model": "claude-sonnet-5-5",
+      "state": "done",
+      "startedAt": 1793460684264,
+      "queuedAt": 1793460684234,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round114/batch1.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793460809500,
+      "tokens": 93043,
+      "toolCalls": 8,
+      "durationMs": 125229,
+      "resultPreview": "{\"answers\":[{\"item\":1,\"id\":\"a_c.3_sr.1257-0010\",\"instrument\":\"ICCPR\",\"final_article\":2,\"certainty\":\"sure\",\"reason\":\"Chair on 'individuals' vs 'persons' and 'discrimination' vs 'distinction' in article 2 of the draft Covenant (draft 2 = final 2); article 24 only mentioned in passing.\"},{\"item\":2,\"id\":\"a_c.3_sr.1402-0025\",\"instrument\":\"ICESCR\",\"final_article\":19,\"certainty\":\"sure\",\"reason\":\"Chair ta…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 3,
+      "label": "opus:batch2.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a93862e1f6ffc19f5",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1793460684309,
+      "queuedAt": 1793460684305,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round114/batch2.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793460736343,
+      "tokens": 87612,
+      "toolCalls": 5,
+      "durationMs": 48955,
+      "resultPreview": "{\"answers\":[{\"item\":11,\"id\":\"e_cn.4_ac.1_sr.8-0080\",\"instrument\":\"UDHR\",\"final_article\":18,\"certainty\":\"sure\",\"reason\":\"Under heading Article 20 (draft 20 -> UDHR 18); Chair reads it, religious groups' views, US view on wording of paragraph 2.\"},{\"item\":12,\"id\":\"e_cn.4_ac.1_sr.8-0085\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"probable\",\"reason\":\"Harry speaks of the whole bracket of Cha…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 4,
+      "label": "sonnet:batch2.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a9c715e60c98426e5",
+      "model": "claude-sonnet-5-5",
+      "state": "done",
+      "startedAt": 1793460684310,
+      "queuedAt": 1793460684305,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round114/batch2.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793460758126,
+      "tokens": 90548,
+      "toolCalls": 9,
+      "durationMs": 72095,
+      "resultPreview": "{\"answers\":[{\"item\":11,\"id\":\"e_cn.4_ac.1_sr.8-0080\",\"instrument\":\"UDHR\",\"final_article\":18,\"certainty\":\"sure\",\"reason\":\"Chair reads draft Article 20 (freedom of worship, teaching religious belief, conscience); numbering maps draft 20 to UDHR 18.\"},{\"item\":12,\"id\":\"e_cn.4_ac.1_sr.8-0085\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"probable\",\"reason\":\"Harry speaks of the whole bracket of C…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 5,
+      "label": "opus:batch3.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "ae77c90d9a1b0ed37",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1793460684314,
+      "queuedAt": 1793460684310,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round114/batch3.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793460745850,
+      "tokens": 95447,
+      "toolCalls": 9,
+      "durationMs": 58462,
+      "resultPreview": "{\"answers\":[{\"item\":21,\"id\":\"e_cn.4_sr.162-0020\",\"instrument\":\"ICCPR\",\"final_article\":19,\"certainty\":\"sure\",\"reason\":\"Ordonneau on the adequacy of draft article 17 (freedom of information) and the French text; draft 17 maps to final ICCPR 19.\"},{\"item\":22,\"id\":\"e_cn.4_sr.162-0021\",\"instrument\":\"ICCPR\",\"final_article\":19,\"certainty\":\"probable\",\"reason\":\"Asks that the vote be taken on the French tex…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 6,
+      "label": "sonnet:batch3.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a9b9db3dfcc65bd59",
+      "model": "claude-sonnet-5-5",
+      "state": "done",
+      "startedAt": 1793460684315,
+      "queuedAt": 1793460684310,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round114/batch3.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793460768035,
+      "tokens": 97504,
+      "toolCalls": 14,
+      "durationMs": 82001,
+      "resultPreview": "{\"answers\":[{\"item\":21,\"id\":\"e_cn.4_sr.162-0020\",\"instrument\":\"ICCPR\",\"final_article\":19,\"certainty\":\"sure\",\"reason\":\"French delegate on draft article 17 (freedom of information/expression), its adequacy and his text; draft 17 maps to final ICCPR 19.\"},{\"item\":22,\"id\":\"e_cn.4_sr.162-0021\",\"instrument\":\"ICCPR\",\"final_article\":19,\"certainty\":\"sure\",\"reason\":\"Chair insists the vote be taken on the Fr…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 7,
+      "label": "opus:batch4.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a04b7406d08a587d4",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1793460684317,
+      "queuedAt": 1793460684315,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round114/batch4.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793460785393,
+      "tokens": 98970,
+      "toolCalls": 8,
+      "durationMs": 98005,
+      "resultPreview": "{\"answers\":[{\"item\":31,\"id\":\"e_cn.4_sr.310-0006\",\"instrument\":\"ICCPR\",\"final_article\":6,\"certainty\":\"sure\",\"reason\":\"Continuation of the French chairman's analysis of approaches to draft article 3 (right to life) and amendments to its paragraph 2; draft 3 maps to ICCPR 6.\"},{\"item\":32,\"id\":\"e_cn.4_sr.310-0007\",\"instrument\":\"ICCPR\",\"final_article\":6,\"certainty\":\"sure\",\"reason\":\"Poland objects to se…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 8,
+      "label": "sonnet:batch4.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a69c6eaa5e8ef27fd",
+      "model": "claude-sonnet-5-5",
+      "state": "done",
+      "startedAt": 1793460684317,
+      "queuedAt": 1793460684315,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round114/batch4.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793460786233,
+      "tokens": 98780,
+      "toolCalls": 7,
+      "durationMs": 100199,
+      "resultPreview": "{\"answers\":[{\"item\":31,\"id\":\"e_cn.4_sr.310-0006\",\"instrument\":\"ICCPR\",\"final_article\":6,\"certainty\":\"sure\",\"reason\":\"Chair Cassin continues his analysis of the three approaches to draft article 3 (right to life), which maps to final ICCPR 6.\"},{\"item\":32,\"id\":\"e_cn.4_sr.310-0007\",\"instrument\":\"ICCPR\",\"final_article\":6,\"certainty\":\"sure\",\"reason\":\"Boratynski objects to self-defence and riot excepti…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 9,
+      "label": "third:batch2.json",
+      "phaseIndex": 2,
+      "phaseTitle": "Third",
+      "agentId": "a952377feafde8279",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1793460760049,
+      "queuedAt": 1793460760044,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round114/batch2.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793460781763,
+      "tokens": 55520,
+      "toolCalls": 3,
+      "durationMs": 21714,
+      "resultPreview": "{\"answers\":[{\"item\":20,\"id\":\"e_cn.4_sr.142-0024\",\"instrument\":\"ICCPR\",\"final_article\":8,\"certainty\":\"probable\",\"reason\":\"Exchange on whether martial law affects draft article 8 (forced labour); Egypt cites article 4(1) only as where his concern falls, versus 8(4)(c).\"}]}"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 10,
+      "label": "third:batch4.json",
+      "phaseIndex": 2,
+      "phaseTitle": "Third",
+      "agentId": "a5d71a2f6b8f91a2a",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1793460788507,
+      "queuedAt": 1793460788503,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round114/batch4.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793460820717,
+      "tokens": 56631,
+      "toolCalls": 4,
+      "durationMs": 32210,
+      "resultPreview": "{\"answers\":[{\"item\":38,\"id\":\"e_cn.4_sr.70-0037\",\"instrument\":\"UDHR\",\"final_article\":25,\"certainty\":\"probable\",\"reason\":\"Chair interprets wording of combined draft Articles 25/26 (standard of living, social services, security against unemployment), which became UDHR 25.\"}]}"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 11,
+      "label": "third:batch1.json",
+      "phaseIndex": 2,
+      "phaseTitle": "Third",
+      "agentId": "a844da4a06b8df504",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1793460811578,
+      "queuedAt": 1793460811574,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round114/batch1.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793460845338,
+      "tokens": 60592,
+      "toolCalls": 5,
+      "durationMs": 33760,
+      "resultPreview": "{\"answers\":[{\"item\":8,\"id\":\"e_cn.4_ac.1_sr.32-0057\",\"instrument\":\"ICCPR\",\"final_article\":12,\"certainty\":\"probable\",\"reason\":\"Vote transmitting draft covenant Article 11 (two paragraphs, limitations tied to Article 9 detention); fits liberty of movement, but record never names subject.\"}]}"
+    }
+  ],
+  "totalTokens": 926650,
+  "totalToolCalls": 82
+}

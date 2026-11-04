@@ -1,0 +1,662 @@
+[
+ {
+  "kind": "T",
+  "a": {
+   "e_cn.4_sr.241-0023": {
+    "id": "e_cn.4_sr.241-0023",
+    "correct": true,
+    "note": "WHO speaker on how specialized agencies and ECOSOC fit into the covenant's implementation machinery; this is the implementation question."
+   },
+   "e_cn.4_sr.192-0022": {
+    "id": "e_cn.4_sr.192-0022",
+    "correct": true,
+    "note": "Greece on the legal status and establishment of the human rights committee; this is general implementation machinery."
+   },
+   "a_c.3_sr.404-0022": {
+    "id": "a_c.3_sr.404-0022",
+    "correct": true,
+    "note": "Syria sets conditions for admitting reservations to the covenant(s); this is the reservations question."
+   },
+   "a_c.3_sr.1412-0027": {
+    "id": "a_c.3_sr.1412-0027",
+    "correct": true,
+    "note": "UK on including an article on reservations in the covenants; this is the reservations question."
+   },
+   "e_cn.4_sr.434-0013": {
+    "id": "e_cn.4_sr.434-0013",
+    "correct": true,
+    "note": "NGO argues for extending the right of complaint and petition under the covenants to NGOs; this is the petitions question."
+   },
+   "a_pv.180-0011": {
+    "id": "a_pv.180-0011",
+    "correct": true,
+    "note": "Manuilsky's plenary critique of the declaration as a whole; this is a general statement on the instrument."
+   },
+   "e_cn.4_sr.32-0049": {
+    "id": "e_cn.4_sr.32-0049",
+    "correct": false,
+    "note": "About referring one particular petition to the Commission on the Status of Women, a procedural matter under the communications item, not the right of petition in the instruments."
+   },
+   "a_c.3_sr.389-0026": {
+    "id": "a_c.3_sr.389-0026",
+    "correct": true,
+    "note": "Lebanon on one covenant or two and the unity of the two kinds of rights; this is the two_covenants question."
+   },
+   "a_c.3_sr.528-0022": {
+    "id": "a_c.3_sr.528-0022",
+    "correct": false,
+    "note": "Iraq on the United States proposals for reports, studies and rapporteurs (E/2447), a separate agenda item from implementing the covenants."
+   },
+   "a_c.3_sr.394-0003": {
+    "id": "a_c.3_sr.394-0003",
+    "correct": true,
+    "note": "New Zealand supports drafting two covenants because the two sets of rights need different implementation; this is two_covenants."
+   },
+   "a_c.3_sr.178-0077": {
+    "id": "a_c.3_sr.178-0077",
+    "correct": true,
+    "note": "Mexico on the New Zealand resolution about how the declaration relates to the covenant and implementation measures; this is form_of_bill."
+   },
+   "e_cn.4_sr.438-0006": {
+    "id": "e_cn.4_sr.438-0006",
+    "correct": true,
+    "note": "Belgium on whether to seek an ICJ opinion on a federal clause and on the USSR anti-federal-clause article; this is mainly the federal clause."
+   },
+   "e_cn.4_sr.205-0016": {
+    "id": "e_cn.4_sr.205-0016",
+    "correct": true,
+    "note": "Chile on whether a system of implementation and interstate accusations can work, including for economic rights; this is the implementation question."
+   },
+   "a_c.3_sr.299-0008": {
+    "id": "a_c.3_sr.299-0008",
+    "correct": true,
+    "note": "Czechoslovakia argues for including economic, social and cultural rights in the covenant; this is two_covenants."
+   },
+   "a_c.3_sr.296-0009": {
+    "id": "a_c.3_sr.296-0009",
+    "correct": true,
+    "note": "Indonesia opposes a colonial clause in the covenant; this is the territorial clause."
+   },
+   "e_cn.4_sr.423-0041": {
+    "id": "e_cn.4_sr.423-0041",
+    "correct": true,
+    "note": "China on the Uruguayan proposal on communications and the principle of the right of petition; this is petitions."
+   },
+   "a_c.3_sr.405-0025": {
+    "id": "a_c.3_sr.405-0025",
+    "correct": true,
+    "note": "Ecuador explains its vote on the Guatemalan resolution about reservations to the covenant; this is reservations."
+   },
+   "e_cn.4_sr.214-0006": {
+    "id": "e_cn.4_sr.214-0006",
+    "correct": true,
+    "note": "India on the implementation machinery in the Danish and French proposals and on whom the Committee acts for; this is general implementation."
+   },
+   "a_c.3_sr.296-0013": {
+    "id": "a_c.3_sr.296-0013",
+    "correct": true,
+    "note": "Chile on the substantive debate over including the colonial clause; this is the territorial clause."
+   },
+   "e_cn.4_sr.132-0049": {
+    "id": "e_cn.4_sr.132-0049",
+    "correct": true,
+    "note": "Denmark supports the individual right of petition and says it should be studied together with the Covenant; this is petitions."
+   }
+  },
+  "c": {
+   "e_cn.4_sr.241-0023": {
+    "id": "e_cn.4_sr.241-0023",
+    "correct": true,
+    "note": "WHO representative on the specialized agencies' role in implementation machinery; fits general implementation."
+   },
+   "e_cn.4_sr.192-0022": {
+    "id": "e_cn.4_sr.192-0022",
+    "correct": true,
+    "note": "Greek view on the status and establishment of the human rights committee; implementation machinery."
+   },
+   "a_c.3_sr.404-0022": {
+    "id": "a_c.3_sr.404-0022",
+    "correct": true,
+    "note": "Syria on admissibility and conditions of reservations to the covenants."
+   },
+   "a_c.3_sr.1412-0027": {
+    "id": "a_c.3_sr.1412-0027",
+    "correct": true,
+    "note": "UK on its proposed reservations article for the covenants."
+   },
+   "e_cn.4_sr.434-0013": {
+    "id": "e_cn.4_sr.434-0013",
+    "correct": true,
+    "note": "NGO representative on the right of NGOs to petition or complain under the covenants."
+   },
+   "a_pv.180-0011": {
+    "id": "a_pv.180-0011",
+    "correct": true,
+    "note": "Manuilsky's statement on the declaration as a whole, why it should not be adopted and its social-system critique; a general statement."
+   },
+   "e_cn.4_sr.32-0049": {
+    "id": "e_cn.4_sr.32-0049",
+    "correct": false,
+    "note": "About a single petition (International Democratic Federation of Women) and its referral between bodies, not the right of petition in principle."
+   },
+   "a_c.3_sr.389-0026": {
+    "id": "a_c.3_sr.389-0026",
+    "correct": true,
+    "note": "Lebanon on one covenant or two and on the unity of the two kinds of rights."
+   },
+   "a_c.3_sr.528-0022": {
+    "id": "a_c.3_sr.528-0022",
+    "correct": false,
+    "note": "Concerns a draft resolution on studies and periodic reports on human rights and rapporteurs, another agenda item, not covenant implementation."
+   },
+   "a_c.3_sr.394-0003": {
+    "id": "a_c.3_sr.394-0003",
+    "correct": true,
+    "note": "New Zealand supports two covenants because the two sets of rights need different implementation; mainly the two-covenant question."
+   },
+   "a_c.3_sr.178-0077": {
+    "id": "a_c.3_sr.178-0077",
+    "correct": true,
+    "note": "Mexico on a draft resolution about declaration, covenant and implementation as parts of the bill of rights."
+   },
+   "e_cn.4_sr.438-0006": {
+    "id": "e_cn.4_sr.438-0006",
+    "correct": true,
+    "note": "Belgium on asking the ICJ about a federal clause and on the USSR federal-State article."
+   },
+   "e_cn.4_sr.205-0016": {
+    "id": "e_cn.4_sr.205-0016",
+    "correct": true,
+    "note": "Chile on whether a system of implementation can be imposed on all States, especially for economic and social rights."
+   },
+   "a_c.3_sr.299-0008": {
+    "id": "a_c.3_sr.299-0008",
+    "correct": true,
+    "note": "Czechoslovakia on including economic, social and cultural rights in the covenant."
+   },
+   "a_c.3_sr.296-0009": {
+    "id": "a_c.3_sr.296-0009",
+    "correct": true,
+    "note": "Indonesia opposes the colonial clause; territorial application."
+   },
+   "e_cn.4_sr.423-0041": {
+    "id": "e_cn.4_sr.423-0041",
+    "correct": true,
+    "note": "China on the Uruguayan communications article and the principle of the right of petition."
+   },
+   "a_c.3_sr.405-0025": {
+    "id": "a_c.3_sr.405-0025",
+    "correct": true,
+    "note": "Ecuador on the admissibility of reservations to the covenant and the Guatemalan resolution."
+   },
+   "e_cn.4_sr.214-0006": {
+    "id": "e_cn.4_sr.214-0006",
+    "correct": true,
+    "note": "India on the machinery of implementation and the Committee's basis; general implementation."
+   },
+   "a_c.3_sr.296-0013": {
+    "id": "a_c.3_sr.296-0013",
+    "correct": true,
+    "note": "Chile on the debate over the colonial clause and the treatment of non-self-governing peoples."
+   },
+   "e_cn.4_sr.132-0049": {
+    "id": "e_cn.4_sr.132-0049",
+    "correct": true,
+    "note": "Denmark supports individual petition and discusses a study of petitions and a draft resolution; right of petition."
+   }
+  },
+  "third": {}
+ },
+ {
+  "kind": "T",
+  "a": {
+   "e_cn.4_sr.344-0008": {
+    "id": "e_cn.4_sr.344-0008",
+    "correct": true,
+    "note": "Morozov's broad statement on why the covenants need effective implementation measures and on States' obligation to implement them is mainly about implementation."
+   },
+   "e_cn.4_sr.204-0012": {
+    "id": "e_cn.4_sr.204-0012",
+    "correct": true,
+    "note": "Mehta agrees to help draft the economic and social articles but keeps her freedom to oppose including them in the covenant, which is the two-covenants question itself."
+   },
+   "e_cn.4_sr.435-0014": {
+    "id": "e_cn.4_sr.435-0014",
+    "correct": true,
+    "note": "Nisot criticises the French proposal for a separate instrument on individual complaints to the Human Rights Committee, so the speech is about the right of petition."
+   },
+   "e_cn.4_ac.1_sr.8-0096": {
+    "id": "e_cn.4_ac.1_sr.8-0096",
+    "correct": true,
+    "note": "Under draft article 24 (the right of petition, with no final UDHR counterpart), Cassin proposes placing petition among the political rights, so the speech is about petition in the declaration."
+   },
+   "a_c.3_sr.313-0017": {
+    "id": "a_c.3_sr.313-0017",
+    "correct": true,
+    "note": "Davin introduces the Greek-New Zealand amendment and explains how far economic, social and cultural rights should go into the covenant, which is the two-covenants question."
+   },
+   "a_c.3_sr.299-0009": {
+    "id": "a_c.3_sr.299-0009",
+    "correct": true,
+    "note": "The UNESCO representative argues the covenant is incomplete without economic, social and cultural rights and asks whether they belong in the first covenant or a later one."
+   },
+   "a_c.3_sr.520-0016": {
+    "id": "a_c.3_sr.520-0016",
+    "correct": true,
+    "note": "Caldwell defends a federal clause against the Egyptian draft resolution and the Afghan reservations alternative, so the speech is mainly about the federal clause."
+   },
+   "a_c.3_sr.159-0014": {
+    "id": "a_c.3_sr.159-0014",
+    "correct": true,
+    "note": "Dehousse answers Mexico on extending the right of petition and supports deferring the question, so the speech is mainly about petition."
+   },
+   "e_cn.4_sr.393-0028": {
+    "id": "e_cn.4_sr.393-0028",
+    "correct": true,
+    "note": "Diaz Casanueva explains his vote on which organ should receive reports and argues for broader promotional functions for the Human Rights Committee, which is general implementation machinery."
+   },
+   "a_c.3_sr.521-0005": {
+    "id": "a_c.3_sr.521-0005",
+    "correct": true,
+    "note": "Baroody presents the compromise resolution sending the federal-clause texts to the Commission and explains why the substance should be deferred, so the speech is about the federal clause."
+   },
+   "e_cn.4_sr.390-0023": {
+    "id": "e_cn.4_sr.390-0023",
+    "correct": true,
+    "note": "Cassin's amendments concern the proposed new article on appealing from the Committee's report in complaints between States, which was never adopted as a final article and belongs to implementation."
+   },
+   "e_cn.4_sr.435-0016": {
+    "id": "e_cn.4_sr.435-0016",
+    "correct": true,
+    "note": "Nisot again argues that the French proposal would let complaints, including individual ones, reach the Committee against States that rejected the procedure, so the speech is about petitions."
+   },
+   "a_c.3_sr.289-0007": {
+    "id": "a_c.3_sr.289-0007",
+    "correct": true,
+    "note": "Panyushkin assesses the overall adequacy of the first eighteen articles and the rights missing from the draft, which is a statement on the covenant as a whole."
+   },
+   "a_pv.180-0012": {
+    "id": "a_pv.180-0012",
+    "correct": true,
+    "note": "Van Roijen's plenary statement welcomes the declaration as a whole and its place in the bill of rights, so the general tag fits."
+   },
+   "a_c.3_sr.1437-0015": {
+    "id": "a_c.3_sr.1437-0015",
+    "correct": false,
+    "note": "Gaitskell only explains why the UK cannot withdraw its reservations amendment and wants it voted on, so the speech is about voting procedure rather than the substance of reservations."
+   },
+   "a_c.3_sr.458-0024": {
+    "id": "a_c.3_sr.458-0024",
+    "correct": true,
+    "note": "Rivas sets out how self-determination applies under the Charter, rejects secession and opposes the UK draft, so the speech is about self-determination."
+   },
+   "e_cn.4_sr.201-0047": {
+    "id": "e_cn.4_sr.201-0047",
+    "correct": true,
+    "note": "Sorensen's wording for the report keeps open the submission of further implementation measures outside the covenant, so the speech is in substance about implementation."
+   },
+   "a_c.3_sr.400-0011": {
+    "id": "a_c.3_sr.400-0011",
+    "correct": true,
+    "note": "Tsao supports the joint resolution on self-determination but not a rigid article, so the speech is about self-determination and whether it belongs in the covenant."
+   },
+   "a_c.3_sr.297-0008": {
+    "id": "a_c.3_sr.297-0008",
+    "correct": true,
+    "note": "Roosevelt defends preparing the economic and social rights in separate texts while the civil covenant goes ahead, which is the two-covenants question."
+   },
+   "e_cn.4_sr.132-0046": {
+    "id": "e_cn.4_sr.132-0046",
+    "correct": true,
+    "note": "Ingles defends the draft resolution asking for a study of individual petitions and of individuals' standing before UN organs, so the speech is about petitions."
+   }
+  },
+  "c": {
+   "e_cn.4_sr.344-0008": {
+    "id": "e_cn.4_sr.344-0008",
+    "correct": true,
+    "note": "Morozov on the importance of implementing the covenants and the Commission's measures; ranges over other points but implementation is the core."
+   },
+   "e_cn.4_sr.204-0012": {
+    "id": "e_cn.4_sr.204-0012",
+    "correct": true,
+    "note": "India's Mehta will cooperate on drafting economic, social and cultural texts but reserves her view on including them in the Covenant; fits the two-covenants question."
+   },
+   "e_cn.4_sr.435-0014": {
+    "id": "e_cn.4_sr.435-0014",
+    "correct": true,
+    "note": "Nisot on the French proposal for a special instrument allowing individual complaints to the Human Rights Committee; right of petition."
+   },
+   "e_cn.4_ac.1_sr.8-0096": {
+    "id": "e_cn.4_ac.1_sr.8-0096",
+    "correct": true,
+    "note": "Cassin says the right of petition belongs among political rights; the grouping remark is secondary."
+   },
+   "a_c.3_sr.313-0017": {
+    "id": "a_c.3_sr.313-0017",
+    "correct": true,
+    "note": "Davin's revised amendment and his explanation of including only essential economic, social and cultural rights in the covenant with others later; fits the question."
+   },
+   "a_c.3_sr.299-0009": {
+    "id": "a_c.3_sr.299-0009",
+    "correct": true,
+    "note": "UNESCO representative on whether cultural and other economic and social rights belong in the first covenant or a later instrument."
+   },
+   "a_c.3_sr.520-0016": {
+    "id": "a_c.3_sr.520-0016",
+    "correct": true,
+    "note": "Canada on the Egyptian draft resolution to drop the federal clause and why reservations are no substitute; federal clause."
+   },
+   "a_c.3_sr.159-0014": {
+    "id": "a_c.3_sr.159-0014",
+    "correct": true,
+    "note": "Dehousse argues for the right of petition, including for foreigners; the procedural aside is minor."
+   },
+   "e_cn.4_sr.393-0028": {
+    "id": "e_cn.4_sr.393-0028",
+    "correct": true,
+    "note": "Chile on the Human Rights Committee, who receives its reports and its functions; general implementation."
+   },
+   "a_c.3_sr.521-0005": {
+    "id": "a_c.3_sr.521-0005",
+    "correct": true,
+    "note": "Baroody explains his compromise draft resolution passing the federal-clause texts to the Commission; about the federal clause, though partly procedural."
+   },
+   "e_cn.4_sr.390-0023": {
+    "id": "e_cn.4_sr.390-0023",
+    "correct": true,
+    "note": "Cassin on appeal to the International Court of Justice after a Human Rights Committee report, in a complaints-between-States procedure; implementation."
+   },
+   "e_cn.4_sr.435-0016": {
+    "id": "e_cn.4_sr.435-0016",
+    "correct": true,
+    "note": "Nisot again on the French proposal for individual complaints to the Human Rights Committee; right of petition."
+   },
+   "a_c.3_sr.289-0007": {
+    "id": "a_c.3_sr.289-0007",
+    "correct": true,
+    "note": "USSR statement on the general adequacy of the covenant's first eighteen articles and omitted rights; the instrument as a whole."
+   },
+   "a_pv.180-0012": {
+    "id": "a_pv.180-0012",
+    "correct": true,
+    "note": "Netherlands plenary statement on adopting the Declaration as a whole and the covenant to follow; general."
+   },
+   "a_c.3_sr.1437-0015": {
+    "id": "a_c.3_sr.1437-0015",
+    "correct": false,
+    "note": "The speech is about voting order and whether the UK amendment can be withdrawn or put; reservations appear only as the amendment's subject, so it is mainly procedure."
+   },
+   "a_c.3_sr.458-0024": {
+    "id": "a_c.3_sr.458-0024",
+    "correct": true,
+    "note": "Venezuela on self-determination, secession and the Charter, and the fifteen-Power amendments; self-determination."
+   },
+   "e_cn.4_sr.201-0047": {
+    "id": "e_cn.4_sr.201-0047",
+    "correct": true,
+    "note": "Denmark's amendment on the understanding about further implementation measures not prejudiced; implementation."
+   },
+   "a_c.3_sr.400-0011": {
+    "id": "a_c.3_sr.400-0011",
+    "correct": true,
+    "note": "China on whether a self-determination article should be drafted now or left to the Commission, and voting for the Afghan amendment."
+   },
+   "a_c.3_sr.297-0008": {
+    "id": "a_c.3_sr.297-0008",
+    "correct": true,
+    "note": "Mrs. Roosevelt on preparing economic, social and cultural rights texts separately from the covenant; two covenants."
+   },
+   "e_cn.4_sr.132-0046": {
+    "id": "e_cn.4_sr.132-0046",
+    "correct": true,
+    "note": "Ingles defends a draft resolution asking for a study of the right of petition; petitions."
+   }
+  },
+  "third": {}
+ },
+ {
+  "kind": "T",
+  "a": {
+   "a_c.3_sr.1456-0005": {
+    "id": "a_c.3_sr.1456-0005",
+    "correct": true,
+    "note": "An explanation of vote on the Covenants whose main thread is the reservations on the human rights committee's functions and the Optional Protocol, so implementation is the main subject (borderline with general)."
+   },
+   "a_c.3_sr.827-0040": {
+    "id": "a_c.3_sr.827-0040",
+    "correct": true,
+    "note": "An explanation of vote on the self-determination resolution, insisting that self-determination is a right; on the topic."
+   },
+   "a_pv.1495-0052": {
+    "id": "a_pv.1495-0052",
+    "correct": true,
+    "note": "The plenary statement is mainly about the system of individual petitions and its move to a separate protocol."
+   },
+   "e_cn.4_sr.114-0010": {
+    "id": "e_cn.4_sr.114-0010",
+    "correct": true,
+    "note": "On whether the Commission should propose a concrete implementation scheme and how organizations and individuals take part in it: implementation in general."
+   },
+   "a_c.3_sr.456-0007": {
+    "id": "a_c.3_sr.456-0007",
+    "correct": true,
+    "note": "Revises the wording of the Indian amendment to the resolution on recommendations about self-determination; the subject is self-determination."
+   },
+   "e_cn.4_ac.1_sr.42-0019": {
+    "id": "e_cn.4_ac.1_sr.42-0019",
+    "correct": true,
+    "note": "Cassin's reservation on Charter Chapters XII-XIII in draft article 25, the colonial application clause, is the territorial clause question."
+   },
+   "e_cn.4_sr.332-0029": {
+    "id": "e_cn.4_sr.332-0029",
+    "correct": true,
+    "note": "Opposes the Indian proposal that the Commission judge petitions, saying it would prejudge the right of individual and NGO petition; on petitions."
+   },
+   "e_cn.4_sr.39-0007": {
+    "id": "e_cn.4_sr.39-0007",
+    "correct": true,
+    "note": "Malik says implementation is the crux and supports the Australian machinery for redress: implementation in general."
+   },
+   "a_c.3_sr.372-0013": {
+    "id": "a_c.3_sr.372-0013",
+    "correct": false,
+    "note": "A right of reply mainly about US aid and Byelorussia's relations with the USSR; the covenant is mentioned only in passing."
+   },
+   "e_cn.4_sr.35-0040": {
+    "id": "e_cn.4_sr.35-0040",
+    "correct": true,
+    "note": "On whether to call the instrument a Bill of Rights or a Convention, and that its form gives it legal force: form of the bill."
+   },
+   "a_c.3_sr.524-0006": {
+    "id": "a_c.3_sr.524-0006",
+    "correct": true,
+    "note": "A wording suggestion (\"recognized\" NGOs) to the draft resolution on the right of petition, the item under discussion; brief but on petitions."
+   },
+   "a_c.3_sr.458-0021": {
+    "id": "a_c.3_sr.458-0021",
+    "correct": true,
+    "note": "On the wording of the resolution on recommendations about self-determination; the subject is self-determination."
+   },
+   "e_cn.4_sr.35-0043": {
+    "id": "e_cn.4_sr.35-0043",
+    "correct": true,
+    "note": "Dehousse on what 'Bill of Rights' means (a Convention): form of the bill."
+   },
+   "e_cn.4_sr.263-0004": {
+    "id": "e_cn.4_sr.263-0004",
+    "correct": true,
+    "note": "On the US and Indian draft resolutions about putting the right of peoples to self-determination into effect; on the topic."
+   },
+   "a_c.3_sr.522-0016": {
+    "id": "a_c.3_sr.522-0016",
+    "correct": true,
+    "note": "Argues that the covenants, not a GA resolution, could recognize the right of individual petition, in the debate on communications concerning human rights."
+   },
+   "e_cn.4_sr.133-0008": {
+    "id": "e_cn.4_sr.133-0008",
+    "correct": true,
+    "note": "Malik's amendment to the joint draft resolution on the right of petition (petitions 'in the event of a violation'); on petitions."
+   },
+   "a_c.3_sr.90-0015": {
+    "id": "a_c.3_sr.90-0015",
+    "correct": true,
+    "note": "An opening general-debate statement on the declaration as a whole and on Article 2(7) of the Charter; a general statement."
+   },
+   "e_cn.4_sr.178-0032": {
+    "id": "e_cn.4_sr.178-0032",
+    "correct": true,
+    "note": "Sets out the three aspects of implementation (protocols, who may complain, a permanent body): implementation in general."
+   },
+   "e_cn.4_sr.256-0013": {
+    "id": "e_cn.4_sr.256-0013",
+    "correct": true,
+    "note": "On how the self-determination article relates to the recommendations under the GA resolution, and whether further measures may be proposed; self-determination (partly procedural)."
+   },
+   "e_cn.4_sr.15-0005": {
+    "id": "e_cn.4_sr.15-0005",
+    "correct": true,
+    "note": "Romulo on the principles and scope of the whole Bill of Rights, and on the Australian court proposal; a general statement."
+   }
+  },
+  "c": {
+   "a_c.3_sr.1456-0005": {
+    "id": "a_c.3_sr.1456-0005",
+    "correct": false,
+    "note": "Explanation of votes on the Covenants and Optional Protocol overall; the human rights committee is only one of several reservations, so implementation is not the main subject."
+   },
+   "a_c.3_sr.827-0040": {
+    "id": "a_c.3_sr.827-0040",
+    "correct": true,
+    "note": "Explanation of vote that urges priority for self-determination recommendations and calls it a right."
+   },
+   "a_pv.1495-0052": {
+    "id": "a_pv.1495-0052",
+    "correct": true,
+    "note": "Plenary statement defending individual petitions and opposing placing them in a separate protocol."
+   },
+   "e_cn.4_sr.114-0010": {
+    "id": "e_cn.4_sr.114-0010",
+    "correct": true,
+    "note": "On the Commission's proposal on implementation procedure and the participation of individuals and organizations in it."
+   },
+   "a_c.3_sr.456-0007": {
+    "id": "a_c.3_sr.456-0007",
+    "correct": false,
+    "note": "Concerns the wording of amendments (L.297, 'grant' versus 'acquiesce in') to a resolution, not the substance of the self-determination question."
+   },
+   "e_cn.4_ac.1_sr.42-0019": {
+    "id": "e_cn.4_ac.1_sr.42-0019",
+    "correct": false,
+    "note": "A reservation for Chapters XII and XIII of the Charter and a one-word drafting change; a wording point, not the territorial clause debate."
+   },
+   "e_cn.4_sr.332-0029": {
+    "id": "e_cn.4_sr.332-0029",
+    "correct": true,
+    "note": "Argues against the Commission handling petitions under the Indian draft resolution; the subject is petitions."
+   },
+   "e_cn.4_sr.39-0007": {
+    "id": "e_cn.4_sr.39-0007",
+    "correct": true,
+    "note": "Stresses implementation machinery as the crux and supports the Australian proposals, rejecting the sovereignty objection."
+   },
+   "a_c.3_sr.372-0013": {
+    "id": "a_c.3_sr.372-0013",
+    "correct": false,
+    "note": "Polemical reply on US policy and Soviet republics; it is not a statement on the instrument as a whole."
+   },
+   "e_cn.4_sr.35-0040": {
+    "id": "e_cn.4_sr.35-0040",
+    "correct": false,
+    "note": "Mainly the title 'Bill of Rights' and a proposal to postpone the decision on it, which is procedural and about naming."
+   },
+   "a_c.3_sr.524-0006": {
+    "id": "a_c.3_sr.524-0006",
+    "correct": false,
+    "note": "Suggests adding one word ('recognized') to a draft resolution; a wording amendment."
+   },
+   "a_c.3_sr.458-0021": {
+    "id": "a_c.3_sr.458-0021",
+    "correct": false,
+    "note": "Comment on the wording and caution of a resolution amendment, not on the substance of self-determination."
+   },
+   "e_cn.4_sr.35-0043": {
+    "id": "e_cn.4_sr.35-0043",
+    "correct": true,
+    "note": "Says the question turns on what 'Bill of Rights' means and equates it with a convention, which addresses the form of the bill."
+   },
+   "e_cn.4_sr.263-0004": {
+    "id": "e_cn.4_sr.263-0004",
+    "correct": true,
+    "note": "Calls for clearer, more specific recommendations on implementing the right of peoples to self-determination."
+   },
+   "a_c.3_sr.522-0016": {
+    "id": "a_c.3_sr.522-0016",
+    "correct": true,
+    "note": "Argues that the covenants could recognise individual petition although the Charter does not; the subject is the right of petition."
+   },
+   "e_cn.4_sr.133-0008": {
+    "id": "e_cn.4_sr.133-0008",
+    "correct": false,
+    "note": "Mainly the handling of his own amendment and a small wording addition to a draft resolution, not the substance of petitions."
+   },
+   "a_c.3_sr.90-0015": {
+    "id": "a_c.3_sr.90-0015",
+    "correct": true,
+    "note": "General statement on the declaration, its importance and the Charter's domestic-jurisdiction clause."
+   },
+   "e_cn.4_sr.178-0032": {
+    "id": "e_cn.4_sr.178-0032",
+    "correct": true,
+    "note": "Frames the implementation issues: provisions in the covenant or in protocols, complaints, and a permanent body."
+   },
+   "e_cn.4_sr.256-0013": {
+    "id": "e_cn.4_sr.256-0013",
+    "correct": true,
+    "note": "On the relationship between the self-determination article and the Assembly's recommendations on that right."
+   },
+   "e_cn.4_sr.15-0005": {
+    "id": "e_cn.4_sr.15-0005",
+    "correct": true,
+    "note": "Statement on the Bill of Human Rights as a whole: its scope, domestic incorporation and the proposed court."
+   }
+  },
+  "third": {
+   "a_c.3_sr.1456-0005": {
+    "id": "a_c.3_sr.1456-0005",
+    "correct": true,
+    "note": "An explanation of vote on the Covenants. Most of it gives the delegation's reservations on the human rights committee's functions, the communications procedure and the Optional Protocol, so implementation is the main subject."
+   },
+   "a_c.3_sr.456-0007": {
+    "id": "a_c.3_sr.456-0007",
+    "correct": true,
+    "note": "Mani revises his amendment so Members 'recognize and promote' self-determination in all territories and questions 'acquiesce in'. This is the substance of the self-determination resolution, not an article's wording."
+   },
+   "e_cn.4_ac.1_sr.42-0019": {
+    "id": "e_cn.4_ac.1_sr.42-0019",
+    "correct": true,
+    "note": "Cassin asks for a reservation on Charter Chapters XII-XIII (trust and non-self-governing territories) in draft article 25, the colonial application clause. That is the territorial clause question."
+   },
+   "e_cn.4_sr.35-0040": {
+    "id": "e_cn.4_sr.35-0040",
+    "correct": true,
+    "note": "In the Declaration-versus-Convention debate, Dukeston argues that the document's form, not its title, gives it the force of a convention. The postponement proposal follows from that, so the form of the bill is the subject."
+   },
+   "a_c.3_sr.524-0006": {
+    "id": "a_c.3_sr.524-0006",
+    "correct": true,
+    "note": "In the debate on the right-of-petition resolution (A/C.3/L.372), Harman proposes limiting it to 'recognized' NGOs, which bears on who may petition. It is brief but on petitions."
+   },
+   "a_c.3_sr.458-0021": {
+    "id": "a_c.3_sr.458-0021",
+    "correct": true,
+    "note": "Lambros says the self-determination resolution should avoid controversial passages and not be too explicit, in reply to the Afghan 'ensure'/'promote' point. The whole speech is on the self-determination text, not procedure."
+   },
+   "e_cn.4_sr.133-0008": {
+    "id": "e_cn.4_sr.133-0008",
+    "correct": true,
+    "note": "Malik's amendment to the joint petition resolution (E/CN.4/316) adds 'in the event of a violation of human rights' after 'petitions'. The handling of the amendment is secondary, so the subject is petitions."
+   }
+  }
+ }
+]

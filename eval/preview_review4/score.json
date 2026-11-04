@@ -1,0 +1,43 @@
+{
+ "answered": 34,
+ "items": 34,
+ "by_kind": {
+  "speaker": {
+   "preview better": 13,
+   "current better": 15,
+   "both wrong": 2,
+   "preview share of decided": 0.4642857142857143
+  }
+ },
+ "repeats": {
+  "pairs": 4,
+  "same": 4,
+  "differ": []
+ },
+ "notes": [
+  {
+   "id": "001",
+   "kind": "speaker",
+   "symbol": "E/CN.4/SR.300",
+   "page": 15,
+   "verdict": "preview better",
+   "note": "Azmi Bey"
+  },
+  {
+   "id": "021",
+   "kind": "speaker",
+   "symbol": "E/CN.4/SR.349",
+   "page": 13,
+   "verdict": "both wrong",
+   "note": "Hoare"
+  },
+  {
+   "id": "023",
+   "kind": "speaker",
+   "symbol": "E/CN.4/AC.1/SR.22",
+   "page": 2,
+   "verdict": "both wrong",
+   "note": "Heywood"
+  }
+ ]
+}

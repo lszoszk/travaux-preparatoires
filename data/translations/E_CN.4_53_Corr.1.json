@@ -1,0 +1,45 @@
+{
+ "symbol": "E/CN.4/53/Corr.1",
+ "source_language": "fr",
+ "source_file": "E_CN.4_53_Corr.1-FR.pdf",
+ "translation_model": "claude-fable-5-1",
+ "check_model": "claude-sonnet-5-5",
+ "translation_date": "2026-09-29",
+ "title": "Draft Report on Implementation",
+ "date": "1947-12-12",
+ "stated_original_language": "not stated",
+ "pages": [
+  {
+   "page": 1,
+   "text": "UNITED NATIONS\nECONOMIC AND SOCIAL COUNCIL\n\nNATIONS UNIES\nCONSEIL ECONOMIQUE ET SOCIAL\n\nUNRESTRICTED\nE/CN.4/53/Corr.1\n12 December 1947\nFRENCH ONLY.\n\nCOMMISSION ON HUMAN RIGHTS\n\nSECOND SESSION\n\nDraft Report on Implementation\n\n------\n\nThe following corrections should be made to the French text of document E/CN.4/53:\n\n1. Page 1.\n\nThe title should read as follows:\n\n\"COMMISSION ON HUMAN RIGHTS\n\nSECOND SESSION\n\nReport of the Working Group entrusted with the study of the problem of implementation\n\nRapporteur: Mr. Fernand Dehousse (Belgium)\"\n\n2. Page 1.\n\nIn the fifth line, read problème instead of projet.\n\n3. Page 1.\n\nIn the last and the penultimate lines, read: \"se sont fait représenter à ses délibérations\".\n\n4. Page 8.\n\nIn the last line, read: \"s'imposait\".\n\n5. Page 10.\n\nIn the 17th line, read: \"l'obligation où ceux-ci\".\n\n6. Page 11.\n\nIn the 8th line, read: \"leurs pays\"."
+  },
+  {
+   "page": 2,
+   "text": "E/CN.4/53/Corr.1\nPage 2\n\n7. Page 16.\n\nIn the 7th line, read \"recommandation\"\n\n8. Page 20.\n\nIn the 9th line, read \"refuser\".\n\n9. Page 21.\n\nIn the 5th line, read \"en matière de\".\n\n10. Page 21.\n\nIn the 10th line, the closing parenthesis comes after the words \"par exemple\".\n\n11. Page 22.\n\nIn the 15th line, read: \"quels seront\".\n\n12. Page 22.\n\nIn the 17th line, read \"question\"\n\n13. Page 23.\n\nIn the 23rd line, read \"reçoit\".\n\n14. Page 23.\n\nIn the 23rd and 24th lines, read: \"d'individus, de groupes d'individus, d'associations ou d'Etats\".\n\n15. Page 29.\n\nIn the 12th line, insert a comma after \"Droits de l'Homme\"."
+  }
+ ],
+ "uncertain": [
+  {
+   "page": 1,
+   "french": "lire problème au lieu de projet / \"se sont fait représenter à ses délibérations\" / \"s'imposait\" / \"l'obligation où ceux-ci\" / \"leurs pays\"",
+   "issue": "The corrections are to the French wording of E/CN.4/53 (single letters underlined on the scan: fait, ses, leurs). The French words themselves are kept untranslated, since translating them would destroy the point of the corrigendum; the underlining is not reproducible in plain text."
+  },
+  {
+   "page": 2,
+   "french": "A la 5ème ligne, lire \"en matière de\".",
+   "issue": "The words \"A la 5ème\" are smudged on the scan (item 9); \"5ème\" read with reasonable confidence from the image, OCR gives \"5èsâ\"."
+  },
+  {
+   "page": 2,
+   "french": "\"recommandation\", \"refuser\", \"en matière de\", \"quels seront\", \"question\", \"reçoit\", \"d'individus, de groupes d'individus, d'associations ou d'Etats\"",
+   "issue": "As on page 1, the corrected French words are kept in French; the underlined letters on the scan (recommandation, refuser, de, seront, question, reçoit, d'individus, Etats) cannot be shown in plain text."
+  }
+ ],
+ "check": {
+  "verdict": "faithful",
+  "issues": [],
+  "resolved_by_translator": false,
+  "first_pass": null,
+  "summary": "checked against the scan by claude-sonnet-5-5: no discrepancy found; 3 doubtful passage(s) noted"
+ }
+}

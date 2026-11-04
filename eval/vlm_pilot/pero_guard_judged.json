@@ -1,0 +1,369 @@
+{
+ "judged_on": "the scans (crops), 20 Oct 2026, by Claude",
+ "all": 36,
+ "right": 21,
+ "wrong": 5,
+ "as_typed_variant": 10,
+ "rows": [
+  {
+   "symbol": "E/AC.7/SR.39",
+   "page": 7,
+   "read": "KURAT",
+   "delegation": "Turkey",
+   "before": "unverified",
+   "after": "replaced by KURAL (engines (1))",
+   "verdict": "right",
+   "note": "KURAL on the scan"
+  },
+  {
+   "symbol": "E/CN.4/AC.1/SR.24",
+   "page": 2,
+   "read": "JENKS",
+   "delegation": "International Labour Organization",
+   "before": "unverified",
+   "after": "kept",
+   "verdict": "right",
+   "note": "JENKS printed"
+  },
+  {
+   "symbol": "E/CN.4/SR.111",
+   "page": 5,
+   "read": "SCHWELB",
+   "delegation": "Secretariat",
+   "before": "unverified",
+   "after": "kept",
+   "verdict": "right",
+   "note": "SCHWELB (Egon Schwelb) printed"
+  },
+  {
+   "symbol": "E/CN.4/SR.112",
+   "page": 2,
+   "read": "LCUTFI",
+   "delegation": "Egypt",
+   "before": "replaced by LOUTFI (session roster (83))",
+   "after": "kept",
+   "verdict": "as typed, another spelling of the person",
+   "note": "LCUTFI as typed (O struck as C): faithful to the page, but the person is LOUTFI"
+  },
+  {
+   "symbol": "E/CN.4/SR.115",
+   "page": 9,
+   "read": "LOUIFI",
+   "delegation": "Egypt",
+   "before": "replaced by LOUTFI (session roster (83))",
+   "after": "kept",
+   "verdict": "wrong",
+   "note": "print LOUTFI (T damaged); the roster's LOUTFI was right, PERO keeps LOUIFI"
+  },
+  {
+   "symbol": "E/CN.4/SR.122",
+   "page": 8,
+   "read": "SOERENSEN",
+   "delegation": "Denmark",
+   "before": "replaced by SORENSEN (session roster (94))",
+   "after": "kept",
+   "verdict": "as typed, another spelling of the person",
+   "note": "SOERENSEN as typed"
+  },
+  {
+   "symbol": "E/CN.4/SR.123",
+   "page": 6,
+   "read": "SOERENSEN",
+   "delegation": "Denmark",
+   "before": "replaced by SORENSEN (session roster (94))",
+   "after": "kept",
+   "verdict": "as typed, another spelling of the person",
+   "note": "SOERENSEN as typed"
+  },
+  {
+   "symbol": "E/CN.4/SR.142",
+   "page": 20,
+   "read": "RAMANDAN",
+   "delegation": "Egypt",
+   "before": "replaced by RAMADAN (session roster (93))",
+   "after": "kept",
+   "verdict": "as typed, another spelling of the person",
+   "note": "RAMANDAN as typed (RAMADAN)"
+  },
+  {
+   "symbol": "E/CN.4/SR.149",
+   "page": 6,
+   "read": "SCHWELB",
+   "delegation": "Secretariat",
+   "before": "unverified",
+   "after": "kept",
+   "verdict": "right",
+   "note": "SCHWELB printed"
+  },
+  {
+   "symbol": "E/CN.4/SR.154",
+   "page": 8,
+   "read": "SORENSON",
+   "delegation": "Denmark",
+   "before": "replaced by SORENSEN (session roster (88))",
+   "after": "kept",
+   "verdict": "as typed, another spelling of the person",
+   "note": "SORENSON as typed"
+  },
+  {
+   "symbol": "E/CN.4/SR.156",
+   "page": 6,
+   "read": "WEITLAM",
+   "delegation": "Australia",
+   "before": "replaced by WHITLAM (session roster (86))",
+   "after": "kept",
+   "verdict": "wrong",
+   "note": "print WHITLAM (H damaged); roster right, WEITLAM kept"
+  },
+  {
+   "symbol": "E/CN.4/SR.157",
+   "page": 6,
+   "read": "SORENSON",
+   "delegation": "Denmark",
+   "before": "replaced by SORENSEN (session roster (88))",
+   "after": "kept",
+   "verdict": "as typed, another spelling of the person",
+   "note": "SORENSON as typed"
+  },
+  {
+   "symbol": "E/CN.4/SR.161",
+   "page": 8,
+   "read": "SORENSON",
+   "delegation": "Denmark",
+   "before": "replaced by SORENSEN (session roster (88))",
+   "after": "kept",
+   "verdict": "as typed, another spelling of the person",
+   "note": "SORENSON as typed"
+  },
+  {
+   "symbol": "E/CN.4/SR.171",
+   "page": 6,
+   "read": "WHITIAM",
+   "delegation": "Australia",
+   "before": "replaced by WHITLAM (session roster (86))",
+   "after": "kept",
+   "verdict": "wrong",
+   "note": "print WHITLAM (L faint); roster right, WHITIAM kept"
+  },
+  {
+   "symbol": "E/CN.4/SR.176",
+   "page": 5,
+   "read": "debate",
+   "delegation": "continued",
+   "before": "unverified",
+   "after": "kept",
+   "verdict": "right",
+   "note": "not a name ('debate (continued)'): text unchanged"
+  },
+  {
+   "symbol": "E/CN.4/SR.18",
+   "page": 6,
+   "read": "MEETA",
+   "delegation": "India",
+   "before": "replaced by MEHTA (session roster (80))",
+   "after": "kept",
+   "verdict": "wrong",
+   "note": "print MEHTA (H damaged); roster right, MEETA kept"
+  },
+  {
+   "symbol": "E/CN.4/SR.188",
+   "page": 22,
+   "read": "SORENSON",
+   "delegation": "Denmark",
+   "before": "replaced by SORENSEN (session roster (88))",
+   "after": "kept",
+   "verdict": "as typed, another spelling of the person",
+   "note": "SORENSON as typed"
+  },
+  {
+   "symbol": "E/CN.4/SR.191",
+   "page": 11,
+   "read": "MENTHA",
+   "delegation": "India",
+   "before": "unverified",
+   "after": "replaced by MEHTA (engines (1))",
+   "verdict": "right",
+   "note": "MEHTA, damaged H"
+  },
+  {
+   "symbol": "E/CN.4/SR.197",
+   "page": 14,
+   "read": "SCHACHTER",
+   "delegation": "Secretariat",
+   "before": "unverified",
+   "after": "kept",
+   "verdict": "right",
+   "note": "SCHACHTER (PERO, vote and tess3 read it)"
+  },
+  {
+   "symbol": "E/CN.4/SR.197",
+   "page": 21,
+   "read": "MALEE",
+   "delegation": "Lebanon",
+   "before": "unverified",
+   "after": "replaced by MALIK (engines (1))",
+   "verdict": "right",
+   "note": "MALIK, damaged"
+  },
+  {
+   "symbol": "E/CN.4/SR.197",
+   "page": 22,
+   "read": "SCHACHTER",
+   "delegation": "Secretariat",
+   "before": "unverified",
+   "after": "kept",
+   "verdict": "right",
+   "note": "SCHACHTER printed"
+  },
+  {
+   "symbol": "E/CN.4/SR.200",
+   "page": 14,
+   "read": "SCHACHTER",
+   "delegation": "Secretariat",
+   "before": "unverified",
+   "after": "kept",
+   "verdict": "right",
+   "note": "SCHACHTER printed"
+  },
+  {
+   "symbol": "E/CN.4/SR.217",
+   "page": 13,
+   "read": "MUTHA",
+   "delegation": "India",
+   "before": "unverified",
+   "after": "replaced by MEHTA (engines (1))",
+   "verdict": "right",
+   "note": "MEHTA, damaged E"
+  },
+  {
+   "symbol": "E/CN.4/SR.273",
+   "page": 3,
+   "read": "clause",
+   "delegation": "continued",
+   "before": "unverified",
+   "after": "kept",
+   "verdict": "right",
+   "note": "not a name ('clause (continued)'): text unchanged"
+  },
+  {
+   "symbol": "E/CN.4/SR.285",
+   "page": 4,
+   "read": "ECARE",
+   "delegation": "United Kingdom",
+   "before": "unverified",
+   "after": "replaced by HOARE (engines (1))",
+   "verdict": "right",
+   "note": "HOARE, damaged H"
+  },
+  {
+   "symbol": "E/CN.4/SR.334",
+   "page": 5,
+   "read": "MARSHALL",
+   "delegation": "Australia",
+   "before": "unverified",
+   "after": "kept",
+   "verdict": "right",
+   "note": "MARSHALL printed"
+  },
+  {
+   "symbol": "E/CN.4/SR.338",
+   "page": 11,
+   "read": "EDARE",
+   "delegation": "United Kingdom",
+   "before": "replaced by HOARE (engines (1))",
+   "after": "kept",
+   "verdict": "wrong",
+   "note": "print HOARE (H damaged); engines' HOARE right, EDARE kept"
+  },
+  {
+   "symbol": "E/CN.4/SR.360",
+   "page": 15,
+   "read": "DIAZ-CASANEUVA",
+   "delegation": "Chile",
+   "before": "replaced by DIAZ CASANUEVA (session roster (93))",
+   "after": "kept",
+   "verdict": "as typed, another spelling of the person",
+   "note": "DIAZ-CASANEUVA as typed (DIAZ CASANUEVA)"
+  },
+  {
+   "symbol": "E/CN.4/SR.57",
+   "page": 8,
+   "read": "QUIJNO",
+   "delegation": "Panama",
+   "before": "replaced by DE QUIJANO (session roster (75))",
+   "after": "replaced by QUIJANO (engines (1))",
+   "verdict": "right",
+   "note": "QUIJANO printed (A damaged)"
+  },
+  {
+   "symbol": "E/CN.4/SR.8",
+   "page": 3,
+   "read": "GUARDIA",
+   "delegation": "Panama",
+   "before": "unverified",
+   "after": "kept",
+   "verdict": "right",
+   "note": "GUARDIA printed"
+  },
+  {
+   "symbol": "E/CN.4/SR.91",
+   "page": 16,
+   "read": "SOERENSEN",
+   "delegation": "Denmark",
+   "before": "replaced by SORENSEN (engines (1))",
+   "after": "kept",
+   "verdict": "as typed, another spelling of the person",
+   "note": "SOERENSEN as typed"
+  },
+  {
+   "symbol": "E/CN.4/SUB.1/SR.27",
+   "page": 3,
+   "read": "MAHEU",
+   "delegation": "UNESCO",
+   "before": "unverified",
+   "after": "kept",
+   "verdict": "right",
+   "note": "MAHEU printed"
+  },
+  {
+   "symbol": "E/CN.4/SUB.1/SR.27",
+   "page": 4,
+   "read": "MAHEU",
+   "delegation": "UNESCO",
+   "before": "unverified",
+   "after": "kept",
+   "verdict": "right",
+   "note": "MAHEU printed"
+  },
+  {
+   "symbol": "E/CN.6/SR.12",
+   "page": 7,
+   "read": "NEW",
+   "delegation": "China",
+   "before": "unverified",
+   "after": "kept",
+   "verdict": "right",
+   "note": "NEW printed"
+  },
+  {
+   "symbol": "E/CONF.6/SR.10",
+   "page": 6,
+   "read": "BOLDISZAR",
+   "delegation": "Hungary",
+   "before": "unverified",
+   "after": "kept",
+   "verdict": "right",
+   "note": "BOLDISZAR printed"
+  },
+  {
+   "symbol": "E/CONF.6/SR.10",
+   "page": 10,
+   "read": "Ramaswami MUDALIAR",
+   "delegation": "India",
+   "before": "unverified",
+   "after": "kept",
+   "verdict": "right",
+   "note": "Sir Ramaswami MUDALIAR printed"
+  }
+ ]
+}

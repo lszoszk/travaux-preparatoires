@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Brakujące dokumenty</title>
+<style>
+:root { --bg: #f5f6f7; --panel: #fff; --ink: #1d2126; --muted: #63707c; --line: #d9dde2; --accent: #2f5a87; --ok: #2e7d4f; --warn: #a2671a; --row: #fafbfc; }
+@media (prefers-color-scheme: dark) { :root { --bg: #14181c; --panel: #1b2026; --ink: #e2e6ea; --muted: #98a3ae; --line: #2d353e; --accent: #7fa8d4; --ok: #6fb38b; --warn: #d79a4b; --row: #1e242b; color-scheme: dark } }
+* { box-sizing: border-box; }
+body { margin: 0; font: 14px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif; background: var(--bg); color: var(--ink); }
+header { position: sticky; top: 0; z-index: 2; background: var(--panel); border-bottom: 1px solid var(--line); padding: 10px 16px; display: grid; gap: 8px; }
+.top { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+h1 { font-size: 16px; margin: 0; }
+#counts { color: var(--muted); font-variant-numeric: tabular-nums; }
+.bar { flex: 1; min-width: 160px; height: 6px; background: var(--line); border-radius: 3px; overflow: hidden; }
+.bar div { height: 100%; background: var(--ok); width: 0; }
+.tools { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+select, input[type=search], button { font: inherit; padding: 6px 10px; border: 1px solid var(--line); border-radius: 5px; background: var(--panel); color: var(--ink); }
+button { cursor: pointer; }
+button.primary { border-color: var(--accent); color: var(--accent); font-weight: 600; }
+button:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+details { color: var(--muted); font-size: 13px; }
+details ol { margin: 6px 0; padding-left: 20px; }
+main { padding: 12px 16px 40px; }
+table { width: 100%; border-collapse: collapse; background: var(--panel); border: 1px solid var(--line); }
+th, td { padding: 7px 8px; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; }
+th { font-size: 12px; color: var(--muted); font-weight: 600; position: sticky; top: 0; background: var(--panel); }
+tr:nth-child(even) td { background: var(--row); }
+tr.done td { opacity: .55; }
+.sym { font-family: ui-monospace, Menlo, monospace; font-weight: 600; white-space: nowrap; }
+.mono { font-family: ui-monospace, Menlo, monospace; font-size: 12px; }
+.muted { color: var(--muted); font-size: 12px; }
+.chip { display: inline-block; padding: 1px 7px; border-radius: 10px; font-size: 12px; border: 1px solid var(--line); white-space: nowrap; }
+.chip.saved { border-color: var(--ok); color: var(--ok); }
+.chip.dl { border-color: var(--warn); color: var(--warn); }
+.chip.mark { border-color: var(--muted); color: var(--muted); }
+.wrap { overflow-x: auto; }
+td.acts { white-space: nowrap; }
+td.acts button, td.acts a { font-size: 12px; padding: 3px 7px; }
+a { color: var(--accent); }
+#msg { color: var(--ok); font-size: 13px; min-height: 18px; }
+</style>
+</head>
+<body>
+<header>
+  <div class="top">
+    <h1>Brakujące dokumenty: pobieranie ręczne z Digital Library</h1>
+    <span id="counts"></span>
+    <div class="bar" id="bar"><div></div></div>
+  </div>
+  <div class="tools">
+    <label>Priorytet <select id="prio"><option value="1">1: najważniejsze</option><option value="2">2</option><option value="3">3</option><option value="">wszystkie</option></select></label>
+    <label>Pokaż <select id="show"><option value="todo">do zrobienia</option><option value="all">wszystkie</option><option value="done">zrobione</option></select></label>
+    <input type="search" id="q" placeholder="Szukaj symbolu">
+    <button class="primary" id="collect">Zbierz z Pobranych</button>
+    <span id="msg"></span>
+  </div>
+  <details><summary>Jak to działa</summary>
+    <ol>
+      <li>Kliknij <b>Otwórz w DL</b>: otworzy się wyszukiwanie symbolu w Digital Library. Wejdź w rekord dokumentu i pobierz wersję angielską (EN).</li>
+      <li>Zapisz plik do <b>Pobranych</b>. Jeśli przeglądarka nada inną nazwę, użyj nazwy z kolumny „Zapisz jako” (przycisk kopiuje ją do schowka).</li>
+      <li>Co jakiś czas kliknij <b>Zbierz z Pobranych</b>: pliki trafią do <span class="mono">data/raw/</span>, a wiersze zmienią się na „zapisany”. Potem wystarczy powiedzieć Claude’owi, żeby je wciągnął.</li>
+      <li>Link szuka dokładnie tego symbolu z lat 1946–66. Pobieraj tylko dokument o tym symbolu; jego korekty (Corr.) i rewizje (Rev.) tylko wtedy, gdy są osobnymi wierszami. Jeśli jest wyłącznie wersja Rev. (np. dla A/C.3/L.88 tylko A/C.3/L.88/Rev.1), pobierz ją pod nazwą nadaną przez Digital Library i oznacz wiersz notatką.</li><li>„No match found” znaczy, że Digital Library nie ma tego dokumentu: oznacz „nie ma”.</li><li>Jeśli dokument jest tylko po francusku, oznacz „tylko FR”.</li>
+    </ol>
+    Zasada: każdy dokument otwiera i pobiera człowiek. Strona niczego nie pobiera sama.
+  </details>
+</header>
+<main>
+  <div class="wrap"><table>
+    <thead><tr><th>Prior.</th><th>Symbol</th><th>Organ / sesja</th><th>Cytowany</th><th>Zapisz jako</th><th>Stan</th><th>Działania</th></tr></thead>
+    <tbody id="rows"></tbody>
+  </table></div>
+</main>
+<script>
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const MARKS = { "not in DL": "nie ma w DL", "French only": "tylko po francusku", "skip": "pominięty" };
+let data = [];
+const store = (k, v) => { try { v === undefined ? null : localStorage.setItem(k, v); return localStorage.getItem(k); } catch { return null; } };
+
+function done(r) { return r.status === "saved" || (r.mark && r.mark.mark); }
+
+function render() {
+  const prio = $("prio").value, show = $("show").value, q = $("q").value.trim().toLowerCase();
+  const list = data.filter(r => (!prio || r.priority.startsWith(prio)) && (!q || r.symbol.toLowerCase().includes(q))
+    && (show === "all" || (show === "todo" ? !done(r) : done(r))));
+  $("rows").innerHTML = list.slice(0, 400).map(r => {
+    const chip = r.status === "saved" ? '<span class="chip saved">zapisany</span>'
+      : r.status === "in Downloads" ? '<span class="chip dl">w Pobranych</span>'
+      : r.mark && r.mark.mark ? `<span class="chip mark">${esc(MARKS[r.mark.mark])}</span>` : "";
+    return `<tr class="${done(r) ? "done" : ""}" data-s="${esc(r.symbol)}">
+      <td>${esc(r.priority[0])}</td>
+      <td><span class="sym">${esc(r.symbol)}</span>${r.note ? `<div class="muted">${esc(r.note)}</div>` : ""}${r.mark && r.mark.note ? `<div class="muted">notatka: ${esc(r.mark.note)}</div>` : ""}</td>
+      <td>${esc(r.body)}${r.session ? `<div class="muted">${esc(r.session)}</div>` : ""}</td>
+      <td class="mono">${esc(r.times_cited)}</td>
+      <td><span class="mono">${esc(r.save_as)}</span> <button data-copy="${esc(r.save_as)}" title="Kopiuj nazwę">kopiuj</button></td>
+      <td>${chip}</td>
+      <td class="acts"><a href="${esc(r.digital_library)}" target="_blank" rel="noopener">Otwórz w DL</a>
+        <button data-mark="not in DL">nie ma</button> <button data-mark="French only">tylko FR</button> <button data-mark="skip">pomiń</button>
+        ${r.mark && r.mark.mark ? '<button data-mark="">cofnij</button>' : ""}</td></tr>`;
+  }).join("") + (list.length > 400 ? `<tr><td colspan="7" class="muted">Pokazano 400 z ${list.length}; zawęź filtr.</td></tr>` : "");
+  const n = data.length, d = data.filter(done).length, saved = data.filter(r => r.status === "saved").length;
+  const p1 = data.filter(r => r.priority.startsWith("1")), p1d = p1.filter(done).length;
+  $("counts").textContent = `priorytet 1: ${p1d} z ${p1.length} · wszystkie: ${d} z ${n} (zapisanych ${saved})`;
+  $("bar").firstElementChild.style.width = (100 * p1d / p1.length) + "%";
+}
+
+async function load() { data = await (await fetch("/api/list")).json(); render(); }
+
+$("rows").addEventListener("click", async e => {
+  const b = e.target.closest("button"); if (!b) return;
+  if (b.dataset.copy !== undefined) {
+    try { await navigator.clipboard.writeText(b.dataset.copy); b.textContent = "skopiowano"; } catch { b.textContent = b.dataset.copy; }
+    setTimeout(() => b.textContent = "kopiuj", 1500); return;
+  }
+  if (b.dataset.mark !== undefined) {
+    const sym = b.closest("tr").dataset.s;
+    let note = "";
+    if (b.dataset.mark) note = window.prompt ? (prompt("Notatka (opcjonalnie)") || "") : "";
+    const m = await (await fetch("/api/mark", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ symbol: sym, mark: b.dataset.mark, note }) })).json();
+    data.find(r => r.symbol === sym).mark = m; render();
+  }
+});
+$("collect").onclick = async () => {
+  const r = await (await fetch("/api/collect", { method: "POST" })).json();
+  $("msg").textContent = r.moved.length ? `Przeniesiono do data/raw: ${r.moved.length} (${r.moved.slice(0, 5).join(", ")}${r.moved.length > 5 ? "…" : ""})` : "W Pobranych nie ma nowych plików z listy.";
+  await load();
+};
+for (const id of ["prio", "show"]) { const v = store("mdp-" + id); if (v !== null) $(id).value = v; $(id).onchange = () => { store("mdp-" + id, $(id).value); render(); }; }
+$("q").oninput = render;
+load();
+setInterval(load, 15000);
+</script>
+</body>
+</html>

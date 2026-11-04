@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0">
+	<app>
+		<rdg wit="#A777 #CHR3">no one shall be held</rdg>
+		<rdg wit="#Cassin #DC1 #DC2 #Geneva #Sec #WG57">slavery</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin #DC1">which is</rdg>
+		<rdg wit="#Geneva #WG57">in all its forms being</rdg>
+		<rdg wit="#Sec">and compulsory labour are</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin #DC1 #Geneva #Sec #WG57">inconsistent with the dignity</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin #DC1 #Sec">of man</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin #DC1 #DC2">is</rdg>
+		<rdg wit="#Sec">and therefore</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin #DC1 #DC2 #Sec">prohibited</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #DC1 #DC2">in</rdg>
+		<rdg wit="#Sec">by this bill</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3">slavery or</rdg>
+		<rdg wit="#DC2">ell</rdg>
+		<rdg wit="#Geneva #Sec #WG57">of</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#CHR3">involuntary</rdg>
+		<rdg wit="#Sec">rights but a</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3">servitude</rdg>
+		<rdg wit="#Geneva #Sec #WG57">man</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777">slavery</rdg>
+		<rdg wit="#CHR3">ko one</rdg>
+		<rdg wit="#Sec">may</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#CHR3 #Geneva #WG57">shall</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#CHR3 #Sec">be</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#CHR3">subjected</rdg>
+		<rdg wit="#Sec">required to perform his just share of any</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin #Sec">public</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin">authority may impose</rdg>
+		<rdg wit="#Sec">service that is equally incumbent upon</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#DC1 #Sec">all</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #Sec">and</rdg>
+		<rdg wit="#DC1 #DC2">its forms</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777">the slave trade shall</rdg>
+		<rdg wit="#Sec">his right</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#CHR3 #Sec">to</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#CHR3">torture</rdg>
+		<rdg wit="#Cassin #Sec">a</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin">personal service</rdg>
+		<rdg wit="#Sec">livelihood is conditioned by his duty</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#CHR3 #Cassin">or</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#CHR3 #Sec">to</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#CHR3">cruel inhuman or degrading treatment or</rdg>
+		<rdg wit="#Cassin #Sec">work</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin">only by application</rdg>
+		<rdg wit="#Sec">involuntary servitude may also</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #Geneva #Sec #WG57">be</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #Geneva #WG57">prohibited</rdg>
+		<rdg wit="#Sec">imposed as part</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777">in all their forms</rdg>
+		<rdg wit="#Cassin #Sec">of a</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#CHR3 #Sec">punishment</rdg>
+		<rdg wit="#Cassin">law and for the common interest</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Sec">pronounced</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Geneva #Sec #WG57">by</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Sec">a court of</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Geneva #Sec #WG57">law</rdg>
+	</app>
+</cx:apparatus>
+

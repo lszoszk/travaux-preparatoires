@@ -1,0 +1,335 @@
+[
+ {
+  "kind": "P",
+  "a": {
+   "e_cn.4_ac.1_sr.31-0027": {
+    "correct": true,
+    "note": "Pavlov announces a textual amendment to draft article 17 (freedom of expression) under the heading 'Discussion of Article 17'."
+   },
+   "e_cn.4_sr.366-0010": {
+    "correct": true,
+    "note": "Jevremovic on the wording of the joint draft on political rights (right to elect and be elected, access to public service)."
+   },
+   "e_cn.4_sr.363-0011": {
+    "correct": true,
+    "note": "Jevremovic explains 'equal access' to public office in the joint proposal on political rights."
+   },
+   "e_cn.4_sr.365-0019": {
+    "correct": true,
+    "note": "Jevremovic accepts and rejects amendments to the Yugoslav/French text on political rights and proposes the order of votes."
+   },
+   "e_cn.4_sr.346-0017": {
+    "correct": true,
+    "note": "Jevremovic on the size of the Human Rights Committee and the clause on members with legal experience (article 33)."
+   },
+   "e_cn.4_ac.1_sr.14-0047": {
+    "correct": true,
+    "note": "Wilson says draft article 32 (protection of professional interests/trade unions) is covered by the right of association and it is agreed to omit it."
+   },
+   "e_cn.4_ac.2_sr.3-0033": {
+    "correct": true,
+    "note": "Easterman warns against the word 'law' in the article on custody and arrest and proposes 'laws in conformity with UN principles'."
+   },
+   "e_cn.4_sr.36-0015": {
+    "correct": false,
+    "note": "Hodgson explains his abstention on Article 8 of the Declaration (E/CN.4/57), objecting to its mandatory convention-style wording; it is a Declaration article, not the covenant's liberty article (ICCPR 9)."
+   },
+   "e_cn.4_ac.1_sr.15-0017": {
+    "correct": false,
+    "note": "Santa Cruz on the article on cultural life and sharing in the benefits of science (art. 37, Secretariat art. 44 = UDHR 27), not the work article."
+   },
+   "e_cn.4_sr.277-0017": {
+    "correct": true,
+    "note": "Santa Cruz maintains and modifies his amendment to the right-to-work article (E/CN.4/L.53) against the US text."
+   },
+   "e_cn.4_sr.237-0006": {
+    "correct": true,
+    "note": "Jevremovic attacks the French text of the general clause for economic, social and cultural rights, including the word 'progressively'."
+   },
+   "e_cn.4_ac.1_sr.8-0073": {
+    "correct": true,
+    "note": "Wilson says the property article should be omitted if it states the right of the State rather than of the individual."
+   },
+   "e_cn.4_sr.54-0008": {
+    "correct": true,
+    "note": "Wilson explains his vote against paragraph 2 of article 3 (equality before the law, equal protection against discrimination)."
+   },
+   "e_cn.4_ac.1_sr.2-0042": {
+    "correct": true,
+    "note": "Cassin on whether the arrest article should include compensation for unlawful arrest."
+   },
+   "e_cn.4_sr.370-0006": {
+    "correct": true,
+    "note": "Jevremovic withdraws the Yugoslav minorities amendment and proposes adding its last phrase to the Sub-Commission's text."
+   },
+   "e_cn.4_sr.349-0003": {
+    "correct": true,
+    "note": "Jevremovic introduces the Yugoslav amendment to article 39 on re-election of Committee members."
+   },
+   "e_cn.4_sr.377-0006": {
+    "correct": true,
+    "note": "Melovski supports and wants to widen the draft article against propaganda inciting hatred."
+   },
+   "e_cn.4_sr.384-0070": {
+    "correct": true,
+    "note": "Jevremovic explains his vote for the article on marriage and the family."
+   },
+   "e_cn.4_sr.352-0032": {
+    "correct": true,
+    "note": "Abdur Rahman proposes replacing 'absence of a temporary character' with six months' absence in the vacancies provision."
+   },
+   "e_cn.4_ac.1_sr.9-0054": {
+    "correct": true,
+    "note": "Malik on the asylum article (draft art. 32) and proposes new wording."
+   },
+   "e_cn.4_sr.420-0013": {
+    "correct": true,
+    "note": "UNESCO asks that the reporting articles provide for reports to reach the specialized agencies on matters within their competence."
+   },
+   "e_cn.4_ac.2_sr.8-0029": {
+    "correct": true,
+    "note": "Uralova (CSW) on State protection of the right to rest and leisure, with an aside on health protection for women workers."
+   },
+   "e_cn.4_sr.104-0049": {
+    "correct": true,
+    "note": "Azkoul, after his amendment to the slavery/forced labour article is rejected, proposes the Drafting Committee's sentence instead."
+   },
+   "e_cn.4_ac.2_sr.5-0021": {
+    "correct": true,
+    "note": "Short support for previous NGO speakers on the asylum article (art. 14)."
+   },
+   "e_cn.4_sr.382-0010": {
+    "correct": true,
+    "note": "Jevremovic supports the CSW proposal to put the text of UDHR article 16 (marriage and family) into the civil covenant."
+   },
+   "e_cn.4_sr.389-0004": {
+    "correct": true,
+    "note": "Cassin on the Chilean amendment under draft article 58 to make the Committee a centre of information and interpretation; best judgment, as the speech does not mention the annual report itself."
+   },
+   "e_cn.4_ac.2_sr.8-0033": {
+    "correct": true,
+    "note": "Bogomolov wants enforcement provisions kept in the text of the rest and leisure article and asks for a vote on it."
+   },
+   "e_cn.4_sr.162-0015": {
+    "correct": true,
+    "note": "Azkoul on covenant article 17 on freedom of information and its relation to a future convention."
+   },
+   "e_cn.4_sr.349-0012": {
+    "correct": true,
+    "note": "Jevremovic clarifies the Yugoslav amendment barring re-election of retiring members nominated by the same State."
+   },
+   "e_cn.4_sr.370-0015": {
+    "correct": true,
+    "note": "Jevremovic defends the Yugoslav amendment to the Sub-Commission's minorities article."
+   },
+   "e_cn.4_sr.376-0003": {
+    "correct": true,
+    "note": "Abdur Rahman on 'arbitrary', 'unlawful' and 'unreasonable' interference in the proposed privacy article."
+   },
+   "e_cn.4_ac.2_sr.3-0034": {
+    "correct": true,
+    "note": "Bogomolov on the meaning of 'law', replying to Easterman's point on the arrest article."
+   },
+   "e_cn.4_sr.357-0003": {
+    "correct": true,
+    "note": "Friends World Committee supports adding the Indian paragraphs to article 52 (inter-State complaints), including communications from NGOs and individuals."
+   },
+   "e_cn.4_sr.274-0006": {
+    "correct": true,
+    "note": "Morozov, in the debate on the general obligation (article 1 of the ESC covenant), attacks the US text and the French limitation proposals as weakening obligations; much of it is about limitations."
+   },
+   "e_cn.4_sr.367-0010": {
+    "correct": true,
+    "note": "Jevremovic introduces the revised Yugoslav/French text on political rights."
+   },
+   "e_cn.4_sr.219-0027": {
+    "correct": true,
+    "note": "Jevremovic defends the Yugoslav proposal on improving working conditions in proportion to profits (conditions of work article)."
+   },
+   "e_cn.4_ac.2_sr.3-0018": {
+    "correct": true,
+    "note": "Cassin on article 7 (life, liberty, personal security) and the Chilean and Lebanese alternatives."
+   },
+   "e_cn.4_sr.104-0044": {
+    "correct": true,
+    "note": "Azkoul maintains his amendment on the conscientious objector clause of the slavery/forced labour article."
+   },
+   "e_cn.4_sr.329-0023": {
+    "correct": true,
+    "note": "Hoare asks to postpone the vote on paragraph 2 of article 1 (legislative measures within a reasonable time) of the civil covenant."
+   },
+   "e_cn.4_ac.1_sr.13-0034": {
+    "correct": true,
+    "note": "Koretsky on the wording 'all men' vs 'all human beings' in article 1."
+   }
+  },
+  "c": {
+   "e_cn.4_ac.1_sr.31-0027": {
+    "correct": true,
+    "note": "Announces a textual amendment to draft article 17 (opinion and expression), the article under discussion per the heading; very short but in context."
+   },
+   "e_cn.4_sr.366-0010": {
+    "correct": true,
+    "note": "Yugoslav delegate on the wording of paragraphs 2 and 3 of the joint draft on political participation and access to public service (art 25)."
+   },
+   "e_cn.4_sr.363-0011": {
+    "correct": true,
+    "note": "Explains the 'equal access' sentence of the joint proposal on political rights and public office (art 25)."
+   },
+   "e_cn.4_sr.365-0019": {
+    "correct": true,
+    "note": "Accepts amendments and discusses the voting order on the Yugoslav/French proposal on political participation (art 25)."
+   },
+   "e_cn.4_sr.346-0017": {
+    "correct": true,
+    "note": "On the size, geographical distribution and qualifications of the Human Rights Committee members (draft art 33 = art 28)."
+   },
+   "e_cn.4_ac.1_sr.14-0047": {
+    "correct": true,
+    "note": "Draft art 32 on protection of professional interests (final 23(4)) is said to be covered by the right of association and omitted; about that draft article's place (best judgment, somewhat marginal)."
+   },
+   "e_cn.4_ac.2_sr.3-0033": {
+    "correct": true,
+    "note": "Danger of the word 'law' in the first sentence of the arrest/custody article (draft 8 = art 9)."
+   },
+   "e_cn.4_sr.36-0015": {
+    "correct": true,
+    "note": "Explanation of vote on Article 8 (liberty and arrest) just voted on."
+   },
+   "e_cn.4_ac.1_sr.15-0017": {
+    "correct": false,
+    "note": "Santa Cruz says the scientific-inventions idea belongs in the (science/cultural) article following Cassin's remark on art 37; it is about the science-benefits article (final art 27), not work/trade unions."
+   },
+   "e_cn.4_sr.277-0017": {
+    "correct": true,
+    "note": "Chilean amendment to the US amendment on the right to work (national and international action, full employment) - art 6."
+   },
+   "e_cn.4_sr.237-0006": {
+    "correct": true,
+    "note": "Debate on the general clause on States' obligations (progressive realization, 'within resources') of the economic-social covenant, i.e. art 2."
+   },
+   "e_cn.4_ac.1_sr.8-0073": {
+    "correct": true,
+    "note": "On the property article: would omit it if it states the State's right rather than the individual's."
+   },
+   "e_cn.4_sr.54-0008": {
+    "correct": true,
+    "note": "Explains vote against paragraph 2 of Article 3 (equality before the law / equal protection against discrimination) = art 7."
+   },
+   "e_cn.4_ac.1_sr.2-0042": {
+    "correct": true,
+    "note": "Compensation for unlawful arrest in the arrest/detention article (draft 7 = art 9)."
+   },
+   "e_cn.4_sr.370-0006": {
+    "correct": true,
+    "note": "Withdraws the Yugoslav minorities proposal and comments on the minorities article (art 27)."
+   },
+   "e_cn.4_sr.349-0003": {
+    "correct": true,
+    "note": "Yugoslav amendment to draft art 39 on Committee members' term and re-election (art 32)."
+   },
+   "e_cn.4_sr.377-0006": {
+    "correct": true,
+    "note": "Supports and says the article against propaganda for war and incitement to hatred should go further (art 20)."
+   },
+   "e_cn.4_sr.384-0070": {
+    "correct": true,
+    "note": "Explanation of vote on the article on marriage and family (art 23)."
+   },
+   "e_cn.4_sr.352-0032": {
+    "correct": true,
+    "note": "Proposes replacing 'absence of a temporary character' with six months' absence in the article on vacancies of the Committee (art 33)."
+   },
+   "e_cn.4_ac.1_sr.9-0054": {
+    "correct": true,
+    "note": "Malik on the asylum article (draft 32): principle of asylum belongs in the Declaration, proposes rewording."
+   },
+   "e_cn.4_sr.420-0013": {
+    "correct": true,
+    "note": "UNESCO on the submission and examination of States' reports and avoiding duplication with specialized agencies (draft art 60 = art 16)."
+   },
+   "e_cn.4_ac.2_sr.8-0029": {
+    "correct": true,
+    "note": "Commission on the Status of Women representative on State responsibility for rest, leisure and health protection of workers in the rest/leisure article (draft 32 = art 24)."
+   },
+   "e_cn.4_sr.104-0049": {
+    "correct": true,
+    "note": "Lebanese proposal to insert the Drafting Committee's sentence in the slavery/forced labour article after his amendment was rejected (art 8)."
+   },
+   "e_cn.4_ac.2_sr.5-0021": {
+    "correct": true,
+    "note": "Short expression of support for criticism of the asylum article (draft 14), in context."
+   },
+   "e_cn.4_sr.382-0010": {
+    "correct": true,
+    "note": "Supports the CSW proposal to include the UDHR art 16 (marriage and family) in the covenant: article on marriage and family (art 23)."
+   },
+   "e_cn.4_sr.389-0004": {
+    "correct": true,
+    "note": "Cassin on the Chilean amendment giving the Committee an information/interpretation role, taken with draft art 58 (Committee annual report); the link to art 58 is inferred from the agenda - best judgment, uncertain."
+   },
+   "e_cn.4_ac.2_sr.8-0033": {
+    "correct": true,
+    "note": "Bogomolov on whether enforcement provisions stay in the text of the rest/leisure article (art 24)."
+   },
+   "e_cn.4_sr.162-0015": {
+    "correct": true,
+    "note": "On draft art 17 (freedom of expression/information) and the assurance that a separate convention on freedom of information remains needed."
+   },
+   "e_cn.4_sr.349-0012": {
+    "correct": true,
+    "note": "Yugoslav amendment on re-election of retiring Committee members in the terms-of-office article (art 32)."
+   },
+   "e_cn.4_sr.370-0015": {
+    "correct": true,
+    "note": "Defends the Yugoslav amendment to the minorities article (art 27)."
+   },
+   "e_cn.4_sr.376-0003": {
+    "correct": true,
+    "note": "Analyses 'arbitrary', 'unlawful', 'unreasonable' interference in the proposed privacy article (art 17)."
+   },
+   "e_cn.4_ac.2_sr.3-0034": {
+    "correct": true,
+    "note": "Meaning of 'law' in the arrest/detention article (draft 8 = art 9), replying to Easterman; short but in context."
+   },
+   "e_cn.4_sr.357-0003": {
+    "correct": true,
+    "note": "NGO urges adding the Indian amendment's paragraphs to draft art 52 (inter-State complaints); partly about the general petition right but framed as an amendment to art 52 (best judgment)."
+   },
+   "e_cn.4_sr.274-0006": {
+    "correct": true,
+    "note": "On the general clause (article 1 text) of the economic-social covenant and the French limitation proposals; mainly the obligations clause (art 2) but also touches limitations - moderately uncertain."
+   },
+   "e_cn.4_sr.367-0010": {
+    "correct": true,
+    "note": "Presents the revised Yugoslav/French proposal on political participation (art 25); short."
+   },
+   "e_cn.4_sr.219-0027": {
+    "correct": true,
+    "note": "Defends the Yugoslav proposal on improving workers' conditions in proportion to profits (art 7)."
+   },
+   "e_cn.4_ac.2_sr.3-0018": {
+    "correct": true,
+    "note": "Cassin on the Drafting Committee's text for the life/liberty/personal security article (draft 7 = art 3)."
+   },
+   "e_cn.4_sr.104-0044": {
+    "correct": true,
+    "note": "Lebanese amendment on the conscientious-objector wording in the forced labour article (art 8)."
+   },
+   "e_cn.4_sr.329-0023": {
+    "correct": true,
+    "note": "UK on postponing the vote on paragraph 2 of draft art 1 and on 'within a reasonable time' - the States' obligations article (art 2)."
+   },
+   "e_cn.4_ac.1_sr.13-0034": {
+    "correct": true,
+    "note": "On the wording 'all men' vs 'all human beings' in draft art 1 (Russian term covers both sexes)."
+   }
+  },
+  "third": {
+   "e_cn.4_sr.36-0015": {
+    "correct": false,
+    "note": "Hodgson explains his abstention on Article 8 of the draft Declaration (E/CN.4/57, the vote just taken): he accepts its principle but objects to its mandatory, convention-style wording. The meeting is on the Declaration, not the covenant draft E/CN.4/56, so the ICCPR art. 9 tag has the wrong instrument (Declaration art. 8 there is most likely the slavery article, though I cannot confirm that from the item alone)."
+   }
+  }
+ }
+]

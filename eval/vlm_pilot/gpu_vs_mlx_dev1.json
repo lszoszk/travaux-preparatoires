@@ -1,0 +1,242 @@
+{
+ "builds": [
+  "chandra",
+  "chandra-gpu"
+ ],
+ "pages": 20,
+ "missing": [],
+ "words": 7233,
+ "shared": 7231,
+ "rows": [
+  {
+   "page": "E/CN.4/SR.61 p2",
+   "words": [
+    229,
+    229
+   ],
+   "shared": 228,
+   "agreement": 0.9956331877729258,
+   "differing_runs": 1,
+   "examples": [
+    [
+     "(ihtu)",
+     "(ifctu)"
+    ]
+   ]
+  },
+  {
+   "page": "E/CN.4/SR.61 p3",
+   "words": [
+    284,
+    284
+   ],
+   "shared": 284,
+   "agreement": 1.0,
+   "differing_runs": 0,
+   "examples": []
+  },
+  {
+   "page": "E/CN.4/SR.61 p4",
+   "words": [
+    265,
+    265
+   ],
+   "shared": 265,
+   "agreement": 1.0,
+   "differing_runs": 0,
+   "examples": []
+  },
+  {
+   "page": "E/CN.4/SR.61 p5",
+   "words": [
+    297,
+    297
+   ],
+   "shared": 297,
+   "agreement": 1.0,
+   "differing_runs": 0,
+   "examples": []
+  },
+  {
+   "page": "E/CN.4/AC.2/SR.7 p2",
+   "words": [
+    223,
+    223
+   ],
+   "shared": 222,
+   "agreement": 0.9955156950672646,
+   "differing_runs": 1,
+   "examples": [
+    [
+     "f.",
+     "e."
+    ]
+   ]
+  },
+  {
+   "page": "E/CN.4/AC.2/SR.7 p3",
+   "words": [
+    230,
+    230
+   ],
+   "shared": 230,
+   "agreement": 1.0,
+   "differing_runs": 0,
+   "examples": []
+  },
+  {
+   "page": "E/CN.4/AC.2/SR.7 p4",
+   "words": [
+    239,
+    239
+   ],
+   "shared": 239,
+   "agreement": 1.0,
+   "differing_runs": 0,
+   "examples": []
+  },
+  {
+   "page": "E/CN.4/AC.2/SR.7 p5",
+   "words": [
+    257,
+    257
+   ],
+   "shared": 257,
+   "agreement": 1.0,
+   "differing_runs": 0,
+   "examples": []
+  },
+  {
+   "page": "E/CN.4/SR.80 p2",
+   "words": [
+    278,
+    278
+   ],
+   "shared": 278,
+   "agreement": 1.0,
+   "differing_runs": 0,
+   "examples": []
+  },
+  {
+   "page": "E/CN.4/SR.80 p3",
+   "words": [
+    323,
+    323
+   ],
+   "shared": 323,
+   "agreement": 1.0,
+   "differing_runs": 0,
+   "examples": []
+  },
+  {
+   "page": "E/CN.4/SR.80 p4",
+   "words": [
+    331,
+    331
+   ],
+   "shared": 331,
+   "agreement": 1.0,
+   "differing_runs": 0,
+   "examples": []
+  },
+  {
+   "page": "E/CN.4/SR.80 p5",
+   "words": [
+    310,
+    310
+   ],
+   "shared": 310,
+   "agreement": 1.0,
+   "differing_runs": 0,
+   "examples": []
+  },
+  {
+   "page": "E/CN.4/AC.1/9 p1",
+   "words": [
+    232,
+    232
+   ],
+   "shared": 232,
+   "agreement": 1.0,
+   "differing_runs": 0,
+   "examples": []
+  },
+  {
+   "page": "E/CN.4/AC.1/9 p2",
+   "words": [
+    332,
+    332
+   ],
+   "shared": 332,
+   "agreement": 1.0,
+   "differing_runs": 0,
+   "examples": []
+  },
+  {
+   "page": "A/C.3/214 p1",
+   "words": [
+    103,
+    103
+   ],
+   "shared": 103,
+   "agreement": 1.0,
+   "differing_runs": 0,
+   "examples": []
+  },
+  {
+   "page": "A/C.3/214 p2",
+   "words": [
+    99,
+    99
+   ],
+   "shared": 99,
+   "agreement": 1.0,
+   "differing_runs": 0,
+   "examples": []
+  },
+  {
+   "page": "A/C.3/SR.110 p2",
+   "words": [
+    955,
+    955
+   ],
+   "shared": 955,
+   "agreement": 1.0,
+   "differing_runs": 0,
+   "examples": []
+  },
+  {
+   "page": "A/C.3/SR.110 p3",
+   "words": [
+    976,
+    976
+   ],
+   "shared": 976,
+   "agreement": 1.0,
+   "differing_runs": 0,
+   "examples": []
+  },
+  {
+   "page": "A/C.3/SR.110 p4",
+   "words": [
+    922,
+    922
+   ],
+   "shared": 922,
+   "agreement": 1.0,
+   "differing_runs": 0,
+   "examples": []
+  },
+  {
+   "page": "E/CN.4/SR.1 p2",
+   "words": [
+    348,
+    348
+   ],
+   "shared": 348,
+   "agreement": 1.0,
+   "differing_runs": 0,
+   "examples": []
+  }
+ ]
+}

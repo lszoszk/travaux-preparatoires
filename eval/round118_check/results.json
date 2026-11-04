@@ -1,0 +1,545 @@
+{
+  "summary": "Two blind judges (opus, sonnet) check 40 segments the vision-label step changed; a third (opus) on splits",
+  "agentCount": 3,
+  "logs": [],
+  "result": {
+    "opus": [
+      {
+        "item": 1,
+        "verdict": "right",
+        "reason": "Footnote citing the Final Act of the Inter-American Council of Jurists was moved to a footnote segment; the speech text is intact."
+      },
+      {
+        "item": 2,
+        "verdict": "right",
+        "reason": "Footnote 'See Official Records... A/4341' was moved to a footnote segment; the joint 'since article 19' reads cleanly."
+      },
+      {
+        "item": 3,
+        "verdict": "right",
+        "reason": "UNESCO footnote 2/ was moved to a footnote segment; the joint 'That resolution' reads cleanly."
+      },
+      {
+        "item": 4,
+        "verdict": "right",
+        "reason": "Sales-number footnote was moved to a footnote segment; the joint 'to discuss a draft Declaration' reads cleanly."
+      },
+      {
+        "item": 5,
+        "verdict": "wrong",
+        "reason": "Footnote only partly removed: '(Geneva),' is left in the speech, and 'handi- crafts' is still split, not rejoined."
+      },
+      {
+        "item": 6,
+        "verdict": "right",
+        "reason": "Footnote 'See 130th meeting' was moved to a footnote segment; the joint reads cleanly."
+      },
+      {
+        "item": 7,
+        "verdict": "right",
+        "reason": "Sales-number footnote was moved to a footnote segment; the joint before paragraph 6 reads cleanly."
+      },
+      {
+        "item": 8,
+        "verdict": "wrong",
+        "reason": "Masthead only partly removed: '99 MEETING Wednesday, 18 October 1950, at 11 a.m. Page' is left in the speech; 'pro-' is not rejoined."
+      },
+      {
+        "item": 9,
+        "verdict": "right",
+        "reason": "The agenda-number asterisk note at the segment's end was moved to a footnote segment; nothing else changed."
+      },
+      {
+        "item": 10,
+        "verdict": "right",
+        "reason": "The agenda-number asterisk note was moved to a footnote segment; the joint 'satisfy the Syrian delegation' reads cleanly."
+      },
+      {
+        "item": 11,
+        "verdict": "right",
+        "reason": "Footnotes 2 and 3 on the Afghan amendments were moved to a footnote segment; the joint 'texts already before it' reads cleanly."
+      },
+      {
+        "item": 12,
+        "verdict": "right",
+        "reason": "Footnote 'Items 56 and 57 of the agenda' was moved to a footnote segment; the joint reads cleanly."
+      },
+      {
+        "item": 13,
+        "verdict": "right",
+        "reason": "Fourth Committee citation footnote was moved to a footnote segment; the joint 'would be received' reads cleanly."
+      },
+      {
+        "item": 14,
+        "verdict": "right",
+        "reason": "The printer's line 'S-42051-November 1954-1,850' was dropped from the closing segment; the closing line is intact."
+      },
+      {
+        "item": 15,
+        "verdict": "right",
+        "reason": "Joint UN/ILO document footnote was moved to a footnote segment; the joint before paragraph 3 reads cleanly."
+      },
+      {
+        "item": 16,
+        "verdict": "right",
+        "reason": "Joint UN/ILO document footnote was moved to a footnote segment; the joint 'accessions to it, many countries' reads cleanly."
+      },
+      {
+        "item": 17,
+        "verdict": "wrong",
+        "reason": "Footnote only partly removed: '1/1/34. ° i' is left in the speech, so the joint 'independent ... State' is still garbled."
+      },
+      {
+        "item": 18,
+        "verdict": "wrong",
+        "reason": "Footnote correctly moved, but the running head '194 General Assembly-Tenth Session-Third Committee' is left at the joint, still splitting 'in ... any way'."
+      },
+      {
+        "item": 19,
+        "verdict": "wrong",
+        "reason": "Footnote 2 and the running head were removed, but footnote 3 ('Council of Europe, European Treaty Series...') is left, garbling 'European ... Economic Co-operation'."
+      },
+      {
+        "item": 20,
+        "verdict": "wrong",
+        "reason": "The masthead words 'NEW YORK' were put into a footnote segment instead of being dropped; they do not belong there."
+      },
+      {
+        "item": 21,
+        "verdict": "right",
+        "reason": "ECOSOC citation footnote was moved to a footnote segment; the joint 'sixteenth session' reads cleanly."
+      },
+      {
+        "item": 22,
+        "verdict": "wrong",
+        "reason": "'NEW YORK' was removed but the masthead fragment 'at 11 a.m,' is left; 'ar= ... ticle' is not rejoined."
+      },
+      {
+        "item": 23,
+        "verdict": "wrong",
+        "reason": "The running-head date was put into the masthead segment instead of dropped, and the residue 'a- *' is left at the joint 'its ... own ideas'."
+      },
+      {
+        "item": 24,
+        "verdict": "right",
+        "reason": "Recorded-vote procedure footnote was moved to a footnote segment; the joint 'We shall take up' reads cleanly apart from existing OCR errors."
+      },
+      {
+        "item": 25,
+        "verdict": "right",
+        "reason": "Running head '178th plenary meeting' was dropped; the joint 'in comparison with the original text' reads cleanly."
+      },
+      {
+        "item": 26,
+        "verdict": "wrong",
+        "reason": "The running head '183rd plenary meeting' now sits in another speech segment instead of being dropped; furniture was added to a speech."
+      },
+      {
+        "item": 27,
+        "verdict": "right",
+        "reason": "Footnote 'See summary record E/CN.4/AC.14/SR.1' was moved to a footnote segment; the joint reads cleanly."
+      },
+      {
+        "item": 28,
+        "verdict": "wrong",
+        "reason": "Footnote (1) listing agenda items was moved into a speech segment, not a footnote segment; footnote text was added to a speech."
+      },
+      {
+        "item": 29,
+        "verdict": "right",
+        "reason": "Footnote citing the 344th meeting was moved to a footnote segment; the joint 'that function should be entrusted' reads cleanly."
+      },
+      {
+        "item": 30,
+        "verdict": "right",
+        "reason": "Footnote 'Subsequently circulated as E/CN.4/L.265' was moved to a footnote segment; the joint 'The United Kingdom' reads cleanly."
+      },
+      {
+        "item": 31,
+        "verdict": "right",
+        "reason": "Footnote citing the 383rd meeting at the segment's end was moved to a footnote segment; nothing else changed."
+      },
+      {
+        "item": 32,
+        "verdict": "right",
+        "reason": "Footnote on the French amendment's revision was moved to a footnote segment; the joint reads cleanly."
+      },
+      {
+        "item": 33,
+        "verdict": "right",
+        "reason": "Agenda item 7 footnote was moved to a footnote segment; the joint reads cleanly."
+      },
+      {
+        "item": 34,
+        "verdict": "wrong",
+        "reason": "The decision 'Paragraph 13 was adopted without discussion' now sits in a heading segment, and the vote segment became a footnote; the decision lost its kind."
+      },
+      {
+        "item": 35,
+        "verdict": "right",
+        "reason": "The asterisk note on the closed 79th meeting was moved to a footnote segment; the masthead's attendance list is intact."
+      },
+      {
+        "item": 36,
+        "verdict": "right",
+        "reason": "Footnote on resolution No. 50 was moved to a footnote segment; the joint 'put forward' reads cleanly."
+      },
+      {
+        "item": 37,
+        "verdict": "right",
+        "reason": "Footnotes 'See Annex 15d/15e' were moved to a footnote segment; the joint reads cleanly."
+      },
+      {
+        "item": 38,
+        "verdict": "wrong",
+        "reason": "Footnote correctly moved, but the page number '70' is left at the joint: 'meeting. 1 '70 The Report'; the rejoin is not clean."
+      },
+      {
+        "item": 39,
+        "verdict": "wrong",
+        "reason": "Footnote fragment 'and Social Council Official Records, First Year, Third Session. of Contents.' is left in the speech; the footnotes were cut at the wrong boundary."
+      },
+      {
+        "item": 40,
+        "verdict": "wrong",
+        "reason": "Rejoin is garbled: 'representapage 23, tive' instead of 'representative'; the footnote's 'page 23' was misplaced."
+      }
+    ],
+    "sonnet": [
+      {
+        "item": 1,
+        "verdict": "right",
+        "reason": "Footnote on the Inter-American Council of Jurists Final Act removed from the speech; it now stands in a footnote segment."
+      },
+      {
+        "item": 2,
+        "verdict": "right",
+        "reason": "Footnote citing A/4341 taken out mid-sentence and now in a footnote segment; the speech text is intact."
+      },
+      {
+        "item": 3,
+        "verdict": "right",
+        "reason": "UNESCO General Conference citation is a footnote, now in a footnote segment; the speech is unharmed."
+      },
+      {
+        "item": 4,
+        "verdict": "right",
+        "reason": "UN publication Sales No. footnote removed; it now stands in a footnote segment."
+      },
+      {
+        "item": 5,
+        "verdict": "right",
+        "reason": "ILO Official Bulletin citation is a page footnote, now in a footnote segment; no speaker words lost."
+      },
+      {
+        "item": 6,
+        "verdict": "right",
+        "reason": "'See 130th meeting' is the footnote to marker 1, now in a footnote segment."
+      },
+      {
+        "item": 7,
+        "verdict": "right",
+        "reason": "Sales No. citation footnote removed and now in a footnote segment."
+      },
+      {
+        "item": 8,
+        "verdict": "right",
+        "reason": "Only running-head furniture (committee/meeting head, Lake Success, New York) removed, now nowhere; no speaker words lost, though some head residue remains."
+      },
+      {
+        "item": 9,
+        "verdict": "right",
+        "reason": "Asterisk note about the agenda item number is a page footnote, now in a footnote segment."
+      },
+      {
+        "item": 10,
+        "verdict": "right",
+        "reason": "Same agenda-item-number footnote removed from the speech and now in a footnote segment."
+      },
+      {
+        "item": 11,
+        "verdict": "right",
+        "reason": "Two notes on the Afghan amendments (L.307, L.308) are footnotes, now in a footnote segment."
+      },
+      {
+        "item": 12,
+        "verdict": "right",
+        "reason": "Footnote on agenda items 56 and 57 removed; it now stands in a footnote segment."
+      },
+      {
+        "item": 13,
+        "verdict": "right",
+        "reason": "Footnote citing Fourth Committee meetings removed; now in a footnote segment."
+      },
+      {
+        "item": 14,
+        "verdict": "right",
+        "reason": "Printer's line 'S-42051-November 1954-1,850' is page furniture, removed and now nowhere."
+      },
+      {
+        "item": 15,
+        "verdict": "right",
+        "reason": "ILO/ECOSOC document citation is a footnote, now in a footnote segment."
+      },
+      {
+        "item": 16,
+        "verdict": "right",
+        "reason": "Joint UN/ILO document footnote removed from the speech and now in a footnote segment."
+      },
+      {
+        "item": 17,
+        "verdict": "right",
+        "reason": "UNCIO citation is a footnote, now in a footnote segment; residue of the footnote remains but no speech words lost."
+      },
+      {
+        "item": 18,
+        "verdict": "right",
+        "reason": "'Ibid., Twentieth Session' is a footnote, now in a footnote segment; no speaker words removed."
+      },
+      {
+        "item": 19,
+        "verdict": "right",
+        "reason": "Footnote on the Stateless Persons Convention moved to a footnote segment; 'General Assembly - Fourteenth Session - Third Committee' is a running head, now nowhere."
+      },
+      {
+        "item": 20,
+        "verdict": "right",
+        "reason": "'NEW YORK' is masthead furniture run into the speech; removing it leaves the sentence intact, no speaker words lost."
+      },
+      {
+        "item": 21,
+        "verdict": "right",
+        "reason": "ECOSOC Official Records citation is the footnote to marker 5, now in a footnote segment."
+      },
+      {
+        "item": 22,
+        "verdict": "right",
+        "reason": "'NEW YORK' masthead fragment removed and now nowhere; no speaker words lost."
+      },
+      {
+        "item": 23,
+        "verdict": "right",
+        "reason": "Running-head date '29 September 1948' removed from the speech, no speech words lost; the date stands in the masthead segment."
+      },
+      {
+        "item": 24,
+        "verdict": "right",
+        "reason": "Footnote on the procedure for recorded votes removed; now in a footnote segment."
+      },
+      {
+        "item": 25,
+        "verdict": "right",
+        "reason": "'178th plenary meeting' is a running head, removed and now nowhere."
+      },
+      {
+        "item": 26,
+        "verdict": "wrong",
+        "reason": "The running head is reported as now sitting in a speech segment, which is neither nowhere nor a footnote; unsure, so strict."
+      },
+      {
+        "item": 27,
+        "verdict": "right",
+        "reason": "Footnote (1) citing E/CN.4/AC.14/SR.1 removed; now in a footnote segment."
+      },
+      {
+        "item": 28,
+        "verdict": "wrong",
+        "reason": "Footnote (1) on Sub-Commission reports is reported as now sitting in a speech segment, not a footnote segment, so it is misplaced."
+      },
+      {
+        "item": 29,
+        "verdict": "right",
+        "reason": "Footnote (1) citing the 344th meeting removed; now in a footnote segment."
+      },
+      {
+        "item": 30,
+        "verdict": "right",
+        "reason": "Footnote (1) 'Subsequently circulated as E/CN.4/L.265' removed; now in a footnote segment."
+      },
+      {
+        "item": 31,
+        "verdict": "right",
+        "reason": "Footnote (1) citing the 383rd meeting removed from the chair segment; now in a footnote segment."
+      },
+      {
+        "item": 32,
+        "verdict": "right",
+        "reason": "Footnote (1) on the French amendment document removed; now in a footnote segment."
+      },
+      {
+        "item": 33,
+        "verdict": "right",
+        "reason": "Footnote (1) 'See item 7 of the agenda' removed; now in a footnote segment."
+      },
+      {
+        "item": 34,
+        "verdict": "right",
+        "reason": "The segment is the footnote itself; the vote line 'Paragraph 13 was adopted' still stands in its own heading segment, so it is not lost."
+      },
+      {
+        "item": 35,
+        "verdict": "right",
+        "reason": "Asterisk note on the closed 79th meeting is a footnote, now in a footnote segment."
+      },
+      {
+        "item": 36,
+        "verdict": "right",
+        "reason": "Footnote citing General Assembly resolution No. 50 removed; now in a footnote segment."
+      },
+      {
+        "item": 37,
+        "verdict": "right",
+        "reason": "Two 'See Annex' notes are footnotes, now in a footnote segment."
+      },
+      {
+        "item": 38,
+        "verdict": "right",
+        "reason": "Footnote citing ECOSOC Official Records removed; now in a footnote segment."
+      },
+      {
+        "item": 39,
+        "verdict": "right",
+        "reason": "Three 'See Supplement' notes are footnotes, now in a footnote segment; some footnote residue stays but no speaker words lost."
+      },
+      {
+        "item": 40,
+        "verdict": "wrong",
+        "reason": "Rejoin is garbled: 'representa-' and 'page' joined as 'representapage', '23,' and 'tive' left behind; the speech word 'representative' is broken."
+      }
+    ],
+    "third": [
+      {
+        "item": 5,
+        "verdict": "wrong",
+        "reason": "Footnote moved correctly, but its tail '(Geneva),' stays in the speech and the split word 'handi-' ... 'crafts' is not rejoined."
+      },
+      {
+        "item": 8,
+        "verdict": "right",
+        "reason": "'THIRD COMMITTER 287th' and 'Lake Success, New York' are masthead, now nowhere. No word split. Masthead residue remains but no speech removed."
+      },
+      {
+        "item": 17,
+        "verdict": "right",
+        "reason": "Removed text is footnote 4 (UNCIO citation), now in a footnote segment. No speech words lost. A residue '1/1/34.' stays behind."
+      },
+      {
+        "item": 18,
+        "verdict": "right",
+        "reason": "'Ibid., Twentieth Session, 890th meetings' is a footnote, now in a footnote segment. 'in any way' reads on; no split word."
+      },
+      {
+        "item": 19,
+        "verdict": "right",
+        "reason": "Footnote 2 went to a footnote segment and the running head 'General Assembly ... Third Committee' was dropped. Footnote 3 residue still stays in the text."
+      },
+      {
+        "item": 20,
+        "verdict": "wrong",
+        "reason": "'NEW YORK' is masthead furniture, but it was moved into a footnote segment, where it does not belong, rather than dropped."
+      },
+      {
+        "item": 22,
+        "verdict": "wrong",
+        "reason": "'NEW YORK' masthead dropped, but 'at 11 a.m,' stays and the split word 'ar=' ... 'ticle' is not rejoined."
+      },
+      {
+        "item": 23,
+        "verdict": "right",
+        "reason": "'29 September 1948' is a running head, now in a masthead segment. 'its ... own ideas' is unbroken; no speech removed."
+      },
+      {
+        "item": 34,
+        "verdict": "wrong",
+        "reason": "Decision 'Paragraph 13 was adopted without discussion.' lost its vote kind and now sits in a heading segment, which mislabels the record's text."
+      },
+      {
+        "item": 38,
+        "verdict": "right",
+        "reason": "The 'See Official Records ... meetings' citation is footnote 1, now in a footnote segment. No speech removed and no split word."
+      },
+      {
+        "item": 39,
+        "verdict": "right",
+        "reason": "Three 'See Supplement No. ...' footnotes went to a footnote segment. No speech removed. A footnote fragment and 'of Contents.' residue remain."
+      }
+    ]
+  },
+  "workflowProgress": [
+    {
+      "type": "workflow_phase",
+      "index": 1,
+      "title": "Judge"
+    },
+    {
+      "type": "workflow_phase",
+      "index": 2,
+      "title": "Third"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 1,
+      "label": "opus",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a632bf18bc4e6bdf4",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1793463739824,
+      "queuedAt": 1793463739801,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent checker. Read /Users/lszoszk/Desktop/AI/travaux/eval/round118_check/sample.json: 40 items, each a segment of a UN meeting record (OCR text, 1946-66) that a text pipeline changed. For each item you see the segment's kind and speaker before (\"old\") and after (\"new\"), and each text change: the words before it, the words \"removed\", what was \"put_in_its_place\" (often a wor…",
+      "promptFramed": true,
+      "lastProgressAt": 1793463950163,
+      "tokens": 70358,
+      "toolCalls": 5,
+      "durationMs": 210338,
+      "resultPreview": "{\"verdicts\":[{\"item\":1,\"verdict\":\"right\",\"reason\":\"Footnote citing the Final Act of the Inter-American Council of Jurists was moved to a footnote segment; the speech text is intact.\"},{\"item\":2,\"verdict\":\"right\",\"reason\":\"Footnote 'See Official Records... A/4341' was moved to a footnote segment; the joint 'since article 19' reads cleanly.\"},{\"item\":3,\"verdict\":\"right\",\"reason\":\"UNESCO footnote 2/ …"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 2,
+      "label": "sonnet",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a99ddb5c6f080c1e5",
+      "model": "claude-sonnet-5-5",
+      "state": "done",
+      "startedAt": 1793463739824,
+      "queuedAt": 1793463739801,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent checker. Read /Users/lszoszk/Desktop/AI/travaux/eval/round118_check/sample.json: 40 items, each a segment of a UN meeting record (OCR text, 1946-66) that a text pipeline changed. For each item you see the segment's kind and speaker before (\"old\") and after (\"new\"), and each text change: the words before it, the words \"removed\", what was \"put_in_its_place\" (often a wor…",
+      "promptFramed": true,
+      "lastProgressAt": 1793463918928,
+      "tokens": 72839,
+      "toolCalls": 5,
+      "durationMs": 179101,
+      "resultPreview": "{\"verdicts\":[{\"item\":1,\"verdict\":\"right\",\"reason\":\"Footnote on the Inter-American Council of Jurists Final Act removed from the speech; it now stands in a footnote segment.\"},{\"item\":2,\"verdict\":\"right\",\"reason\":\"Footnote citing A/4341 taken out mid-sentence and now in a footnote segment; the speech text is intact.\"},{\"item\":3,\"verdict\":\"right\",\"reason\":\"UNESCO General Conference citation is a foo…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 3,
+      "label": "third",
+      "phaseIndex": 2,
+      "phaseTitle": "Third",
+      "agentId": "a270daa5af706d534",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1793463952602,
+      "queuedAt": 1793463952597,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent checker. Read /Users/lszoszk/Desktop/AI/travaux/eval/round118_check/sample.json: 40 items, each a segment of a UN meeting record (OCR text, 1946-66) that a text pipeline changed. For each item you see the segment's kind and speaker before (\"old\") and after (\"new\"), and each text change: the words before it, the words \"removed\", what was \"put_in_its_place\" (often a wor…",
+      "promptFramed": true,
+      "lastProgressAt": 1793464033908,
+      "tokens": 56189,
+      "toolCalls": 3,
+      "durationMs": 81305,
+      "resultPreview": "{\"verdicts\":[{\"item\":5,\"verdict\":\"wrong\",\"reason\":\"Footnote moved correctly, but its tail '(Geneva),' stays in the speech and the split word 'handi-' ... 'crafts' is not rejoined.\"},{\"item\":8,\"verdict\":\"right\",\"reason\":\"'THIRD COMMITTER 287th' and 'Lake Success, New York' are masthead, now nowhere. No word split. Masthead residue remains but no speech removed.\"},{\"item\":17,\"verdict\":\"right\",\"reaso…"
+    }
+  ],
+  "totalTokens": 199386,
+  "totalToolCalls": 13
+}

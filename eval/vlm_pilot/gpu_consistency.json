@@ -1,0 +1,465 @@
+{
+ "pages": [
+  {
+   "symbol": "E/CN.4/AC.1/SR.39",
+   "page": 2,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SUB.2/SR.1",
+   "page": 5,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.363",
+   "page": 5,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.148",
+   "page": 14,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.364",
+   "page": 6,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.205",
+   "page": 14,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.182",
+   "page": 4,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.172",
+   "page": 10,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.83",
+   "page": 9,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SUB.2/SR.18",
+   "page": 8,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.278",
+   "page": 1,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/AC.1/SR.44/Corr.1",
+   "page": 1,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.195",
+   "page": 9,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.362",
+   "page": 5,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.168",
+   "page": 16,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.182",
+   "page": 12,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.241",
+   "page": 16,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.212",
+   "page": 15,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.323",
+   "page": 13,
+   "diff": 0.00087,
+   "names_only_corpus": [
+    "VALENZUELA"
+   ],
+   "names_only_other": [
+    "VALLENZUELA"
+   ],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.226",
+   "page": 4,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SUB.2/SR.11",
+   "page": 17,
+   "diff": 0.0021,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.195",
+   "page": 10,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.129",
+   "page": 18,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.160",
+   "page": 14,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.67",
+   "page": 11,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.230",
+   "page": 15,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.197",
+   "page": 16,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.149",
+   "page": 4,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.275",
+   "page": 11,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.264",
+   "page": 13,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.360",
+   "page": 5,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.159",
+   "page": 4,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.26",
+   "page": 7,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.191",
+   "page": 23,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SUB.2/SR.4",
+   "page": 8,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.306",
+   "page": 11,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.155",
+   "page": 4,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/AC.1/SR.37",
+   "page": 6,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.46",
+   "page": 1,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.165",
+   "page": 8,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.261",
+   "page": 7,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.217",
+   "page": 5,
+   "diff": 0.00046,
+   "names_only_corpus": [
+    "ROSSSEL"
+   ],
+   "names_only_other": [
+    "ROSSEL"
+   ],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "A/C.3/SR.320",
+   "page": 1,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.325",
+   "page": 7,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/AC.7/SR.39",
+   "page": 13,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SUB.2/SR.18",
+   "page": 4,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.450",
+   "page": 1,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SR.414",
+   "page": 1,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/CN.4/SUB.2/SR.11",
+   "page": 20,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  },
+  {
+   "symbol": "E/AC.7/SR.39",
+   "page": 3,
+   "diff": 0.0,
+   "names_only_corpus": [],
+   "names_only_other": [],
+   "runaway_corpus": false,
+   "runaway_other": false
+  }
+ ],
+ "close": 50,
+ "named": 2,
+ "keep": false
+}

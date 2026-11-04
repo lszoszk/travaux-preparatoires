@@ -1,0 +1,50 @@
+[
+ {
+  "item": 5,
+  "id": "a_c.3_sr.1353-0007",
+  "record": "A/C.3/SR.1353",
+  "pages": "1-1",
+  "old": {
+   "kind": "speech",
+   "speaker": "BELTRAMINO",
+   "delegation": "Argentina"
+  },
+  "new": {
+   "kind": "speech",
+   "speaker": "BELTRAMINO",
+   "delegation": "Argentina"
+  },
+  "text_changes": [
+   {
+    "before": "3. Mr. BELTRAMINO (Argentina), speaking in expla~ nation of his delegation's vote at the previous meet- @",
+    "removed": "THIRD COMMITTEE, 1353rd MEETING Wednesday, 24 November 1965, at 3,25 p.m. NEW YORK",
+    "put_in_its_place": "",
+    "after": "ing on articles VII and VII (bis), said that, while his delegation was not entirely satisfied with the revised text, it had voted in favour"
+   }
+  ]
+ },
+ {
+  "item": 40,
+  "id": "e_cn.4_sr.92-0001",
+  "record": "E/CN.4/SR.92",
+  "pages": "1-2",
+  "old": {
+   "kind": "masthead",
+   "speaker": null,
+   "delegation": null
+  },
+  "new": {
+   "kind": "masthead",
+   "speaker": null,
+   "delegation": null
+  },
+  "text_changes": [
+   {
+    "before": "United Nations ECONOMIC AND SOCIAL COUNCIL Nations Unies CONSEIL ECONOMIQUE ET SOCIAL UNRESTRICTED E/CN.4/SR 92",
+    "removed": "20 May 1949 59",
+    "put_in_its_place": "",
+    "after": "ORIGINAL: ENGLISH MASTER FILE COMMISSION ON HUMAN RIGHTS Fifth Session SUMMARY RECORD OF THE NINETY-SECOND MEETING Held at Lake Success, New York, on Thursday, 19"
+   }
+  ]
+ }
+]

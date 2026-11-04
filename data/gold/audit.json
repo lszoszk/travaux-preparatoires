@@ -1,0 +1,158 @@
+{
+ "round": 129,
+ "checked": "2026-11-02, round 129 audit (after rounds 110-128; two blind judges per item, opus and sonnet, a third on splits; no hand review)",
+ "precision": {
+  "weighted": 0.946,
+  "half_interval": 0.037,
+  "correct": 126,
+  "checked": 133,
+  "strata": {
+   "Covenants/CHR 1949-54/audit": {
+    "correct": 52,
+    "checked": 54,
+    "tags": 5530
+   },
+   "Covenants/e2573 1954-61/audit": {
+    "correct": 28,
+    "checked": 28,
+    "tags": 2836
+   },
+   "UDHR/chr_3/audit": {
+    "correct": 12,
+    "checked": 14,
+    "tags": 1429
+   },
+   "Covenants/Third Committee 1962-66/audit": {
+    "correct": 10,
+    "checked": 11,
+    "tags": 1134
+   },
+   "UDHR early (other)": {
+    "correct": 12,
+    "checked": 12,
+    "tags": 782
+   },
+   "UDHR/drafting_committee_2/audit": {
+    "correct": 7,
+    "checked": 7,
+    "tags": 699
+   },
+   "Covenants/e600/early/audit": {
+    "correct": 2,
+    "checked": 3,
+    "tags": 327
+   },
+   "UDHR/geneva_plenary/early/audit": {
+    "correct": 1,
+    "checked": 2,
+    "tags": 160
+   },
+   "UDHR/none/audit": {
+    "correct": 2,
+    "checked": 2,
+    "tags": 38
+   }
+  }
+ },
+ "coverage": {
+  "within_tagged_records": 0.86,
+  "overall": 0.84,
+  "judged": 110,
+  "missed_because": {
+   "no article context": 17,
+   "Jev": 5
+  },
+  "round": 129,
+  "checked": "2026-11-02, round 129 audit (after rounds 110-128; two blind judges per item, opus and sonnet, a third on splits; no hand review)",
+  "pooled": {
+   "rounds": [
+    69,
+    109,
+    129
+   ],
+   "within_tagged_records": 0.87,
+   "overall": 0.82
+  }
+ },
+ "reports": {
+  "correct": 29,
+  "checked": 30
+ },
+ "previous": {
+  "round": 109,
+  "checked": "2026-10-29, round 109 audit (after the Athena merge, the French fix and rounds 105-108; two blind judges per item, opus and sonnet, a third on splits; no hand review)",
+  "precision": {
+   "weighted": 0.953,
+   "half_interval": 0.035,
+   "correct": 126,
+   "checked": 132,
+   "strata": {
+    "Covenants/CHR 1949-54/audit": {
+     "correct": 52,
+     "checked": 54,
+     "tags": 5530
+    },
+    "Covenants/e2573 1954-61/audit": {
+     "correct": 26,
+     "checked": 27,
+     "tags": 2836
+    },
+    "UDHR/chr_3/audit": {
+     "correct": 14,
+     "checked": 14,
+     "tags": 1429
+    },
+    "Covenants/Third Committee 1962-66/audit": {
+     "correct": 10,
+     "checked": 11,
+     "tags": 1134
+    },
+    "UDHR early (other)": {
+     "correct": 12,
+     "checked": 12,
+     "tags": 782
+    },
+    "UDHR/drafting_committee_2/audit": {
+     "correct": 5,
+     "checked": 7,
+     "tags": 699
+    },
+    "Covenants/e600/early/audit": {
+     "correct": 3,
+     "checked": 3,
+     "tags": 327
+    },
+    "UDHR/geneva_plenary/early/audit": {
+     "correct": 2,
+     "checked": 2,
+     "tags": 160
+    },
+    "UDHR/none/audit": {
+     "correct": 2,
+     "checked": 2,
+     "tags": 38
+    }
+   }
+  },
+  "coverage": {
+   "within_tagged_records": 0.91,
+   "overall": 0.86,
+   "judged": 110,
+   "missed_because": {
+    "no article context": 13,
+    "Jev": 4
+   },
+   "round": 109,
+   "checked": "2026-10-29, round 109 audit (after the Athena merge, the French fix and rounds 105-108; two blind judges per item, opus and sonnet, a third on splits; no hand review)",
+   "pooled": {
+    "rounds": [
+     66,
+     69,
+     109
+    ],
+    "within_tagged_records": 0.88,
+    "overall": 0.82
+   }
+  }
+ }
+}

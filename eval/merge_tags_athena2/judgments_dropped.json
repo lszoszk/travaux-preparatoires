@@ -1,0 +1,175 @@
+[
+ {
+  "kind": "P",
+  "a": {
+   "e_cn.4_sr.126-0017": {
+    "correct": true,
+    "note": "Bowie on the UK proposal for the derogation article (which articles may not be derogated from)."
+   },
+   "e_cn.4_sr.349-0013": {
+    "correct": true,
+    "note": "Perotti accepts the modified Yugoslav amendment on re-election and withdraws his own suggestions (article 39)."
+   },
+   "e_cn.4_ac.1_sr.15-0019": {
+    "correct": true,
+    "note": "Cassin agrees to delete a phrase from article 37 (cultural life, arts, science)."
+   },
+   "e_cn.4_sr.162-0020": {
+    "correct": true,
+    "note": "Ordonneau on the Commission's duty to draft article 17 on freedom of information and favours a general text."
+   },
+   "e_cn.4_sr.346-0030": {
+    "correct": true,
+    "note": "The US withdraws its amendment to article 34 (nomination of Committee members)."
+   },
+   "e_cn.4_ac.2_sr.6-0006": {
+    "correct": false,
+    "note": "Begtrup on where to put mothers' rights and child protection (family article or social security provisions), which became UDHR 25(2), not social security (art. 22)."
+   },
+   "e_cn.4_sr.354-0045": {
+    "correct": true,
+    "note": "Diaz-Casanueva on paragraph (c) of article 47 (Committee rules of procedure) and the UK amendment to it."
+   },
+   "e_cn.4_sr.226-0046": {
+    "correct": true,
+    "note": "Short explanation of vote associating with Chile after the vote on the US proposal and Danish amendment; best judgment that the vote was on the trade union article, which the item does not show."
+   },
+   "e_cn.4_ac.2_sr.3-0022": {
+    "correct": false,
+    "note": "Romulo supports Panama's procedural proposal to consider its whole draft Declaration (A/148) with the Drafting Committee's text, not the non-discrimination article."
+   },
+   "e_cn.4_sr.388-0013": {
+    "correct": true,
+    "note": "Hoare opposes the joint amendment empowering the Committee to conduct enquiries in States' territory in inter-State cases (draft art. 55)."
+   },
+   "e_cn.4_sr.360-0017": {
+    "correct": true,
+    "note": "Chattopadhyay on the Indian/Chilean amendment to article 52 letting NGOs, individuals and groups submit communications; it is about the scope of the article, though the substance is the petitions question."
+   },
+   "e_cn.4_sr.354-0030": {
+    "correct": true,
+    "note": "Hoare accepts the Australian text of article 46 (election of Chairman and Vice-Chairman) and withdraws the UK amendment."
+   },
+   "e_cn.4_sr.126-0015": {
+    "correct": true,
+    "note": "Malik on whether to vote first on deleting article 4 (derogation) or on postponing it."
+   },
+   "e_cn.4_sr.346-0020": {
+    "correct": true,
+    "note": "Cassin on paragraph 1, the size (nine) and composition of the Human Rights Committee."
+   },
+   "e_cn.4_ac.2_sr.3-0005": {
+    "correct": false,
+    "note": "Stepanenko supports Panama's amendment on equal protection against arbitrary discrimination in the law (became equality before the law, UDHR 7), not duties/limitations (art. 29)."
+   },
+   "e_cn.4_sr.222-0017": {
+    "correct": true,
+    "note": "Cassin accepts replacing 'while bringing up their children' with 'while nursing children' in the French text on protection of mothers."
+   },
+   "e_cn.4_sr.347-0037": {
+    "correct": true,
+    "note": "Morozov on the order of votes on deleting 'International Court of Justice' and inserting 'General Assembly' in article 36 (election of the Committee)."
+   },
+   "e_cn.4_sr.354-0031": {
+    "correct": true,
+    "note": "Diaz-Casanueva supports the Australian text for article 46 (Committee officers)."
+   },
+   "e_cn.4_sr.349-0009": {
+    "correct": true,
+    "note": "Hoare, in the debate on article 39 and re-election, argues members serve in a personal capacity and the Court would not favour the great Powers."
+   },
+   "e_cn.4_sr.354-0037": {
+    "correct": true,
+    "note": "Hoare revises the UK amendment to article 47 (rules of procedure: quorum, paragraph (c) on submissions by interested States)."
+   }
+  },
+  "c": {
+   "e_cn.4_sr.126-0017": {
+    "correct": true,
+    "note": "UK delegate on paragraphs 1 and 2 of the UK proposal on derogation (which articles are non-derogable) - art 4."
+   },
+   "e_cn.4_sr.349-0013": {
+    "correct": true,
+    "note": "Accepts the modified Yugoslav amendment on re-election and withdraws own suggestions (art 32)."
+   },
+   "e_cn.4_ac.1_sr.15-0019": {
+    "correct": true,
+    "note": "Agrees to delete a phrase in draft Article 37 (cultural life, science), in context."
+   },
+   "e_cn.4_sr.162-0020": {
+    "correct": true,
+    "note": "Discusses how draft art 17 (freedom of expression/information) should be drafted: general text, and the convention left to the General Assembly."
+   },
+   "e_cn.4_sr.346-0030": {
+    "correct": true,
+    "note": "Withdraws the US amendment to draft art 34 (nomination of Committee members); withdrawal of an amendment to the article."
+   },
+   "e_cn.4_ac.2_sr.6-0006": {
+    "correct": false,
+    "note": "Mainly the wording of 'mothers' rights' and 'protection of children' in the Byelorussian marriage/family proposal; social security is only mentioned as a preferred location (borderline)."
+   },
+   "e_cn.4_sr.354-0045": {
+    "correct": true,
+    "note": "Chile on paragraph (c) of draft art 47 (Committee rules of procedure) and the UK amendment, which maps to the officers/rules article (art 39)."
+   },
+   "e_cn.4_sr.226-0046": {
+    "correct": true,
+    "note": "Associates with an explanation of vote on the US proposal/Danish amendment on trade-union rights (art 8); short, content inferred from context."
+   },
+   "e_cn.4_ac.2_sr.3-0022": {
+    "correct": false,
+    "note": "Supports the Panama proposal for a separate declaration/text to be considered jointly with the Drafting Committee text - a procedural/general point, not the non-discrimination article's wording."
+   },
+   "e_cn.4_sr.388-0013": {
+    "correct": true,
+    "note": "UK opposes the joint amendment giving the Committee power to conduct enquiries in a State's territory, under draft art 55 on inter-State complaints procedure (art 41); inferred from agenda, moderately uncertain."
+   },
+   "e_cn.4_sr.360-0017": {
+    "correct": true,
+    "note": "Indian amendment to draft art 52 on the right of NGOs/individuals to submit communications; about an amendment to the article though its content is petition rights (best judgment)."
+   },
+   "e_cn.4_sr.354-0030": {
+    "correct": true,
+    "note": "UK accepts the Australian text for draft art 46 (Chairman and Vice-Chairman) and withdraws its amendment (art 39)."
+   },
+   "e_cn.4_sr.126-0015": {
+    "correct": true,
+    "note": "Malik on the order of votes: vote first on the motion to delete article 4 (derogation), connected to the article's text."
+   },
+   "e_cn.4_sr.346-0020": {
+    "correct": true,
+    "note": "Cassin on the size (nine) and composition of the Human Rights Committee (art 28)."
+   },
+   "e_cn.4_ac.2_sr.3-0005": {
+    "correct": true,
+    "note": "Byelorussian support for inserting the Panama non-discrimination amendment into Article 3 (draft 3 = duties/limitations); counts as an amendment to that draft article, but its substance is non-discrimination - low confidence."
+   },
+   "e_cn.4_sr.222-0017": {
+    "correct": true,
+    "note": "Cassin accepts an amendment on nursing mothers in the family/mothers/children protection article (art 10)."
+   },
+   "e_cn.4_sr.347-0037": {
+    "correct": true,
+    "note": "Morozov on the order of votes on deleting 'International Court of Justice' from draft art 36 and inserting the General Assembly (art 30)."
+   },
+   "e_cn.4_sr.354-0031": {
+    "correct": true,
+    "note": "Chile supports the Australian proposal on draft art 46 (election of officers) (art 39)."
+   },
+   "e_cn.4_sr.349-0009": {
+    "correct": true,
+    "note": "UK supports the Indian view in the debate on the Yugoslav amendment (great-power seats, re-election, personal capacity of members) to the terms article (art 32); moderately uncertain."
+   },
+   "e_cn.4_sr.354-0037": {
+    "correct": true,
+    "note": "UK amendments to draft art 47 paragraphs (a) and (c) on Committee rules of procedure (quorum, participation), corresponding to art 39(2)."
+   }
+  },
+  "third": {
+   "e_cn.4_ac.2_sr.3-0005": {
+    "correct": false,
+    "note": "Stepanenko supports Panama's amendment to insert protection against arbitrary discrimination in law into Article 3, which is the non-discrimination and equal-protection article (final UDHR arts 2/7), not duties to the community or limitations (art. 29)."
+   }
+  }
+ }
+]

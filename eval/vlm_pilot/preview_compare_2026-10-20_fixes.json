@@ -1,0 +1,238 @@
+{
+ "all records": {
+  "old": {
+   "segments": 85313,
+   "by_kind": {
+    "paragraph": 31631,
+    "speech": 28560,
+    "heading": 8661,
+    "chair": 7308,
+    "vote": 3331,
+    "masthead": 2092,
+    "footnote": 1533,
+    "procedural": 1104,
+    "closing": 1093
+   },
+   "speeches": 28560,
+   "with_speaker": 28444,
+   "with_delegation": 28462,
+   "unresolved": 116,
+   "with_article": 11332,
+   "methods": {
+    "vote_joint": 23496,
+    "text_name": 2592,
+    "roster_match": 2047,
+    "text_org": 173,
+    "unresolved": 116,
+    "sole_delegate": 65,
+    "roster_token": 33,
+    "rapporteur (masthead)": 31,
+    "checked on the page image": 7
+   }
+  },
+  "new": {
+   "segments": 88002,
+   "by_kind": {
+    "paragraph": 31566,
+    "speech": 29595,
+    "heading": 9016,
+    "chair": 7869,
+    "vote": 3966,
+    "masthead": 2096,
+    "footnote": 1531,
+    "procedural": 1182,
+    "closing": 1181
+   },
+   "speeches": 29595,
+   "with_speaker": 29506,
+   "with_delegation": 29524,
+   "unresolved": 89,
+   "with_article": 11637,
+   "methods": {
+    "printed_known": 28053,
+    "roster_match": 434,
+    "vote_joint": 408,
+    "text_name": 242,
+    "text_org": 222,
+    "unresolved": 89,
+    "rapporteur (masthead)": 61,
+    "vote_known": 54,
+    "sole_delegate": 18,
+    "checked on the page image": 7,
+    "roster_token": 7
+   }
+  },
+  "dates_changed": [
+   "E/CN.4/AC.2/SR.1",
+   "E/CN.4/SR.104/Corr.1",
+   "E/CN.4/SR.131/Corr.1",
+   "E/CN.4/SR.154",
+   "E/CN.4/SR.173",
+   "E/CN.4/SR.232",
+   "E/CN.4/SR.312",
+   "E/CN.4/SR.53"
+  ],
+  "most_changed": [
+   [
+    "E/CN.4/SR.409",
+    25
+   ],
+   [
+    "E/CN.4/SR.188",
+    23
+   ],
+   [
+    "E/CN.4/SR.215",
+    22
+   ],
+   [
+    "E/CN.4/SR.197",
+    20
+   ],
+   [
+    "E/CN.4/SR.190",
+    19
+   ],
+   [
+    "E/CN.4/SR.199",
+    18
+   ],
+   [
+    "E/CN.4/SR.239",
+    17
+   ],
+   [
+    "E/CN.4/SR.195",
+    17
+   ],
+   [
+    "E/CN.4/SR.2/Corr.1",
+    16
+   ],
+   [
+    "E/CN.4/SR.191",
+    15
+   ],
+   [
+    "E/CN.4/SR.249",
+    15
+   ],
+   [
+    "E/CN.4/SR.156",
+    14
+   ],
+   [
+    "E/CN.4/SR.159",
+    14
+   ],
+   [
+    "E/CN.4/SR.242",
+    14
+   ],
+   [
+    "E/CN.4/SR.240",
+    14
+   ],
+   [
+    "E/CN.4/SR.233",
+    14
+   ],
+   [
+    "E/CN.4/SR.338",
+    12
+   ],
+   [
+    "E/CN.4/SR.189",
+    12
+   ],
+   [
+    "E/CN.4/AC.1/SR.4",
+    -12
+   ],
+   [
+    "E/CN.4/SR.187",
+    12
+   ],
+   [
+    "E/AC.7/SR.39",
+    12
+   ],
+   [
+    "E/CN.4/SR.145",
+    12
+   ],
+   [
+    "E/CN.4/SR.179",
+    12
+   ],
+   [
+    "E/CN.4/SR.210",
+    11
+   ],
+   [
+    "E/CN.4/SR.218",
+    11
+   ],
+   [
+    "E/CN.4/SR.200",
+    10
+   ],
+   [
+    "E/CN.4/SR.165",
+    10
+   ],
+   [
+    "E/CN.4/SR.243",
+    10
+   ],
+   [
+    "E/CN.4/SR.234",
+    9
+   ],
+   [
+    "E/CN.4/SR.183",
+    9
+   ],
+   [
+    "E/CN.4/SR.235",
+    8
+   ],
+   [
+    "E/CN.4/SR.247",
+    8
+   ],
+   [
+    "E/CN.4/SR.333",
+    8
+   ],
+   [
+    "E/CN.4/SR.155",
+    8
+   ],
+   [
+    "E/CN.4/SR.192",
+    8
+   ],
+   [
+    "E/CN.4/SR.202",
+    8
+   ],
+   [
+    "E/CN.4/SR.182",
+    7
+   ],
+   [
+    "E/CN.4/SR.157",
+    7
+   ],
+   [
+    "E/CN.4/SR.252",
+    7
+   ],
+   [
+    "E/CN.4/SR.237",
+    7
+   ]
+  ]
+ }
+}

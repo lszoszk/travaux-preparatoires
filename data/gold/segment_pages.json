@@ -1,0 +1,400 @@
+{
+ "E/CN.4/SR.153 p2": {
+  "db_starts": [
+   {
+    "delegation": "",
+    "kind": "heading",
+    "line": 29,
+    "offset": 0,
+    "speaker": "",
+    "words": "Statement by the representative of the C"
+   },
+   {
+    "delegation": "Commission on the Status of Women",
+    "kind": "speech",
+    "line": 30,
+    "offset": 0,
+    "speaker": "CASTILLO LEDON",
+    "words": "1. Mrs. CASTILLO LEDON (Commission on th"
+   }
+  ],
+  "junk_lines": [
+   10
+  ],
+  "lines": 37,
+  "note": "( TRO) to tak naprawdę (IRO) - skrót od International Refugee Organization",
+  "page": 2,
+  "saved": "2026-10-16T00:39:03",
+  "starts": [
+   {
+    "delegation": "",
+    "kind": "speech",
+    "line": 26,
+    "offset": 0,
+    "speaker": "",
+    "words": "DRAFT INTERNATIONAL COVENANT ON HUMAN RI"
+   },
+   {
+    "delegation": "Commission on the Status of Women",
+    "kind": "heading",
+    "line": 29,
+    "offset": 0,
+    "speaker": "",
+    "words": "Statement by the representative of the C"
+   },
+   {
+    "delegation": "Commission on the Status of Women",
+    "kind": "speech",
+    "line": 30,
+    "offset": 0,
+    "speaker": "CASTILLO LEDON",
+    "words": "1. Mrs. CASTILLO LEDON (Commission on th"
+   }
+  ],
+  "status": "done",
+  "stratum": "CHR 1949-54",
+  "symbol": "E/CN.4/SR.153"
+ },
+ "E/CN.4/SR.163 p5": {
+  "db_starts": [
+   {
+    "delegation": "India",
+    "kind": "speech",
+    "line": 34,
+    "offset": 0,
+    "speaker": "MEHTA",
+    "words": "1h, Mrs. MEHTA (India) explained the pos"
+   }
+  ],
+  "junk_lines": [],
+  "lines": 37,
+  "note": "",
+  "page": 5,
+  "saved": "2026-10-16T00:42:48",
+  "starts": [
+   {
+    "delegation": "India",
+    "kind": "speech",
+    "line": 34,
+    "offset": 0,
+    "speaker": "MEHTA",
+    "words": "1h, Mrs. MEHTA (India) explained the pos"
+   }
+  ],
+  "status": "done",
+  "stratum": "CHR 1949-54",
+  "symbol": "E/CN.4/SR.163"
+ },
+ "E/CN.4/SR.245 p7": {
+  "db_starts": [
+   {
+    "delegation": "Co-ordinating Board of Jewish Organizations",
+    "kind": "speech",
+    "line": 19,
+    "offset": 0,
+    "speaker": "",
+    "words": "Mr, WAREURG (Co-ordinating Board of Jewi"
+   }
+  ],
+  "junk_lines": [],
+  "lines": 31,
+  "note": "",
+  "page": 7,
+  "saved": "2026-10-16T00:41:16",
+  "starts": [
+   {
+    "delegation": "Co-ordinating Board of Jewish Organizations",
+    "kind": "speech",
+    "line": 19,
+    "offset": 0,
+    "speaker": "Mr. WAREURG",
+    "words": "Mr, WAREURG (Co-ordinating Board of Jewi"
+   }
+  ],
+  "status": "done",
+  "stratum": "CHR 1949-54",
+  "symbol": "E/CN.4/SR.245"
+ },
+ "E/CN.4/SR.246 p9": {
+  "db_starts": [
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 0,
+    "offset": 0,
+    "speaker": "",
+    "words": "The CHAIRMAN stated that that subject ha"
+   },
+   {
+    "delegation": "Greece",
+    "kind": "speech",
+    "line": 12,
+    "offset": 0,
+    "speaker": "EUSTATHIADES",
+    "words": "tr, EUSTATHIADES (Greece) shared the Fra"
+   },
+   {
+    "delegation": "Australia",
+    "kind": "speech",
+    "line": 27,
+    "offset": 0,
+    "speaker": "WHITLAM",
+    "words": "Mr. WHITLAI (Australia) said that his de"
+   }
+  ],
+  "junk_lines": [],
+  "lines": 33,
+  "note": "husan rightr, - should be \"human rights\"\nFrev.ch - should be French\n~ocld - should be would",
+  "page": 9,
+  "saved": "2026-10-16T00:40:51",
+  "starts": [
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 0,
+    "offset": 0,
+    "speaker": "",
+    "words": "The CHAIRMAN stated that that subject ha"
+   },
+   {
+    "delegation": "Greece",
+    "kind": "speech",
+    "line": 12,
+    "offset": 0,
+    "speaker": "EUSTATHIADES",
+    "words": "tr, EUSTATHIADES (Greece) shared the Fra"
+   },
+   {
+    "delegation": "Australia",
+    "kind": "speech",
+    "line": 27,
+    "offset": 0,
+    "speaker": "WHITLAM",
+    "words": "Mr. WHITLAI (Australia) said that his de"
+   }
+  ],
+  "status": "done",
+  "stratum": "CHR 1949-54",
+  "symbol": "E/CN.4/SR.246"
+ },
+ "E/CN.4/SR.367 p11": {
+  "db_starts": [
+   {
+    "delegation": "United Kingdom",
+    "kind": "speech",
+    "line": 3,
+    "offset": 0,
+    "speaker": "HOARE",
+    "words": "Mr, HOARE (United Kingdom) thought it wo"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 5,
+    "offset": 0,
+    "speaker": "",
+    "words": "The CHAIRMAN said he could allow the Chi"
+   },
+   {
+    "delegation": "China",
+    "kind": "speech",
+    "line": 7,
+    "offset": 0,
+    "speaker": "CHENG PAONAN",
+    "words": "Mr, CHENG PaONAN (China) srid that he wo"
+   },
+   {
+    "delegation": "Philippines",
+    "kind": "speech",
+    "line": 11,
+    "offset": 0,
+    "speaker": "INGLES",
+    "words": "Mr. INGLES (Philippines) withdrew his am"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 15,
+    "offset": 0,
+    "speaker": "",
+    "words": "The CHAIRMAN put to the vote paragraph 1"
+   },
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 17,
+    "offset": 0,
+    "speaker": "",
+    "words": "That amendment was adopted by 7 votes to"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 18,
+    "offset": 0,
+    "speaker": "",
+    "words": "The CHaIRMAN put to the vote paragraph 2"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 21,
+    "offset": 0,
+    "speaker": "",
+    "words": "The CHAIRMAN put to the vote the first p"
+   },
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 28,
+    "offset": 0,
+    "speaker": "",
+    "words": "The first part of paragraph 3 of the rev"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 30,
+    "offset": 0,
+    "speaker": "",
+    "words": "The CHAIRMAN put to the vote paragraph 4"
+   },
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 32,
+    "offset": 0,
+    "speaker": "",
+    "words": "That amendment was adopted by 7 votes to"
+   }
+  ],
+  "junk_lines": [],
+  "lines": 33,
+  "note": "",
+  "page": 11,
+  "saved": "2026-10-16T00:42:37",
+  "starts": [
+   {
+    "delegation": "United Kingdom",
+    "kind": "speech",
+    "line": 3,
+    "offset": 0,
+    "speaker": "HOARE",
+    "words": "Mr, HOARE (United Kingdom) thought it wo"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 5,
+    "offset": 0,
+    "speaker": "",
+    "words": "The CHAIRMAN said he could allow the Chi"
+   },
+   {
+    "delegation": "China",
+    "kind": "speech",
+    "line": 7,
+    "offset": 0,
+    "speaker": "CHENG PAONAN",
+    "words": "Mr, CHENG PaONAN (China) srid that he wo"
+   },
+   {
+    "delegation": "Philippines",
+    "kind": "speech",
+    "line": 11,
+    "offset": 0,
+    "speaker": "INGLES",
+    "words": "Mr. INGLES (Philippines) withdrew his am"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 15,
+    "offset": 0,
+    "speaker": "",
+    "words": "The CHAIRMAN put to the vote paragraph 1"
+   },
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 17,
+    "offset": 0,
+    "speaker": "",
+    "words": "That amendment was adopted by 7 votes to"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 18,
+    "offset": 0,
+    "speaker": "",
+    "words": "The CHaIRMAN put to the vote paragraph 2"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 21,
+    "offset": 0,
+    "speaker": "",
+    "words": "The CHAIRMAN put to the vote the first p"
+   },
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 28,
+    "offset": 0,
+    "speaker": "",
+    "words": "The first part of paragraph 3 of the rev"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 30,
+    "offset": 0,
+    "speaker": "",
+    "words": "The CHAIRMAN put to the vote paragraph 4"
+   },
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 32,
+    "offset": 0,
+    "speaker": "",
+    "words": "That amendment was adopted by 7 votes to"
+   }
+  ],
+  "status": "done",
+  "stratum": "CHR 1949-54",
+  "symbol": "E/CN.4/SR.367"
+ },
+ "E/CN.4/SR.86 p5": {
+  "db_starts": [
+   {
+    "delegation": "Union of Soviet Socialist Republics",
+    "kind": "speech",
+    "line": 1,
+    "offset": 0,
+    "speaker": "PAVLOV",
+    "words": "Mr. PAVLOV (Union of Soviet Socialist Re"
+   }
+  ],
+  "junk_lines": [],
+  "lines": 39,
+  "note": "",
+  "page": 5,
+  "saved": "2026-10-16T00:41:30",
+  "starts": [
+   {
+    "delegation": "Union of Soviet Socialist Republics",
+    "kind": "speech",
+    "line": 1,
+    "offset": 0,
+    "speaker": "Mr. PAVLOV",
+    "words": "Mr. PAVLOV (Union of Soviet Socialist Re"
+   }
+  ],
+  "status": "done",
+  "stratum": "CHR 1949-54",
+  "symbol": "E/CN.4/SR.86"
+ }
+}

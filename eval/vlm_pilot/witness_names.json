@@ -1,0 +1,6056 @@
+{
+ "pages": 60,
+ "names": 133,
+ "hard": 30,
+ "engines": {
+  "layer": {
+   "exact": 91,
+   "missed": 33,
+   "garbled": 9,
+   "exact_share": 0.6842105263157895,
+   "independence": 0.26666666666666666
+  },
+  "tess3": {
+   "garbled": 19,
+   "exact": 102,
+   "missed": 12,
+   "exact_share": 0.7669172932330827,
+   "independence": 0.0
+  },
+  "tess6": {
+   "missed": 46,
+   "garbled": 16,
+   "exact": 71,
+   "exact_share": 0.5338345864661654,
+   "independence": 0.0
+  },
+  "vision": {
+   "exact": 104,
+   "garbled": 13,
+   "missed": 16,
+   "exact_share": 0.7819548872180451,
+   "independence": 0.4
+  },
+  "vote": {
+   "garbled": 13,
+   "exact": 108,
+   "missed": 12,
+   "exact_share": 0.8120300751879699,
+   "independence": 0.2
+  },
+  "chandra": {
+   "exact": 129,
+   "garbled": 4,
+   "exact_share": 0.9699248120300752,
+   "independence": 0.9333333333333333
+  },
+  "doctr": {
+   "exact": 110,
+   "missed": 19,
+   "garbled": 4,
+   "exact_share": 0.8270676691729323,
+   "independence": 0.5666666666666667
+  },
+  "pero": {
+   "exact": 116,
+   "missed": 11,
+   "garbled": 6,
+   "exact_share": 0.8721804511278195,
+   "independence": 0.5666666666666667
+  },
+  "paddle": {
+   "garbled": 8,
+   "exact": 103,
+   "missed": 22,
+   "exact_share": 0.7744360902255639,
+   "independence": 0.4
+  }
+ },
+ "per_name": [
+  {
+   "symbol": "A/C.3/SR.110",
+   "page": 2,
+   "set": "dev1",
+   "name": "AQUINO",
+   "delegation": "Philippines",
+   "read": {
+    "layer": [
+     "exact",
+     "AQUINO"
+    ],
+    "tess3": [
+     "garbled",
+     "Agurno"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "AQUINO"
+    ],
+    "vote": [
+     "garbled",
+     "Agurno"
+    ],
+    "chandra": [
+     "exact",
+     "AQUINO"
+    ],
+    "doctr": [
+     "exact",
+     "AQUINO"
+    ],
+    "pero": [
+     "exact",
+     "AQUINO"
+    ],
+    "paddle": [
+     "garbled",
+     "Agurno"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.110",
+   "page": 2,
+   "set": "dev1",
+   "name": "KALINOWSKA",
+   "delegation": "Poland",
+   "read": {
+    "layer": [
+     "exact",
+     "KALINOWSKA"
+    ],
+    "tess3": [
+     "garbled",
+     "Katinowsxa"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "KALINOWSKA"
+    ],
+    "vote": [
+     "exact",
+     "KALINOWSKA"
+    ],
+    "chandra": [
+     "exact",
+     "KALINOWSKA"
+    ],
+    "doctr": [
+     "exact",
+     "KALINOWSKA"
+    ],
+    "pero": [
+     "exact",
+     "KALINOWSKA"
+    ],
+    "paddle": [
+     "exact",
+     "KALINOWSKA"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.110",
+   "page": 3,
+   "set": "dev1",
+   "name": "HABIB",
+   "delegation": "India",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "garbled",
+     "Hasis"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "HABIB"
+    ],
+    "vote": [
+     "exact",
+     "HABIB"
+    ],
+    "chandra": [
+     "exact",
+     "HABIB"
+    ],
+    "doctr": [
+     "exact",
+     "HABIB"
+    ],
+    "pero": [
+     "exact",
+     "HABIB"
+    ],
+    "paddle": [
+     "exact",
+     "HABIB"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.110",
+   "page": 3,
+   "set": "dev1",
+   "name": "WATT",
+   "delegation": "Australia",
+   "read": {
+    "layer": [
+     "exact",
+     "WATT"
+    ],
+    "tess3": [
+     "garbled",
+     "Wart"
+    ],
+    "tess6": [
+     "garbled",
+     "Wart"
+    ],
+    "vision": [
+     "exact",
+     "WATT"
+    ],
+    "vote": [
+     "exact",
+     "WATT"
+    ],
+    "chandra": [
+     "exact",
+     "WATT"
+    ],
+    "doctr": [
+     "exact",
+     "WATT"
+    ],
+    "pero": [
+     "exact",
+     "WATT"
+    ],
+    "paddle": [
+     "exact",
+     "WATT"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.110",
+   "page": 4,
+   "set": "dev1",
+   "name": "CASSIN",
+   "delegation": "France",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "garbled",
+     "Casstn"
+    ],
+    "tess6": [
+     "garbled",
+     "Casstn"
+    ],
+    "vision": [
+     "exact",
+     "CASSIN"
+    ],
+    "vote": [
+     "garbled",
+     "Casstn"
+    ],
+    "chandra": [
+     "exact",
+     "CASSIN"
+    ],
+    "doctr": [
+     "exact",
+     "CASSIN"
+    ],
+    "pero": [
+     "exact",
+     "CASSIN"
+    ],
+    "paddle": [
+     "garbled",
+     "Casstn"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.110",
+   "page": 4,
+   "set": "dev1",
+   "name": "PLAZA",
+   "delegation": "Venezuela",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "garbled",
+     "Phaza"
+    ],
+    "tess6": [
+     "garbled",
+     "Paza"
+    ],
+    "vision": [
+     "garbled",
+     "PrazA"
+    ],
+    "vote": [
+     "garbled",
+     "Phaza"
+    ],
+    "chandra": [
+     "exact",
+     "PLAZA"
+    ],
+    "doctr": [
+     "exact",
+     "PLAZA"
+    ],
+    "pero": [
+     "exact",
+     "PLAZA"
+    ],
+    "paddle": [
+     "exact",
+     "PLAZA"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.110",
+   "page": 4,
+   "set": "dev1",
+   "name": "RADEVANOVIC",
+   "delegation": "Yugoslavia",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "garbled",
+     "Rapevanovic"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "garbled",
+     "RADErANOVIC"
+    ],
+    "vote": [
+     "garbled",
+     "Rapevanovic"
+    ],
+    "chandra": [
+     "exact",
+     "RADEVANOVIC"
+    ],
+    "doctr": [
+     "exact",
+     "RADEVANOVIC"
+    ],
+    "pero": [
+     "exact",
+     "RADEVANOVIC"
+    ],
+    "paddle": [
+     "garbled",
+     "RapevaNovic"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1177",
+   "page": 4,
+   "set": "gold",
+   "name": "HANDL",
+   "delegation": "Czechoslovakia",
+   "read": {
+    "layer": [
+     "exact",
+     "HANDL"
+    ],
+    "tess3": [
+     "exact",
+     "HANDL"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "HANDL"
+    ],
+    "vote": [
+     "exact",
+     "HANDL"
+    ],
+    "chandra": [
+     "exact",
+     "HANDL"
+    ],
+    "doctr": [
+     "exact",
+     "HANDL"
+    ],
+    "pero": [
+     "exact",
+     "HANDL"
+    ],
+    "paddle": [
+     "exact",
+     "HANDL"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1177",
+   "page": 4,
+   "set": "gold",
+   "name": "MARTINEZ BONILLA",
+   "delegation": "Dominican Republic",
+   "read": {
+    "layer": [
+     "exact",
+     "MARTINEZ BONILLA"
+    ],
+    "tess3": [
+     "exact",
+     "MARTINEZ BONILLA"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "MARTINEZ BONILLA"
+    ],
+    "vote": [
+     "exact",
+     "MARTINEZ BONILLA"
+    ],
+    "chandra": [
+     "exact",
+     "MARTINEZ BONILLA"
+    ],
+    "doctr": [
+     "exact",
+     "MARTINEZ BONILLA"
+    ],
+    "pero": [
+     "exact",
+     "MARTINEZ BONILLA"
+    ],
+    "paddle": [
+     "exact",
+     "MARTINEZ BONILLA"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1177",
+   "page": 4,
+   "set": "gold",
+   "name": "NIKOLAEVA",
+   "delegation": "Union of Soviet Socialist Republics",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "missed",
+     null
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "missed",
+     null
+    ],
+    "vote": [
+     "missed",
+     null
+    ],
+    "chandra": [
+     "exact",
+     "NIKOLAEVA"
+    ],
+    "doctr": [
+     "missed",
+     null
+    ],
+    "pero": [
+     "missed",
+     null
+    ],
+    "paddle": [
+     "missed",
+     null
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1177",
+   "page": 4,
+   "set": "gold",
+   "name": "PESSOU",
+   "delegation": "Dahomey",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "exact",
+     "PESSOU"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "PESSOU"
+    ],
+    "vote": [
+     "exact",
+     "PESSOU"
+    ],
+    "chandra": [
+     "exact",
+     "PESSOU"
+    ],
+    "doctr": [
+     "exact",
+     "PESSOU"
+    ],
+    "pero": [
+     "exact",
+     "PESSOU"
+    ],
+    "paddle": [
+     "exact",
+     "PESSOU"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1177",
+   "page": 4,
+   "set": "gold",
+   "name": "RADIC",
+   "delegation": "Yugoslavia",
+   "read": {
+    "layer": [
+     "exact",
+     "RADIC"
+    ],
+    "tess3": [
+     "exact",
+     "RADIC"
+    ],
+    "tess6": [
+     "exact",
+     "RADIC"
+    ],
+    "vision": [
+     "exact",
+     "RADIC"
+    ],
+    "vote": [
+     "exact",
+     "RADIC"
+    ],
+    "chandra": [
+     "exact",
+     "RADIC"
+    ],
+    "doctr": [
+     "exact",
+     "RADIC"
+    ],
+    "pero": [
+     "exact",
+     "RADIC"
+    ],
+    "paddle": [
+     "exact",
+     "RADIC"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1177",
+   "page": 4,
+   "set": "gold",
+   "name": "YANCY",
+   "delegation": "Liberia",
+   "read": {
+    "layer": [
+     "exact",
+     "YANCY"
+    ],
+    "tess3": [
+     "exact",
+     "YANCY"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "YANCY"
+    ],
+    "vote": [
+     "exact",
+     "YANCY"
+    ],
+    "chandra": [
+     "exact",
+     "YANCY"
+    ],
+    "doctr": [
+     "exact",
+     "YANCY"
+    ],
+    "pero": [
+     "exact",
+     "YANCY"
+    ],
+    "paddle": [
+     "exact",
+     "YANCY"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1262",
+   "page": 1,
+   "set": "gold",
+   "name": "ATAULLAH",
+   "delegation": "Pakistan",
+   "read": {
+    "layer": [
+     "exact",
+     "ATAULLAH"
+    ],
+    "tess3": [
+     "exact",
+     "ATAULLAH"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "ATAULLAH"
+    ],
+    "vote": [
+     "exact",
+     "ATAULLAH"
+    ],
+    "chandra": [
+     "exact",
+     "ATAULLAH"
+    ],
+    "doctr": [
+     "exact",
+     "ATAULLAH"
+    ],
+    "pero": [
+     "exact",
+     "ATAULLAH"
+    ],
+    "paddle": [
+     "exact",
+     "ATAULLAH"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1262",
+   "page": 1,
+   "set": "gold",
+   "name": "BEAUFORT",
+   "delegation": "Netherlands",
+   "read": {
+    "layer": [
+     "exact",
+     "BEAUFORT"
+    ],
+    "tess3": [
+     "exact",
+     "BEAUFORT"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "BEAUFORT"
+    ],
+    "vote": [
+     "exact",
+     "BEAUFORT"
+    ],
+    "chandra": [
+     "exact",
+     "BEAUFORT"
+    ],
+    "doctr": [
+     "exact",
+     "BEAUFORT"
+    ],
+    "pero": [
+     "exact",
+     "BEAUFORT"
+    ],
+    "paddle": [
+     "exact",
+     "BEAUFORT"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1262",
+   "page": 1,
+   "set": "gold",
+   "name": "MYAT TUN",
+   "delegation": "Burma",
+   "read": {
+    "layer": [
+     "exact",
+     "MYAT TUN"
+    ],
+    "tess3": [
+     "exact",
+     "MYAT TUN"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "MYAT TUN"
+    ],
+    "vote": [
+     "exact",
+     "MYAT TUN"
+    ],
+    "chandra": [
+     "exact",
+     "MYAT TUN"
+    ],
+    "doctr": [
+     "exact",
+     "MYAT TUN"
+    ],
+    "pero": [
+     "exact",
+     "MYAT TUN"
+    ],
+    "paddle": [
+     "exact",
+     "MYAT TUN"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1262",
+   "page": 2,
+   "set": "gold",
+   "name": "BAROODY",
+   "delegation": "Saudi Arabia",
+   "read": {
+    "layer": [
+     "exact",
+     "BAROODY"
+    ],
+    "tess3": [
+     "exact",
+     "BAROODY"
+    ],
+    "tess6": [
+     "exact",
+     "BAROODY"
+    ],
+    "vision": [
+     "exact",
+     "BAROODY"
+    ],
+    "vote": [
+     "exact",
+     "BAROODY"
+    ],
+    "chandra": [
+     "exact",
+     "BAROODY"
+    ],
+    "doctr": [
+     "exact",
+     "BAROODY"
+    ],
+    "pero": [
+     "exact",
+     "BAROODY"
+    ],
+    "paddle": [
+     "exact",
+     "BAROODY"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1262",
+   "page": 2,
+   "set": "gold",
+   "name": "BELAUNDE",
+   "delegation": "Peru",
+   "read": {
+    "layer": [
+     "exact",
+     "BELAUNDE"
+    ],
+    "tess3": [
+     "exact",
+     "BELAUNDE"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "BELAUNDE"
+    ],
+    "vote": [
+     "exact",
+     "BELAUNDE"
+    ],
+    "chandra": [
+     "exact",
+     "BELAUNDE"
+    ],
+    "doctr": [
+     "exact",
+     "BELAUNDE"
+    ],
+    "pero": [
+     "exact",
+     "BELAUNDE"
+    ],
+    "paddle": [
+     "exact",
+     "BELAUNDE"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1262",
+   "page": 2,
+   "set": "gold",
+   "name": "DAYRELL DE LIMA",
+   "delegation": "Brazil",
+   "read": {
+    "layer": [
+     "exact",
+     "DAYRELL DE LIMA"
+    ],
+    "tess3": [
+     "exact",
+     "DAYRELL DE LIMA"
+    ],
+    "tess6": [
+     "exact",
+     "DAYRELL DE LIMA"
+    ],
+    "vision": [
+     "exact",
+     "DAYRELL DE LIMA"
+    ],
+    "vote": [
+     "exact",
+     "DAYRELL DE LIMA"
+    ],
+    "chandra": [
+     "exact",
+     "DAYRELL DE LIMA"
+    ],
+    "doctr": [
+     "exact",
+     "DAYRELL DE LIMA"
+    ],
+    "pero": [
+     "exact",
+     "DAYRELL DE LIMA"
+    ],
+    "paddle": [
+     "exact",
+     "DAYRELL DE LIMA"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1262",
+   "page": 2,
+   "set": "gold",
+   "name": "DELGADO",
+   "delegation": "Senegal",
+   "read": {
+    "layer": [
+     "exact",
+     "DELGADO"
+    ],
+    "tess3": [
+     "exact",
+     "DELGADO"
+    ],
+    "tess6": [
+     "exact",
+     "DELGADO"
+    ],
+    "vision": [
+     "exact",
+     "DELGADO"
+    ],
+    "vote": [
+     "exact",
+     "DELGADO"
+    ],
+    "chandra": [
+     "exact",
+     "DELGADO"
+    ],
+    "doctr": [
+     "exact",
+     "DELGADO"
+    ],
+    "pero": [
+     "exact",
+     "DELGADO"
+    ],
+    "paddle": [
+     "exact",
+     "DELGADO"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1262",
+   "page": 2,
+   "set": "gold",
+   "name": "HAMID",
+   "delegation": "Sudan",
+   "read": {
+    "layer": [
+     "exact",
+     "HAMID"
+    ],
+    "tess3": [
+     "exact",
+     "HAMID"
+    ],
+    "tess6": [
+     "exact",
+     "HAMID"
+    ],
+    "vision": [
+     "exact",
+     "HAMID"
+    ],
+    "vote": [
+     "exact",
+     "HAMID"
+    ],
+    "chandra": [
+     "exact",
+     "HAMID"
+    ],
+    "doctr": [
+     "exact",
+     "HAMID"
+    ],
+    "pero": [
+     "exact",
+     "HAMID"
+    ],
+    "paddle": [
+     "exact",
+     "HAMID"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1262",
+   "page": 2,
+   "set": "gold",
+   "name": "WACHUKU",
+   "delegation": "Nigeria",
+   "read": {
+    "layer": [
+     "exact",
+     "WACHUKU"
+    ],
+    "tess3": [
+     "exact",
+     "WACHUKU"
+    ],
+    "tess6": [
+     "exact",
+     "WACHUKU"
+    ],
+    "vision": [
+     "exact",
+     "WACHUKU"
+    ],
+    "vote": [
+     "exact",
+     "WACHUKU"
+    ],
+    "chandra": [
+     "exact",
+     "WACHUKU"
+    ],
+    "doctr": [
+     "exact",
+     "WACHUKU"
+    ],
+    "pero": [
+     "exact",
+     "WACHUKU"
+    ],
+    "paddle": [
+     "exact",
+     "WACHUKU"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1267",
+   "page": 5,
+   "set": "gold",
+   "name": "ATTLEE",
+   "delegation": "United Kingdom",
+   "read": {
+    "layer": [
+     "exact",
+     "ATTLEE"
+    ],
+    "tess3": [
+     "exact",
+     "ATTLEE"
+    ],
+    "tess6": [
+     "exact",
+     "ATTLEE"
+    ],
+    "vision": [
+     "exact",
+     "ATTLEE"
+    ],
+    "vote": [
+     "exact",
+     "ATTLEE"
+    ],
+    "chandra": [
+     "exact",
+     "ATTLEE"
+    ],
+    "doctr": [
+     "exact",
+     "ATTLEE"
+    ],
+    "pero": [
+     "exact",
+     "ATTLEE"
+    ],
+    "paddle": [
+     "exact",
+     "ATTLEE"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1267",
+   "page": 5,
+   "set": "gold",
+   "name": "BECK",
+   "delegation": "Hungary",
+   "read": {
+    "layer": [
+     "exact",
+     "BECK"
+    ],
+    "tess3": [
+     "exact",
+     "BECK"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "BECK"
+    ],
+    "vote": [
+     "exact",
+     "BECK"
+    ],
+    "chandra": [
+     "exact",
+     "BECK"
+    ],
+    "doctr": [
+     "exact",
+     "BECK"
+    ],
+    "pero": [
+     "exact",
+     "BECK"
+    ],
+    "paddle": [
+     "exact",
+     "BECK"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1267",
+   "page": 5,
+   "set": "gold",
+   "name": "MOHAMED",
+   "delegation": "Somalia",
+   "read": {
+    "layer": [
+     "exact",
+     "MOHAMED"
+    ],
+    "tess3": [
+     "exact",
+     "MOHAMED"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "MOHAMED"
+    ],
+    "vote": [
+     "exact",
+     "MOHAMED"
+    ],
+    "chandra": [
+     "exact",
+     "MOHAMED"
+    ],
+    "doctr": [
+     "exact",
+     "MOHAMED"
+    ],
+    "pero": [
+     "exact",
+     "MOHAMED"
+    ],
+    "paddle": [
+     "exact",
+     "MOHAMED"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1267",
+   "page": 5,
+   "set": "gold",
+   "name": "OSTROVSKY",
+   "delegation": "Union of Soviet Socialist Republics",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "missed",
+     null
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "missed",
+     null
+    ],
+    "vote": [
+     "missed",
+     null
+    ],
+    "chandra": [
+     "exact",
+     "OSTROVSKY"
+    ],
+    "doctr": [
+     "missed",
+     null
+    ],
+    "pero": [
+     "missed",
+     null
+    ],
+    "paddle": [
+     "missed",
+     null
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1344",
+   "page": 8,
+   "set": "gold",
+   "name": "BAROODY",
+   "delegation": "Saudi Arabia",
+   "read": {
+    "layer": [
+     "exact",
+     "BAROODY"
+    ],
+    "tess3": [
+     "exact",
+     "BAROODY"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "BAROODY"
+    ],
+    "vote": [
+     "exact",
+     "BAROODY"
+    ],
+    "chandra": [
+     "exact",
+     "BAROODY"
+    ],
+    "doctr": [
+     "exact",
+     "BAROODY"
+    ],
+    "pero": [
+     "exact",
+     "BAROODY"
+    ],
+    "paddle": [
+     "exact",
+     "BAROODY"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1344",
+   "page": 8,
+   "set": "gold",
+   "name": "CHKHIKVADZE",
+   "delegation": "Union of Soviet Socialist Republics",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "missed",
+     null
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "missed",
+     null
+    ],
+    "vote": [
+     "missed",
+     null
+    ],
+    "chandra": [
+     "exact",
+     "CHKHIKVADZE"
+    ],
+    "doctr": [
+     "missed",
+     null
+    ],
+    "pero": [
+     "missed",
+     null
+    ],
+    "paddle": [
+     "missed",
+     null
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1372",
+   "page": 4,
+   "set": "gold",
+   "name": "ABDEL-HAMID",
+   "delegation": "United Arab Republic",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "exact",
+     "ABDEL-HAMID"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "ABDEL-HAMID"
+    ],
+    "vote": [
+     "exact",
+     "ABDEL-HAMID"
+    ],
+    "chandra": [
+     "exact",
+     "ABDEL-HAMID"
+    ],
+    "doctr": [
+     "exact",
+     "ABDEL-HAMID"
+    ],
+    "pero": [
+     "exact",
+     "ABDEL-HAMID"
+    ],
+    "paddle": [
+     "exact",
+     "ABDEL-HAMID"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1372",
+   "page": 4,
+   "set": "gold",
+   "name": "ADDISON",
+   "delegation": "Ghana",
+   "read": {
+    "layer": [
+     "exact",
+     "ADDISON"
+    ],
+    "tess3": [
+     "exact",
+     "ADDISON"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "ADDISON"
+    ],
+    "vote": [
+     "exact",
+     "ADDISON"
+    ],
+    "chandra": [
+     "exact",
+     "ADDISON"
+    ],
+    "doctr": [
+     "exact",
+     "ADDISON"
+    ],
+    "pero": [
+     "exact",
+     "ADDISON"
+    ],
+    "paddle": [
+     "exact",
+     "ADDISON"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1372",
+   "page": 4,
+   "set": "gold",
+   "name": "BOULLET",
+   "delegation": "France",
+   "read": {
+    "layer": [
+     "exact",
+     "BOULLET"
+    ],
+    "tess3": [
+     "exact",
+     "BOULLET"
+    ],
+    "tess6": [
+     "exact",
+     "BOULLET"
+    ],
+    "vision": [
+     "exact",
+     "BOULLET"
+    ],
+    "vote": [
+     "exact",
+     "BOULLET"
+    ],
+    "chandra": [
+     "exact",
+     "BOULLET"
+    ],
+    "doctr": [
+     "exact",
+     "BOULLET"
+    ],
+    "pero": [
+     "exact",
+     "BOULLET"
+    ],
+    "paddle": [
+     "exact",
+     "BOULLET"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1372",
+   "page": 4,
+   "set": "gold",
+   "name": "KOCHMAN",
+   "delegation": "Mauritania",
+   "read": {
+    "layer": [
+     "exact",
+     "KOCHMAN"
+    ],
+    "tess3": [
+     "exact",
+     "KOCHMAN"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "KOCHMAN"
+    ],
+    "vote": [
+     "exact",
+     "KOCHMAN"
+    ],
+    "chandra": [
+     "exact",
+     "KOCHMAN"
+    ],
+    "doctr": [
+     "exact",
+     "KOCHMAN"
+    ],
+    "pero": [
+     "exact",
+     "KOCHMAN"
+    ],
+    "paddle": [
+     "exact",
+     "KOCHMAN"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1372",
+   "page": 4,
+   "set": "gold",
+   "name": "MANTZOULINOS",
+   "delegation": "Greece",
+   "read": {
+    "layer": [
+     "exact",
+     "MANTZOULINOS"
+    ],
+    "tess3": [
+     "exact",
+     "MANTZOULINOS"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "MANTZOULINOS"
+    ],
+    "vote": [
+     "exact",
+     "MANTZOULINOS"
+    ],
+    "chandra": [
+     "exact",
+     "MANTZOULINOS"
+    ],
+    "doctr": [
+     "exact",
+     "MANTZOULINOS"
+    ],
+    "pero": [
+     "exact",
+     "MANTZOULINOS"
+    ],
+    "paddle": [
+     "exact",
+     "MANTZOULINOS"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1372",
+   "page": 4,
+   "set": "gold",
+   "name": "MIRONOVA",
+   "delegation": "Union of Soviet Socialist Republics",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "missed",
+     null
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "missed",
+     null
+    ],
+    "vote": [
+     "missed",
+     null
+    ],
+    "chandra": [
+     "exact",
+     "MIRONOVA"
+    ],
+    "doctr": [
+     "missed",
+     null
+    ],
+    "pero": [
+     "missed",
+     null
+    ],
+    "paddle": [
+     "missed",
+     null
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1372",
+   "page": 4,
+   "set": "gold",
+   "name": "REDONDO",
+   "delegation": "Costa Rica",
+   "read": {
+    "layer": [
+     "exact",
+     "REDONDO"
+    ],
+    "tess3": [
+     "exact",
+     "REDONDO"
+    ],
+    "tess6": [
+     "exact",
+     "REDONDO"
+    ],
+    "vision": [
+     "exact",
+     "REDONDO"
+    ],
+    "vote": [
+     "exact",
+     "REDONDO"
+    ],
+    "chandra": [
+     "exact",
+     "REDONDO"
+    ],
+    "doctr": [
+     "exact",
+     "REDONDO"
+    ],
+    "pero": [
+     "exact",
+     "REDONDO"
+    ],
+    "paddle": [
+     "exact",
+     "REDONDO"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1372",
+   "page": 4,
+   "set": "gold",
+   "name": "RIOS",
+   "delegation": "Panama",
+   "read": {
+    "layer": [
+     "exact",
+     "RIOS"
+    ],
+    "tess3": [
+     "exact",
+     "RIOS"
+    ],
+    "tess6": [
+     "exact",
+     "RIOS"
+    ],
+    "vision": [
+     "exact",
+     "RIOS"
+    ],
+    "vote": [
+     "exact",
+     "RIOS"
+    ],
+    "chandra": [
+     "exact",
+     "RIOS"
+    ],
+    "doctr": [
+     "exact",
+     "RIOS"
+    ],
+    "pero": [
+     "exact",
+     "RIOS"
+    ],
+    "paddle": [
+     "exact",
+     "RIOS"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1372",
+   "page": 4,
+   "set": "gold",
+   "name": "SAKSENA",
+   "delegation": "India",
+   "read": {
+    "layer": [
+     "exact",
+     "SAKSENA"
+    ],
+    "tess3": [
+     "exact",
+     "SAKSENA"
+    ],
+    "tess6": [
+     "exact",
+     "SAKSENA"
+    ],
+    "vision": [
+     "exact",
+     "SAKSENA"
+    ],
+    "vote": [
+     "exact",
+     "SAKSENA"
+    ],
+    "chandra": [
+     "exact",
+     "SAKSENA"
+    ],
+    "doctr": [
+     "exact",
+     "SAKSENA"
+    ],
+    "pero": [
+     "exact",
+     "SAKSENA"
+    ],
+    "paddle": [
+     "exact",
+     "SAKSENA"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.1459",
+   "page": 3,
+   "set": "gold",
+   "name": "MACDONALD",
+   "delegation": "Canada",
+   "read": {
+    "layer": [
+     "exact",
+     "MACDONALD"
+    ],
+    "tess3": [
+     "exact",
+     "MACDONALD"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "MACDONALD"
+    ],
+    "vote": [
+     "exact",
+     "MACDONALD"
+    ],
+    "chandra": [
+     "exact",
+     "MACDONALD"
+    ],
+    "doctr": [
+     "exact",
+     "MACDONALD"
+    ],
+    "pero": [
+     "exact",
+     "MACDONALD"
+    ],
+    "paddle": [
+     "exact",
+     "MACDONALD"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.162",
+   "page": 5,
+   "set": "gold",
+   "name": "DEMCHENKO",
+   "delegation": "Ukrainian Soviet Socialist Republic",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "missed",
+     null
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "missed",
+     null
+    ],
+    "vote": [
+     "missed",
+     null
+    ],
+    "chandra": [
+     "exact",
+     "DEMCHENKO"
+    ],
+    "doctr": [
+     "missed",
+     null
+    ],
+    "pero": [
+     "missed",
+     null
+    ],
+    "paddle": [
+     "missed",
+     null
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.289",
+   "page": 1,
+   "set": "gold",
+   "name": "AZKOUL",
+   "delegation": "Lebanon",
+   "read": {
+    "layer": [
+     "exact",
+     "AZKOUL"
+    ],
+    "tess3": [
+     "exact",
+     "AZKOUL"
+    ],
+    "tess6": [
+     "exact",
+     "AZKOUL"
+    ],
+    "vision": [
+     "exact",
+     "AZKOUL"
+    ],
+    "vote": [
+     "exact",
+     "AZKOUL"
+    ],
+    "chandra": [
+     "exact",
+     "AZKOUL"
+    ],
+    "doctr": [
+     "exact",
+     "AZKOUL"
+    ],
+    "pero": [
+     "exact",
+     "AZKOUL"
+    ],
+    "paddle": [
+     "exact",
+     "AZKOUL"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.311",
+   "page": 3,
+   "set": "gold",
+   "name": "CAÑAS FLORES",
+   "delegation": "Chile",
+   "read": {
+    "layer": [
+     "exact",
+     "CAÑAS FLORES"
+    ],
+    "tess3": [
+     "exact",
+     "CAÑAS FLORES"
+    ],
+    "tess6": [
+     "exact",
+     "CAÑAS FLORES"
+    ],
+    "vision": [
+     "exact",
+     "CAÑAS FLORES"
+    ],
+    "vote": [
+     "exact",
+     "CAÑAS FLORES"
+    ],
+    "chandra": [
+     "exact",
+     "CAÑAS FLORES"
+    ],
+    "doctr": [
+     "exact",
+     "CAÑAS FLORES"
+    ],
+    "pero": [
+     "exact",
+     "CAÑAS FLORES"
+    ],
+    "paddle": [
+     "exact",
+     "CAÑAS FLORES"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.311",
+   "page": 3,
+   "set": "gold",
+   "name": "NORIEGA",
+   "delegation": "Mexico",
+   "read": {
+    "layer": [
+     "exact",
+     "NORIEGA"
+    ],
+    "tess3": [
+     "exact",
+     "NORIEGA"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "NORIEGA"
+    ],
+    "vote": [
+     "exact",
+     "NORIEGA"
+    ],
+    "chandra": [
+     "exact",
+     "NORIEGA"
+    ],
+    "doctr": [
+     "exact",
+     "NORIEGA"
+    ],
+    "pero": [
+     "exact",
+     "NORIEGA"
+    ],
+    "paddle": [
+     "exact",
+     "NORIEGA"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.322",
+   "page": 2,
+   "set": "gold",
+   "name": "CASSIMATIS",
+   "delegation": "Greece",
+   "read": {
+    "layer": [
+     "exact",
+     "CASSIMATIS"
+    ],
+    "tess3": [
+     "exact",
+     "CASSIMATIS"
+    ],
+    "tess6": [
+     "exact",
+     "CASSIMATIS"
+    ],
+    "vision": [
+     "exact",
+     "CASSIMATIS"
+    ],
+    "vote": [
+     "exact",
+     "CASSIMATIS"
+    ],
+    "chandra": [
+     "exact",
+     "CASSIMATIS"
+    ],
+    "doctr": [
+     "exact",
+     "CASSIMATIS"
+    ],
+    "pero": [
+     "exact",
+     "CASSIMATIS"
+    ],
+    "paddle": [
+     "exact",
+     "CASSIMATIS"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.322",
+   "page": 2,
+   "set": "gold",
+   "name": "DAVIN",
+   "delegation": "New Zealand",
+   "read": {
+    "layer": [
+     "exact",
+     "DAVIN"
+    ],
+    "tess3": [
+     "exact",
+     "DAVIN"
+    ],
+    "tess6": [
+     "exact",
+     "DAVIN"
+    ],
+    "vision": [
+     "missed",
+     null
+    ],
+    "vote": [
+     "exact",
+     "DAVIN"
+    ],
+    "chandra": [
+     "exact",
+     "DAVIN"
+    ],
+    "doctr": [
+     "exact",
+     "DAVIN"
+    ],
+    "pero": [
+     "exact",
+     "DAVIN"
+    ],
+    "paddle": [
+     "exact",
+     "DAVIN"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.322",
+   "page": 2,
+   "set": "gold",
+   "name": "MANTILLA",
+   "delegation": "Ecuador",
+   "read": {
+    "layer": [
+     "exact",
+     "MANTILLA"
+    ],
+    "tess3": [
+     "exact",
+     "MANTILLA"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "MANTILLA"
+    ],
+    "vote": [
+     "exact",
+     "MANTILLA"
+    ],
+    "chandra": [
+     "exact",
+     "MANTILLA"
+    ],
+    "doctr": [
+     "exact",
+     "MANTILLA"
+    ],
+    "pero": [
+     "exact",
+     "MANTILLA"
+    ],
+    "paddle": [
+     "exact",
+     "MANTILLA"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.322",
+   "page": 2,
+   "set": "gold",
+   "name": "MENON",
+   "delegation": "India",
+   "read": {
+    "layer": [
+     "exact",
+     "MENON"
+    ],
+    "tess3": [
+     "exact",
+     "MENON"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "MENON"
+    ],
+    "vote": [
+     "exact",
+     "MENON"
+    ],
+    "chandra": [
+     "exact",
+     "MENON"
+    ],
+    "doctr": [
+     "exact",
+     "MENON"
+    ],
+    "pero": [
+     "exact",
+     "MENON"
+    ],
+    "paddle": [
+     "exact",
+     "MENON"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.530",
+   "page": 1,
+   "set": "gold",
+   "name": "SAKSIN",
+   "delegation": "Union of Soviet Socialist Republics",
+   "read": {
+    "layer": [
+     "exact",
+     "SAKSIN"
+    ],
+    "tess3": [
+     "exact",
+     "SAKSIN"
+    ],
+    "tess6": [
+     "exact",
+     "SAKSIN"
+    ],
+    "vision": [
+     "exact",
+     "SAKSIN"
+    ],
+    "vote": [
+     "exact",
+     "SAKSIN"
+    ],
+    "chandra": [
+     "exact",
+     "SAKSIN"
+    ],
+    "doctr": [
+     "exact",
+     "SAKSIN"
+    ],
+    "pero": [
+     "exact",
+     "SAKSIN"
+    ],
+    "paddle": [
+     "exact",
+     "SAKSIN"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.694",
+   "page": 6,
+   "set": "gold",
+   "name": "BERNARDINO",
+   "delegation": "Dominican Republic",
+   "read": {
+    "layer": [
+     "exact",
+     "BERNARDINO"
+    ],
+    "tess3": [
+     "exact",
+     "BERNARDINO"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "BERNARDINO"
+    ],
+    "vote": [
+     "exact",
+     "BERNARDINO"
+    ],
+    "chandra": [
+     "exact",
+     "BERNARDINO"
+    ],
+    "doctr": [
+     "missed",
+     null
+    ],
+    "pero": [
+     "exact",
+     "BERNARDINO"
+    ],
+    "paddle": [
+     "missed",
+     null
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.694",
+   "page": 6,
+   "set": "gold",
+   "name": "BRUUN",
+   "delegation": "Denmark",
+   "read": {
+    "layer": [
+     "exact",
+     "BRUUN"
+    ],
+    "tess3": [
+     "exact",
+     "BRUUN"
+    ],
+    "tess6": [
+     "exact",
+     "BRUUN"
+    ],
+    "vision": [
+     "exact",
+     "BRUUN"
+    ],
+    "vote": [
+     "exact",
+     "BRUUN"
+    ],
+    "chandra": [
+     "exact",
+     "BRUUN"
+    ],
+    "doctr": [
+     "exact",
+     "BRUUN"
+    ],
+    "pero": [
+     "exact",
+     "BRUUN"
+    ],
+    "paddle": [
+     "exact",
+     "BRUUN"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.694",
+   "page": 6,
+   "set": "gold",
+   "name": "CHENG",
+   "delegation": "China",
+   "read": {
+    "layer": [
+     "exact",
+     "CHENG"
+    ],
+    "tess3": [
+     "exact",
+     "CHENG"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "CHENG"
+    ],
+    "vote": [
+     "exact",
+     "CHENG"
+    ],
+    "chandra": [
+     "exact",
+     "CHENG"
+    ],
+    "doctr": [
+     "missed",
+     null
+    ],
+    "pero": [
+     "exact",
+     "CHENG"
+    ],
+    "paddle": [
+     "missed",
+     null
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.694",
+   "page": 6,
+   "set": "gold",
+   "name": "MASSOUD-ANSARI",
+   "delegation": "Iran",
+   "read": {
+    "layer": [
+     "exact",
+     "MASSOUD-ANSARI"
+    ],
+    "tess3": [
+     "exact",
+     "MASSOUD-ANSARI"
+    ],
+    "tess6": [
+     "exact",
+     "MASSOUD-ANSARI"
+    ],
+    "vision": [
+     "exact",
+     "MASSOUD-ANSARI"
+    ],
+    "vote": [
+     "exact",
+     "MASSOUD-ANSARI"
+    ],
+    "chandra": [
+     "exact",
+     "MASSOUD-ANSARI"
+    ],
+    "doctr": [
+     "exact",
+     "MASSOUD-ANSARI"
+    ],
+    "pero": [
+     "exact",
+     "MASSOUD-ANSARI"
+    ],
+    "paddle": [
+     "exact",
+     "MASSOUD-ANSARI"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.694",
+   "page": 6,
+   "set": "gold",
+   "name": "MUFTI",
+   "delegation": "Syria",
+   "read": {
+    "layer": [
+     "exact",
+     "MUFTI"
+    ],
+    "tess3": [
+     "exact",
+     "MUFTI"
+    ],
+    "tess6": [
+     "exact",
+     "MUFTI"
+    ],
+    "vision": [
+     "exact",
+     "MUFTI"
+    ],
+    "vote": [
+     "exact",
+     "MUFTI"
+    ],
+    "chandra": [
+     "exact",
+     "MUFTI"
+    ],
+    "doctr": [
+     "exact",
+     "MUFTI"
+    ],
+    "pero": [
+     "exact",
+     "MUFTI"
+    ],
+    "paddle": [
+     "exact",
+     "MUFTI"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.694",
+   "page": 6,
+   "set": "gold",
+   "name": "SAMY",
+   "delegation": "Egypt",
+   "read": {
+    "layer": [
+     "exact",
+     "SAMY"
+    ],
+    "tess3": [
+     "exact",
+     "SAMY"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "SAMY"
+    ],
+    "vote": [
+     "exact",
+     "SAMY"
+    ],
+    "chandra": [
+     "exact",
+     "SAMY"
+    ],
+    "doctr": [
+     "missed",
+     null
+    ],
+    "pero": [
+     "exact",
+     "SAMY"
+    ],
+    "paddle": [
+     "missed",
+     null
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.815",
+   "page": 2,
+   "set": "gold",
+   "name": "ALDUNATE",
+   "delegation": "Chile",
+   "read": {
+    "layer": [
+     "exact",
+     "ALDUNATE"
+    ],
+    "tess3": [
+     "exact",
+     "ALDUNATE"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "ALDUNATE"
+    ],
+    "vote": [
+     "exact",
+     "ALDUNATE"
+    ],
+    "chandra": [
+     "exact",
+     "ALDUNATE"
+    ],
+    "doctr": [
+     "missed",
+     null
+    ],
+    "pero": [
+     "exact",
+     "ALDUNATE"
+    ],
+    "paddle": [
+     "missed",
+     null
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.815",
+   "page": 2,
+   "set": "gold",
+   "name": "WOLTE",
+   "delegation": "Austria",
+   "read": {
+    "layer": [
+     "exact",
+     "WOLTE"
+    ],
+    "tess3": [
+     "exact",
+     "WOLTE"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "WOLTE"
+    ],
+    "vote": [
+     "exact",
+     "WOLTE"
+    ],
+    "chandra": [
+     "exact",
+     "WOLTE"
+    ],
+    "doctr": [
+     "missed",
+     null
+    ],
+    "pero": [
+     "exact",
+     "WOLTE"
+    ],
+    "paddle": [
+     "missed",
+     null
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.851",
+   "page": 1,
+   "set": "gold",
+   "name": "BERNARDINO",
+   "delegation": "Dominican Republic",
+   "read": {
+    "layer": [
+     "exact",
+     "BERNARDINO"
+    ],
+    "tess3": [
+     "exact",
+     "BERNARDINO"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "BERNARDINO"
+    ],
+    "vote": [
+     "exact",
+     "BERNARDINO"
+    ],
+    "chandra": [
+     "exact",
+     "BERNARDINO"
+    ],
+    "doctr": [
+     "missed",
+     null
+    ],
+    "pero": [
+     "exact",
+     "BERNARDINO"
+    ],
+    "paddle": [
+     "missed",
+     null
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.851",
+   "page": 1,
+   "set": "gold",
+   "name": "BRILLANTES",
+   "delegation": "Philippines",
+   "read": {
+    "layer": [
+     "exact",
+     "BRILLANTES"
+    ],
+    "tess3": [
+     "exact",
+     "BRILLANTES"
+    ],
+    "tess6": [
+     "exact",
+     "BRILLANTES"
+    ],
+    "vision": [
+     "exact",
+     "BRILLANTES"
+    ],
+    "vote": [
+     "exact",
+     "BRILLANTES"
+    ],
+    "chandra": [
+     "exact",
+     "BRILLANTES"
+    ],
+    "doctr": [
+     "exact",
+     "BRILLANTES"
+    ],
+    "pero": [
+     "exact",
+     "BRILLANTES"
+    ],
+    "paddle": [
+     "exact",
+     "BRILLANTES"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.851",
+   "page": 1,
+   "set": "gold",
+   "name": "DE ARENAS",
+   "delegation": "Guatemala",
+   "read": {
+    "layer": [
+     "exact",
+     "DE ARENAS"
+    ],
+    "tess3": [
+     "exact",
+     "DE ARENAS"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "DE ARENAS"
+    ],
+    "vote": [
+     "exact",
+     "DE ARENAS"
+    ],
+    "chandra": [
+     "exact",
+     "DE ARENAS"
+    ],
+    "doctr": [
+     "missed",
+     null
+    ],
+    "pero": [
+     "exact",
+     "DE ARENAS"
+    ],
+    "paddle": [
+     "missed",
+     null
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.851",
+   "page": 1,
+   "set": "gold",
+   "name": "DEHLAVI",
+   "delegation": "Pakistan",
+   "read": {
+    "layer": [
+     "exact",
+     "DEHLAVI"
+    ],
+    "tess3": [
+     "exact",
+     "DEHLAVI"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "DEHLAVI"
+    ],
+    "vote": [
+     "exact",
+     "DEHLAVI"
+    ],
+    "chandra": [
+     "exact",
+     "DEHLAVI"
+    ],
+    "doctr": [
+     "missed",
+     null
+    ],
+    "pero": [
+     "exact",
+     "DEHLAVI"
+    ],
+    "paddle": [
+     "missed",
+     null
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.851",
+   "page": 1,
+   "set": "gold",
+   "name": "MOROZOV",
+   "delegation": "Union of Soviet Socialist Republics",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "missed",
+     null
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "missed",
+     null
+    ],
+    "vote": [
+     "missed",
+     null
+    ],
+    "chandra": [
+     "exact",
+     "MOROZOV"
+    ],
+    "doctr": [
+     "missed",
+     null
+    ],
+    "pero": [
+     "missed",
+     null
+    ],
+    "paddle": [
+     "missed",
+     null
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.91",
+   "page": 3,
+   "set": "gold",
+   "name": "CHANG",
+   "delegation": "China",
+   "read": {
+    "layer": [
+     "exact",
+     "CHANG"
+    ],
+    "tess3": [
+     "garbled",
+     "Cuanc"
+    ],
+    "tess6": [
+     "garbled",
+     "Canc"
+    ],
+    "vision": [
+     "exact",
+     "CHANG"
+    ],
+    "vote": [
+     "exact",
+     "CHANG"
+    ],
+    "chandra": [
+     "exact",
+     "CHANG"
+    ],
+    "doctr": [
+     "exact",
+     "CHANG"
+    ],
+    "pero": [
+     "exact",
+     "CHANG"
+    ],
+    "paddle": [
+     "exact",
+     "CHANG"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.91",
+   "page": 3,
+   "set": "gold",
+   "name": "RAU",
+   "delegation": "India",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "exact",
+     "RAU"
+    ],
+    "tess6": [
+     "exact",
+     "RAU"
+    ],
+    "vision": [
+     "exact",
+     "RAU"
+    ],
+    "vote": [
+     "exact",
+     "RAU"
+    ],
+    "chandra": [
+     "exact",
+     "RAU"
+    ],
+    "doctr": [
+     "exact",
+     "RAU"
+    ],
+    "pero": [
+     "exact",
+     "RAU"
+    ],
+    "paddle": [
+     "exact",
+     "RAU"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.95",
+   "page": 10,
+   "set": "gold",
+   "name": "DEDIJER",
+   "delegation": "Yugoslavia",
+   "read": {
+    "layer": [
+     "exact",
+     "DEDIJER"
+    ],
+    "tess3": [
+     "garbled",
+     "Depiyer"
+    ],
+    "tess6": [
+     "garbled",
+     "Depiyer"
+    ],
+    "vision": [
+     "exact",
+     "DEDIJER"
+    ],
+    "vote": [
+     "exact",
+     "DEDIJER"
+    ],
+    "chandra": [
+     "exact",
+     "DEDIJER"
+    ],
+    "doctr": [
+     "exact",
+     "DEDIJER"
+    ],
+    "pero": [
+     "exact",
+     "DEDIJER"
+    ],
+    "paddle": [
+     "exact",
+     "DEDIJER"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.95",
+   "page": 10,
+   "set": "gold",
+   "name": "SANTA CRUZ",
+   "delegation": "Chile",
+   "read": {
+    "layer": [
+     "exact",
+     "SANTA CRUZ"
+    ],
+    "tess3": [
+     "exact",
+     "SANTA CRUZ"
+    ],
+    "tess6": [
+     "exact",
+     "SANTA CRUZ"
+    ],
+    "vision": [
+     "exact",
+     "SANTA CRUZ"
+    ],
+    "vote": [
+     "exact",
+     "SANTA CRUZ"
+    ],
+    "chandra": [
+     "exact",
+     "SANTA CRUZ"
+    ],
+    "doctr": [
+     "exact",
+     "SANTA CRUZ"
+    ],
+    "pero": [
+     "exact",
+     "SANTA CRUZ"
+    ],
+    "paddle": [
+     "exact",
+     "SANTA CRUZ"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.955",
+   "page": 1,
+   "set": "gold",
+   "name": "COLUCCI",
+   "delegation": "Italy",
+   "read": {
+    "layer": [
+     "exact",
+     "COLUCCI"
+    ],
+    "tess3": [
+     "exact",
+     "COLUCCI"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "COLUCCI"
+    ],
+    "vote": [
+     "exact",
+     "COLUCCI"
+    ],
+    "chandra": [
+     "exact",
+     "COLUCCI"
+    ],
+    "doctr": [
+     "exact",
+     "COLUCCI"
+    ],
+    "pero": [
+     "exact",
+     "COLUCCI"
+    ],
+    "paddle": [
+     "exact",
+     "COLUCCI"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.955",
+   "page": 1,
+   "set": "gold",
+   "name": "CUEVAS CANCINO",
+   "delegation": "Mexico",
+   "read": {
+    "layer": [
+     "exact",
+     "CUEVAS CANCINO"
+    ],
+    "tess3": [
+     "exact",
+     "CUEVAS CANCINO"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "CUEVAS CANCINO"
+    ],
+    "vote": [
+     "exact",
+     "CUEVAS CANCINO"
+    ],
+    "chandra": [
+     "exact",
+     "CUEVAS CANCINO"
+    ],
+    "doctr": [
+     "exact",
+     "CUEVAS CANCINO"
+    ],
+    "pero": [
+     "exact",
+     "CUEVAS CANCINO"
+    ],
+    "paddle": [
+     "exact",
+     "CUEVAS CANCINO"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.955",
+   "page": 1,
+   "set": "gold",
+   "name": "HOARE",
+   "delegation": "United Kingdom",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "missed",
+     null
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "HOARE"
+    ],
+    "vote": [
+     "missed",
+     null
+    ],
+    "chandra": [
+     "exact",
+     "HOARE"
+    ],
+    "doctr": [
+     "missed",
+     null
+    ],
+    "pero": [
+     "exact",
+     "HOARE"
+    ],
+    "paddle": [
+     "missed",
+     null
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.955",
+   "page": 1,
+   "set": "gold",
+   "name": "MACENTEE",
+   "delegation": "Ireland",
+   "read": {
+    "layer": [
+     "exact",
+     "MACENTEE"
+    ],
+    "tess3": [
+     "exact",
+     "MACENTEE"
+    ],
+    "tess6": [
+     "exact",
+     "MACENTEE"
+    ],
+    "vision": [
+     "exact",
+     "MACENTEE"
+    ],
+    "vote": [
+     "exact",
+     "MACENTEE"
+    ],
+    "chandra": [
+     "exact",
+     "MACENTEE"
+    ],
+    "doctr": [
+     "exact",
+     "MACENTEE"
+    ],
+    "pero": [
+     "exact",
+     "MACENTEE"
+    ],
+    "paddle": [
+     "exact",
+     "MACENTEE"
+    ]
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.955",
+   "page": 1,
+   "set": "gold",
+   "name": "PEDERSEN",
+   "delegation": "Denmark",
+   "read": {
+    "layer": [
+     "exact",
+     "PEDERSEN"
+    ],
+    "tess3": [
+     "exact",
+     "PEDERSEN"
+    ],
+    "tess6": [
+     "exact",
+     "PEDERSEN"
+    ],
+    "vision": [
+     "exact",
+     "PEDERSEN"
+    ],
+    "vote": [
+     "exact",
+     "PEDERSEN"
+    ],
+    "chandra": [
+     "exact",
+     "PEDERSEN"
+    ],
+    "doctr": [
+     "exact",
+     "PEDERSEN"
+    ],
+    "pero": [
+     "exact",
+     "PEDERSEN"
+    ],
+    "paddle": [
+     "exact",
+     "PEDERSEN"
+    ]
+   }
+  },
+  {
+   "symbol": "A/PV.139",
+   "page": 2,
+   "set": "gold",
+   "name": "ROMULO",
+   "delegation": "Philippines",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "garbled",
+     "Romuto"
+    ],
+    "tess6": [
+     "garbled",
+     "Romvto"
+    ],
+    "vision": [
+     "garbled",
+     "Romuzo"
+    ],
+    "vote": [
+     "garbled",
+     "Romuto"
+    ],
+    "chandra": [
+     "exact",
+     "ROMULO"
+    ],
+    "doctr": [
+     "exact",
+     "ROMULO"
+    ],
+    "pero": [
+     "exact",
+     "ROMULO"
+    ],
+    "paddle": [
+     "exact",
+     "ROMULO"
+    ]
+   }
+  },
+  {
+   "symbol": "A/PV.1495",
+   "page": 2,
+   "set": "gold",
+   "name": "DAOUDY",
+   "delegation": "Syria",
+   "read": {
+    "layer": [
+     "exact",
+     "DAOUDY"
+    ],
+    "tess3": [
+     "exact",
+     "DAOUDY"
+    ],
+    "tess6": [
+     "exact",
+     "DAOUDY"
+    ],
+    "vision": [
+     "exact",
+     "DAOUDY"
+    ],
+    "vote": [
+     "exact",
+     "DAOUDY"
+    ],
+    "chandra": [
+     "exact",
+     "DAOUDY"
+    ],
+    "doctr": [
+     "exact",
+     "DAOUDY"
+    ],
+    "pero": [
+     "exact",
+     "DAOUDY"
+    ],
+    "paddle": [
+     "exact",
+     "DAOUDY"
+    ]
+   }
+  },
+  {
+   "symbol": "A/PV.1495",
+   "page": 2,
+   "set": "gold",
+   "name": "EL KONY",
+   "delegation": "United Arab Republic",
+   "read": {
+    "layer": [
+     "exact",
+     "EL KONY"
+    ],
+    "tess3": [
+     "exact",
+     "EL KONY"
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "EL KONY"
+    ],
+    "vote": [
+     "exact",
+     "EL KONY"
+    ],
+    "chandra": [
+     "exact",
+     "EL KONY"
+    ],
+    "doctr": [
+     "exact",
+     "EL KONY"
+    ],
+    "pero": [
+     "exact",
+     "EL KONY"
+    ],
+    "paddle": [
+     "missed",
+     null
+    ]
+   }
+  },
+  {
+   "symbol": "A/PV.1495",
+   "page": 2,
+   "set": "gold",
+   "name": "PARTHASARATHI",
+   "delegation": "India",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "exact",
+     "PARTHASARATHI"
+    ],
+    "tess6": [
+     "exact",
+     "PARTHASARATHI"
+    ],
+    "vision": [
+     "missed",
+     null
+    ],
+    "vote": [
+     "exact",
+     "PARTHASARATHI"
+    ],
+    "chandra": [
+     "exact",
+     "PARTHASARATHI"
+    ],
+    "doctr": [
+     "garbled",
+     "PARTHASASARATHI"
+    ],
+    "pero": [
+     "exact",
+     "PARTHASARATHI"
+    ],
+    "paddle": [
+     "exact",
+     "PARTHASARATHI"
+    ]
+   }
+  },
+  {
+   "symbol": "A/PV.178",
+   "page": 11,
+   "set": "gold",
+   "name": "GROSS",
+   "delegation": "United States of America",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "exact",
+     "GROSS"
+    ],
+    "tess6": [
+     "garbled",
+     "Goss"
+    ],
+    "vision": [
+     "exact",
+     "GROSS"
+    ],
+    "vote": [
+     "exact",
+     "GROSS"
+    ],
+    "chandra": [
+     "exact",
+     "GROSS"
+    ],
+    "doctr": [
+     "garbled",
+     "Gnoss"
+    ],
+    "pero": [
+     "exact",
+     "GROSS"
+    ],
+    "paddle": [
+     "exact",
+     "GROSS"
+    ]
+   }
+  },
+  {
+   "symbol": "A/PV.180",
+   "page": 9,
+   "set": "gold",
+   "name": "ROOSEVELT",
+   "delegation": "United States of America",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "garbled",
+     "Rooszvers"
+    ],
+    "tess6": [
+     "garbled",
+     "Rooszvers"
+    ],
+    "vision": [
+     "exact",
+     "ROOSEVELT"
+    ],
+    "vote": [
+     "exact",
+     "ROOSEVELT"
+    ],
+    "chandra": [
+     "exact",
+     "ROOSEVELT"
+    ],
+    "doctr": [
+     "exact",
+     "ROOSEVELT"
+    ],
+    "pero": [
+     "exact",
+     "ROOSEVELT"
+    ],
+    "paddle": [
+     "exact",
+     "ROOSEVELT"
+    ]
+   }
+  },
+  {
+   "symbol": "A/PV.180",
+   "page": 22,
+   "set": "gold",
+   "name": "VAN ROIJEN",
+   "delegation": "Netherlands",
+   "read": {
+    "layer": [
+     "exact",
+     "VAN ROIJEN"
+    ],
+    "tess3": [
+     "garbled",
+     "Van Rotsew"
+    ],
+    "tess6": [
+     "garbled",
+     "Van Rotsew"
+    ],
+    "vision": [
+     "garbled",
+     "VAN RoIEN"
+    ],
+    "vote": [
+     "garbled",
+     "Van Rotsew"
+    ],
+    "chandra": [
+     "exact",
+     "VAN ROIJEN"
+    ],
+    "doctr": [
+     "exact",
+     "VAN ROIJEN"
+    ],
+    "pero": [
+     "exact",
+     "VAN ROIJEN"
+    ],
+    "paddle": [
+     "garbled",
+     "Van Rorsen"
+    ]
+   }
+  },
+  {
+   "symbol": "A/PV.183",
+   "page": 10,
+   "set": "gold",
+   "name": "KAYALY",
+   "delegation": "Syria",
+   "read": {
+    "layer": [
+     "exact",
+     "KAYALY"
+    ],
+    "tess3": [
+     "missed",
+     null
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "missed",
+     null
+    ],
+    "vote": [
+     "missed",
+     null
+    ],
+    "chandra": [
+     "exact",
+     "KAYALY"
+    ],
+    "doctr": [
+     "exact",
+     "KAYALY"
+    ],
+    "pero": [
+     "exact",
+     "KAYALY"
+    ],
+    "paddle": [
+     "missed",
+     null
+    ]
+   }
+  },
+  {
+   "symbol": "A/PV.7",
+   "page": 2,
+   "set": "gold",
+   "name": "DIHIGO",
+   "delegation": "Cuba",
+   "read": {
+    "layer": [
+     "garbled",
+     "Diigo"
+    ],
+    "tess3": [
+     "exact",
+     "DIHIGO"
+    ],
+    "tess6": [
+     "garbled",
+     "Dibigo"
+    ],
+    "vision": [
+     "exact",
+     "DIHIGO"
+    ],
+    "vote": [
+     "exact",
+     "DIHIGO"
+    ],
+    "chandra": [
+     "exact",
+     "DIHIGO"
+    ],
+    "doctr": [
+     "exact",
+     "DIHIGO"
+    ],
+    "pero": [
+     "exact",
+     "DIHIGO"
+    ],
+    "paddle": [
+     "exact",
+     "DIHIGO"
+    ]
+   }
+  },
+  {
+   "symbol": "A/PV.7",
+   "page": 9,
+   "set": "gold",
+   "name": "LÓPEZ",
+   "delegation": "Philippine Commonwealth",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "garbled",
+     "Lovez"
+    ],
+    "tess6": [
+     "exact",
+     "LÓPEZ"
+    ],
+    "vision": [
+     "garbled",
+     "LörEz"
+    ],
+    "vote": [
+     "garbled",
+     "Lovez"
+    ],
+    "chandra": [
+     "exact",
+     "LÓPEZ"
+    ],
+    "doctr": [
+     "exact",
+     "LÓPEZ"
+    ],
+    "pero": [
+     "exact",
+     "LÓPEZ"
+    ],
+    "paddle": [
+     "exact",
+     "LÓPEZ"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/AC.1/SR.13",
+   "page": 5,
+   "set": "gold",
+   "name": "CASSIN",
+   "delegation": "France",
+   "read": {
+    "layer": [
+     "garbled",
+     "CASSESf"
+    ],
+    "tess3": [
+     "exact",
+     "CASSIN"
+    ],
+    "tess6": [
+     "exact",
+     "CASSIN"
+    ],
+    "vision": [
+     "exact",
+     "CASSIN"
+    ],
+    "vote": [
+     "exact",
+     "CASSIN"
+    ],
+    "chandra": [
+     "exact",
+     "CASSIN"
+    ],
+    "doctr": [
+     "exact",
+     "CASSIN"
+    ],
+    "pero": [
+     "exact",
+     "CASSIN"
+    ],
+    "paddle": [
+     "exact",
+     "CASSIN"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/AC.1/SR.13",
+   "page": 5,
+   "set": "gold",
+   "name": "CHANG",
+   "delegation": "China",
+   "read": {
+    "layer": [
+     "exact",
+     "CHANG"
+    ],
+    "tess3": [
+     "exact",
+     "CHANG"
+    ],
+    "tess6": [
+     "exact",
+     "CHANG"
+    ],
+    "vision": [
+     "exact",
+     "CHANG"
+    ],
+    "vote": [
+     "exact",
+     "CHANG"
+    ],
+    "chandra": [
+     "exact",
+     "CHANG"
+    ],
+    "doctr": [
+     "exact",
+     "CHANG"
+    ],
+    "pero": [
+     "exact",
+     "CHANG"
+    ],
+    "paddle": [
+     "exact",
+     "CHANG"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/AC.1/SR.13",
+   "page": 5,
+   "set": "gold",
+   "name": "MALIK",
+   "delegation": "Lebanon",
+   "read": {
+    "layer": [
+     "exact",
+     "MALIK"
+    ],
+    "tess3": [
+     "exact",
+     "MALIK"
+    ],
+    "tess6": [
+     "exact",
+     "MALIK"
+    ],
+    "vision": [
+     "exact",
+     "MALIK"
+    ],
+    "vote": [
+     "exact",
+     "MALIK"
+    ],
+    "chandra": [
+     "exact",
+     "MALIK"
+    ],
+    "doctr": [
+     "exact",
+     "MALIK"
+    ],
+    "pero": [
+     "exact",
+     "MALIK"
+    ],
+    "paddle": [
+     "exact",
+     "MALIK"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/AC.1/SR.13",
+   "page": 5,
+   "set": "gold",
+   "name": "WILSON",
+   "delegation": "United Kingdom",
+   "read": {
+    "layer": [
+     "exact",
+     "WILSON"
+    ],
+    "tess3": [
+     "exact",
+     "WILSON"
+    ],
+    "tess6": [
+     "exact",
+     "WILSON"
+    ],
+    "vision": [
+     "exact",
+     "WILSON"
+    ],
+    "vote": [
+     "exact",
+     "WILSON"
+    ],
+    "chandra": [
+     "exact",
+     "WILSON"
+    ],
+    "doctr": [
+     "exact",
+     "WILSON"
+    ],
+    "pero": [
+     "exact",
+     "WILSON"
+    ],
+    "paddle": [
+     "exact",
+     "WILSON"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/AC.2/SR.7",
+   "page": 2,
+   "set": "dev1",
+   "name": "AMADO",
+   "delegation": "Panama",
+   "read": {
+    "layer": [
+     "exact",
+     "AMADO"
+    ],
+    "tess3": [
+     "exact",
+     "AMADO"
+    ],
+    "tess6": [
+     "exact",
+     "AMADO"
+    ],
+    "vision": [
+     "exact",
+     "AMADO"
+    ],
+    "vote": [
+     "exact",
+     "AMADO"
+    ],
+    "chandra": [
+     "exact",
+     "AMADO"
+    ],
+    "doctr": [
+     "exact",
+     "AMADO"
+    ],
+    "pero": [
+     "exact",
+     "AMADO"
+    ],
+    "paddle": [
+     "exact",
+     "AMADO"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/AC.2/SR.7",
+   "page": 2,
+   "set": "dev1",
+   "name": "CASSIN",
+   "delegation": "France",
+   "read": {
+    "layer": [
+     "exact",
+     "CASSIN"
+    ],
+    "tess3": [
+     "exact",
+     "CASSIN"
+    ],
+    "tess6": [
+     "exact",
+     "CASSIN"
+    ],
+    "vision": [
+     "exact",
+     "CASSIN"
+    ],
+    "vote": [
+     "exact",
+     "CASSIN"
+    ],
+    "chandra": [
+     "exact",
+     "CASSIN"
+    ],
+    "doctr": [
+     "exact",
+     "CASSIN"
+    ],
+    "pero": [
+     "exact",
+     "CASSIN"
+    ],
+    "paddle": [
+     "exact",
+     "CASSIN"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/AC.2/SR.7",
+   "page": 3,
+   "set": "dev1",
+   "name": "CASSIN",
+   "delegation": "France",
+   "read": {
+    "layer": [
+     "garbled",
+     "CASoIN"
+    ],
+    "tess3": [
+     "exact",
+     "CASSIN"
+    ],
+    "tess6": [
+     "exact",
+     "CASSIN"
+    ],
+    "vision": [
+     "exact",
+     "CASSIN"
+    ],
+    "vote": [
+     "exact",
+     "CASSIN"
+    ],
+    "chandra": [
+     "exact",
+     "CASSIN"
+    ],
+    "doctr": [
+     "exact",
+     "CASSIN"
+    ],
+    "pero": [
+     "exact",
+     "CASSIN"
+    ],
+    "paddle": [
+     "exact",
+     "CASSIN"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/AC.2/SR.7",
+   "page": 3,
+   "set": "dev1",
+   "name": "STEPANENKO",
+   "delegation": "Byelorussian SSR",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "garbled",
+     "STHPANENKO"
+    ],
+    "tess6": [
+     "garbled",
+     "STHPANENKO"
+    ],
+    "vision": [
+     "exact",
+     "STEPANENKO"
+    ],
+    "vote": [
+     "garbled",
+     "STHPANENKO"
+    ],
+    "chandra": [
+     "exact",
+     "STEPANENKO"
+    ],
+    "doctr": [
+     "exact",
+     "STEPANENKO"
+    ],
+    "pero": [
+     "exact",
+     "STEPANENKO"
+    ],
+    "paddle": [
+     "exact",
+     "STEPANENKO"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/AC.2/SR.7",
+   "page": 4,
+   "set": "dev1",
+   "name": "AMADO",
+   "delegation": "Panama",
+   "read": {
+    "layer": [
+     "exact",
+     "AMADO"
+    ],
+    "tess3": [
+     "exact",
+     "AMADO"
+    ],
+    "tess6": [
+     "exact",
+     "AMADO"
+    ],
+    "vision": [
+     "exact",
+     "AMADO"
+    ],
+    "vote": [
+     "exact",
+     "AMADO"
+    ],
+    "chandra": [
+     "exact",
+     "AMADO"
+    ],
+    "doctr": [
+     "exact",
+     "AMADO"
+    ],
+    "pero": [
+     "exact",
+     "AMADO"
+    ],
+    "paddle": [
+     "exact",
+     "AMADO"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/AC.2/SR.7",
+   "page": 4,
+   "set": "dev1",
+   "name": "BOGOMOLOV",
+   "delegation": "Union of Soviet Socialist Republics",
+   "read": {
+    "layer": [
+     "exact",
+     "BOGOMOLOV"
+    ],
+    "tess3": [
+     "exact",
+     "BOGOMOLOV"
+    ],
+    "tess6": [
+     "exact",
+     "BOGOMOLOV"
+    ],
+    "vision": [
+     "exact",
+     "BOGOMOLOV"
+    ],
+    "vote": [
+     "exact",
+     "BOGOMOLOV"
+    ],
+    "chandra": [
+     "exact",
+     "BOGOMOLOV"
+    ],
+    "doctr": [
+     "exact",
+     "BOGOMOLOV"
+    ],
+    "pero": [
+     "exact",
+     "BOGOMOLOV"
+    ],
+    "paddle": [
+     "exact",
+     "BOGOMOLOV"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/AC.2/SR.7",
+   "page": 4,
+   "set": "dev1",
+   "name": "EDER",
+   "delegation": "International Council of Women",
+   "read": {
+    "layer": [
+     "exact",
+     "EDER"
+    ],
+    "tess3": [
+     "exact",
+     "EDER"
+    ],
+    "tess6": [
+     "exact",
+     "EDER"
+    ],
+    "vision": [
+     "exact",
+     "EDER"
+    ],
+    "vote": [
+     "exact",
+     "EDER"
+    ],
+    "chandra": [
+     "exact",
+     "EDER"
+    ],
+    "doctr": [
+     "exact",
+     "EDER"
+    ],
+    "pero": [
+     "exact",
+     "EDER"
+    ],
+    "paddle": [
+     "exact",
+     "EDER"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/AC.2/SR.7",
+   "page": 4,
+   "set": "dev1",
+   "name": "VANISTENDAEL",
+   "delegation": "International Federation of Christian Trade Unions",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "missed",
+     null
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "missed",
+     null
+    ],
+    "vote": [
+     "missed",
+     null
+    ],
+    "chandra": [
+     "exact",
+     "VANISTENDAEL"
+    ],
+    "doctr": [
+     "missed",
+     null
+    ],
+    "pero": [
+     "missed",
+     null
+    ],
+    "paddle": [
+     "missed",
+     null
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/AC.2/SR.7",
+   "page": 4,
+   "set": "dev1",
+   "name": "VANISTENDAEL",
+   "delegation": "International Federation of Christian Trades Unions",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "missed",
+     null
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "missed",
+     null
+    ],
+    "vote": [
+     "missed",
+     null
+    ],
+    "chandra": [
+     "exact",
+     "VANISTENDAEL"
+    ],
+    "doctr": [
+     "missed",
+     null
+    ],
+    "pero": [
+     "missed",
+     null
+    ],
+    "paddle": [
+     "missed",
+     null
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/AC.2/SR.7",
+   "page": 5,
+   "set": "dev1",
+   "name": "AMADO",
+   "delegation": "Panama",
+   "read": {
+    "layer": [
+     "exact",
+     "AMADO"
+    ],
+    "tess3": [
+     "exact",
+     "AMADO"
+    ],
+    "tess6": [
+     "exact",
+     "AMADO"
+    ],
+    "vision": [
+     "exact",
+     "AMADO"
+    ],
+    "vote": [
+     "exact",
+     "AMADO"
+    ],
+    "chandra": [
+     "exact",
+     "AMADO"
+    ],
+    "doctr": [
+     "exact",
+     "AMADO"
+    ],
+    "pero": [
+     "exact",
+     "AMADO"
+    ],
+    "paddle": [
+     "exact",
+     "AMADO"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/AC.2/SR.7",
+   "page": 5,
+   "set": "dev1",
+   "name": "CASSIN",
+   "delegation": "France",
+   "read": {
+    "layer": [
+     "exact",
+     "CASSIN"
+    ],
+    "tess3": [
+     "exact",
+     "CASSIN"
+    ],
+    "tess6": [
+     "exact",
+     "CASSIN"
+    ],
+    "vision": [
+     "exact",
+     "CASSIN"
+    ],
+    "vote": [
+     "exact",
+     "CASSIN"
+    ],
+    "chandra": [
+     "exact",
+     "CASSIN"
+    ],
+    "doctr": [
+     "exact",
+     "CASSIN"
+    ],
+    "pero": [
+     "exact",
+     "CASSIN"
+    ],
+    "paddle": [
+     "exact",
+     "CASSIN"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/AC.2/SR.7",
+   "page": 5,
+   "set": "dev1",
+   "name": "HEPPEL",
+   "delegation": "United Kingdom",
+   "read": {
+    "layer": [
+     "exact",
+     "HEPPEL"
+    ],
+    "tess3": [
+     "exact",
+     "HEPPEL"
+    ],
+    "tess6": [
+     "exact",
+     "HEPPEL"
+    ],
+    "vision": [
+     "exact",
+     "HEPPEL"
+    ],
+    "vote": [
+     "exact",
+     "HEPPEL"
+    ],
+    "chandra": [
+     "exact",
+     "HEPPEL"
+    ],
+    "doctr": [
+     "exact",
+     "HEPPEL"
+    ],
+    "pero": [
+     "exact",
+     "HEPPEL"
+    ],
+    "paddle": [
+     "exact",
+     "HEPPEL"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.153",
+   "page": 2,
+   "set": "gold",
+   "name": "CASTILLO LEDON",
+   "delegation": "Commission on the Status of Women",
+   "read": {
+    "layer": [
+     "exact",
+     "CASTILLO LEDON"
+    ],
+    "tess3": [
+     "exact",
+     "CASTILLO LEDON"
+    ],
+    "tess6": [
+     "exact",
+     "CASTILLO LEDON"
+    ],
+    "vision": [
+     "exact",
+     "CASTILLO LEDON"
+    ],
+    "vote": [
+     "exact",
+     "CASTILLO LEDON"
+    ],
+    "chandra": [
+     "exact",
+     "CASTILLO LEDON"
+    ],
+    "doctr": [
+     "exact",
+     "CASTILLO LEDON"
+    ],
+    "pero": [
+     "exact",
+     "CASTILLO LEDON"
+    ],
+    "paddle": [
+     "exact",
+     "CASTILLO LEDON"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.163",
+   "page": 5,
+   "set": "gold",
+   "name": "MEHTA",
+   "delegation": "India",
+   "read": {
+    "layer": [
+     "exact",
+     "MEHTA"
+    ],
+    "tess3": [
+     "exact",
+     "MEHTA"
+    ],
+    "tess6": [
+     "exact",
+     "MEHTA"
+    ],
+    "vision": [
+     "exact",
+     "MEHTA"
+    ],
+    "vote": [
+     "exact",
+     "MEHTA"
+    ],
+    "chandra": [
+     "exact",
+     "MEHTA"
+    ],
+    "doctr": [
+     "exact",
+     "MEHTA"
+    ],
+    "pero": [
+     "exact",
+     "MEHTA"
+    ],
+    "paddle": [
+     "exact",
+     "MEHTA"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.17",
+   "page": 9,
+   "set": "gold",
+   "name": "DEL RIO",
+   "delegation": "Chile",
+   "read": {
+    "layer": [
+     "exact",
+     "DEL RIO"
+    ],
+    "tess3": [
+     "exact",
+     "DEL RIO"
+    ],
+    "tess6": [
+     "exact",
+     "DEL RIO"
+    ],
+    "vision": [
+     "exact",
+     "DEL RIO"
+    ],
+    "vote": [
+     "exact",
+     "DEL RIO"
+    ],
+    "chandra": [
+     "exact",
+     "DEL RIO"
+    ],
+    "doctr": [
+     "exact",
+     "DEL RIO"
+    ],
+    "pero": [
+     "exact",
+     "DEL RIO"
+    ],
+    "paddle": [
+     "exact",
+     "DEL RIO"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.17",
+   "page": 9,
+   "set": "gold",
+   "name": "EBEID",
+   "delegation": "Egypt",
+   "read": {
+    "layer": [
+     "exact",
+     "EBEID"
+    ],
+    "tess3": [
+     "exact",
+     "EBEID"
+    ],
+    "tess6": [
+     "exact",
+     "EBEID"
+    ],
+    "vision": [
+     "exact",
+     "EBEID"
+    ],
+    "vote": [
+     "exact",
+     "EBEID"
+    ],
+    "chandra": [
+     "exact",
+     "EBEID"
+    ],
+    "doctr": [
+     "exact",
+     "EBEID"
+    ],
+    "pero": [
+     "exact",
+     "EBEID"
+    ],
+    "paddle": [
+     "exact",
+     "EBEID"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.17",
+   "page": 9,
+   "set": "gold",
+   "name": "MALIK",
+   "delegation": "Lebanon",
+   "read": {
+    "layer": [
+     "exact",
+     "MALIK"
+    ],
+    "tess3": [
+     "exact",
+     "MALIK"
+    ],
+    "tess6": [
+     "exact",
+     "MALIK"
+    ],
+    "vision": [
+     "exact",
+     "MALIK"
+    ],
+    "vote": [
+     "exact",
+     "MALIK"
+    ],
+    "chandra": [
+     "exact",
+     "MALIK"
+    ],
+    "doctr": [
+     "exact",
+     "MALIK"
+    ],
+    "pero": [
+     "exact",
+     "MALIK"
+    ],
+    "paddle": [
+     "exact",
+     "MALIK"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.226",
+   "page": 6,
+   "set": "gold",
+   "name": "CASSIN",
+   "delegation": "France",
+   "read": {
+    "layer": [
+     "garbled",
+     "CASsD"
+    ],
+    "tess3": [
+     "exact",
+     "CASSIN"
+    ],
+    "tess6": [
+     "exact",
+     "CASSIN"
+    ],
+    "vision": [
+     "exact",
+     "CASSIN"
+    ],
+    "vote": [
+     "exact",
+     "CASSIN"
+    ],
+    "chandra": [
+     "exact",
+     "CASSIN"
+    ],
+    "doctr": [
+     "exact",
+     "CASSIN"
+    ],
+    "pero": [
+     "exact",
+     "CASSIN"
+    ],
+    "paddle": [
+     "exact",
+     "CASSIN"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.226",
+   "page": 6,
+   "set": "gold",
+   "name": "KOVALENKO",
+   "delegation": "Ukrainian Soviet Socialist Republic",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "exact",
+     "KOVALENKO"
+    ],
+    "tess6": [
+     "exact",
+     "KOVALENKO"
+    ],
+    "vision": [
+     "exact",
+     "KOVALENKO"
+    ],
+    "vote": [
+     "exact",
+     "KOVALENKO"
+    ],
+    "chandra": [
+     "exact",
+     "KOVALENKO"
+    ],
+    "doctr": [
+     "exact",
+     "KOVALENKO"
+    ],
+    "pero": [
+     "exact",
+     "KOVALENKO"
+    ],
+    "paddle": [
+     "exact",
+     "KOVALENKO"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.226",
+   "page": 6,
+   "set": "gold",
+   "name": "MOROSOV",
+   "delegation": "Union of Soviet Socialist Republics",
+   "read": {
+    "layer": [
+     "garbled",
+     "MORO~OV"
+    ],
+    "tess3": [
+     "exact",
+     "MOROSOV"
+    ],
+    "tess6": [
+     "exact",
+     "MOROSOV"
+    ],
+    "vision": [
+     "missed",
+     null
+    ],
+    "vote": [
+     "exact",
+     "MOROSOV"
+    ],
+    "chandra": [
+     "exact",
+     "MOROSOV"
+    ],
+    "doctr": [
+     "exact",
+     "MOROSOV"
+    ],
+    "pero": [
+     "exact",
+     "MOROSOV"
+    ],
+    "paddle": [
+     "missed",
+     null
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.245",
+   "page": 7,
+   "set": "gold",
+   "name": "WARBURG",
+   "delegation": "Co-ordinating Board of Jewish Organizations",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "garbled",
+     "WAREURG"
+    ],
+    "tess6": [
+     "garbled",
+     "WAREURG"
+    ],
+    "vision": [
+     "exact",
+     "WARBURG"
+    ],
+    "vote": [
+     "garbled",
+     "WAREURG"
+    ],
+    "chandra": [
+     "garbled",
+     "WAREBURG"
+    ],
+    "doctr": [
+     "garbled",
+     "WAREURG"
+    ],
+    "pero": [
+     "missed",
+     null
+    ],
+    "paddle": [
+     "garbled",
+     "WAREURG"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.246",
+   "page": 9,
+   "set": "gold",
+   "name": "EUSTATHIADES",
+   "delegation": "Greece",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "missed",
+     null
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "missed",
+     null
+    ],
+    "vote": [
+     "missed",
+     null
+    ],
+    "chandra": [
+     "garbled",
+     "EUSTATHIADIS"
+    ],
+    "doctr": [
+     "missed",
+     null
+    ],
+    "pero": [
+     "missed",
+     null
+    ],
+    "paddle": [
+     "missed",
+     null
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.246",
+   "page": 9,
+   "set": "gold",
+   "name": "PICKFORD",
+   "delegation": "International Labour Organisation",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "missed",
+     null
+    ],
+    "tess6": [
+     "missed",
+     null
+    ],
+    "vision": [
+     "exact",
+     "PICKFORD"
+    ],
+    "vote": [
+     "missed",
+     null
+    ],
+    "chandra": [
+     "exact",
+     "PICKFORD"
+    ],
+    "doctr": [
+     "exact",
+     "PICKFORD"
+    ],
+    "pero": [
+     "garbled",
+     "PICKFDRD"
+    ],
+    "paddle": [
+     "exact",
+     "PICKFORD"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.246",
+   "page": 9,
+   "set": "gold",
+   "name": "WHITLAM",
+   "delegation": "Australia",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "garbled",
+     "WHITLAI"
+    ],
+    "tess6": [
+     "garbled",
+     "WHITLAI"
+    ],
+    "vision": [
+     "garbled",
+     "WHITLAI"
+    ],
+    "vote": [
+     "garbled",
+     "WHITLAI"
+    ],
+    "chandra": [
+     "exact",
+     "WHITLAM"
+    ],
+    "doctr": [
+     "garbled",
+     "MHITLAN"
+    ],
+    "pero": [
+     "missed",
+     null
+    ],
+    "paddle": [
+     "garbled",
+     "WHITLAll"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.31",
+   "page": 9,
+   "set": "gold",
+   "name": "BOGOMOLOV",
+   "delegation": "Union of Soviet Socialist Republics",
+   "read": {
+    "layer": [
+     "exact",
+     "BOGOMOLOV"
+    ],
+    "tess3": [
+     "exact",
+     "BOGOMOLOV"
+    ],
+    "tess6": [
+     "exact",
+     "BOGOMOLOV"
+    ],
+    "vision": [
+     "exact",
+     "BOGOMOLOV"
+    ],
+    "vote": [
+     "exact",
+     "BOGOMOLOV"
+    ],
+    "chandra": [
+     "exact",
+     "BOGOMOLOV"
+    ],
+    "doctr": [
+     "exact",
+     "BOGOMOLOV"
+    ],
+    "pero": [
+     "exact",
+     "BOGOMOLOV"
+    ],
+    "paddle": [
+     "exact",
+     "BOGOMOLOV"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.31",
+   "page": 9,
+   "set": "gold",
+   "name": "DEHOUSSE",
+   "delegation": "Belgium",
+   "read": {
+    "layer": [
+     "exact",
+     "DEHOUSSE"
+    ],
+    "tess3": [
+     "exact",
+     "DEHOUSSE"
+    ],
+    "tess6": [
+     "exact",
+     "DEHOUSSE"
+    ],
+    "vision": [
+     "exact",
+     "DEHOUSSE"
+    ],
+    "vote": [
+     "exact",
+     "DEHOUSSE"
+    ],
+    "chandra": [
+     "exact",
+     "DEHOUSSE"
+    ],
+    "doctr": [
+     "exact",
+     "DEHOUSSE"
+    ],
+    "pero": [
+     "exact",
+     "DEHOUSSE"
+    ],
+    "paddle": [
+     "exact",
+     "DEHOUSSE"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.31",
+   "page": 9,
+   "set": "gold",
+   "name": "ROMULO",
+   "delegation": "Philippine Republic",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "exact",
+     "ROMULO"
+    ],
+    "tess6": [
+     "exact",
+     "ROMULO"
+    ],
+    "vision": [
+     "exact",
+     "ROMULO"
+    ],
+    "vote": [
+     "exact",
+     "ROMULO"
+    ],
+    "chandra": [
+     "exact",
+     "ROMULO"
+    ],
+    "doctr": [
+     "exact",
+     "ROMULO"
+    ],
+    "pero": [
+     "exact",
+     "ROMULO"
+    ],
+    "paddle": [
+     "exact",
+     "ROMULO"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.338",
+   "page": 28,
+   "set": "gold",
+   "name": "BRACCO",
+   "delegation": "Uruguay",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "exact",
+     "BRACCO"
+    ],
+    "tess6": [
+     "exact",
+     "BRACCO"
+    ],
+    "vision": [
+     "missed",
+     null
+    ],
+    "vote": [
+     "exact",
+     "BRACCO"
+    ],
+    "chandra": [
+     "exact",
+     "BRACCO"
+    ],
+    "doctr": [
+     "exact",
+     "BRACCO"
+    ],
+    "pero": [
+     "garbled",
+     "BRICCO"
+    ],
+    "paddle": [
+     "exact",
+     "BRACCO"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.338",
+   "page": 28,
+   "set": "gold",
+   "name": "MOROZOV",
+   "delegation": "Union of Soviet Socialist Republics",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "exact",
+     "MOROZOV"
+    ],
+    "tess6": [
+     "exact",
+     "MOROZOV"
+    ],
+    "vision": [
+     "exact",
+     "MOROZOV"
+    ],
+    "vote": [
+     "exact",
+     "MOROZOV"
+    ],
+    "chandra": [
+     "exact",
+     "MOROZOV"
+    ],
+    "doctr": [
+     "exact",
+     "MOROZOV"
+    ],
+    "pero": [
+     "garbled",
+     "MROLOV"
+    ],
+    "paddle": [
+     "exact",
+     "MOROZOV"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.367",
+   "page": 11,
+   "set": "gold",
+   "name": "CHENG PAONAN",
+   "delegation": "China",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "exact",
+     "CHENG PAONAN"
+    ],
+    "tess6": [
+     "exact",
+     "CHENG PAONAN"
+    ],
+    "vision": [
+     "garbled",
+     "CHENG PHONAN"
+    ],
+    "vote": [
+     "exact",
+     "CHENG PAONAN"
+    ],
+    "chandra": [
+     "exact",
+     "CHENG PAONAN"
+    ],
+    "doctr": [
+     "exact",
+     "CHENG PAONAN"
+    ],
+    "pero": [
+     "exact",
+     "CHENG PAONAN"
+    ],
+    "paddle": [
+     "exact",
+     "CHENG PAONAN"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.367",
+   "page": 11,
+   "set": "gold",
+   "name": "HOARE",
+   "delegation": "United Kingdom",
+   "read": {
+    "layer": [
+     "garbled",
+     "HOMIE"
+    ],
+    "tess3": [
+     "exact",
+     "HOARE"
+    ],
+    "tess6": [
+     "exact",
+     "HOARE"
+    ],
+    "vision": [
+     "exact",
+     "HOARE"
+    ],
+    "vote": [
+     "exact",
+     "HOARE"
+    ],
+    "chandra": [
+     "exact",
+     "HOARE"
+    ],
+    "doctr": [
+     "exact",
+     "HOARE"
+    ],
+    "pero": [
+     "exact",
+     "HOARE"
+    ],
+    "paddle": [
+     "exact",
+     "HOARE"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.367",
+   "page": 11,
+   "set": "gold",
+   "name": "INGLES",
+   "delegation": "Philippines",
+   "read": {
+    "layer": [
+     "exact",
+     "INGLES"
+    ],
+    "tess3": [
+     "exact",
+     "INGLES"
+    ],
+    "tess6": [
+     "exact",
+     "INGLES"
+    ],
+    "vision": [
+     "exact",
+     "INGLES"
+    ],
+    "vote": [
+     "exact",
+     "INGLES"
+    ],
+    "chandra": [
+     "exact",
+     "INGLES"
+    ],
+    "doctr": [
+     "exact",
+     "INGLES"
+    ],
+    "pero": [
+     "exact",
+     "INGLES"
+    ],
+    "paddle": [
+     "exact",
+     "INGLES"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.42",
+   "page": 8,
+   "set": "gold",
+   "name": "DE GIVRY",
+   "delegation": "International Labour Organisation",
+   "read": {
+    "layer": [
+     "exact",
+     "DE GIVRY"
+    ],
+    "tess3": [
+     "exact",
+     "DE GIVRY"
+    ],
+    "tess6": [
+     "exact",
+     "DE GIVRY"
+    ],
+    "vision": [
+     "exact",
+     "DE GIVRY"
+    ],
+    "vote": [
+     "exact",
+     "DE GIVRY"
+    ],
+    "chandra": [
+     "exact",
+     "DE GIVRY"
+    ],
+    "doctr": [
+     "exact",
+     "DE GIVRY"
+    ],
+    "pero": [
+     "exact",
+     "DE GIVRY"
+    ],
+    "paddle": [
+     "exact",
+     "DE GIVRY"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.42",
+   "page": 8,
+   "set": "gold",
+   "name": "DUKESTON",
+   "delegation": "United Kingdom",
+   "read": {
+    "layer": [
+     "exact",
+     "DUKESTON"
+    ],
+    "tess3": [
+     "exact",
+     "DUKESTON"
+    ],
+    "tess6": [
+     "exact",
+     "DUKESTON"
+    ],
+    "vision": [
+     "exact",
+     "DUKESTON"
+    ],
+    "vote": [
+     "exact",
+     "DUKESTON"
+    ],
+    "chandra": [
+     "exact",
+     "DUKESTON"
+    ],
+    "doctr": [
+     "exact",
+     "DUKESTON"
+    ],
+    "pero": [
+     "exact",
+     "DUKESTON"
+    ],
+    "paddle": [
+     "exact",
+     "DUKESTON"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.42",
+   "page": 8,
+   "set": "gold",
+   "name": "VICTORICA",
+   "delegation": "Uruguay",
+   "read": {
+    "layer": [
+     "exact",
+     "VICTORICA"
+    ],
+    "tess3": [
+     "exact",
+     "VICTORICA"
+    ],
+    "tess6": [
+     "exact",
+     "VICTORICA"
+    ],
+    "vision": [
+     "exact",
+     "VICTORICA"
+    ],
+    "vote": [
+     "exact",
+     "VICTORICA"
+    ],
+    "chandra": [
+     "exact",
+     "VICTORICA"
+    ],
+    "doctr": [
+     "exact",
+     "VICTORICA"
+    ],
+    "pero": [
+     "exact",
+     "VICTORICA"
+    ],
+    "paddle": [
+     "exact",
+     "VICTORICA"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.48",
+   "page": 3,
+   "set": "gold",
+   "name": "KLEKOVKIN",
+   "delegation": "Ukrainian Soviet Socialist Republic",
+   "read": {
+    "layer": [
+     "exact",
+     "KLEKOVKIN"
+    ],
+    "tess3": [
+     "exact",
+     "KLEKOVKIN"
+    ],
+    "tess6": [
+     "exact",
+     "KLEKOVKIN"
+    ],
+    "vision": [
+     "garbled",
+     "KINKOVKIN"
+    ],
+    "vote": [
+     "exact",
+     "KLEKOVKIN"
+    ],
+    "chandra": [
+     "exact",
+     "KLEKOVKIN"
+    ],
+    "doctr": [
+     "exact",
+     "KLEKOVKIN"
+    ],
+    "pero": [
+     "exact",
+     "KLEKOVKIN"
+    ],
+    "paddle": [
+     "exact",
+     "KLEKOVKIN"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.61",
+   "page": 2,
+   "set": "dev1",
+   "name": "PAVLOV",
+   "delegation": "Union of Soviet Socialist Republics",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "exact",
+     "PAVLOV"
+    ],
+    "tess6": [
+     "exact",
+     "PAVLOV"
+    ],
+    "vision": [
+     "exact",
+     "PAVLOV"
+    ],
+    "vote": [
+     "exact",
+     "PAVLOV"
+    ],
+    "chandra": [
+     "exact",
+     "PAVLOV"
+    ],
+    "doctr": [
+     "exact",
+     "PAVLOV"
+    ],
+    "pero": [
+     "garbled",
+     "PVLOV"
+    ],
+    "paddle": [
+     "exact",
+     "PAVLOV"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.61",
+   "page": 3,
+   "set": "dev1",
+   "name": "CASSIN",
+   "delegation": "France",
+   "read": {
+    "layer": [
+     "exact",
+     "CASSIN"
+    ],
+    "tess3": [
+     "exact",
+     "CASSIN"
+    ],
+    "tess6": [
+     "exact",
+     "CASSIN"
+    ],
+    "vision": [
+     "garbled",
+     "MISSIN"
+    ],
+    "vote": [
+     "exact",
+     "CASSIN"
+    ],
+    "chandra": [
+     "exact",
+     "CASSIN"
+    ],
+    "doctr": [
+     "exact",
+     "CASSIN"
+    ],
+    "pero": [
+     "exact",
+     "CASSIN"
+    ],
+    "paddle": [
+     "garbled",
+     "SSIN"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.61",
+   "page": 3,
+   "set": "dev1",
+   "name": "WILSON",
+   "delegation": "United Kingdom",
+   "read": {
+    "layer": [
+     "exact",
+     "WILSON"
+    ],
+    "tess3": [
+     "exact",
+     "WILSON"
+    ],
+    "tess6": [
+     "exact",
+     "WILSON"
+    ],
+    "vision": [
+     "exact",
+     "WILSON"
+    ],
+    "vote": [
+     "exact",
+     "WILSON"
+    ],
+    "chandra": [
+     "exact",
+     "WILSON"
+    ],
+    "doctr": [
+     "exact",
+     "WILSON"
+    ],
+    "pero": [
+     "garbled",
+     "VILSON"
+    ],
+    "paddle": [
+     "exact",
+     "WILSON"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.61",
+   "page": 4,
+   "set": "dev1",
+   "name": "CASSIN",
+   "delegation": "France",
+   "read": {
+    "layer": [
+     "exact",
+     "CASSIN"
+    ],
+    "tess3": [
+     "exact",
+     "CASSIN"
+    ],
+    "tess6": [
+     "exact",
+     "CASSIN"
+    ],
+    "vision": [
+     "exact",
+     "CASSIN"
+    ],
+    "vote": [
+     "exact",
+     "CASSIN"
+    ],
+    "chandra": [
+     "exact",
+     "CASSIN"
+    ],
+    "doctr": [
+     "exact",
+     "CASSIN"
+    ],
+    "pero": [
+     "exact",
+     "CASSIN"
+    ],
+    "paddle": [
+     "exact",
+     "CASSIN"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.61",
+   "page": 4,
+   "set": "dev1",
+   "name": "PAVLOV",
+   "delegation": "Union of Soviet Socialist Republics",
+   "read": {
+    "layer": [
+     "exact",
+     "PAVLOV"
+    ],
+    "tess3": [
+     "exact",
+     "PAVLOV"
+    ],
+    "tess6": [
+     "exact",
+     "PAVLOV"
+    ],
+    "vision": [
+     "exact",
+     "PAVLOV"
+    ],
+    "vote": [
+     "exact",
+     "PAVLOV"
+    ],
+    "chandra": [
+     "exact",
+     "PAVLOV"
+    ],
+    "doctr": [
+     "exact",
+     "PAVLOV"
+    ],
+    "pero": [
+     "exact",
+     "PAVLOV"
+    ],
+    "paddle": [
+     "exact",
+     "PAVLOV"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.61",
+   "page": 5,
+   "set": "dev1",
+   "name": "STEPANENKO",
+   "delegation": "Byelorussian Soviet Socialist Republic",
+   "read": {
+    "layer": [
+     "garbled",
+     "STEPAKEKKO"
+    ],
+    "tess3": [
+     "garbled",
+     "STEPSNENKO"
+    ],
+    "tess6": [
+     "garbled",
+     "STEPSNENKO"
+    ],
+    "vision": [
+     "missed",
+     null
+    ],
+    "vote": [
+     "garbled",
+     "STEPSNENKO"
+    ],
+    "chandra": [
+     "exact",
+     "STEPANENKO"
+    ],
+    "doctr": [
+     "exact",
+     "STEPANENKO"
+    ],
+    "pero": [
+     "exact",
+     "STEPANENKO"
+    ],
+    "paddle": [
+     "exact",
+     "STEPANENKO"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.61",
+   "page": 5,
+   "set": "dev1",
+   "name": "STEYAERT",
+   "delegation": "Belgium",
+   "read": {
+    "layer": [
+     "garbled",
+     "STEÏAERT"
+    ],
+    "tess3": [
+     "exact",
+     "STEYAERT"
+    ],
+    "tess6": [
+     "exact",
+     "STEYAERT"
+    ],
+    "vision": [
+     "missed",
+     null
+    ],
+    "vote": [
+     "exact",
+     "STEYAERT"
+    ],
+    "chandra": [
+     "garbled",
+     "STEYAEHT"
+    ],
+    "doctr": [
+     "exact",
+     "STEYAERT"
+    ],
+    "pero": [
+     "exact",
+     "STEYAERT"
+    ],
+    "paddle": [
+     "exact",
+     "STEYAERT"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.80",
+   "page": 2,
+   "set": "dev1",
+   "name": "MALIK",
+   "delegation": "Lebanon",
+   "read": {
+    "layer": [
+     "exact",
+     "MALIK"
+    ],
+    "tess3": [
+     "exact",
+     "MALIK"
+    ],
+    "tess6": [
+     "exact",
+     "MALIK"
+    ],
+    "vision": [
+     "exact",
+     "MALIK"
+    ],
+    "vote": [
+     "exact",
+     "MALIK"
+    ],
+    "chandra": [
+     "exact",
+     "MALIK"
+    ],
+    "doctr": [
+     "exact",
+     "MALIK"
+    ],
+    "pero": [
+     "exact",
+     "MALIK"
+    ],
+    "paddle": [
+     "exact",
+     "MALIK"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.80",
+   "page": 3,
+   "set": "dev1",
+   "name": "VILFAN",
+   "delegation": "Yugoslavia",
+   "read": {
+    "layer": [
+     "exact",
+     "VILFAN"
+    ],
+    "tess3": [
+     "exact",
+     "VILFAN"
+    ],
+    "tess6": [
+     "exact",
+     "VILFAN"
+    ],
+    "vision": [
+     "garbled",
+     "VIIFAN"
+    ],
+    "vote": [
+     "exact",
+     "VILFAN"
+    ],
+    "chandra": [
+     "garbled",
+     "VILEAN"
+    ],
+    "doctr": [
+     "exact",
+     "VILFAN"
+    ],
+    "pero": [
+     "exact",
+     "VILFAN"
+    ],
+    "paddle": [
+     "garbled",
+     "VILFiN"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.80",
+   "page": 4,
+   "set": "dev1",
+   "name": "PAVLOV",
+   "delegation": "Union of Soviet Socialist Republics",
+   "read": {
+    "layer": [
+     "exact",
+     "PAVLOV"
+    ],
+    "tess3": [
+     "exact",
+     "PAVLOV"
+    ],
+    "tess6": [
+     "exact",
+     "PAVLOV"
+    ],
+    "vision": [
+     "garbled",
+     "PAVLOW"
+    ],
+    "vote": [
+     "exact",
+     "PAVLOV"
+    ],
+    "chandra": [
+     "exact",
+     "PAVLOV"
+    ],
+    "doctr": [
+     "exact",
+     "PAVLOV"
+    ],
+    "pero": [
+     "exact",
+     "PAVLOV"
+    ],
+    "paddle": [
+     "exact",
+     "PAVLOV"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.80",
+   "page": 4,
+   "set": "dev1",
+   "name": "VILFAN",
+   "delegation": "Yugoslavia",
+   "read": {
+    "layer": [
+     "garbled",
+     "VTLFAN"
+    ],
+    "tess3": [
+     "exact",
+     "VILFAN"
+    ],
+    "tess6": [
+     "exact",
+     "VILFAN"
+    ],
+    "vision": [
+     "exact",
+     "VILFAN"
+    ],
+    "vote": [
+     "exact",
+     "VILFAN"
+    ],
+    "chandra": [
+     "exact",
+     "VILFAN"
+    ],
+    "doctr": [
+     "exact",
+     "VILFAN"
+    ],
+    "pero": [
+     "exact",
+     "VILFAN"
+    ],
+    "paddle": [
+     "exact",
+     "VILFAN"
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.80",
+   "page": 5,
+   "set": "dev1",
+   "name": "MEHTA",
+   "delegation": "India",
+   "read": {
+    "layer": [
+     "missed",
+     null
+    ],
+    "tess3": [
+     "garbled",
+     "META"
+    ],
+    "tess6": [
+     "garbled",
+     "META"
+    ],
+    "vision": [
+     "garbled",
+     "MENTA"
+    ],
+    "vote": [
+     "garbled",
+     "META"
+    ],
+    "chandra": [
+     "exact",
+     "MEHTA"
+    ],
+    "doctr": [
+     "missed",
+     null
+    ],
+    "pero": [
+     "garbled",
+     "META"
+    ],
+    "paddle": [
+     "missed",
+     null
+    ]
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.86",
+   "page": 5,
+   "set": "gold",
+   "name": "PAVLOV",
+   "delegation": "Union of Soviet Socialist Republics",
+   "read": {
+    "layer": [
+     "exact",
+     "PAVLOV"
+    ],
+    "tess3": [
+     "exact",
+     "PAVLOV"
+    ],
+    "tess6": [
+     "exact",
+     "PAVLOV"
+    ],
+    "vision": [
+     "exact",
+     "PAVLOV"
+    ],
+    "vote": [
+     "exact",
+     "PAVLOV"
+    ],
+    "chandra": [
+     "exact",
+     "PAVLOV"
+    ],
+    "doctr": [
+     "exact",
+     "PAVLOV"
+    ],
+    "pero": [
+     "exact",
+     "PAVLOV"
+    ],
+    "paddle": [
+     "exact",
+     "PAVLOV"
+    ]
+   }
+  },
+  {
+   "symbol": "E/PV.69",
+   "page": 2,
+   "set": "gold",
+   "name": "STOLK",
+   "delegation": "Venezuela",
+   "read": {
+    "layer": [
+     "exact",
+     "STOLK"
+    ],
+    "tess3": [
+     "garbled",
+     "Stock"
+    ],
+    "tess6": [
+     "garbled",
+     "Stock"
+    ],
+    "vision": [
+     "garbled",
+     "SoLk"
+    ],
+    "vote": [
+     "garbled",
+     "Stock"
+    ],
+    "chandra": [
+     "exact",
+     "STOLK"
+    ],
+    "doctr": [
+     "exact",
+     "STOLK"
+    ],
+    "pero": [
+     "exact",
+     "STOLK"
+    ],
+    "paddle": [
+     "exact",
+     "STOLK"
+    ]
+   }
+  }
+ ]
+}

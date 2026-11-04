@@ -1,0 +1,132 @@
+[
+ {
+  "model": "opus",
+  "date": "2026-09-30",
+  "label": "v2 items, 2026-09-30 workflow run, default effort",
+  "scores": {
+   "speaker": {
+    "n": 29,
+    "speaker": 1.0,
+    "delegation": 1.0
+   },
+   "vote": {
+    "n": 27,
+    "outcome": 0.889,
+    "figures": 0.778
+   },
+   "sponsor": {
+    "n": 30,
+    "exact": 0.833,
+    "recall": 0.833
+   },
+   "tag": {
+    "n": 40,
+    "accuracy": 0.825
+   }
+  }
+ },
+ {
+  "model": "sonnet",
+  "date": "2026-09-30",
+  "label": "v2 items, 2026-09-30 workflow run, default effort",
+  "scores": {
+   "speaker": {
+    "n": 29,
+    "speaker": 1.0,
+    "delegation": 1.0
+   },
+   "vote": {
+    "n": 27,
+    "outcome": 0.889,
+    "figures": 0.815
+   },
+   "sponsor": {
+    "n": 30,
+    "exact": 0.833,
+    "recall": 0.833
+   },
+   "tag": {
+    "n": 40,
+    "accuracy": 0.775
+   }
+  }
+ },
+ {
+  "model": "haiku",
+  "date": "2026-09-30",
+  "label": "v2 items, 2026-09-30 workflow run, default effort",
+  "scores": {
+   "speaker": {
+    "n": 29,
+    "speaker": 0.966,
+    "delegation": 1.0
+   },
+   "vote": {
+    "n": 27,
+    "outcome": 0.852,
+    "figures": 0.815
+   },
+   "sponsor": {
+    "n": 30,
+    "exact": 0.833,
+    "recall": 0.833
+   },
+   "tag": {
+    "n": 40,
+    "accuracy": 0.675
+   }
+  }
+ },
+ {
+  "model": "fable",
+  "date": "2026-09-30",
+  "label": "v2 items, 2026-09-30 workflow run, default effort",
+  "scores": {
+   "speaker": {
+    "n": 29,
+    "speaker": 1.0,
+    "delegation": 1.0
+   },
+   "vote": {
+    "n": 27,
+    "outcome": 0.889,
+    "figures": 0.815
+   },
+   "sponsor": {
+    "n": 30,
+    "exact": 0.833,
+    "recall": 0.833
+   },
+   "tag": {
+    "n": 40,
+    "accuracy": 0.7
+   }
+  }
+ },
+ {
+  "model": "gemini-4-argon",
+  "date": "2026-11-01",
+  "label": "v2 items, 2026-11-01 Antigravity run, default effort",
+  "scores": {
+   "speaker": {
+    "n": 29,
+    "speaker": 1.0,
+    "delegation": 1.0
+   },
+   "vote": {
+    "n": 27,
+    "outcome": 0.815,
+    "figures": 0.815
+   },
+   "sponsor": {
+    "n": 30,
+    "exact": 0.867,
+    "recall": 0.867
+   },
+   "tag": {
+    "n": 40,
+    "accuracy": 0.7
+   }
+  }
+ }
+]

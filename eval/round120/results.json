@@ -1,0 +1,907 @@
+{
+  "summary": "Two blind judges (opus, sonnet) give the article of 40 chair turns whose tag round 120 removes; a third (opus) on splits",
+  "agentCount": 9,
+  "logs": [],
+  "result": [
+    {
+      "file": "/Users/lszoszk/Desktop/AI/travaux/eval/round120/batch1.json",
+      "opus": [
+        {
+          "item": 1,
+          "id": "a_c.3_sr.1009-0004",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "The chair complains that meetings start late and time is wasted. Pure procedure, nothing about article 15."
+        },
+        {
+          "item": 2,
+          "id": "a_c.3_sr.1078-0008",
+          "instrument": "ICCPR",
+          "final_article": 20,
+          "certainty": "sure",
+          "reason": "Chair opens draft article 26 (maps to final ICCPR 20) under its heading and notes its agreed placement right after article 19."
+        },
+        {
+          "item": 3,
+          "id": "a_c.3_sr.137-0003",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Time-limit for amendments to the preamble and draft articles 27 and 28, plus the General Committee's request. Procedure covering several provisions."
+        },
+        {
+          "item": 4,
+          "id": "a_c.3_sr.1397-0025",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair only asks Italy to explain its proposal on a reporting body, which concerns all of part IV. Procedural, no single article."
+        },
+        {
+          "item": 5,
+          "id": "a_c.3_sr.1397-0040",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Sets the general deadline for amendments and says sub-amendments have none. Order of work only."
+        },
+        {
+          "item": 6,
+          "id": "a_c.3_sr.1407-0005",
+          "instrument": "ICESCR",
+          "final_article": 26,
+          "certainty": "probable",
+          "reason": "Chair confines the debate to the amendments on draft article 26 (signature and ratification, final ICESCR 26), setting article 28 aside."
+        },
+        {
+          "item": 7,
+          "id": "a_c.3_sr.1412-0041",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "Chair defers article 29 and moves to new article 29 bis. Order of work spanning two articles, neither one dominant."
+        },
+        {
+          "item": 8,
+          "id": "a_c.3_sr.142-0051",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair rules that the Byelorussian request for an immediate vote breaks the rules of procedure. A procedural ruling only."
+        },
+        {
+          "item": 9,
+          "id": "a_c.3_sr.641-0010",
+          "instrument": "ICCPR+ICESCR",
+          "final_article": 1,
+          "certainty": "probable",
+          "reason": "In the article 1 debate, chair accepts that including the self-determination article was settled and asks members to avoid a general debate."
+        },
+        {
+          "item": 10,
+          "id": "a_c.3_sr.727-0019",
+          "instrument": "ICESCR",
+          "final_article": 9,
+          "certainty": "probable",
+          "reason": "Chair sets the written deadline for amendments to draft article 9 (social security, final ICESCR 9). Procedural, but about that one article."
+        }
+      ],
+      "sonnet": [
+        {
+          "item": 1,
+          "id": "a_c.3_sr.1009-0004",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "The chair complains that the Committee starts meetings late; pure order of work."
+        },
+        {
+          "item": 2,
+          "id": "a_c.3_sr.1078-0008",
+          "instrument": "ICCPR",
+          "final_article": 20,
+          "certainty": "sure",
+          "reason": "Chair opens consideration of draft article 26, which the session numbering maps to final ICCPR 20 (war propaganda, hatred); heading confirms."
+        },
+        {
+          "item": 3,
+          "id": "a_c.3_sr.137-0003",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair announces a time-limit for amendments to the preamble and articles 27 and 28; procedure, no single article."
+        },
+        {
+          "item": 4,
+          "id": "a_c.3_sr.1397-0025",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "Chair merely asks Italy to explain its proposal on the body receiving reports; procedural, and the proposal touches several implementation articles."
+        },
+        {
+          "item": 5,
+          "id": "a_c.3_sr.1397-0040",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair fixes the time-limit for amendments and sub-amendments; pure procedure, no article."
+        },
+        {
+          "item": 6,
+          "id": "a_c.3_sr.1407-0005",
+          "instrument": "ICESCR",
+          "final_article": 26,
+          "certainty": "sure",
+          "reason": "Chair confines remarks to amendments to draft article 26, which maps to final ICESCR 26 (signature and ratification)."
+        },
+        {
+          "item": 7,
+          "id": "a_c.3_sr.1412-0041",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair defers article 29 and turns to new article 29 bis; order of work spanning two articles."
+        },
+        {
+          "item": 8,
+          "id": "a_c.3_sr.142-0051",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair refuses an immediate vote as contrary to the rules of procedure; a procedural ruling, no article content."
+        },
+        {
+          "item": 9,
+          "id": "a_c.3_sr.641-0010",
+          "instrument": "ICCPR+ICESCR",
+          "final_article": 1,
+          "certainty": "probable",
+          "reason": "Chair asks that the debate on article 1 (self-determination) stay on the amendments and avoid a general debate; the only article under discussion."
+        },
+        {
+          "item": 10,
+          "id": "a_c.3_sr.727-0019",
+          "instrument": "ICESCR",
+          "final_article": 9,
+          "certainty": "probable",
+          "reason": "Chair sets a written deadline for amendments to draft article 9 (social security) of the ICESCR; heading and report list article 9."
+        }
+      ],
+      "third": []
+    },
+    {
+      "file": "/Users/lszoszk/Desktop/AI/travaux/eval/round120/batch2.json",
+      "opus": [
+        {
+          "item": 11,
+          "id": "a_c.3_sr.731-0021",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair's ruling on the deadline for submitting amendments (no time limit fixed); a procedural matter, not the content of article 10."
+        },
+        {
+          "item": 12,
+          "id": "a_c.3_sr.741-0010",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair puts the Mexican-Ecuadorian procedural proposal to set up a working party to the vote; not a vote on an article's text."
+        },
+        {
+          "item": 13,
+          "id": "a_c.3_sr.781-0015",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair asks speakers to confine remarks to article 14; a call to order about the conduct of debate, not substance."
+        },
+        {
+          "item": 14,
+          "id": "a_c.3_sr.784-0012",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair closes the general debate and proposes a paragraph-by-paragraph examination; this is order of work."
+        },
+        {
+          "item": 15,
+          "id": "a_c.3_sr.784-0020",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair proposes suspending the meeting so delegations can study the translated texts; purely procedural."
+        },
+        {
+          "item": 16,
+          "id": "a_c.3_sr.793-0042",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair suggests adjourning so the sponsors can submit a new text; procedural, with no article content."
+        },
+        {
+          "item": 17,
+          "id": "a_c.3_sr.860-0005",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair clarifies that the Bulgarian proposal was to postpone the vote, not adjourn the debate; a procedural point."
+        },
+        {
+          "item": 18,
+          "id": "a_c.3_sr.860-0026",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair sums up the procedural motions and calls the vote on the Mexican closure motion under the rules of procedure."
+        },
+        {
+          "item": 19,
+          "id": "a_c.3_sr.965-0016",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Under the 'Organization of work' heading: the future programme will be decided after the vote on article 14; order of work."
+        },
+        {
+          "item": 20,
+          "id": "a_c.3_sr.967-0054",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Under 'Organization of work': the chair leaves the choice of the next agenda item to the Committee; procedural."
+        }
+      ],
+      "sonnet": [
+        {
+          "item": 11,
+          "id": "a_c.3_sr.731-0021",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair announces no time limit for amendments and asks delegations to submit them by 5 p.m.; pure order of work."
+        },
+        {
+          "item": 12,
+          "id": "a_c.3_sr.741-0010",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair puts to the vote the proposal to set up a working party; procedural motion, not the content of the articles."
+        },
+        {
+          "item": 13,
+          "id": "a_c.3_sr.781-0015",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "Chair reminds delegates the general debate is over and to confine remarks to article 14; a ruling on procedure, not on education."
+        },
+        {
+          "item": 14,
+          "id": "a_c.3_sr.784-0012",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "Chair closes the general debate and sets paragraph-by-paragraph examination of the working party draft; order of work, not substance."
+        },
+        {
+          "item": 15,
+          "id": "a_c.3_sr.784-0020",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair suggests suspending the meeting so delegations can read the French and Spanish texts; purely procedural."
+        },
+        {
+          "item": 16,
+          "id": "a_c.3_sr.793-0042",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair suggests adjourning so sponsors can submit a new text; procedural, no article content."
+        },
+        {
+          "item": 17,
+          "id": "a_c.3_sr.860-0005",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair clarifies that the Bulgarian motion postpones the vote rather than adjourning debate; a point of procedure."
+        },
+        {
+          "item": 18,
+          "id": "a_c.3_sr.860-0026",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair summarizes procedural motions under the rules of procedure and calls the vote on Mexico's closure motion; no article content."
+        },
+        {
+          "item": 19,
+          "id": "a_c.3_sr.965-0016",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Under the heading Organization of work, the Chair says the programme will be decided after voting on article 14; order of work."
+        },
+        {
+          "item": 20,
+          "id": "a_c.3_sr.967-0054",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Under Organization of work, the Chair says the choice of next agenda item is for the Committee; procedure."
+        }
+      ],
+      "third": []
+    },
+    {
+      "file": "/Users/lszoszk/Desktop/AI/travaux/eval/round120/batch3.json",
+      "opus": [
+        {
+          "item": 21,
+          "id": "a_c.3_sr.968-0038",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair calls the discussion unproductive procedure and adjourns the meeting; nothing about any article's content."
+        },
+        {
+          "item": 22,
+          "id": "a_c.3_sr.98-0016",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Under heading on time-limit for amendments; chair proposes a deadline for submitting amendments generally. Pure procedure."
+        },
+        {
+          "item": 23,
+          "id": "e_cn.4_ac.1_sr.27-0002",
+          "instrument": "ICCPR",
+          "final_article": 26,
+          "certainty": "probable",
+          "reason": "Chair opens draft Covenant article 20 (equality/non-discrimination, as following speeches show), splitting it into parts; maps by subject to ICCPR 26."
+        },
+        {
+          "item": 24,
+          "id": "e_cn.4_ac.1_sr.31-0002",
+          "instrument": "ICCPR",
+          "final_article": 15,
+          "certainty": "sure",
+          "reason": "Chair reports adoption of paragraph 1 of draft article 14, the ex post facto article per Wilson's speech; final ICCPR 15."
+        },
+        {
+          "item": 25,
+          "id": "e_cn.4_ac.1_sr.34-0048",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair proposes the order of work for the whole draft Declaration (accept uncommented articles, start with article 4)."
+        },
+        {
+          "item": 26,
+          "id": "e_cn.4_sr.116-0003",
+          "instrument": "ICCPR",
+          "final_article": 18,
+          "certainty": "sure",
+          "reason": "Chair opens draft article 16 (religion), lists amendments to it and NGOs speaking on it; numbering maps 16 to ICCPR 18."
+        },
+        {
+          "item": 27,
+          "id": "e_cn.4_sr.139-0004",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Under article 5 heading, but chair sets a general working method on government comments before votes; not about the article."
+        },
+        {
+          "item": 28,
+          "id": "e_cn.4_sr.143-0005",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair nominates members of the Committee on Communications; organisational business unrelated to any article."
+        },
+        {
+          "item": 29,
+          "id": "e_cn.4_sr.143-0017",
+          "instrument": "ICCPR",
+          "final_article": 8,
+          "certainty": "probable",
+          "reason": "Chair rules against reopening the previous vote on article 8 paragraph 3 (forced labour); draft 8 maps to ICCPR 8."
+        },
+        {
+          "item": 30,
+          "id": "e_cn.4_sr.145-0007",
+          "instrument": "ICCPR",
+          "final_article": 8,
+          "certainty": "probable",
+          "reason": "Under article 8 heading, chair has the Commission hear the Drafting Group's report on article 8 before article 9; ICCPR 8."
+        }
+      ],
+      "sonnet": [
+        {
+          "item": 21,
+          "id": "a_c.3_sr.968-0038",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair calls the debate an unproductive procedural discussion and adjourns the meeting; no article's content is addressed."
+        },
+        {
+          "item": 22,
+          "id": "a_c.3_sr.98-0016",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair asks about a time-limit for submitting amendments; pure order of work, under a procedural heading, not about article 1."
+        },
+        {
+          "item": 23,
+          "id": "e_cn.4_ac.1_sr.27-0002",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "Chair only proposes taking draft Article 20 in two parts; no numbering given, and the discrimination clause could be final ICCPR 2 or 26."
+        },
+        {
+          "item": 24,
+          "id": "e_cn.4_ac.1_sr.31-0002",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "Mostly administrative instructions on submitting record corrections; the Article 14 reference is only a passing note that paragraph 1 was accepted."
+        },
+        {
+          "item": 25,
+          "id": "e_cn.4_ac.1_sr.34-0048",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair proposes how the Committee should order its work on the Draft Declaration; procedure, no article."
+        },
+        {
+          "item": 26,
+          "id": "e_cn.4_sr.116-0003",
+          "instrument": "ICCPR",
+          "final_article": 18,
+          "certainty": "sure",
+          "reason": "Chair opens discussion of draft article 16, which numbering maps to ICCPR 18; the NGO statements that follow concern religious freedom."
+        },
+        {
+          "item": 27,
+          "id": "e_cn.4_sr.139-0004",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair proposes how members should state support for their Government's comments before voting; method of work, not the substance of article 5."
+        },
+        {
+          "item": 28,
+          "id": "e_cn.4_sr.143-0005",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair nominates members of the Committee on Communications; unrelated to any article despite the Article 8 heading."
+        },
+        {
+          "item": 29,
+          "id": "e_cn.4_sr.143-0017",
+          "instrument": "ICCPR",
+          "final_article": 8,
+          "certainty": "probable",
+          "reason": "Chair rules against reopening the previous meeting's vote on the paragraph 3 forced-labour wording of draft article 8 (ICCPR 8); procedural ruling, but tied to that vote."
+        },
+        {
+          "item": 30,
+          "id": "e_cn.4_sr.145-0007",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair proposes hearing the Drafting Group's report before starting article 9; order of work, mentioning two articles with neither dominating."
+        }
+      ],
+      "third": [
+        {
+          "item": 23,
+          "id": "e_cn.4_ac.1_sr.27-0002",
+          "instrument": "ICCPR",
+          "final_article": 26,
+          "certainty": "probable",
+          "reason": "Chair opens draft Covenant Article 20 (equality before the law, protection against discrimination), splitting it into parts; maps by subject to ICCPR 26."
+        },
+        {
+          "item": 24,
+          "id": "e_cn.4_ac.1_sr.31-0002",
+          "instrument": "ICCPR",
+          "final_article": 15,
+          "certainty": "sure",
+          "reason": "Chair records adoption of paragraph 1 of draft Article 14 (ex post facto offences, per following speeches); rest is boilerplate. Final ICCPR 15."
+        },
+        {
+          "item": 30,
+          "id": "e_cn.4_sr.145-0007",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "Procedural vote on the order of work: hear the Drafting Group's article 8 report before starting article 9; no article's content."
+        }
+      ]
+    },
+    {
+      "file": "/Users/lszoszk/Desktop/AI/travaux/eval/round120/batch4.json",
+      "opus": [
+        {
+          "item": 31,
+          "id": "e_cn.4_sr.145-0011",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "Order of work: chair puts off draft article 8 (no French text) and moves on to article 9; nothing about either article's content."
+        },
+        {
+          "item": 32,
+          "id": "e_cn.4_sr.172-0021",
+          "instrument": "ICCPR",
+          "final_article": 26,
+          "certainty": "sure",
+          "reason": "Under the Article 20 heading, chair opens debate on draft article 20 (equality before the law), which maps to ICCPR 26; it names no other article."
+        },
+        {
+          "item": 33,
+          "id": "e_cn.4_sr.197-0142",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair lists three draft resolutions (France, Lebanon, Denmark) on implementation/annual reports; procedural, no article."
+        },
+        {
+          "item": 34,
+          "id": "e_cn.4_sr.278-0018",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "General procedural ruling on the order of voting on amendments to amendments, to apply in future; not about the right to work."
+        },
+        {
+          "item": 35,
+          "id": "e_cn.4_sr.292-0026",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair's notice about resubmitting amendments to the first eighteen articles, found in report annexes; procedural, covers many articles."
+        },
+        {
+          "item": 36,
+          "id": "e_cn.4_sr.319-0009",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair gives the floor to an NGO representative; procedural, though the NGO's own speech that follows is on article 13."
+        },
+        {
+          "item": 37,
+          "id": "e_cn.4_sr.326-0011",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair on rule 59 (dividing a proposal) versus voting practice; a general question of procedure."
+        },
+        {
+          "item": 38,
+          "id": "e_cn.4_sr.331-0008",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair on minority observations going in an annex to the report, and the deadline for them; procedural."
+        },
+        {
+          "item": 39,
+          "id": "e_cn.4_sr.360-0029",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair notes general agreement on his proposed procedure; order of work only."
+        },
+        {
+          "item": 40,
+          "id": "e_cn.4_sr.94-0009",
+          "instrument": "ICCPR",
+          "final_article": 6,
+          "certainty": "probable",
+          "reason": "Chair names the members of the sub-committee to draft article 5 (maps to ICCPR 6) and its meeting date; procedural, but about drafting that one article."
+        }
+      ],
+      "sonnet": [
+        {
+          "item": 31,
+          "id": "e_cn.4_sr.145-0011",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair moves on to article 9 because article 8's French text is missing: order of work, tied to two articles, none dominating."
+        },
+        {
+          "item": 32,
+          "id": "e_cn.4_sr.172-0021",
+          "instrument": "ICCPR",
+          "final_article": 26,
+          "certainty": "sure",
+          "reason": "Chair opens discussion of draft article 20 (equality before the law), which maps to final ICCPR 26; the debate that follows confirms it."
+        },
+        {
+          "item": 33,
+          "id": "e_cn.4_sr.197-0142",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair notes that three draft resolutions (France, Lebanon, Denmark) are before the Commission; procedural, no covenant article."
+        },
+        {
+          "item": 34,
+          "id": "e_cn.4_sr.278-0018",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair's ruling on the order of voting on amendments to amendments; a procedural point, not the right to work itself."
+        },
+        {
+          "item": 35,
+          "id": "e_cn.4_sr.292-0026",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair explains how amendments from the previous session may be resubmitted; procedure, no particular article."
+        },
+        {
+          "item": 36,
+          "id": "e_cn.4_sr.319-0009",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "Chair invites an NGO representative to address the Commission; the invitation names no article and is procedural."
+        },
+        {
+          "item": 37,
+          "id": "e_cn.4_sr.326-0011",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair raises a conflict between rule 59 and practice on dividing proposals for a vote; pure rules of procedure."
+        },
+        {
+          "item": 38,
+          "id": "e_cn.4_sr.331-0008",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair fixes the procedure and deadline for minority observations annexed to the report; order of work."
+        },
+        {
+          "item": 39,
+          "id": "e_cn.4_sr.360-0029",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Chair remarks on agreement about his proposed method of work; procedural, names no article."
+        },
+        {
+          "item": 40,
+          "id": "e_cn.4_sr.94-0009",
+          "instrument": "ICCPR",
+          "final_article": 6,
+          "certainty": "probable",
+          "reason": "Chair sets up the sub-committee to draft draft article 5 (right to life, final ICCPR 6); mostly membership, but its task is that article."
+        }
+      ],
+      "third": []
+    }
+  ],
+  "workflowProgress": [
+    {
+      "type": "workflow_phase",
+      "index": 1,
+      "title": "Judge"
+    },
+    {
+      "type": "workflow_phase",
+      "index": 2,
+      "title": "Third"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 1,
+      "label": "opus:batch1.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a41f56866aeb6bd54",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1793464400177,
+      "queuedAt": 1793464400159,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round120/batch1.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793464498830,
+      "tokens": 94902,
+      "toolCalls": 7,
+      "durationMs": 98652,
+      "resultPreview": "{\"answers\":[{\"item\":1,\"id\":\"a_c.3_sr.1009-0004\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"sure\",\"reason\":\"The chair complains that meetings start late and time is wasted. Pure procedure, nothing about article 15.\"},{\"item\":2,\"id\":\"a_c.3_sr.1078-0008\",\"instrument\":\"ICCPR\",\"final_article\":20,\"certainty\":\"sure\",\"reason\":\"Chair opens draft article 26 (maps to final ICCPR 20) under its head…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 2,
+      "label": "sonnet:batch1.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "ab912b0d684bf0035",
+      "model": "claude-sonnet-5-5",
+      "state": "done",
+      "startedAt": 1793464400177,
+      "queuedAt": 1793464400160,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round120/batch1.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793464462072,
+      "tokens": 88513,
+      "toolCalls": 8,
+      "durationMs": 61893,
+      "resultPreview": "{\"answers\":[{\"item\":1,\"id\":\"a_c.3_sr.1009-0004\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"sure\",\"reason\":\"The chair complains that the Committee starts meetings late; pure order of work.\"},{\"item\":2,\"id\":\"a_c.3_sr.1078-0008\",\"instrument\":\"ICCPR\",\"final_article\":20,\"certainty\":\"sure\",\"reason\":\"Chair opens consideration of draft article 26, which the session numbering maps to final ICCPR…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 3,
+      "label": "opus:batch2.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "aa799619446bb9740",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1793464400205,
+      "queuedAt": 1793464400198,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round120/batch2.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793464456887,
+      "tokens": 86926,
+      "toolCalls": 9,
+      "durationMs": 56681,
+      "resultPreview": "{\"answers\":[{\"item\":11,\"id\":\"a_c.3_sr.731-0021\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"sure\",\"reason\":\"Chair's ruling on the deadline for submitting amendments (no time limit fixed); a procedural matter, not the content of article 10.\"},{\"item\":12,\"id\":\"a_c.3_sr.741-0010\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"sure\",\"reason\":\"Chair puts the Mexican-Ecuadorian procedur…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 4,
+      "label": "sonnet:batch2.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a1cb9c15d5c934d5f",
+      "model": "claude-sonnet-5-5",
+      "state": "done",
+      "startedAt": 1793464400206,
+      "queuedAt": 1793464400199,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round120/batch2.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793464447529,
+      "tokens": 86754,
+      "toolCalls": 10,
+      "durationMs": 47322,
+      "resultPreview": "{\"answers\":[{\"item\":11,\"id\":\"a_c.3_sr.731-0021\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"sure\",\"reason\":\"Chair announces no time limit for amendments and asks delegations to submit them by 5 p.m.; pure order of work.\"},{\"item\":12,\"id\":\"a_c.3_sr.741-0010\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"sure\",\"reason\":\"Chair puts to the vote the proposal to set up a working party;…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 5,
+      "label": "opus:batch3.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a3920a0004e372279",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1793464400237,
+      "queuedAt": 1793464400231,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round120/batch3.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793464479630,
+      "tokens": 76980,
+      "toolCalls": 4,
+      "durationMs": 79392,
+      "resultPreview": "{\"answers\":[{\"item\":21,\"id\":\"a_c.3_sr.968-0038\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"sure\",\"reason\":\"Chair calls the discussion unproductive procedure and adjourns the meeting; nothing about any article's content.\"},{\"item\":22,\"id\":\"a_c.3_sr.98-0016\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"sure\",\"reason\":\"Under heading on time-limit for amendments; chair proposes a d…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 6,
+      "label": "sonnet:batch3.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "adef7005a3cbbb22b",
+      "model": "claude-sonnet-5-5",
+      "state": "done",
+      "startedAt": 1793464400237,
+      "queuedAt": 1793464400231,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round120/batch3.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793464474745,
+      "tokens": 83443,
+      "toolCalls": 7,
+      "durationMs": 74507,
+      "resultPreview": "{\"answers\":[{\"item\":21,\"id\":\"a_c.3_sr.968-0038\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"sure\",\"reason\":\"Chair calls the debate an unproductive procedural discussion and adjourns the meeting; no article's content is addressed.\"},{\"item\":22,\"id\":\"a_c.3_sr.98-0016\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"sure\",\"reason\":\"Chair asks about a time-limit for submitting amendmen…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 7,
+      "label": "opus:batch4.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a0114890c2c874024",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1793464400263,
+      "queuedAt": 1793464400257,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round120/batch4.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793464511229,
+      "tokens": 94755,
+      "toolCalls": 9,
+      "durationMs": 110966,
+      "resultPreview": "{\"answers\":[{\"item\":31,\"id\":\"e_cn.4_sr.145-0011\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"probable\",\"reason\":\"Order of work: chair puts off draft article 8 (no French text) and moves on to article 9; nothing about either article's content.\"},{\"item\":32,\"id\":\"e_cn.4_sr.172-0021\",\"instrument\":\"ICCPR\",\"final_article\":26,\"certainty\":\"sure\",\"reason\":\"Under the Article 20 heading, chair ope…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 8,
+      "label": "sonnet:batch4.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a2679c799a792ae8a",
+      "model": "claude-sonnet-5-5",
+      "state": "done",
+      "startedAt": 1793464400263,
+      "queuedAt": 1793464400258,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round120/batch4.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793464445556,
+      "tokens": 98047,
+      "toolCalls": 4,
+      "durationMs": 45291,
+      "resultPreview": "{\"answers\":[{\"item\":31,\"id\":\"e_cn.4_sr.145-0011\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"sure\",\"reason\":\"Chair moves on to article 9 because article 8's French text is missing: order of work, tied to two articles, none dominating.\"},{\"item\":32,\"id\":\"e_cn.4_sr.172-0021\",\"instrument\":\"ICCPR\",\"final_article\":26,\"certainty\":\"sure\",\"reason\":\"Chair opens discussion of draft article 20 (equ…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 9,
+      "label": "third:batch3.json",
+      "phaseIndex": 2,
+      "phaseTitle": "Third",
+      "agentId": "afa67bd422aa390f7",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1793464482312,
+      "queuedAt": 1793464482306,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round120/batch3.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793464543095,
+      "tokens": 60708,
+      "toolCalls": 5,
+      "durationMs": 60783,
+      "resultPreview": "{\"answers\":[{\"item\":23,\"id\":\"e_cn.4_ac.1_sr.27-0002\",\"instrument\":\"ICCPR\",\"final_article\":26,\"certainty\":\"probable\",\"reason\":\"Chair opens draft Covenant Article 20 (equality before the law, protection against discrimination), splitting it into parts; maps by subject to ICCPR 26.\"},{\"item\":24,\"id\":\"e_cn.4_ac.1_sr.31-0002\",\"instrument\":\"ICCPR\",\"final_article\":15,\"certainty\":\"sure\",\"reason\":\"Chair re…"
+    }
+  ],
+  "totalTokens": 771028,
+  "totalToolCalls": 63
+}

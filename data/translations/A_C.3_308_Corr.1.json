@@ -1,0 +1,25 @@
+{
+ "symbol": "A/C.3/308/Corr.1",
+ "source_language": "fr",
+ "source_file": "A_C.3_308_Corr.1-FR.pdf",
+ "translation_model": "claude-fable-5-1",
+ "check_model": "claude-sonnet-5-5",
+ "translation_date": "2026-09-29",
+ "title": "Draft International Declaration of Human Rights — Mexico: Amendment to article 6",
+ "date": "1948-10-25",
+ "stated_original_language": "not stated",
+ "pages": [
+  {
+   "page": 1,
+   "text": "United Nations                    Nations Unies\nGENERAL ASSEMBLY                  ASSEMBLEE GENERALE\n\nUNRESTRICTED\nA/C.3/308/Corr.1\n25 October 1948\nFRENCH ONLY\n\nThird session                                        Dual distribution\nTHIRD COMMITTEE\n\nDRAFT INTERNATIONAL DECLARATION\nOF HUMAN RIGHTS\n\nMexico: Amendment to article 6\n\nAdd to article 6 a second paragraph worded as follows:\n\n\"Everyone shall be able to bring an effective action at law if he is the victim of acts constituting a violation of the fundamental rights conferred on him by the constitution.\"\n\n-----"
+  }
+ ],
+ "uncertain": [],
+ "check": {
+  "verdict": "faithful",
+  "issues": [],
+  "resolved_by_translator": false,
+  "first_pass": null,
+  "summary": "checked against the scan by claude-sonnet-5-5: no discrepancy found"
+ }
+}

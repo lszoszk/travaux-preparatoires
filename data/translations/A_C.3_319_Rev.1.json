@@ -1,0 +1,25 @@
+{
+ "symbol": "A/C.3/319/Rev.1",
+ "source_language": "fr",
+ "source_file": "A_C.3_319_Rev.1-FR.pdf",
+ "translation_model": "claude-fable-5-1",
+ "check_model": "claude-sonnet-5-5",
+ "translation_date": "2026-09-29",
+ "title": "DRAFT INTERNATIONAL DECLARATION OF HUMAN RIGHTS — United Kingdom: Compromise text for article 10 (E/800)",
+ "date": "1948-10-30",
+ "stated_original_language": "not stated (marked \"FRENCH ONLY\")",
+ "pages": [
+  {
+   "page": 1,
+   "text": "United Nations / Nations Unies\nGENERAL ASSEMBLY / ASSEMBLEE GENERALE\n\nUNRESTRICTED\nA/C.3/319/Rev.1\n30 October 1948\nFRENCH ONLY\n\nDual distribution\n\nThird session\nTHIRD COMMITTEE\n\nDRAFT INTERNATIONAL DECLARATION OF HUMAN RIGHTS\nUnited Kingdom: Compromise text for article 10 (E/800)\n\n\"No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence.\nEveryone has the right to the protection of the law against attacks upon his honour and reputation.\"\n\n--------"
+  }
+ ],
+ "uncertain": [],
+ "check": {
+  "verdict": "faithful",
+  "issues": [],
+  "resolved_by_translator": false,
+  "first_pass": null,
+  "summary": "checked against the scan by claude-sonnet-5-5: no discrepancy found"
+ }
+}

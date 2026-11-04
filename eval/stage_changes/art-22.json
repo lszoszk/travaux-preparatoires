@@ -1,0 +1,365 @@
+{
+ "article": 22,
+ "texts": {
+  "secretariat_outline": "Every one has the right to social security. The State shall maintain effective arrangements for the prevention of unemployment and for insurance against the risks of unemployment, accident, disability, sickness, old age and other involuntary or undeserved loss of livelihood.",
+  "cassin_draft": "Every one has the right to social security. To the utmost of its possibilities, the State shall maintain effective arrangements for the prevention of unemployment and, with the participation of beneficiaries, shall organise insurance against invalidity, illness, old age and all other involuntary and undeserved losses of livelihood. Mothers and children have the right to special regard, care and resources.",
+  "drafting_committee_1": "Every one has the right to social security. To the utmost of its possibilities, the State shall undertake measures for the promotion of full employment and for the security of the individual against unemployment, disability, old age and all other loss of livelihood for reasons beyond his control. Mothers and children have the right to special regard, care and resources.",
+  "e_cn4_57": "Everyone has the right to social security. The State has a duty to maintain or ensure the maintenance of comprehensive measures for the security of the individual against the consequences of unemployment, disability, old age and all other loss of livelihood for reasons beyond his control. Motherhood shall be granted special care and assistance. Children are similarly entitled to special care and assistance.\" ARTICLE",
+  "geneva_draft": "26 1. Every one has the right to social security. The State has a duty to maintain or ensure the maintenance of comprehensive measures for the security of the individual against the consequence of unemployment, disability, old age and all other loss of livelihood for reasons beyond his control. 2. Motherhood shall be granted special care and assistance. Children are similarly entitled to special care and assistance.",
+  "drafting_committee_2": "1. Every one has the right to social security. The State has a duty to maintain or ensure the maintenance of comprehensive measures for the security of the individual against the consequence of unemployment, disability, old age and all other loss of livelihood for reasons beyond his control. 2. Motherhood shall be granted special care and assistance. Children are similarly entitled to special care and assistance.",
+  "chr_3": "Everyone, as a member of society, has the right to social security and is entitled to the realization, through national effort and international co-operation, and in accordance with the organization and resources of each State, of the economic, social and cultural rights set out below.",
+  "a777": "Everyone, as a member of society, has the right to social security and is entitled to realization, through national effort and international co-operation and in accordance with the organization and resources of each State, of the economic, social and cultural rights indispensable for his dignity and the free development of his personality. Article",
+  "final": "Everyone, as a member of society, has the right to social security and is entitled to realization, through national effort and international co-operation and in accordance with the organization and resources of each State, of the economic, social and cultural rights indispensable for his dignity and the free development of his personality."
+ },
+ "sources": {
+  "secretariat_outline": [
+   {
+    "symbol": "E/CN.4/AC.1/3",
+    "draft_article": 41,
+    "page": 14,
+    "text_from": "vision reader"
+   }
+  ],
+  "cassin_draft": [
+   {
+    "symbol": "E/CN.4/AC.1/W.2/Rev.2",
+    "draft_article": 34,
+    "page": 6,
+    "text_from": "vision reader"
+   }
+  ],
+  "drafting_committee_1": [
+   {
+    "symbol": "E/CN.4/21",
+    "draft_article": 34,
+    "page": 80,
+    "text_from": "vision reader"
+   }
+  ],
+  "e_cn4_57": [
+   {
+    "symbol": "E/CN.4/57",
+    "draft_article": 34,
+    "page": 15,
+    "text_from": "vision reader"
+   }
+  ],
+  "geneva_draft": [
+   {
+    "symbol": "E/600",
+    "draft_article": 26,
+    "page": 20,
+    "text_from": "vision reader"
+   }
+  ],
+  "drafting_committee_2": [
+   {
+    "symbol": "E/CN.4/95",
+    "draft_article": 26,
+    "page": 11,
+    "text_from": "vision reader"
+   }
+  ],
+  "chr_3": [
+   {
+    "symbol": "E/800",
+    "draft_article": 20,
+    "page": 12,
+    "text_from": "vision reader"
+   }
+  ],
+  "a777": [
+   {
+    "symbol": "A/777",
+    "draft_article": 23,
+    "page": 5,
+    "text_from": "vision reader"
+   }
+  ],
+  "final": [
+   {
+    "symbol": "A/RES/217(III)",
+    "text_from": "un.org"
+   }
+  ]
+ },
+ "steps": [
+  {
+   "from": "secretariat_outline",
+   "to": "cassin_draft",
+   "changes": [
+    {
+     "kind": "added",
+     "old": "",
+     "new": "to the utmost of its possibilities",
+     "context": "right to social security to the utmost of its possibilities the state shall maintain",
+     "n": "secretariat_outline>cassin_draft#1"
+    },
+    {
+     "kind": "replaced",
+     "old": "for",
+     "new": "with the participation of beneficiaries shall organise",
+     "context": "prevention of unemployment and with the participation of beneficiaries shall organise insurance against invalidity illness",
+     "n": "secretariat_outline>cassin_draft#2"
+    },
+    {
+     "kind": "replaced",
+     "old": "the risks of unemployment accident disability sickness",
+     "new": "invalidity illness",
+     "context": "shall organise insurance against invalidity illness old age and all",
+     "n": "secretariat_outline>cassin_draft#3"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "all",
+     "context": "illness old age and all other involuntary and undeserved",
+     "n": "secretariat_outline>cassin_draft#4"
+    },
+    {
+     "kind": "replaced",
+     "old": "or",
+     "new": "and",
+     "context": "and all other involuntary and undeserved losses of livelihood",
+     "n": "secretariat_outline>cassin_draft#5"
+    },
+    {
+     "kind": "replaced",
+     "old": "loss",
+     "new": "losses",
+     "context": "other involuntary and undeserved losses of livelihood mothers and",
+     "n": "secretariat_outline>cassin_draft#6"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "mothers and children have the right to special regard care and resources",
+     "context": "undeserved losses of livelihood mothers and children have the right to special regard care and resources",
+     "n": "secretariat_outline>cassin_draft#7"
+    }
+   ]
+  },
+  {
+   "from": "cassin_draft",
+   "to": "drafting_committee_1",
+   "changes": [
+    {
+     "kind": "replaced",
+     "old": "maintain effective arrangements",
+     "new": "undertake measures",
+     "context": "possibilities the state shall undertake measures for the promotion of",
+     "n": "cassin_draft>drafting_committee_1#1"
+    },
+    {
+     "kind": "replaced",
+     "old": "prevention",
+     "new": "promotion",
+     "context": "undertake measures for the promotion of full employment and",
+     "n": "cassin_draft>drafting_committee_1#2"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "full employment and for the security of the individual against",
+     "context": "for the promotion of full employment and for the security of the individual against unemployment disability old age",
+     "n": "cassin_draft>drafting_committee_1#3"
+    },
+    {
+     "kind": "replaced",
+     "old": "and with the participation of beneficiaries shall organise insurance against invalidity illness",
+     "new": "disability",
+     "context": "the individual against unemployment disability old age and all",
+     "n": "cassin_draft>drafting_committee_1#4"
+    },
+    {
+     "kind": "replaced",
+     "old": "involuntary and undeserved losses",
+     "new": "loss",
+     "context": "age and all other loss of livelihood for reasons",
+     "n": "cassin_draft>drafting_committee_1#5"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "for reasons beyond his control",
+     "context": "other loss of livelihood for reasons beyond his control mothers and children have",
+     "n": "cassin_draft>drafting_committee_1#6"
+    }
+   ]
+  },
+  {
+   "from": "drafting_committee_1",
+   "to": "e_cn4_57",
+   "changes": [
+    {
+     "kind": "replaced",
+     "old": "every one",
+     "new": "everyone",
+     "context": "everyone has the right to",
+     "n": "drafting_committee_1>e_cn4_57#1"
+    },
+    {
+     "kind": "dropped",
+     "old": "to the utmost of its possibilities",
+     "new": "",
+     "context": "right to social security to the utmost of its possibilities the state shall undertake",
+     "n": "drafting_committee_1>e_cn4_57#2"
+    },
+    {
+     "kind": "replaced",
+     "old": "shall undertake",
+     "new": "has a duty to maintain or ensure the maintenance of comprehensive",
+     "context": "social security the state has a duty to maintain or ensure the maintenance of comprehensive measures for the security",
+     "n": "drafting_committee_1>e_cn4_57#3"
+    },
+    {
+     "kind": "dropped",
+     "old": "for the promotion of full employment and",
+     "new": "",
+     "context": "state shall undertake measures for the promotion of full employment and for the security of",
+     "n": "drafting_committee_1>e_cn4_57#4"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "the consequences of",
+     "context": "of the individual against the consequences of unemployment disability old age",
+     "n": "drafting_committee_1>e_cn4_57#5"
+    },
+    {
+     "kind": "replaced",
+     "old": "mothers",
+     "new": "motherhood shall be granted special care",
+     "context": "reasons beyond his control motherhood shall be granted special care and assistance children are",
+     "n": "drafting_committee_1>e_cn4_57#6"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "assistance",
+     "context": "granted special care and assistance children are similarly entitled",
+     "n": "drafting_committee_1>e_cn4_57#7"
+    },
+    {
+     "kind": "replaced",
+     "old": "have the right",
+     "new": "are similarly entitled",
+     "context": "care and assistance children are similarly entitled to special care and",
+     "n": "drafting_committee_1>e_cn4_57#8"
+    },
+    {
+     "kind": "dropped",
+     "old": "regard",
+     "new": "",
+     "context": "the right to special regard care and resources",
+     "n": "drafting_committee_1>e_cn4_57#9"
+    },
+    {
+     "kind": "replaced",
+     "old": "resources",
+     "new": "assistance",
+     "context": "to special care and assistance",
+     "n": "drafting_committee_1>e_cn4_57#10"
+    }
+   ]
+  },
+  {
+   "from": "e_cn4_57",
+   "to": "geneva_draft",
+   "changes": [
+    {
+     "kind": "replaced",
+     "old": "everyone",
+     "new": "every one",
+     "context": "every one has the right to",
+     "n": "e_cn4_57>geneva_draft#1"
+    },
+    {
+     "kind": "replaced",
+     "old": "consequences",
+     "new": "consequence",
+     "context": "the individual against the consequence of unemployment disability old",
+     "n": "e_cn4_57>geneva_draft#2"
+    }
+   ]
+  },
+  {
+   "from": "geneva_draft",
+   "to": "drafting_committee_2",
+   "changes": []
+  },
+  {
+   "from": "drafting_committee_2",
+   "to": "chr_3",
+   "changes": [
+    {
+     "kind": "replaced",
+     "old": "every one",
+     "new": "everyone as a member of society",
+     "context": "everyone as a member of society has the right to",
+     "n": "drafting_committee_2>chr_3#1"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "and is entitled to",
+     "context": "right to social security and is entitled to the realization through national",
+     "n": "drafting_committee_2>chr_3#2"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "realization through national effort and international co-operation and in accordance with the organization and resources of each",
+     "context": "is entitled to the realization through national effort and international co-operation and in accordance with the organization and resources of each state of the economic",
+     "n": "drafting_committee_2>chr_3#3"
+    },
+    {
+     "kind": "dropped",
+     "old": "has a duty to maintain or ensure the maintenance of comprehensive measures for the security",
+     "new": "",
+     "context": "social security the state has a duty to maintain or ensure the maintenance of comprehensive measures for the security of the individual against",
+     "n": "drafting_committee_2>chr_3#4"
+    },
+    {
+     "kind": "replaced",
+     "old": "individual against the consequence of unemployment disability old age",
+     "new": "economic social",
+     "context": "each state of the economic social and cultural rights set",
+     "n": "drafting_committee_2>chr_3#5"
+    },
+    {
+     "kind": "replaced",
+     "old": "all other loss of livelihood for reasons beyond his control motherhood shall be granted special care and assistance children are similarly entitled to special care and assistance",
+     "new": "cultural rights set out below",
+     "context": "the economic social and cultural rights set out below",
+     "n": "drafting_committee_2>chr_3#6"
+    }
+   ]
+  },
+  {
+   "from": "chr_3",
+   "to": "a777",
+   "changes": [
+    {
+     "kind": "dropped",
+     "old": "the",
+     "new": "",
+     "context": "and is entitled to the realization through national effort",
+     "n": "chr_3>a777#1"
+    },
+    {
+     "kind": "replaced",
+     "old": "set out below",
+     "new": "indispensable for his dignity and the free development of his personality",
+     "context": "social and cultural rights indispensable for his dignity and the free development of his personality",
+     "n": "chr_3>a777#2"
+    }
+   ]
+  },
+  {
+   "from": "a777",
+   "to": "final",
+   "changes": []
+  }
+ ]
+}

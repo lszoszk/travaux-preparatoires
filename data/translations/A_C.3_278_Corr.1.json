@@ -1,0 +1,41 @@
+{
+ "symbol": "A/C.3/278/Corr.1",
+ "source_language": "fr",
+ "source_file": "A_C.3_278_Corr.1-FR.pdf",
+ "translation_model": "claude-fable-5-1",
+ "check_model": "claude-sonnet-5-5",
+ "translation_date": "2026-09-29",
+ "title": "Draft International Declaration of Human Rights — Corrigendum to the Summary of amendments proposed to Article 9",
+ "date": "1948-10-28",
+ "stated_original_language": "not stated (marked \"FRENCH ONLY\")",
+ "pages": [
+  {
+   "page": 1,
+   "text": "United Nations                    Nations Unies                    MASTER FILE\nGENERAL ASSEMBLY                  ASSEMBLEE GENERALE               UNRESTRICTED\n                                                                   A/C.3/278/Corr.1\n                                                                   28 October 1948\n                                                                   FRENCH ONLY\n\n                                                                   Dual distribution\n\nThird session\nTHIRD COMMITTEE\n\nDRAFT INTERNATIONAL DECLARATION OF HUMAN RIGHTS\n\nCorrigendum to the Summary of amendments proposed to Article 9\n\nIn the French text of this summary, replace the fourth paragraph by the following text:\n\nUnion of Soviet Socialist Republics (E/800)\n\nReplace the word \"public\" by \"which shall be public except in cases expressly provided for in the interest of the protection of morals or of the security of the State\".\n\n(This corrigendum also applies to the French text of paragraph 6, page 32, of document E/800)\n\n-----"
+  }
+ ],
+ "uncertain": [
+  {
+   "page": 1,
+   "french": "Troisième session / TROISIEME COMMISSION",
+   "issue": "Left margin of the scan is cut off; the first letters of both lines are missing but the words are unambiguous."
+  },
+  {
+   "page": 1,
+   "french": "paragraphe par le texte suivant / ment prévus / l'Etat",
+   "issue": "Left margin cut off at the start of these lines; reconstructed from context (\"paragraphe\", \"expressément\", \"l'Etat\")."
+  },
+  {
+   "page": 1,
+   "french": "dans l'intérêt de la défense de la morale",
+   "issue": "\"défense de la morale\" rendered as \"protection of morals\"; \"defence of morality\" would be a more literal alternative."
+  }
+ ],
+ "check": {
+  "verdict": "faithful",
+  "issues": [],
+  "resolved_by_translator": false,
+  "first_pass": null,
+  "summary": "checked against the scan by claude-sonnet-5-5: no discrepancy found; 3 doubtful passage(s) noted"
+ }
+}

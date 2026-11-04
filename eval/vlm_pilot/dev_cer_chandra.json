@@ -1,0 +1,199 @@
+{
+ "pages_file": "eval/vlm_pilot/dev_set.json",
+ "min_found": 88,
+ "summary": {
+  "1947-48 typed documents/reports": {
+   "pages": 4,
+   "chars": 1139,
+   "cer": {
+    "vote": 0.021071115013169446,
+    "tess3": 0.00877963125548727,
+    "vision": 0.23880597014925373,
+    "layer": 0.043898156277436345,
+    "chandra": 0.007023705004389816
+   }
+  },
+  "1947-48 typed summary records": {
+   "pages": 13,
+   "chars": 20577,
+   "cer": {
+    "vote": 0.025125139719103854,
+    "tess3": 0.03960732857073432,
+    "vision": 0.0689604898673276,
+    "layer": 0.042328813724060846,
+    "chandra": 0.004082227729989794
+   }
+  },
+  "1948 printed (GAOR, EN/FR columns)": {
+   "pages": 3,
+   "chars": 7930,
+   "cer": {
+    "vote": 0.027364438839848675,
+    "tess3": 0.01828499369482976,
+    "vision": 0.038965952080706176,
+    "layer": 0.16191677175283734,
+    "chandra": 0.009331651954602775
+   }
+  },
+  "ALL": {
+   "pages": 20,
+   "chars": 29646,
+   "cer": {
+    "vote": 0.025568373473655804,
+    "tess3": 0.03271942251905822,
+    "vision": 0.06746272684341902,
+    "layer": 0.07437765634486945,
+    "chandra": 0.005599406328003778
+   }
+  }
+ },
+ "documents": [
+  {
+   "symbol": "E/CN.4/SR.61",
+   "group": "1947-48 typed summary records",
+   "pages": 4,
+   "segments": 37,
+   "chars": 5777,
+   "errors": {
+    "vote": 148,
+    "tess3": 290,
+    "vision": 636,
+    "layer": 382,
+    "chandra": 23
+   },
+   "cer": {
+    "vote": 0.025618833304483297,
+    "tess3": 0.050199065258784835,
+    "vision": 0.11009174311926606,
+    "layer": 0.06612428596157174,
+    "chandra": 0.003981305175696728
+   }
+  },
+  {
+   "symbol": "E/CN.4/AC.2/SR.7",
+   "group": "1947-48 typed summary records",
+   "pages": 4,
+   "segments": 43,
+   "chars": 5536,
+   "errors": {
+    "vote": 147,
+    "tess3": 169,
+    "vision": 196,
+    "layer": 173,
+    "chandra": 47
+   },
+   "cer": {
+    "vote": 0.026553468208092484,
+    "tess3": 0.030527456647398844,
+    "vision": 0.03540462427745665,
+    "layer": 0.03125,
+    "chandra": 0.008489884393063583
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.80",
+   "group": "1947-48 typed summary records",
+   "pages": 4,
+   "segments": 52,
+   "chars": 7429,
+   "errors": {
+    "vote": 198,
+    "tess3": 327,
+    "vision": 508,
+    "layer": 291,
+    "chandra": 13
+   },
+   "cer": {
+    "vote": 0.02665230852066227,
+    "tess3": 0.04401669134473011,
+    "vision": 0.06838067034594159,
+    "layer": 0.039170817068246065,
+    "chandra": 0.0017498990442859066
+   }
+  },
+  {
+   "symbol": "E/CN.4/AC.1/9",
+   "group": "1947-48 typed documents/reports",
+   "pages": 2,
+   "segments": 4,
+   "chars": 949,
+   "errors": {
+    "vote": 22,
+    "tess3": 8,
+    "vision": 197,
+    "layer": 30,
+    "chandra": 7
+   },
+   "cer": {
+    "vote": 0.023182297154899896,
+    "tess3": 0.008429926238145416,
+    "vision": 0.20758693361433087,
+    "layer": 0.03161222339304531,
+    "chandra": 0.007376185458377239
+   }
+  },
+  {
+   "symbol": "A/C.3/214",
+   "group": "1947-48 typed documents/reports",
+   "pages": 2,
+   "segments": 1,
+   "chars": 190,
+   "errors": {
+    "vote": 2,
+    "tess3": 2,
+    "vision": 75,
+    "layer": 20,
+    "chandra": 1
+   },
+   "cer": {
+    "vote": 0.010526315789473684,
+    "tess3": 0.010526315789473684,
+    "vision": 0.39473684210526316,
+    "layer": 0.10526315789473684,
+    "chandra": 0.005263157894736842
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.110",
+   "group": "1948 printed (GAOR, EN/FR columns)",
+   "pages": 3,
+   "segments": 62,
+   "chars": 7930,
+   "errors": {
+    "vote": 217,
+    "tess3": 145,
+    "vision": 309,
+    "layer": 1284,
+    "chandra": 74
+   },
+   "cer": {
+    "vote": 0.027364438839848675,
+    "tess3": 0.01828499369482976,
+    "vision": 0.038965952080706176,
+    "layer": 0.16191677175283734,
+    "chandra": 0.009331651954602775
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.1",
+   "group": "1947-48 typed summary records",
+   "pages": 1,
+   "segments": 8,
+   "chars": 1835,
+   "errors": {
+    "vote": 24,
+    "tess3": 29,
+    "vision": 79,
+    "layer": 25,
+    "chandra": 1
+   },
+   "cer": {
+    "vote": 0.013079019073569483,
+    "tess3": 0.01580381471389646,
+    "vision": 0.04305177111716621,
+    "layer": 0.013623978201634877,
+    "chandra": 0.0005449591280653951
+   }
+  }
+ ]
+}

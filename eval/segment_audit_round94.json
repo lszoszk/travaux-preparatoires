@@ -1,0 +1,424 @@
+{
+ "pages": [
+  {
+   "id": "p0",
+   "stratum": "changed94",
+   "symbol": "A/PV.46",
+   "page": 7
+  },
+  {
+   "id": "p1",
+   "stratum": "changed94",
+   "symbol": "A/PV.55",
+   "page": 6
+  },
+  {
+   "id": "p2",
+   "stratum": "changed94",
+   "symbol": "A/PV.55",
+   "page": 23
+  },
+  {
+   "id": "p3",
+   "stratum": "changed94",
+   "symbol": "A/PV.55",
+   "page": 26
+  },
+  {
+   "id": "p4",
+   "stratum": "changed94",
+   "symbol": "A/PV.55",
+   "page": 27
+  },
+  {
+   "id": "p5",
+   "stratum": "changed94",
+   "symbol": "E/CN.4/SR.409",
+   "page": 17
+  },
+  {
+   "id": "p6",
+   "stratum": "changed94",
+   "symbol": "E/CN.4/SR.409",
+   "page": 18
+  },
+  {
+   "id": "p7",
+   "stratum": "changed94",
+   "symbol": "E/CN.4/SR.477",
+   "page": 10
+  },
+  {
+   "id": "p8",
+   "stratum": "changed94",
+   "symbol": "E/CN.4/SR.477",
+   "page": 14
+  },
+  {
+   "id": "p9",
+   "stratum": "changed94",
+   "symbol": "E/CN.4/SR.477",
+   "page": 15
+  },
+  {
+   "id": "p10",
+   "stratum": "changed94",
+   "symbol": "E/CN.4/SR.479",
+   "page": 7
+  },
+  {
+   "id": "p11",
+   "stratum": "changed94",
+   "symbol": "E/CN.4/SR.479",
+   "page": 8
+  }
+ ],
+ "results": [
+  {
+   "label": "old94",
+   "i": 0,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.46-0017",
+     "detail": "The italic decision 'The amendment was withdrawn.' printed between Makin's speech and the President's turn is left at the end of Makin's speech segment instead of its own decision segment."
+    }
+   ]
+  },
+  {
+   "label": "old94",
+   "i": 1,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.55-0008",
+     "detail": "Agenda heading '144. Authorization of the Economic and Social Council ... (document A/201)' is merged into the procedural decision segment; the heading should be its own heading segment."
+    },
+    {
+     "type": "false_split",
+     "segment_id": "a_pv.55-0009",
+     "detail": "The President's turn under item 144 is cut in two: 0009 holds only 'The PRESIDENT (translated from French):' and 0010 holds the text ('The Rapporteur is not present...')."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.55-0011",
+     "detail": "Agenda heading '145. Privileges and immunities of members of the International Court of Justice ... (document A/202)' is merged into the procedural decision segment instead of being its own heading segment."
+    }
+   ]
+  },
+  {
+   "label": "old94",
+   "i": 2,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.55-0071",
+     "detail": "The vote segment holds the decision and also the first part of the agenda heading '160. Application of Article 27 of the Charter (postponement of the discussion).' The rest of that heading is a separate heading segment (0072)."
+    }
+   ]
+  },
+  {
+   "label": "old94",
+   "i": 3,
+   "page_ok": true,
+   "speeches_on_image": 4,
+   "errors": []
+  },
+  {
+   "label": "old94",
+   "i": 4,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.55-0085",
+     "detail": "Agenda heading '161. Affirmation of the principles of international law recognized by the Charter of the Nürnberg Tribunal... (document A/236)' is left at the end of the President's turn, not its own heading segment."
+    },
+    {
+     "type": "other_column_or_page_text",
+     "segment_id": "a_pv.55-0088",
+     "detail": "Opening contains French-column text 'portun. Je retire ma proposition, sinon cela' and ending has French 'mission relatif aux mesures de secours qui sui' mixed into the English President's turn."
+    }
+   ]
+  },
+  {
+   "label": "old94",
+   "i": 5,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.409-0149",
+     "detail": "The underlined decision 'Both suggestions were adopted.' is printed on its own line after the Rapporteur's turn, but the segment keeps it at the end of that turn."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.409-0151",
+     "detail": "The second underlined 'Both suggestions were adopted.' is printed after Cassin's turn, but the segment keeps it at the end of his speech."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.409-0149",
+     "detail": "Both turns (0149 and 0150) are by the RAPPORTEUR, not the Chairman, yet both are kind 'chair' with no speaker."
+    }
+   ]
+  },
+  {
+   "label": "old94",
+   "i": 6,
+   "page_ok": false,
+   "speeches_on_image": 0,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.409-0152",
+     "detail": "The underlined decision 'Article 52 was adopted as amended.' is a separate line on the page. The segment leaves it at the end of Hoare's speech."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.409-0161",
+     "detail": "'After a discussion in which Mr. CASSIN..., Mr. WHITLAM (Australia) and the CHAIRMAN took part, it was agreed...' is one procedural passage. It is split, and the second half is made a Whitlam speech."
+    },
+    {
+     "type": "false_split",
+     "segment_id": "e_cn.4_sr.409-0160",
+     "detail": "This procedural sentence is cut at 'Mr. HOARE (United Kingdom),'. The rest of it, naming Whitlam, is a separate segment (0161)."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.409-0168",
+     "detail": "The heading 'First new article' is a separate line on the page. The segment puts it at the end of the vote result for Article 59."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.409-0169",
+     "detail": "The heading 'Second new article' is a separate line on the page. The segment puts it at the end of the vote result for the first new article."
+    }
+   ]
+  },
+  {
+   "label": "old94",
+   "i": 7,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.477-0044",
+     "detail": "The underlined heading 'Document E/CN.4/L.366/Add.3' is its own heading on the page, but it is joined to the end of the vote segment 'Document E/CN.4/L.366/Add.2 was adopted...' rather than kept as a separate heading."
+    }
+   ]
+  },
+  {
+   "label": "old94",
+   "i": 8,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.477-0091",
+     "detail": "Vote segment 'Document E/CN.4/L.366/Add.3 was adopted.' also holds the next page's headings 'Document E/CN.4/L.366/Add.4' and 'Paragraph 1 (page 2)'. These should be separate heading segments, not part of the vote result."
+    }
+   ]
+  },
+  {
+   "label": "old94",
+   "i": 9,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.477-0091",
+     "detail": "The page opens with the underlined headings 'Document E/CN.4/L.366/Add.4' and 'Paragraph 1 (page 2)'. Both sit inside the vote segment that begins on p.14 ('Add.3 was adopted') instead of being a separate heading segment."
+    }
+   ]
+  },
+  {
+   "label": "old94",
+   "i": 10,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.479-0027",
+     "detail": "The underlined heading 'Document E/CN.4/L.366/Add.8' is printed on its own line after the decision on Add.7, but it sits inside the vote segment instead of being its own heading segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.479-0030",
+     "detail": "The underlined heading 'Document E/CN.4/L.366/Add.9' is printed separately after the decision on Add.8, but it is merged into the vote segment instead of being its own heading segment."
+    }
+   ]
+  },
+  {
+   "label": "old94",
+   "i": 11,
+   "page_ok": false,
+   "speeches_on_image": 7,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.479-0039",
+     "detail": "The vote segment also holds the heading 'Document E/CN.4/L.366/Add.10'. On the page that heading stands alone as an underlined line after the Add.9 decision, so it should be its own heading segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.479-0040",
+     "detail": "The underlined decision 'Document E/CN.4/L.366/Add.10 was adopted.' is left at the end of Ingles' speech. So is the following heading 'Document E/CN.4/L.366/Add.11', which is on the next page."
+    }
+   ]
+  },
+  {
+   "label": "new94",
+   "i": 0,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": []
+  },
+  {
+   "label": "new94",
+   "i": 1,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "false_split",
+     "segment_id": "a_pv.55-0010",
+     "detail": "The President's second turn (under item 144) is split: 0010 holds only 'The PRESIDENT (translated from French):' and the body ('The Rapporteur is not present...') is a separate chair segment 0011."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.55-0012",
+     "detail": "Procedural segment holds the decision 'The resolution was adopted unanimously' and also the bold heading '145. Privileges and immunities ... (document A/202)', which should be its own heading segment."
+    }
+   ]
+  },
+  {
+   "label": "new94",
+   "i": 2,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.55-0074",
+     "detail": "Bold heading 160 reads as one heading running into 'Question of procedure concerning the debates'. The database splits off that second line as a separate segment of kind procedural, when it is part of the heading."
+    }
+   ]
+  },
+  {
+   "label": "new94",
+   "i": 3,
+   "page_ok": true,
+   "speeches_on_image": 4,
+   "errors": []
+  },
+  {
+   "label": "new94",
+   "i": 4,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "other_column_or_page_text",
+     "segment_id": "a_pv.55-0091",
+     "detail": "The President's last turn opens with French text from the top of the right column ('portun. Je retire ma proposition, sinon cela'), and its ending also has French ('mission relatif aux mesures de secours qui sui')."
+    }
+   ]
+  },
+  {
+   "label": "new94",
+   "i": 5,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.409-0149",
+     "detail": "The underlined decision 'Both suggestions were adopted.', printed on its own line after the Rapporteur's turn, is left at the end of the Rapporteur's segment instead of being its own decision segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.409-0151",
+     "detail": "The second underlined 'Both suggestions were adopted.', printed after Cassin's turn, is left at the end of Cassin's speech instead of being its own decision segment."
+    }
+   ]
+  },
+  {
+   "label": "new94",
+   "i": 6,
+   "page_ok": false,
+   "speeches_on_image": 0,
+   "errors": [
+    {
+     "type": "false_split",
+     "segment_id": "e_cn.4_sr.409-0162",
+     "detail": "On the page 'After a discussion in which Mr. CASSIN (France), Mr. HOARE (United Kingdom), Mr. WHITLAM (Australia) and the CHAIRMAN took part' is one procedural sentence. It is cut at the line break, so the second half became segment 0162, apart from 0161."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.409-0162",
+     "detail": "0162 is marked as a speech by WHITLAM (Australia), but it is only part of the narrative list of who took part. It also holds the underlined decision 'it was agreed to retain the word \"matter\"', which should be its own segment."
+    }
+   ]
+  },
+  {
+   "label": "new94",
+   "i": 7,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": []
+  },
+  {
+   "label": "new94",
+   "i": 8,
+   "page_ok": true,
+   "speeches_on_image": 4,
+   "errors": []
+  },
+  {
+   "label": "new94",
+   "i": 9,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.477-0094",
+     "detail": "'Paragraph 1 (page 2)' is an underlined heading, like 'Paragraphs 2 to 19 (pages 2 to 9)' (kind heading), but this segment is marked procedural."
+    }
+   ]
+  },
+  {
+   "label": "new94",
+   "i": 10,
+   "page_ok": true,
+   "speeches_on_image": 6,
+   "errors": []
+  },
+  {
+   "label": "new94",
+   "i": 11,
+   "page_ok": false,
+   "speeches_on_image": 7,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.479-0043",
+     "detail": "The underlined decision 'Document E/CN.4/L.366/Add.10 was adopted.' at the foot of the page is inside Ingles's speech. The segment also runs on into the next page's heading 'Document E/CN.4/L.366/Add.11'."
+    }
+   ]
+  }
+ ]
+}

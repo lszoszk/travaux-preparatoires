@@ -1,0 +1,5492 @@
+{
+ "A/C.3/SR.1177 p4": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [],
+  "notes": [
+   "On the scan, the database's eight starts are all correct. Lines 1-23 continue a speech from the previous page. Paragraphs 32, 34-38 and 40-41 have no new speaker, so they continue the turn before them. The Chair changes at lines 24 and 129, printed in italics, are procedural.",
+   "The scan matches the database's starts. Lines 1-23 continue a turn from the previous page (paragraphs 27-30, a delegate whose name is not on this page), so they do not start a segment here. Paragraphs 32 and 34-38 continue Nikolaeva's and Radic's turns. No junk lines: the running head (p. 218) was already removed.",
+   "I checked this page against the scan and found no errors in the database: its eight starts match the scan, and there are no junk lines. Lines 1-23 continue a speech from the previous page, so they are not a new start. Paragraphs 32 and 34-38 continue Nikolaeva's and Radic's turns."
+  ],
+  "page": 4,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "",
+    "kind": "procedural",
+    "line": 23,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "procedural",
+      "procedural",
+      "procedural"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. Albuquerque Mello (Brazil), Vice-Cha"
+   },
+   {
+    "delegation": "Union of Soviet Socialist Republics",
+    "kind": "speech",
+    "line": 25,
+    "offset": 0,
+    "speaker": "NIKOLAEVA",
+    "variants": {
+     "delegation": [
+      "Union of Soviet Socialist Republics",
+      "Union of Soviet Socialist Republics",
+      "Union of Soviet Socialist Republics"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "NIKOLAEVA",
+      "NIKOLAEVA",
+      "NIKOLAEVA"
+     ]
+    },
+    "votes": 3,
+    "words": "31. Mrs. NIKOLAEVA (Union of Soviet Soci"
+   },
+   {
+    "delegation": "Yugoslavia",
+    "kind": "speech",
+    "line": 39,
+    "offset": 0,
+    "speaker": "RADIC",
+    "variants": {
+     "delegation": [
+      "Yugoslavia",
+      "Yugoslavia",
+      "Yugoslavia"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "RADIC",
+      "RADIC",
+      "RADIC"
+     ]
+    },
+    "votes": 3,
+    "words": "33. Mrs. RADIC (Yugoslavia) stated that "
+   },
+   {
+    "delegation": "Czechoslovakia",
+    "kind": "speech",
+    "line": 94,
+    "offset": 0,
+    "speaker": "HANDL",
+    "variants": {
+     "delegation": [
+      "Czechoslovakia",
+      "Czechoslovakia",
+      "Czechoslovakia"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "HANDL",
+      "HANDL",
+      "HANDL"
+     ]
+    },
+    "votes": 3,
+    "words": "39. Mr. HANDL (Czechoslovakia) considere"
+   },
+   {
+    "delegation": "Liberia",
+    "kind": "speech",
+    "line": 105,
+    "offset": 0,
+    "speaker": "YANCY",
+    "variants": {
+     "delegation": [
+      "Liberia",
+      "Liberia",
+      "Liberia"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "YANCY",
+      "YANCY",
+      "YANCY"
+     ]
+    },
+    "votes": 3,
+    "words": "40. Mr. YANCY (Liberia) said that, havin"
+   },
+   {
+    "delegation": "Dominican Republic",
+    "kind": "speech",
+    "line": 113,
+    "offset": 0,
+    "speaker": "MARTINEZ BONILLA",
+    "variants": {
+     "delegation": [
+      "Dominican Republic",
+      "Dominican Republic",
+      "Dominican Republic"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "MARTINEZ BONILLA",
+      "MARTINEZ BONILLA",
+      "MARTINEZ BONILLA"
+     ]
+    },
+    "votes": 3,
+    "words": "41. Miss MARTINEZ BONILLA (Dominican Rep"
+   },
+   {
+    "delegation": "",
+    "kind": "procedural",
+    "line": 128,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "procedural",
+      "procedural",
+      "procedural"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. Kasliwal (India) resumed the Chair."
+   },
+   {
+    "delegation": "Dahomey",
+    "kind": "speech",
+    "line": 129,
+    "offset": 0,
+    "speaker": "PESSOU",
+    "variants": {
+     "delegation": [
+      "Dahomey",
+      "Dahomey",
+      "Dahomey"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "PESSOU",
+      "PESSOU",
+      "PESSOU"
+     ]
+    },
+    "votes": 3,
+    "words": "42, Mr. PESSOU (Dahomey) thanked the Pol"
+   }
+  ],
+  "stratum": "Third Committee 1962-66",
+  "symbol": "A/C.3/SR.1177",
+  "unanimous": true
+ },
+ "A/C.3/SR.1262 p1": {
+  "disputes": [],
+  "junk_disputed": [
+   21
+  ],
+  "junk_lines": [
+   5,
+   21
+  ],
+  "notes": [
+   "The database's heading at line 13 is a line of the contents table and should not be marked. The real \"Organization of work\" heading is at line 25. Line 6 (\"Se\") is noise from the emblem. Line 22 (\"on Human\") belongs to the contents entry at lines 15-16 but sits out of place. Both lines are in the opening block. The heading at line 57 runs on through line 63 (the agenda title) and is treated as one heading. \"U\" in \"U MYAT TUN\" is a Burmese honorific, so the speaker is given as MYAT TUN. The chair is unnamed in the turn; the opening block names him as DIAZ CASANUEVA (Chile).",
+   "The database's heading at line 13 is wrong. It is the CONTENTS entry for \"Organization of work\", part of the opening block. The real heading is at line 25, just above paragraph 1. Lines 57-63 form a single heading: the agenda item and its title. Line 6 (\"Se\") is OCR noise from the UN emblem. Line 22 (\"on Human\") is a piece of the contents entry at line 15 that the OCR put in the wrong place. It sits inside the opening block either way. The speaker \"U MYAT TUN\" is given without the Burmese honorific U. The page has two columns, and the OCR reading order (left column, then right) is correct.",
+   "The database's heading at line 13 is wrong: that line is the 'Organization of work ... 261' entry in the contents, which belongs to the opening block. The real heading is line 25, just above paragraph 1. Lines 1-24 are the opening block (masthead, contents, chairman) and are not marked. Line 6 'Se' is OCR noise from the UN emblem. Line 22 'on Human' is a piece of the contents entry from line 15 that the OCR put in the wrong place. It sits inside the opening block, so I left it out of junk_lines. The scan prints the speaker as 'U MYAT TUN', where 'U' is a Burmese honorific, so I gave the surname as 'MYAT TUN'. The database names the chair as DIAZ CASANUEVA. The task asks for an empty speaker on chair turns, so I left it blank."
+  ],
+  "page": 1,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "",
+    "kind": "heading",
+    "line": 24,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "heading",
+      "heading",
+      "heading"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "Organization of work"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 25,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "1. The CHAIRMAN informed the Committee t"
+   },
+   {
+    "delegation": "",
+    "kind": "heading",
+    "line": 56,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "heading",
+      "heading",
+      "heading"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "AGENDA ITEM 48"
+   },
+   {
+    "delegation": "",
+    "kind": "heading",
+    "line": 63,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "heading",
+      "heading",
+      "heading"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "ARTICLE 4 OF THE DRAFT COVENANT ON CIVIL"
+   },
+   {
+    "delegation": "Burma",
+    "kind": "speech",
+    "line": 65,
+    "offset": 0,
+    "speaker": "MYAT TUN",
+    "variants": {
+     "delegation": [
+      "Burma",
+      "Burma",
+      "Burma"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "MYAT TUN",
+      "MYAT TUN",
+      "MYAT TUN"
+     ]
+    },
+    "votes": 3,
+    "words": "3. U MYAT TUN (Burma) said that the Saud"
+   },
+   {
+    "delegation": "Netherlands",
+    "kind": "speech",
+    "line": 87,
+    "offset": 0,
+    "speaker": "BEAUFORT",
+    "variants": {
+     "delegation": [
+      "Netherlands",
+      "Netherlands",
+      "Netherlands"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "BEAUFORT",
+      "BEAUFORT",
+      "BEAUFORT"
+     ]
+    },
+    "votes": 3,
+    "words": "6. Mr. BEAUFORT (Netherlands) was not su"
+   },
+   {
+    "delegation": "Pakistan",
+    "kind": "speech",
+    "line": 113,
+    "offset": 0,
+    "speaker": "ATAULLAH",
+    "variants": {
+     "delegation": [
+      "Pakistan",
+      "Pakistan",
+      "Pakistan"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "ATAULLAH",
+      "ATAULLAH",
+      "ATAULLAH"
+     ]
+    },
+    "votes": 3,
+    "words": "9. Mr, ATAULLAH (Pakistan) associated hi"
+   }
+  ],
+  "stratum": "Third Committee 1962-66",
+  "symbol": "A/C.3/SR.1262",
+  "unanimous": false
+ },
+ "A/C.3/SR.1262 p2": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [],
+  "notes": [
+   "Lines 1-7 continue a turn from the previous page. Paragraphs 15-17 (lines 44-69) continue Baroody's turn, and paragraphs 21-22 (lines 107-130) continue the Chairman's. The database misses the heading at line 93 (PROPOSAL TO INCLUDE AN ARTICLE ON THE RIGHTS OF THE CHILD IN THE DRAFT COVENANT ON CIVIL AND POLITICAL RIGHTS). It also gives the Peru speaker as 'ANTONIO BELAUNDE': the scan prints 'Mr. Antonio BELAUNDE', so the surname is BELAUNDE. The scan reads 86 votes in line 76 (OCR has '8&6'). The page has no junk lines: the running head was already removed.",
+   "The database misses the heading at line 93 ('PROPOSAL TO INCLUDE AN ARTICLE ON THE RIGHTS OF THE CHILD IN THE DRAFT COVENANT ON CIVIL AND POLITICAL RIGHTS'). It gives the Peru speaker as 'ANTONIO BELAUNDE', but on the scan the forename is Antonio and the surname is BELAUNDE. The scan reads 86 votes where the OCR reads '8&6'. Paragraphs 15-17 continue Baroody's turn and 21-22 continue the Chairman's, so neither starts a new segment. Lines 1-7 continue a turn from the previous page.",
+   "The database leaves out the heading at line 93 (\"PROPOSAL TO INCLUDE AN ARTICLE ON THE RIGHTS OF THE CHILD ...\"), which runs through line 95. On the scan the Peru speaker is printed \"Mr. Antonio BELAUNDE\", so the surname is BELAUNDE; the database has \"ANTONIO BELAUNDE\". The database names the chair (DIAZ CASANUEVA); the scan does not, so that name is left blank here. The page has no junk lines, because the running head was already removed. Paragraphs 15-17 continue Baroody's turn. Paragraphs 21-22 continue the Chairman's turn."
+  ],
+  "page": 2,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "Senegal",
+    "kind": "speech",
+    "line": 7,
+    "offset": 0,
+    "speaker": "DELGADO",
+    "variants": {
+     "delegation": [
+      "Senegal",
+      "Senegal",
+      "Senegal"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "DELGADO",
+      "DELGADO",
+      "DELGADO"
+     ]
+    },
+    "votes": 3,
+    "words": "10. Mr. DELGADO (Senegal) said that, hav"
+   },
+   {
+    "delegation": "Sudan",
+    "kind": "speech",
+    "line": 19,
+    "offset": 0,
+    "speaker": "HAMID",
+    "variants": {
+     "delegation": [
+      "Sudan",
+      "Sudan",
+      "Sudan"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "HAMID",
+      "HAMID",
+      "HAMID"
+     ]
+    },
+    "votes": 3,
+    "words": "11. Mr. HAMID (Sudan) said that it would"
+   },
+   {
+    "delegation": "Brazil",
+    "kind": "speech",
+    "line": 25,
+    "offset": 0,
+    "speaker": "DAYRELL DE LIMA",
+    "variants": {
+     "delegation": [
+      "Brazil",
+      "Brazil",
+      "Brazil"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "DAYRELL DE LIMA",
+      "DAYRELL DE LIMA",
+      "DAYRELL DE LIMA"
+     ]
+    },
+    "votes": 3,
+    "words": "12, Mr. DAYRELL DE LIMA (Brazil) said th"
+   },
+   {
+    "delegation": "Nigeria",
+    "kind": "speech",
+    "line": 27,
+    "offset": 0,
+    "speaker": "WACHUKU",
+    "variants": {
+     "delegation": [
+      "Nigeria",
+      "Nigeria",
+      "Nigeria"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "WACHUKU",
+      "WACHUKU",
+      "WACHUKU"
+     ]
+    },
+    "votes": 3,
+    "words": "13. Miss WACHUKU (Nigeria) observed that"
+   },
+   {
+    "delegation": "Saudi Arabia",
+    "kind": "speech",
+    "line": 35,
+    "offset": 0,
+    "speaker": "BAROODY",
+    "variants": {
+     "delegation": [
+      "Saudi Arabia",
+      "Saudi Arabia",
+      "Saudi Arabia"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "BAROODY",
+      "BAROODY",
+      "BAROODY"
+     ]
+    },
+    "votes": 3,
+    "words": "14, Mr. BAROODY (Saudi Arabia) said that"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 69,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "18. The CHAIRMAN thanked the representat"
+   },
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 74,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "vote",
+      "vote",
+      "vote"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "Paragraph 1 was adopted unanimously."
+   },
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 75,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "vote",
+      "vote",
+      "vote"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "Paragraph 2 was adopted by 8&6 votes to "
+   },
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 77,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "vote",
+      "vote",
+      "vote"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "Point 1 of the amendment (A/C.3/L.1176) "
+   },
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 79,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "vote",
+      "vote",
+      "vote"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "Point 2 of the amendment (A/C.3/L,1176) "
+   },
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 81,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "vote",
+      "vote",
+      "vote"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "Paragraph 3, as a whole, as amended, was"
+   },
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 83,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "vote",
+      "vote",
+      "vote"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "Article 4, as a whole, as amended, was a"
+   },
+   {
+    "delegation": "Peru",
+    "kind": "speech",
+    "line": 85,
+    "offset": 0,
+    "speaker": "BELAUNDE",
+    "variants": {
+     "delegation": [
+      "Peru",
+      "Peru",
+      "Peru"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "BELAUNDE",
+      "BELAUNDE",
+      "BELAUNDE"
+     ]
+    },
+    "votes": 3,
+    "words": "19, Mr. Antonio BELAUNDE (Peru) said tha"
+   },
+   {
+    "delegation": "",
+    "kind": "heading",
+    "line": 92,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "heading",
+      "heading",
+      "heading"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "PROPOSAL TO INCLUDE AN ARTICLE ON THE"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 95,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "20. The CHAIRMAN proposed that the Commi"
+   }
+  ],
+  "stratum": "Third Committee 1962-66",
+  "symbol": "A/C.3/SR.1262",
+  "unanimous": true
+ },
+ "A/C.3/SR.1267 p5": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [
+   128
+  ],
+  "notes": [
+   "Lines 1-3 continue the USSR speaker's turn from the previous page. Paragraphs 37, 39 and 40 continue the turns of Attlee and Ostrovsky. Line 129 is the printer's footer (77301-March 1964-2,225). The database's starts match the scan, but its closing start wrongly runs into the footer line.",
+   "Line 129 is the print footer ('77301 —March 1964—2,225'). The database start at line 128 runs the closing into it. Paragraphs 37, 39 and 40 continue the speeches before them, so none of them starts a new turn.",
+   "Line 129 is the printer's footer ('77301-March 1964-2,225'); the database closing segment wrongly runs it into line 128. Paras 37, 39 and 40 continue the speeches of Attlee and Ostrovsky (no new speaker). Line 1 continues a turn from the previous page."
+  ],
+  "page": 5,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "United Kingdom",
+    "kind": "speech",
+    "line": 3,
+    "offset": 0,
+    "speaker": "ATTLEE",
+    "variants": {
+     "delegation": [
+      "United Kingdom",
+      "United Kingdom",
+      "United Kingdom"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "ATTLEE",
+      "ATTLEE",
+      "ATTLEE"
+     ]
+    },
+    "votes": 3,
+    "words": "36. Mr. ATTLEE (United Kingdom) doubted "
+   },
+   {
+    "delegation": "Union of Soviet Socialist Republics",
+    "kind": "speech",
+    "line": 53,
+    "offset": 0,
+    "speaker": "OSTROVSKY",
+    "variants": {
+     "delegation": [
+      "Union of Soviet Socialist Republics",
+      "Union of Soviet Socialist Republics",
+      "Union of Soviet Socialist Republics"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "OSTROVSKY",
+      "OSTROVSKY",
+      "OSTROVSKY"
+     ]
+    },
+    "votes": 3,
+    "words": "38. Mr. OSTROVSKY (Union of Soviet Socia"
+   },
+   {
+    "delegation": "Somalia",
+    "kind": "speech",
+    "line": 99,
+    "offset": 0,
+    "speaker": "MOHAMED",
+    "variants": {
+     "delegation": [
+      "Somalia",
+      "Somalia",
+      "Somalia"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "MOHAMED",
+      "MOHAMED",
+      "MOHAMED"
+     ]
+    },
+    "votes": 3,
+    "words": "41. Mr. MOHAMED (Somalia) pointed out th"
+   },
+   {
+    "delegation": "Hungary",
+    "kind": "speech",
+    "line": 116,
+    "offset": 0,
+    "speaker": "BECK",
+    "variants": {
+     "delegation": [
+      "Hungary",
+      "Hungary",
+      "Hungary"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "BECK",
+      "BECK",
+      "BECK"
+     ]
+    },
+    "votes": 3,
+    "words": "42, Mr. BECK (Hungary) expressed surpris"
+   },
+   {
+    "delegation": "",
+    "kind": "closing",
+    "line": 127,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "closing",
+      "closing",
+      "closing"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The meeting rose at 6.5 p.m,"
+   }
+  ],
+  "stratum": "Third Committee 1962-66",
+  "symbol": "A/C.3/SR.1267",
+  "unanimous": true
+ },
+ "A/C.3/SR.1344 p8": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [],
+  "notes": [
+   "The database's two starts match the scan. Lines 1-13 continue a turn from the previous page. The OCR lines run in reading order: left column, then right column (line 63 is the foot of the left column). No running head or footer is left in the lines.",
+   "Paragraphs 68-69 continue a turn from the previous page. The database starts match the scan.",
+   "Lines 1-13 (paras 68-69) continue a speaker's turn from the previous page; the speaker is not identifiable on this page. The database's two starts match the scan."
+  ],
+  "page": 8,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "Union of Soviet Socialist Republics",
+    "kind": "speech",
+    "line": 13,
+    "offset": 0,
+    "speaker": "CHKHIKVADZE",
+    "variants": {
+     "delegation": [
+      "Union of Soviet Socialist Republics",
+      "Union of Soviet Socialist Republics",
+      "Union of Soviet Socialist Republics"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "CHKHIKVADZE",
+      "CHKHIKVADZE",
+      "CHKHIKVADZE"
+     ]
+    },
+    "votes": 3,
+    "words": "70. Mr. CHKHIKVADZE (Union of Soviet Soc"
+   },
+   {
+    "delegation": "Saudi Arabia",
+    "kind": "speech",
+    "line": 82,
+    "offset": 0,
+    "speaker": "BAROODY",
+    "variants": {
+     "delegation": [
+      "Saudi Arabia",
+      "Saudi Arabia",
+      "Saudi Arabia"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "BAROODY",
+      "BAROODY",
+      "BAROODY"
+     ]
+    },
+    "votes": 3,
+    "words": "75. Mr. BAROODY (Saudi Arabia) said that"
+   }
+  ],
+  "stratum": "Third Committee 1962-66",
+  "symbol": "A/C.3/SR.1344",
+  "unanimous": true
+ },
+ "A/C.3/SR.1372 p4": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [],
+  "notes": [
+   "The database's starts match the scan. The only difference is that the chair's turn at line 82 is given an empty speaker, as the task asks; the database names him CUEVAS CANCINO. The scan itself misprints the USSR as \"Uniion\" (line 115); the delegation is normalised to \"Union of Soviet Socialist Republics\". Line 1 continues a turn from the previous page. Paragraphs 34 (line 38) and 43 (line 124) carry on the same speaker's turn, so they are not new starts. There are no junk lines: the running head and page number (492) were already removed.",
+   "The database's starts match the scan; the only change is that the chair's speaker name is left blank, as the rules ask (the database has CUEVAS CANCINO). Line 1 continues a turn from the previous page. Paragraphs 34 (line 38) and 43 (line 124) carry on Redondo's and Mironova's turns, so they are not new starts. The scan itself misprints 'Uniion' in paragraph 42; the delegation is given as Union of Soviet Socialist Republics. The vote result at line 84 is printed as its own italic paragraph. There are no junk lines.",
+   "The scan matches the database's starts. Paragraph 30 (lines 1-7) continues from the previous page, and paragraphs 34 and 43 continue Redondo's and Mironova's turns, so none of them starts a turn. The scan itself misprints the Soviet delegation as \"Uniion\"; I give it as \"Union of Soviet Socialist Republics\". The chair's speaker is left empty, as the task asks, even though the database names the chairman as Cuevas Cancino. No junk lines: the running head and page number (492) are already removed."
+  ],
+  "page": 4,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "France",
+    "kind": "speech",
+    "line": 7,
+    "offset": 0,
+    "speaker": "BOULLET",
+    "variants": {
+     "delegation": [
+      "France",
+      "France",
+      "France"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "BOULLET",
+      "BOULLET",
+      "BOULLET"
+     ]
+    },
+    "votes": 3,
+    "words": "31. Mr. BOULLET (France) said that his d"
+   },
+   {
+    "delegation": "India",
+    "kind": "speech",
+    "line": 18,
+    "offset": 0,
+    "speaker": "SAKSENA",
+    "variants": {
+     "delegation": [
+      "India",
+      "India",
+      "India"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "SAKSENA",
+      "SAKSENA",
+      "SAKSENA"
+     ]
+    },
+    "votes": 3,
+    "words": "32. Mr. SAKSENA (India) said that he end"
+   },
+   {
+    "delegation": "Costa Rica",
+    "kind": "speech",
+    "line": 28,
+    "offset": 0,
+    "speaker": "REDONDO",
+    "variants": {
+     "delegation": [
+      "Costa Rica",
+      "Costa Rica",
+      "Costa Rica"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "REDONDO",
+      "REDONDO",
+      "REDONDO"
+     ]
+    },
+    "votes": 3,
+    "words": "33. Mr. REDONDO (Costa Rica), on behalf "
+   },
+   {
+    "delegation": "Panama",
+    "kind": "speech",
+    "line": 47,
+    "offset": 0,
+    "speaker": "RIOS",
+    "variants": {
+     "delegation": [
+      "Panama",
+      "Panama",
+      "Panama"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "RIOS",
+      "RIOS",
+      "RIOS"
+     ]
+    },
+    "votes": 3,
+    "words": "35. Mr. RIOS (Panama) said that a refere"
+   },
+   {
+    "delegation": "Greece",
+    "kind": "speech",
+    "line": 57,
+    "offset": 0,
+    "speaker": "MANTZOULINOS",
+    "variants": {
+     "delegation": [
+      "Greece",
+      "Greece",
+      "Greece"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "MANTZOULINOS",
+      "MANTZOULINOS",
+      "MANTZOULINOS"
+     ]
+    },
+    "votes": 3,
+    "words": "36. Mrs. MANTZOULINOS (Greece) congratul"
+   },
+   {
+    "delegation": "Costa Rica",
+    "kind": "speech",
+    "line": 78,
+    "offset": 0,
+    "speaker": "REDONDO",
+    "variants": {
+     "delegation": [
+      "Costa Rica",
+      "Costa Rica",
+      "Costa Rica"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "REDONDO",
+      "REDONDO",
+      "REDONDO"
+     ]
+    },
+    "votes": 3,
+    "words": "37. Mr. REDONDO (Costa Rica) informed th"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 81,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "38. The CHAIRMAN put to the vote the sev"
+   },
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 83,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "vote",
+      "vote",
+      "vote"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The draft resolution, as orally revised,"
+   },
+   {
+    "delegation": "Mauritania",
+    "kind": "speech",
+    "line": 85,
+    "offset": 0,
+    "speaker": "KOCHMAN",
+    "variants": {
+     "delegation": [
+      "Mauritania",
+      "Mauritania",
+      "Mauritania"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "KOCHMAN",
+      "KOCHMAN",
+      "KOCHMAN"
+     ]
+    },
+    "votes": 3,
+    "words": "39. Mr. KOCHMAN (Mauritania) said he had"
+   },
+   {
+    "delegation": "Ghana",
+    "kind": "speech",
+    "line": 92,
+    "offset": 0,
+    "speaker": "ADDISON",
+    "variants": {
+     "delegation": [
+      "Ghana",
+      "Ghana",
+      "Ghana"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "ADDISON",
+      "ADDISON",
+      "ADDISON"
+     ]
+    },
+    "votes": 3,
+    "words": "40, Miss ADDISON (Ghana) said she regret"
+   },
+   {
+    "delegation": "United Arab Republic",
+    "kind": "speech",
+    "line": 108,
+    "offset": 0,
+    "speaker": "ABDEL-HAMID",
+    "variants": {
+     "delegation": [
+      "United Arab Republic",
+      "United Arab Republic",
+      "United Arab Republic"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "ABDEL-HAMID",
+      "ABDEL-HAMID",
+      "ABDEL-HAMID"
+     ]
+    },
+    "votes": 3,
+    "words": "41. Mr. ABDEL-HAMID (United Arab Republi"
+   },
+   {
+    "delegation": "Union of Soviet Socialist Republics",
+    "kind": "speech",
+    "line": 114,
+    "offset": 0,
+    "speaker": "MIRONOVA",
+    "variants": {
+     "delegation": [
+      "Union of Soviet Socialist Republics",
+      "Union of Soviet Socialist Republics",
+      "Union of Soviet Socialist Republics"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "MIRONOVA",
+      "MIRONOVA",
+      "MIRONOVA"
+     ]
+    },
+    "votes": 3,
+    "words": "42. Mrs. MIRONOVA (Uniion of Soviet Soci"
+   }
+  ],
+  "stratum": "Third Committee 1962-66",
+  "symbol": "A/C.3/SR.1372",
+  "unanimous": true
+ },
+ "A/C.3/SR.1459 p3": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [],
+  "notes": [
+   "Lines 1-72 continue a turn from the previous page (paragraphs 16-19, a sponsor of A/C.3/L.1420), so nothing new starts there. Only one turn starts on this page: Macdonald (Canada) at paragraph 20. The scan prints \"Mr. Ronald MACDONALD\". The database records the speaker as \"RONALD MACDONALD\", which mixes the first name into the surname. The surname is Macdonald. The running head and the page number (511) were already removed, and none of the remaining lines are junk.",
+   "Only one turn starts on this page. Paragraphs 15 to 19 continue the previous speaker, who introduces A/C.3/L.1420/Rev.1 as a sponsor; that turn began on the previous page. On the scan the speaker is printed as \"Mr. Ronald MACDONALD\". Ronald is his first name, so the surname is MACDONALD. The database's 'RONALD MACDONALD' wrongly puts the first name into the surname field. The OCR lines carry no junk.",
+   "Only one turn starts on this page, at line 73. Paragraphs 16-19 belong to the speaker who began on the previous page. Paragraphs 21-22 continue Macdonald's turn. The scan prints the first name, \"Mr. Ronald MACDONALD\", so the database's speaker \"RONALD MACDONALD\" has the right person but wrongly folds the first name into the surname; the surname is MACDONALD. No junk lines: the running head and page number (511) are already removed."
+  ],
+  "page": 3,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "Canada",
+    "kind": "speech",
+    "line": 72,
+    "offset": 0,
+    "speaker": "MACDONALD",
+    "variants": {
+     "delegation": [
+      "Canada",
+      "Canada",
+      "Canada"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "Macdonald",
+      "MACDONALD",
+      "MACDONALD"
+     ]
+    },
+    "votes": 3,
+    "words": "20. Mr. Ronald MACDONALD (Canada) said t"
+   }
+  ],
+  "stratum": "Third Committee 1962-66",
+  "symbol": "A/C.3/SR.1459",
+  "unanimous": true
+ },
+ "A/C.3/SR.162 p5": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [],
+  "notes": [
+   "Lines 1-39 continue the United Kingdom speech from the previous page. Lines 11, 21 and 33 are new paragraphs, not new turns. Line 58 (\"He had been somewhat surprised\") continues Demchenko's speech. Line 54 reads \"Moreover,\" where the scan has \"lics,\" (the end of \"Republics\" from line 53). That is an OCR misreading of record text, not junk. The footnote \"See E/CN.4/SR.74\" and the page number 731 are not among the OCR lines.",
+   "Lines 1-39 continue the United Kingdom representative's turn from the previous page; the paragraph breaks are not new turns. On the scan, line 54 begins \"lics, as had been shown\" (the end of \"Repub-/lics\"). The OCR wrongly repeats \"Moreover,\" there, but the line is still the record's text. The footnote \"See E/CN.4/SR.74\" and page number 731 are not among the OCR lines.",
+   "Lines 1-39 continue the United Kingdom speaker's turn from the previous page. The paragraph breaks at lines 11, 21 and 33 come from column alignment with the French text and do not start new turns. On the scan, line 54 reads \"lics, as had been shown...\", but the OCR repeats \"Moreover,\" from line 53. That is an OCR misreading, not junk. The footnote \"See E/CN.4/SR.74\" is not among the lines."
+  ],
+  "page": 5,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "Ukrainian Soviet Socialist Republic",
+    "kind": "speech",
+    "line": 39,
+    "offset": 0,
+    "speaker": "DEMCHENKO",
+    "variants": {
+     "delegation": [
+      "Ukrainian Soviet Socialist Republic",
+      "Ukrainian Soviet Socialist Republic",
+      "Ukrainian Soviet Socialist Republic"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "Demchenko",
+      "DEMCHENKO",
+      "Demchenko"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. DemcHENKo (Ukrainian Soviet Socialis"
+   }
+  ],
+  "stratum": "UDHR 1946-48",
+  "symbol": "A/C.3/SR.162",
+  "unanimous": true
+ },
+ "A/C.3/SR.289 p1": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [],
+  "notes": [
+   "The database's heading at line 12 is wrong: lines 10-14 are the record's opening contents block, which is not marked. The real agenda heading in the text starts at line 15 and runs to line 18, including [Item 63]*. On the scan the chairman is spelled 'van Heuven Goedhart'; the OCR in line 14 has it garbled. The footnote at the foot of the left column ('* Indicates the item number on the General Assembly agenda') is not among the OCR lines, so there are no junk lines to flag.",
+   "The database puts the heading at line 12, but that line belongs to the CONTENTS entry in the opening block. The heading in the text itself begins at line 15 and runs to line 18 (\"[Item 63]*\"). Paragraphs 2-6 continue Azkoul's turn. The footnote at the foot of the page (\"* Indicates the item number on the General Assembly agenda\") is not among the OCR lines, so nothing is marked as junk.",
+   "The database's heading at line 12 is the CONTENTS entry in the opening block, so it should not be marked. The agenda heading in the text starts at line 15 and runs to line 18 (\"[Item 63]*\"). Lines 1-14 are the opening block (masthead, contents, chairman). Those lines are not junk, so none are listed. The scan has a footnote (\"* Indicates the item number on the General Assembly agenda\"), but it does not appear in the OCR lines. Paragraphs 2-6 continue Azkoul's turn."
+  ],
+  "page": 1,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "",
+    "kind": "heading",
+    "line": 14,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "heading",
+      "heading",
+      "heading"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "Draft first international covenant on hu"
+   },
+   {
+    "delegation": "Lebanon",
+    "kind": "speech",
+    "line": 18,
+    "offset": 0,
+    "speaker": "AZKOUL",
+    "variants": {
+     "delegation": [
+      "Lebanon",
+      "Lebanon",
+      "Lebanon"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "AZKOUL",
+      "AZKOUL",
+      "AZKOUL"
+     ]
+    },
+    "votes": 3,
+    "words": "1. Mr. AZKOUL (Lebanon) recalled that at"
+   }
+  ],
+  "stratum": "Third Committee 1950-61",
+  "symbol": "A/C.3/SR.289",
+  "unanimous": true
+ },
+ "A/C.3/SR.311 p3": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [
+   0
+  ],
+  "notes": [
+   "Paragraphs 21-23 continue Cassin's (France) turn from the previous page. The scan prints CAÑAS with a tilde, but the OCR has CANAS. Line 1 (\"a\") is a stray OCR artefact.",
+   "Paras 21-23 continue Mr. Cassin's (France) turn from the previous page; the mention of 'Mr. Cassin' at line 17 is inside his own turn and is not a new start. The scan prints the name with a tilde, CAÑAS FLORES; the OCR has CANAS. Line 1 ('a') is a stray mark and not part of the text. The two database starts are correct.",
+   "Paras 21-23 continue Cassin's (France) turn from the previous page; there is no new start there. The scan spells the name CAÑAS with a tilde; the OCR reads CANAS. Line 1 (\"a\") is a stray mark, not text."
+  ],
+  "page": 3,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "Chile",
+    "kind": "speech",
+    "line": 48,
+    "offset": 0,
+    "speaker": "CAÑAS FLORES",
+    "variants": {
+     "delegation": [
+      "Chile",
+      "Chile",
+      "Chile"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "CAÑAS FLORES",
+      "CAÑAS FLORES",
+      "CAÑAS FLORES"
+     ]
+    },
+    "votes": 3,
+    "words": "24. Mr. CANAS FLORES (Chile) pointed out"
+   },
+   {
+    "delegation": "Mexico",
+    "kind": "speech",
+    "line": 75,
+    "offset": 0,
+    "speaker": "NORIEGA",
+    "variants": {
+     "delegation": [
+      "Mexico",
+      "Mexico",
+      "Mexico"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "NORIEGA",
+      "NORIEGA",
+      "NORIEGA"
+     ]
+    },
+    "votes": 3,
+    "words": "28. Mr. NORIEGA (Mexico) wished to comme"
+   }
+  ],
+  "stratum": "Third Committee 1950-61",
+  "symbol": "A/C.3/SR.311",
+  "unanimous": true
+ },
+ "A/C.3/SR.322 p2": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [],
+  "notes": [
+   "Scan agrees with the database's four starts. Lines 1-2 continue a turn from the previous page. No junk lines.",
+   "The scan agrees with the database's four starts. Lines 1-2 continue a turn from the previous page. There are no junk lines because the running head was already removed. The page has 125 lines, and the scan text ends at \"when an article was important,\".",
+   "Database starts confirmed on the scan; lines 1-2 continue a turn from the previous page."
+  ],
+  "page": 2,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "New Zealand",
+    "kind": "speech",
+    "line": 2,
+    "offset": 0,
+    "speaker": "DAVIN",
+    "variants": {
+     "delegation": [
+      "New Zealand",
+      "New Zealand",
+      "New Zealand"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "DAVIN",
+      "DAVIN",
+      "DAVIN"
+     ]
+    },
+    "votes": 3,
+    "words": "10. Mr. DAVIN (New Zealand) said that hi"
+   },
+   {
+    "delegation": "Greece",
+    "kind": "speech",
+    "line": 46,
+    "offset": 0,
+    "speaker": "CASSIMATIS",
+    "variants": {
+     "delegation": [
+      "Greece",
+      "Greece",
+      "Greece"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "CASSIMATIS",
+      "CASSIMATIS",
+      "CASSIMATIS"
+     ]
+    },
+    "votes": 3,
+    "words": "16. Mr. CASSIMATIS (Greece) thought that"
+   },
+   {
+    "delegation": "India",
+    "kind": "speech",
+    "line": 81,
+    "offset": 0,
+    "speaker": "MENON",
+    "variants": {
+     "delegation": [
+      "India",
+      "India",
+      "India"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "MENON",
+      "MENON",
+      "MENON"
+     ]
+    },
+    "votes": 3,
+    "words": "20. Mrs. MENON (India) deplored the fact"
+   },
+   {
+    "delegation": "Ecuador",
+    "kind": "speech",
+    "line": 114,
+    "offset": 0,
+    "speaker": "MANTILLA",
+    "variants": {
+     "delegation": [
+      "Ecuador",
+      "Ecuador",
+      "Ecuador"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "MANTILLA",
+      "MANTILLA",
+      "MANTILLA"
+     ]
+    },
+    "votes": 3,
+    "words": "26. Mr. MANTILLA (Ecuador) said that his"
+   }
+  ],
+  "stratum": "Third Committee 1950-61",
+  "symbol": "A/C.3/SR.322",
+  "unanimous": true
+ },
+ "A/C.3/SR.530 p1": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [],
+  "notes": [
+   "The database places the heading at line 12, but that line is the CONTENTS entry in the opening block. The agenda heading in the text starts at line 14 and runs through '[Item 69]*' at line 17. Paragraphs 2 and 3 continue Saksin's speech. Lines 1-13 are the opening block (masthead, date, contents, chairman), so none are marked as junk. The footnote at the foot of the page ('* Indicates the item number...') is not among the OCR lines.",
+   "Line 12 is the table-of-contents entry in the opening block, not a heading in the text; the real agenda heading starts at line 14 (database's line-12 heading is wrong). Paragraphs 2 and 3 continue Saksin's speech. The footnote and page number are not among the OCR lines.",
+   "The database's heading at line 12 is the CONTENTS entry, which belongs to the opening block. The real agenda heading begins at line 14 and runs to line 17 ('[Item 69]*'). Lines 1-13 are the opening block (masthead, date, contents, chairman), so they are not marked or treated as junk. The footnote '* Indicates the item number...' at the foot of the left column is not in the OCR lines. Paragraphs 2 and 3 continue Saksin's speech."
+  ],
+  "page": 1,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "",
+    "kind": "heading",
+    "line": 13,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "heading",
+      "heading",
+      "heading"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "Evidence of existence of forced labour ("
+   },
+   {
+    "delegation": "Union of Soviet Socialist Republics",
+    "kind": "speech",
+    "line": 17,
+    "offset": 0,
+    "speaker": "SAKSIN",
+    "variants": {
+     "delegation": [
+      "Union of Soviet Socialist Republics",
+      "Union of Soviet Socialist Republics",
+      "Union of Soviet Socialist Republics"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "SAKSIN",
+      "SAKSIN",
+      "SAKSIN"
+     ]
+    },
+    "votes": 3,
+    "words": "1. Mr. SAKSIN (Union of Soviet Socialist"
+   }
+  ],
+  "stratum": "Third Committee 1950-61",
+  "symbol": "A/C.3/SR.530",
+  "unanimous": true
+ },
+ "A/C.3/SR.694 p6": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [],
+  "notes": [
+   "On this page the database is correct. Paragraphs 55-57 continue Massoud-Ansari's turn and 59-60 continue Bruun's, so none of them starts a new turn. The running head, page number 60 and the footer ('Printed in U.S.A.', M-77301) are already out of the OCR lines.",
+   "The database's seven starts match the scan exactly. Paragraphs 55-57 (Iran) and 59-60 (Denmark) continue the same speaker's turn and do not start new ones. The running head and the footer ('Printed in U.S.A.', 'M-77301') are not among the OCR lines, so no lines are junk.",
+   "The scan matches the database on this page. Paragraphs 55-57 (Iran) and 59-60 (Denmark) carry on the same speaker's turn, so no new segment starts there. The running head and the 'Printed in U.S.A.' footer are not among the OCR lines, so no lines are junk."
+  ],
+  "page": 6,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "Syria",
+    "kind": "speech",
+    "line": 0,
+    "offset": 0,
+    "speaker": "MUFTI",
+    "variants": {
+     "delegation": [
+      "Syria",
+      "Syria",
+      "Syria"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "MUFTI",
+      "MUFTI",
+      "MUFTI"
+     ]
+    },
+    "votes": 3,
+    "words": "53. Mr. MUFTI (Syria) pointed out that t"
+   },
+   {
+    "delegation": "Iran",
+    "kind": "speech",
+    "line": 9,
+    "offset": 0,
+    "speaker": "MASSOUD-ANSARI",
+    "variants": {
+     "delegation": [
+      "Iran",
+      "Iran",
+      "Iran"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "MASSOUD-ANSARI",
+      "MASSOUD-ANSARI",
+      "MASSOUD-ANSARI"
+     ]
+    },
+    "votes": 3,
+    "words": "54. Mr. MASSOUD-ANSARI (Iran) pointed ou"
+   },
+   {
+    "delegation": "Denmark",
+    "kind": "speech",
+    "line": 52,
+    "offset": 0,
+    "speaker": "BRUUN",
+    "variants": {
+     "delegation": [
+      "Denmark",
+      "Denmark",
+      "Denmark"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "BRUUN",
+      "BRUUN",
+      "BRUUN"
+     ]
+    },
+    "votes": 3,
+    "words": "58. Miss BRUUN (Denmark) said that her d"
+   },
+   {
+    "delegation": "Egypt",
+    "kind": "speech",
+    "line": 77,
+    "offset": 0,
+    "speaker": "SAMY",
+    "variants": {
+     "delegation": [
+      "Egypt",
+      "Egypt",
+      "Egypt"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "SAMY",
+      "SAMY",
+      "SAMY"
+     ]
+    },
+    "votes": 3,
+    "words": "61. Mr. SAMY (Egypt) regretted that the "
+   },
+   {
+    "delegation": "Dominican Republic",
+    "kind": "speech",
+    "line": 86,
+    "offset": 0,
+    "speaker": "BERNARDINO",
+    "variants": {
+     "delegation": [
+      "Dominican Republic",
+      "Dominican Republic",
+      "Dominican Republic"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "BERNARDINO",
+      "BERNARDINO",
+      "BERNARDINO"
+     ]
+    },
+    "votes": 3,
+    "words": "62. Miss BERNARDINO (Dominican Republic)"
+   },
+   {
+    "delegation": "China",
+    "kind": "speech",
+    "line": 97,
+    "offset": 0,
+    "speaker": "CHENG",
+    "variants": {
+     "delegation": [
+      "China",
+      "China",
+      "China"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "CHENG",
+      "CHENG",
+      "CHENG"
+     ]
+    },
+    "votes": 3,
+    "words": "63. Mr. CHENG (China) asked for clarific"
+   },
+   {
+    "delegation": "",
+    "kind": "closing",
+    "line": 108,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "closing",
+      "closing",
+      "closing"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The meeting rose at 6 p.m."
+   }
+  ],
+  "stratum": "Third Committee 1950-61",
+  "symbol": "A/C.3/SR.694",
+  "unanimous": true
+ },
+ "A/C.3/SR.815 p2": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [],
+  "notes": [
+   "Paragraphs 11-21 continue the Philippine representative's turn from the previous page, so nothing starts there. The scan has no headings, votes or procedural notes. The database's two starts are correct.",
+   "Paragraphs 11-21 continue the Philippine delegate's turn from the previous page (no new start). The database's two starts match the scan; there are no junk lines.",
+   "Paras 11-21 continue the Philippine representative's turn from the previous page (speaker not named on this page), so no start there. The two database starts are confirmed on the scan; the speaker's name is printed WOLTE."
+  ],
+  "page": 2,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "Chile",
+    "kind": "speech",
+    "line": 100,
+    "offset": 0,
+    "speaker": "ALDUNATE",
+    "variants": {
+     "delegation": [
+      "Chile",
+      "Chile",
+      "Chile"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "ALDUNATE",
+      "ALDUNATE",
+      "ALDUNATE"
+     ]
+    },
+    "votes": 3,
+    "words": "22. Mr. ALDUNATE (Chile) said that the r"
+   },
+   {
+    "delegation": "Austria",
+    "kind": "speech",
+    "line": 129,
+    "offset": 0,
+    "speaker": "WOLTE",
+    "variants": {
+     "delegation": [
+      "Austria",
+      "Austria",
+      "Austria"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "WOLTE",
+      "WOLTE",
+      "WOLTE"
+     ]
+    },
+    "votes": 3,
+    "words": "25. Mr. WOLTE (Austria) observed that th"
+   }
+  ],
+  "stratum": "Third Committee 1950-61",
+  "symbol": "A/C.3/SR.815",
+  "unanimous": true
+ },
+ "A/C.3/SR.851 p1": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [
+   11,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63
+  ],
+  "notes": [
+   "The database starts match the scan. Paragraphs 2-3 continue Brillantes's turn and paragraph 8 continues Morozov's. Lines 60-64 are the masthead from the top of the right column (THIRD COMMITTEE 851st MEETING, date, NEW YORK). They are part of the opening block, but the OCR placed them between paragraphs 3 and 4, so I marked them as junk at that position. Line 58 is OCR noise, line 59 is the page number 81, and line 12 is a stray artifact from the rule under the contents.",
+   "First page of A/C.3/SR.851. The database starts are right. Lines 1-13 are the opening block (title, contents, chairman). Line 12 is OCR noise from a rule. Lines 58-64 are the page number (81) and the masthead from the top right ('THIRD COMMITTEE 851st MEETING', the date, NEW YORK). They are part of the opening block but the OCR placed them between paragraphs 3 and 4, so they count as junk at that place. Paragraphs 2, 3 and 8 continue the speeches of Brillantes and Morozov; they do not start new turns. The heading at 14 could also be treated as one heading block running through line 18.",
+   "Lines 60-64 are the masthead from the top right of the page (Third Committee 851st meeting, 13 October 1958 at 3.10 p.m., New York). The OCR put them between the two columns, so I counted them as junk. Line 59 is the page number (81), and lines 12 and 58 are OCR noise. Paragraphs 2-3 continue Brillantes and paragraph 8 continues Morozov, so none of them starts a new turn. The database's starts are correct apart from the junk lines."
+  ],
+  "page": 1,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "",
+    "kind": "heading",
+    "line": 13,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "heading",
+      "heading",
+      "heading"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "AGENDA ITEM 32"
+   },
+   {
+    "delegation": "",
+    "kind": "heading",
+    "line": 18,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "heading",
+      "heading",
+      "heading"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "ARTICLE 7 OF THE DRAFT COVENANT ON CIVIL"
+   },
+   {
+    "delegation": "Philippines",
+    "kind": "speech",
+    "line": 21,
+    "offset": 0,
+    "speaker": "BRILLANTES",
+    "variants": {
+     "delegation": [
+      "Philippines",
+      "Philippines",
+      "Philippines"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "Brillantes",
+      "BRILLANTES",
+      "BRILLANTES"
+     ]
+    },
+    "votes": 3,
+    "words": "1. Mr, BRILLANTES (Philippines) said tha"
+   },
+   {
+    "delegation": "Dominican Republic",
+    "kind": "speech",
+    "line": 64,
+    "offset": 0,
+    "speaker": "BERNARDINO",
+    "variants": {
+     "delegation": [
+      "Dominican Republic",
+      "Dominican Republic",
+      "Dominican Republic"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "Bernardino",
+      "BERNARDINO",
+      "BERNARDINO"
+     ]
+    },
+    "votes": 3,
+    "words": "4, Miss BERNARDINO (Dominican Republic) "
+   },
+   {
+    "delegation": "Pakistan",
+    "kind": "speech",
+    "line": 75,
+    "offset": 0,
+    "speaker": "DEHLAVI",
+    "variants": {
+     "delegation": [
+      "Pakistan",
+      "Pakistan",
+      "Pakistan"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "Dehlavi",
+      "DEHLAVI",
+      "DEHLAVI"
+     ]
+    },
+    "votes": 3,
+    "words": "5. Mr. DEHLAVI (Pakistan) said that the "
+   },
+   {
+    "delegation": "Guatemala",
+    "kind": "speech",
+    "line": 84,
+    "offset": 0,
+    "speaker": "DE ARENAS",
+    "variants": {
+     "delegation": [
+      "Guatemala",
+      "Guatemala",
+      "Guatemala"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "de Arenas",
+      "de ARENAS",
+      "de ARENAS"
+     ]
+    },
+    "votes": 3,
+    "words": "6. Mrs. de ARENAS (Guatemala) said that "
+   },
+   {
+    "delegation": "Union of Soviet Socialist Republics",
+    "kind": "speech",
+    "line": 96,
+    "offset": 0,
+    "speaker": "MOROZOV",
+    "variants": {
+     "delegation": [
+      "Union of Soviet Socialist Republics",
+      "Union of Soviet Socialist Republics",
+      "Union of Soviet Socialist Republics"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "Morozov",
+      "MOROZOV",
+      "MOROZOV"
+     ]
+    },
+    "votes": 3,
+    "words": "7. Mr. MOROZOV (Union of Soviet Socialis"
+   }
+  ],
+  "stratum": "Third Committee 1950-61",
+  "symbol": "A/C.3/SR.851",
+  "unanimous": true
+ },
+ "A/C.3/SR.91 p3": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [
+   66
+  ],
+  "notes": [
+   "Lines 1-34 continue the turn of the previous speaker (Modzelewski, according to the French column), so nothing starts there. The scan prints the Indian speaker as 'Sir Benegal Narsinga RAU', with only RAU in small caps, so the surname is Rau (the database has 'BENEGAL NARSINGA RAU'). Line 67 ('47') is the page number. The stray quote mark at the start of line 65 is an OCR artefact.",
+   "Lines 1-34 continue the previous speaker's turn (Mr. Modzelewski of Poland, as the French column shows), so they are not a new start. The scan prints only RAU in small capitals, so the surname is Rau; the database's 'BENEGAL NARSINGA RAU' gives the full name. Line 67 ('47') is the page number. The opening '‘' on line 65 is an OCR speck.",
+   "Lines 1-34 continue the previous speaker's turn (Modzelewski, per the French column), so nothing starts there. On the scan the India delegate is printed 'Sir Benegal Narsinga RAU' with only RAU in small caps, so the surname is Rau. The database has him as 'BENEGAL NARSINGA RAU'. Line 67 ('47') is the page number. The stray quotation mark at the start of line 65 is OCR noise."
+  ],
+  "page": 3,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "India",
+    "kind": "speech",
+    "line": 34,
+    "offset": 0,
+    "speaker": "RAU",
+    "variants": {
+     "delegation": [
+      "India",
+      "India",
+      "India"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "Rau",
+      "Rau",
+      "Rau"
+     ]
+    },
+    "votes": 3,
+    "words": "Sir Benegal Narsinga Rau (India), whose"
+   },
+   {
+    "delegation": "China",
+    "kind": "speech",
+    "line": 64,
+    "offset": 0,
+    "speaker": "CHANG",
+    "variants": {
+     "delegation": [
+      "China",
+      "China",
+      "China"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "Chang",
+      "Chang",
+      "Chang"
+     ]
+    },
+    "votes": 3,
+    "words": "‘ Mr. CHANG (China) stated that the draf"
+   }
+  ],
+  "stratum": "UDHR 1946-48",
+  "symbol": "A/C.3/SR.91",
+  "unanimous": true
+ },
+ "A/C.3/SR.95 p10": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [],
+  "notes": [
+   "Lines 1-2 end a quoted South African amendment begun on the previous page. Line 3, 'The South African representative explained...', reads as the same South African speaker (Te Water, named at line 50) carrying on from the previous page, so I did not mark it as a start; check the previous page in case another speaker came between. The database's starts match the scan. The only difference is that it names the chairman (MALIK), and the scan prints just 'The CHAIRMAN'. No junk lines: the French column and the page number (92) are not in the OCR lines.",
+   "Lines 1-40 continue the South African representative's (Mr. Te Water's) turn from the previous page; it opens with a quoted amendment text. I did not mark line 3 (\"The South African representative explained\") as a new start, because it reads as the same speech going on after the quotation. If the previous page shows that his turn had not begun, line 3 would be a speech start (South Africa, Te Water). The database's four starts match the scan. The database names the chair MALIK; the scan does not print the chairman's name.",
+   "Lines 1-40 are taken as the continuation of the South African representative's (Te Water's) turn from the previous page. Line 1 finishes his quoted amendment, and \"The South African representative explained\" (line 3) reads as reported speech inside the same turn, so it is not marked as a new start. If the previous page shows another speaker between the amendment and line 3, line 3 would be a speech start (speaker Te Water, Union of South Africa). The database's chair speaker 'MALIK' is not printed on this page; the chair is left blank as instructed."
+  ],
+  "page": 10,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "Yugoslavia",
+    "kind": "speech",
+    "line": 40,
+    "offset": 0,
+    "speaker": "DEDIJER",
+    "variants": {
+     "delegation": [
+      "Yugoslavia",
+      "Yugoslavia",
+      "Yugoslavia"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "Dedijer",
+      "Dedijer",
+      "Dedijer"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr, DEDIJER (Yugoslavia) asked for the c"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 44,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The CHAIRMAN mentioned that the word “di"
+   },
+   {
+    "delegation": "Chile",
+    "kind": "speech",
+    "line": 51,
+    "offset": 0,
+    "speaker": "SANTA CRUZ",
+    "variants": {
+     "delegation": [
+      "Chile",
+      "Chile",
+      "Chile"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "Santa Cruz",
+      "Santa Cruz",
+      "Santa Cruz"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. Santa Cruz (Chile) pointed out that "
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 62,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The CHAIRMAN thought that the remarks"
+   }
+  ],
+  "stratum": "UDHR 1946-48",
+  "symbol": "A/C.3/SR.95",
+  "unanimous": true
+ },
+ "A/C.3/SR.955 p1": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [
+   0
+  ],
+  "notes": [
+   "The database misses the start at line 70 (para. 4, Sir Samuel Hoare, United Kingdom). Paras 2, 5, 6 and 9 continue the same speaker's turn and are not new starts. Line 1 is the library's 'RECEIVED' stamp. Lines 3-4 mix the masthead with stamp text, but they belong to the opening block, so they are not marked. The headings at lines 20 and 25 come after the Contents and Chairman lines and are kept as headings in the text.",
+   "On the scan this is the first page of A/C.3/SR.955. The database missed one turn: Sir Samuel Hoare (United Kingdom), para. 4, line 70. Every other start it lists is right. Lines 1-19 are the opening block (masthead, date, contents, chairman) and are not marked. Line 1 is the library's RECEIVED stamp, and lines 3-4 also pick up stamp text ('°° /3)8&', '¥2 513i. leary'). I left lines 3-4 out of the junk list because they are still the masthead. Paras 2, 5, 6 and 9 continue the turn already running and do not start new ones.",
+   "The database leaves out para. 4, Sir Samuel Hoare (United Kingdom), which starts at line 70. That turn runs through paras. 4-6, and para. 9 at line 121 continues Colucci's turn. Line 1 is the library's RECEIVED stamp, not record text. Line 4 also carries stamp text (\"¥2 513i. leary\") after ASSEMBLY, but most of that line is the real masthead, so I did not mark it as junk. Lines 2-19 are the opening block and are left unmarked. The OCR reading order is right: the end of column 1 at lines 57-69 runs on into the top of column 2."
+  ],
+  "page": 1,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "",
+    "kind": "heading",
+    "line": 19,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "heading",
+      "heading",
+      "heading"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "AGENDA ITEM 34"
+   },
+   {
+    "delegation": "",
+    "kind": "heading",
+    "line": 24,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "heading",
+      "heading",
+      "heading"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "ARTICLE 12 OF THE DRAFT COVENANT ON CIVI"
+   },
+   {
+    "delegation": "Ireland",
+    "kind": "speech",
+    "line": 27,
+    "offset": 0,
+    "speaker": "MACENTEE",
+    "variants": {
+     "delegation": [
+      "Ireland",
+      "Ireland",
+      "Ireland"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "MacENTEE",
+      "MacENTEE",
+      "MacENTEE"
+     ]
+    },
+    "votes": 3,
+    "words": "1. Miss MacENTEE (Ireland) supported the"
+   },
+   {
+    "delegation": "Denmark",
+    "kind": "speech",
+    "line": 56,
+    "offset": 0,
+    "speaker": "PEDERSEN",
+    "variants": {
+     "delegation": [
+      "Denmark",
+      "Denmark",
+      "Denmark"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "PEDERSEN",
+      "PEDERSEN",
+      "PEDERSEN"
+     ]
+    },
+    "votes": 3,
+    "words": "3. Miss PEDERSEN (Denmark) said that her"
+   },
+   {
+    "delegation": "United Kingdom",
+    "kind": "speech",
+    "line": 69,
+    "offset": 0,
+    "speaker": "HOARE",
+    "variants": {
+     "delegation": [
+      "United Kingdom",
+      "United Kingdom",
+      "United Kingdom"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "HOARE",
+      "HOARE",
+      "HOARE"
+     ]
+    },
+    "votes": 3,
+    "words": "4, Sir Samuel‘HOARE (United Kingdom) sai"
+   },
+   {
+    "delegation": "Mexico",
+    "kind": "speech",
+    "line": 109,
+    "offset": 0,
+    "speaker": "CUEVAS CANCINO",
+    "variants": {
+     "delegation": [
+      "Mexico",
+      "Mexico",
+      "Mexico"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "CUEVAS CANCINO",
+      "CUEVAS CANCINO",
+      "CUEVAS CANCINO"
+     ]
+    },
+    "votes": 3,
+    "words": "7. Mr. CUEVAS CANCINO (Mexico) pointed o"
+   },
+   {
+    "delegation": "Italy",
+    "kind": "speech",
+    "line": 113,
+    "offset": 0,
+    "speaker": "COLUCCI",
+    "variants": {
+     "delegation": [
+      "Italy",
+      "Italy",
+      "Italy"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "COLUCCI",
+      "COLUCCI",
+      "COLUCCI"
+     ]
+    },
+    "votes": 3,
+    "words": "8. Mr, COLUCCI (Italy) saidthat there wa"
+   }
+  ],
+  "stratum": "Third Committee 1950-61",
+  "symbol": "A/C.3/SR.955",
+  "unanimous": true
+ },
+ "A/PV.139 p2": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [
+   50
+  ],
+  "notes": [
+   "Lines 1-11 continue the credentials report from the previous page, so they are not a new start. The database is missing the two agenda headings (items 13 and 14). On the scan the speaker is \"Romulo\"; the OCR line reads \"Romuto\". Line 51 (\"on\") is not on the English column of the scan; it is stray OCR, probably a fragment of \"de\" at the foot of the French column.",
+   "Line 51 'on' does not appear in the English column of the scan; it is probably OCR noise from the gutter or the edge of the page. The scan reads ROMULO and the OCR reads 'Romuto'. The database has no starts for the two agenda headings (13, 14), and it joins the heading at line 13 to the vote at line 12. Lines 28-50 continue Romulo's speech and start no new turn.",
+   "Lines 1-11 continue the credentials report from the previous page, so no turn starts there. The two agenda headings (13 and 14) are not in the database. Line 51 \"on\" does not appear in the English column of the scan, which ends with \"Korea,\". It looks like an OCR artifact, perhaps from the column rule or the French side. The database names the President \"EVATT\", but the scan prints no name, so I left the chair's speaker empty. The speaker on line 22 is spelled \"Romulo\" on the scan; the OCR line reads \"Romuto\"."
+  ],
+  "page": 2,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 11,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "vote",
+      "vote",
+      "vote"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The report was adopted."
+   },
+   {
+    "delegation": "",
+    "kind": "heading",
+    "line": 12,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "heading",
+      "heading",
+      "heading"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "13. Notification by the Secretary-Genera"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 15,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The PRESIDENT read the relevant paragrap"
+   },
+   {
+    "delegation": "",
+    "kind": "heading",
+    "line": 20,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "heading",
+      "heading",
+      "heading"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "14. Opening cf the general debate"
+   },
+   {
+    "delegation": "Philippines",
+    "kind": "speech",
+    "line": 21,
+    "offset": 0,
+    "speaker": "ROMULO",
+    "variants": {
+     "delegation": [
+      "Philippines",
+      "Philippines",
+      "Philippines"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "Romulo",
+      "Romulo",
+      "Romulo"
+     ]
+    },
+    "votes": 3,
+    "words": "General Romuto (Philippines) stated that"
+   }
+  ],
+  "stratum": "UDHR 1946-48 plenary",
+  "symbol": "A/PV.139",
+  "unanimous": true
+ },
+ "A/PV.1495 p2": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [
+   0
+  ],
+  "notes": [
+   "Line 2 is an italic decision paragraph (Assembly took note of the Secretary-General's report), so I marked it as a vote. The database has no start there. Line 1 is the running head. The database's four starts are confirmed by the scan.",
+   "Line 1 is the running head with page number. Line 2 is an italic decision (\"took note of the report\") on the previous item, printed as its own paragraph, so it is marked as a vote. The database missed it. The other four starts agree with the scan.",
+   "Line 2 is an italic decision ('The General Assembly took note of the report of the Secretary-General') that ends the previous item at the top of the page. I marked it as a vote. A procedural note is the other reading. Line 1 is the running head with the page number. The paragraphs numbered 8 and 10-13 continue the speeches of Daoudy and Parthasarathi and do not start new turns."
+  ],
+  "page": 2,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 1,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "vote",
+      "vote",
+      "vote"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The General Assembly took note of the re"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 3,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "6. The PRESIDENT: The Assembly will now "
+   },
+   {
+    "delegation": "Syria",
+    "kind": "speech",
+    "line": 8,
+    "offset": 0,
+    "speaker": "DAOUDY",
+    "variants": {
+     "delegation": [
+      "Syria",
+      "Syria",
+      "Syria"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "DAOUDY",
+      "Daoudy",
+      "DAOUDY"
+     ]
+    },
+    "votes": 3,
+    "words": "7. Mr. DAOUDY (Syria) (translated from F"
+   },
+   {
+    "delegation": "India",
+    "kind": "speech",
+    "line": 53,
+    "offset": 0,
+    "speaker": "PARTHASARATHI",
+    "variants": {
+     "delegation": [
+      "India",
+      "India",
+      "India"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "PARTHASARATHI",
+      "Parthasarathi",
+      "PARTHASARATHI"
+     ]
+    },
+    "votes": 3,
+    "words": "9. Mr. PARTHASARATHI (India): My delegat"
+   },
+   {
+    "delegation": "United Arab Republic",
+    "kind": "speech",
+    "line": 124,
+    "offset": 0,
+    "speaker": "EL KONY",
+    "variants": {
+     "delegation": [
+      "United Arab Republic",
+      "United Arab Republic",
+      "United Arab Republic"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "EL KONY",
+      "El Kony",
+      "EL KONY"
+     ]
+    },
+    "votes": 3,
+    "words": "14, Mr. EL KONY (United Arab Republic): "
+   }
+  ],
+  "stratum": "Third Committee 1962-66",
+  "symbol": "A/PV.1495",
+  "unanimous": true
+ },
+ "A/PV.178 p11": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [],
+  "notes": [
+   "Lines 1-3 continue the previous speaker's turn; OCR line 1 drops the hyphenated 'sentative'. Line 53 'Mr. Gross agreed...' is a new paragraph of the same Gross speech, not a new turn. The French column is not in the OCR lines.",
+   "Lines 1-3 continue the previous speaker's turn from the page before (the scan reads 'sentative hoped...'; the OCR dropped the hyphenated fragment). Lines 11 ('In a brief survey ... Mr. Gross drew') and 53 ('Mr. Gross agreed that...') are new paragraphs of Gross's own turn, with no other speaker in between, so they are not counted as new starts. The database's single start at line 4 is correct.",
+   "The page has one start, and the database has it right: Gross at line 4. Line 53 (\"Mr. Gross agreed...\") is a new paragraph by the same speaker, so it does not start a turn. Lines 1-3 continue the previous speaker's turn. On the scan line 1 begins \"sentative hoped\"; the OCR line drops the word fragment \"sentative\". The page is a parallel English/French verbatim record, and no French text appears in the OCR lines."
+  ],
+  "page": 11,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "United States of America",
+    "kind": "speech",
+    "line": 3,
+    "offset": 0,
+    "speaker": "GROSS",
+    "variants": {
+     "delegation": [
+      "United States of America",
+      "United States of America",
+      "United States of America"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "Gross",
+      "Gross",
+      "Gross"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. Gross (United States of America) sai"
+   }
+  ],
+  "stratum": "UDHR 1946-48 plenary",
+  "symbol": "A/PV.178",
+  "unanimous": true
+ },
+ "A/PV.180 p22": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [
+   49
+  ],
+  "notes": [
+   "Lines 1-20 continue the previous speaker's turn (Manuilsky, named in the French column), so no new turn starts there. The OCR misreads the scan's 'Van Roijen' as 'Van Rotsew'. Line 50 ('——') is a stray mark and not part of the text.",
+   "Lines 1-20 continue the previous speaker's turn (Manuilsky, named in the French column), so nothing starts there. Line 50 (\"——\") is not in the English column; it looks like a stray mark (the dash at the top right of the scan). The speaker's name on the scan is Van Roijen, which the OCR misread as \"Van Rotsew\".",
+   "Lines 1-20 continue the Byelorussian SSR speaker's (Manouilsky per the French column) turn from the previous page. The scan reads \"Van Roijen\"; \"Van Rotsew\" is an OCR misreading. Line 50 (\"——\") is a rule or mark, not part of the text."
+  ],
+  "page": 22,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "Netherlands",
+    "kind": "speech",
+    "line": 20,
+    "offset": 0,
+    "speaker": "VAN ROIJEN",
+    "variants": {
+     "delegation": [
+      "Netherlands",
+      "Netherlands",
+      "Netherlands"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "Van Roijen",
+      "VAN ROIJEN",
+      "Van Roijen"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. Van Rotsew (Netherlands) stated that"
+   }
+  ],
+  "stratum": "UDHR 1946-48 plenary",
+  "symbol": "A/PV.180",
+  "unanimous": true
+ },
+ "A/PV.180 p9": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [
+   59
+  ],
+  "notes": [
+   "Lines 1-57 continue Malik's (Rapporteur) report from the previous page; the new paragraphs at lines 12 and 40 (\"Mr. Malik then pointed out\", \"In conclusion, Mr. Malik recalled\") are the same turn, not new starts. Line 60 is from the French column.",
+   "Lines 1-57 continue Malik's (Rapporteur of the Third Committee) summarised statement from the previous page; 'Mr. Malik then pointed out' (l.12) and 'In conclusion, Mr. Malik recalled' (l.40) are paragraphs within his turn, so I did not mark them as new starts. Line 60 comes from the French column ('votes affirmatifs, 3,73').",
+   "Lines 12 and 40 (\"Mr. Malik then pointed out\", \"In conclusion, Mr. Malik recalled\") continue the rapporteur Malik's report from the previous page. They are not new turns. Line 60 is a fragment from the French column (\"votes affirmatifs, 3,73\")."
+  ],
+  "page": 9,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "United States of America",
+    "kind": "speech",
+    "line": 57,
+    "offset": 0,
+    "speaker": "ROOSEVELT",
+    "variants": {
+     "delegation": [
+      "United States of America",
+      "United States of America",
+      "United States of America"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "Roosevelt",
+      "Roosevelt",
+      "Roosevelt"
+     ]
+    },
+    "votes": 3,
+    "words": "Mrs. ROOSEVELT (United States of America"
+   }
+  ],
+  "stratum": "UDHR 1946-48 plenary",
+  "symbol": "A/PV.180",
+  "unanimous": true
+ },
+ "A/PV.183 p10": {
+  "disputes": [
+   {
+    "delegation": "Syria",
+    "kind": "speech",
+    "line": 4,
+    "offset": 0,
+    "speaker": "KAYALY",
+    "variants": {
+     "delegation": [
+      "Syria",
+      "Syria",
+      "Syria"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "Abdul Rahman Kayaly",
+      "Kayaly",
+      "Kayaly"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. Abdul Rahman Kavaty (Syria) said tha"
+   }
+  ],
+  "junk_disputed": [],
+  "junk_lines": [],
+  "notes": [
+   "On the scan the name is Kayaly (the OCR reads it as 'Kavaty'). Lines 1-4 continue the previous speaker's turn from the page before.",
+   "Lines 1-4 continue the previous speaker's turn from the page before. On the scan the speaker's surname is KAYALY, which the OCR misreads as 'Kavaty'. The database gives his full name, 'ABDUL RAHMAN KAYALY'; the surname alone is Kayaly. The 'Firstly / Secondly / Thirdly' paragraphs belong to his speech and do not start new turns.",
+   "Lines 1-4 continue the previous speaker's turn. Surname on the scan is KAYALY (OCR has 'Kavaty'); full name Abdul Rahman Kayaly. Line 39 is a split ';' from 'ambiguities ;', not junk."
+  ],
+  "page": 10,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "Syria",
+    "kind": "speech",
+    "line": 4,
+    "offset": 0,
+    "speaker": "KAYALY",
+    "variants": {
+     "delegation": [
+      "Syria",
+      "Syria",
+      "Syria"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "Abdul Rahman Kayaly",
+      "Kayaly",
+      "Kayaly"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. Abdul Rahman Kavaty (Syria) said tha"
+   }
+  ],
+  "stratum": "UDHR 1946-48 plenary",
+  "symbol": "A/PV.183",
+  "unanimous": false
+ },
+ "A/PV.7 p2": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [
+   0,
+   1
+  ],
+  "notes": [
+   "Lines 1-2 ('By', 'EEE') are scan noise from the top margin. Line 3 continues the President's turn from the previous page. 'Is there any objection?' (line 16) belongs to the President's turn that starts at line 7. The page number 101 at the foot is not in the OCR lines. The database starts all agree with the scan.",
+   "Lines 1-2 ('By', 'EEE') are OCR noise from the scan's top edge. Line 3 continues the President's turn from the previous page. The database's starts on this page match the scan; only the speaker case differs (scan prints 'Dihigo').",
+   "The database's five starts are all correct. Lines 3-4 continue the President's turn from the previous page, so nothing starts there. Lines 1-2 ('By', 'EEE') are OCR noise from the top margin of the scan. The right column of the page is the French version, and the OCR lines leave it out. Line 7 'THe she' and line 19 'The Present' are both 'THE PRESIDENT' on the scan."
+  ],
+  "page": 2,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 4,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "vote",
+      "vote",
+      "vote"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "Decision: Paragraph 4 (a) of the resolut"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 6,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "THe she (Translation from the"
+   },
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 16,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "vote",
+      "vote",
+      "vote"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "Decision: Paragraphs 4 (b) and (c) of th"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 18,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The Present (Translation from the"
+   },
+   {
+    "delegation": "Cuba",
+    "kind": "speech",
+    "line": 36,
+    "offset": 0,
+    "speaker": "DIHIGO",
+    "variants": {
+     "delegation": [
+      "Cuba",
+      "Cuba",
+      "Cuba"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "Dihigo",
+      "Dihigo",
+      "Dihigo"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. Dihigo (Cuba): The Cutan delegation"
+   }
+  ],
+  "stratum": "UDHR 1946-48 plenary",
+  "symbol": "A/PV.7",
+  "unanimous": true
+ },
+ "A/PV.7 p9": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [
+   61
+  ],
+  "notes": [
+   "The result for paragraph (d) (line 8) is spoken by the President inside his own turn (\"Paragraph (d) is adopted by 21 votes with 2 abstentions\"). It is not printed as a separate paragraph, so I marked it as a chair turn and not a vote. The rest of that turn (lines 11-14) is the President opening the discussion on paragraph (e) and calling on Mr. López, so it does not start a new segment. The scan prints the delegation as \"Philippine Commonwealth\", not \"Philippines\". Line 62 is a stray OCR fragment at the foot of the page. López's speech runs on to the next page.",
+   "Line 8 is the President announcing the result (\"Paragraph (d) is adopted by 21 votes with 2 abstentions\"), so it is kept as a chair turn, not a separate vote line; the same turn then opens paragraph (e) and calls on López. The delegation is printed as \"Philippine Commonwealth\" (the database has \"Philippines\"). Line 62 (\"s\") is a stray mark at the foot of the page.",
+   "The result at line 8 ('Paragraph (d) is adopted by 21 votes with 2 abstentions') is part of the President's spoken turn, not a separate paragraph, so it is not marked as a vote. Lines 11-14 ('The discussion is open...', 'I call upon Mr. Lopez') continue the same President turn. Line 62 ('s') is a stray from the page number (108) at the foot. The database's delegation 'Philippines' should read 'Philippine Commonwealth' as on the scan."
+  ],
+  "page": 9,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 0,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "“The PRESIDENT (Translation from the"
+   },
+   {
+    "delegation": "",
+    "kind": "procedural",
+    "line": 3,
+    "offset": 1,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "procedural",
+      "procedural",
+      "procedural"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "A vote was taken by a show of hands on t"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 7,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The FREeSwENT (Translation from ‘the"
+   },
+   {
+    "delegation": "Philippine Commonwealth",
+    "kind": "speech",
+    "line": 14,
+    "offset": 0,
+    "speaker": "LÓPEZ",
+    "variants": {
+     "delegation": [
+      "Philippine Commonwealth",
+      "Philippine Commonwealth",
+      "Philippine Commonwealth"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "López",
+      "López",
+      "López"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. Lovez (Philippine Commonwealth ) :"
+   }
+  ],
+  "stratum": "UDHR 1946-48 plenary",
+  "symbol": "A/PV.7",
+  "unanimous": true
+ },
+ "E/CN.4/AC.1/SR.13 p5": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [],
+  "notes": [
+   "Lines 1-2 continue a turn from the previous page. The catchword '/to society,' at the foot of the scan is not among the OCR lines. The database's four starts are correct.",
+   "The database's four starts match the scan. Lines 1-2 continue a turn from the previous page. The catchword \"/to society,\" at the foot of the scan is not among the OCR lines.",
+   "Lines 1-2 continue a turn from the previous page. The scan's catchword '/to society,' is not among the OCR lines, so no line is junk. The database's starts all match the scan."
+  ],
+  "page": 5,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "United Kingdom",
+    "kind": "speech",
+    "line": 2,
+    "offset": 0,
+    "speaker": "WILSON",
+    "variants": {
+     "delegation": [
+      "United Kingdom",
+      "United Kingdom",
+      "United Kingdom"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "WILSON",
+      "WILSON",
+      "WILSON"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. WILSON (United Kingdom) suggested th"
+   },
+   {
+    "delegation": "Lebanon",
+    "kind": "speech",
+    "line": 5,
+    "offset": 0,
+    "speaker": "MALIK",
+    "variants": {
+     "delegation": [
+      "Lebanon",
+      "Lebanon",
+      "Lebanon"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "MALIK",
+      "MALIK",
+      "MALIK"
+     ]
+    },
+    "votes": 3,
+    "words": "Dr. MALIK (Lebanon) said that even if th"
+   },
+   {
+    "delegation": "France",
+    "kind": "speech",
+    "line": 13,
+    "offset": 0,
+    "speaker": "CASSIN",
+    "variants": {
+     "delegation": [
+      "France",
+      "France",
+      "France"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "CASSIN",
+      "CASSIN",
+      "CASSIN"
+     ]
+    },
+    "votes": 3,
+    "words": "Professor CASSIN (France) pointed out th"
+   },
+   {
+    "delegation": "China",
+    "kind": "speech",
+    "line": 19,
+    "offset": 0,
+    "speaker": "CHANG",
+    "variants": {
+     "delegation": [
+      "China",
+      "China",
+      "China"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "CHANG",
+      "CHANG",
+      "CHANG"
+     ]
+    },
+    "votes": 3,
+    "words": "Dr. CHANG (China) said he was in agreeme"
+   }
+  ],
+  "stratum": "UDHR 1946-48",
+  "symbol": "E/CN.4/AC.1/SR.13",
+  "unanimous": true
+ },
+ "E/CN.4/SR.153 p2": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [],
+  "notes": [
+   "Lines 1-26 continue the list of those present from page 1, so they are not marked. The scan shows the catchword \"/2. In order\" at the foot of the page, but it is not in the OCR lines. I marked line 27 (the agenda heading \"DRAFT INTERNATIONAL COVENANT ... (continued)\") as a heading, which the database misses. It comes straight after the list of those present, so it could be read as part of the opening block. Lines 30-31 match the database.",
+   "Lines 1-26 are the rest of the attendance list from the opening block, so they are not marked. The scan shows two headings. The agenda-item heading runs over lines 27-29 and the underlined sub-heading is line 30. I marked them as two separate headings. The database has only line 30 and misses the agenda heading at line 27. If both headings should count as one block, drop line 27 and keep line 30. The scan has a catchword at the foot of the page, \"/2. In order\", but it is not among the OCR lines, so there are no junk lines.",
+   "Lines 1-26 are the rest of the attendance list (opening block), so they are not marked. Line 27 (agenda item heading, through line 29) and line 30 (underlined sub-heading) are both headings, one directly after the other. The database marked only line 30; I marked both, but line 27 could be read as part of the opening block. The catchword '/2. In order' at the foot of the scan is not among the OCR lines."
+  ],
+  "page": 2,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "",
+    "kind": "heading",
+    "line": 26,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "heading",
+      "heading",
+      "heading"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "DRAFT INTERNATIONAL COVENANT ON HUMAN RI"
+   },
+   {
+    "delegation": "",
+    "kind": "heading",
+    "line": 29,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "heading",
+      "heading",
+      "heading"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "Statement by the representative of the C"
+   },
+   {
+    "delegation": "Commission on the Status of Women",
+    "kind": "speech",
+    "line": 30,
+    "offset": 0,
+    "speaker": "CASTILLO LEDON",
+    "variants": {
+     "delegation": [
+      "Commission on the Status of Women",
+      "Commission on the Status of Women",
+      "Commission on the Status of Women"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "CASTILLO LEDON",
+      "CASTILLO LEDON",
+      "CASTILLO LEDON"
+     ]
+    },
+    "votes": 3,
+    "words": "1. Mrs. CASTILLO LEDON (Commission on th"
+   }
+  ],
+  "stratum": "CHR 1949-54",
+  "symbol": "E/CN.4/SR.153",
+  "unanimous": true
+ },
+ "E/CN.4/SR.163 p5": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [
+   36
+  ],
+  "notes": [
+   "Paragraphs 9-13 continue the Egyptian representative's (Mr. Ramadan) turn from the previous page; paragraph 13's 'Mr. Ramadan said' is the same speaker going on, not a new turn. Line 37 '/15. She thought' is the catchword at the foot of the page.",
+   "Paragraphs 9-13 continue the Egyptian speaker's turn from the previous page. Paragraph 13 ('Referring to the French proposal, Mr. Ramadan said...', line 31) names the same speaker again, so I did not mark it as a new start. Line 37 ('/15. She thought') is the catchword at the foot of the page.",
+   "Paras 9-13 continue the Egyptian representative's (Ramadan's) turn from the previous page. The 'Mr. Ramadan said' in para 13 (line 31) is the same speaker going on, so it is not a new start. Line 37, '/15. She thought', is the catchword at the foot of the page."
+  ],
+  "page": 5,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "India",
+    "kind": "speech",
+    "line": 34,
+    "offset": 0,
+    "speaker": "MEHTA",
+    "variants": {
+     "delegation": [
+      "India",
+      "India",
+      "India"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "MEHTA",
+      "MEHTA",
+      "MEHTA"
+     ]
+    },
+    "votes": 3,
+    "words": "1h, Mrs. MEHTA (India) explained the pos"
+   }
+  ],
+  "stratum": "CHR 1949-54",
+  "symbol": "E/CN.4/SR.163",
+  "unanimous": true
+ },
+ "E/CN.4/SR.17 p9": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [],
+  "notes": [
+   "Line 1 continues a turn from the previous page. The database misses the chair turn at line 18 (\"The CHAIRMAN felt that Item 16...\"), and its line 28 start is wrong: that line opens the quoted text of Malik's proposal (\"The CHAIRMAN, VICE-CHAIRMAN and RAPPORTEUR...\"), not a chair turn. The scan prints the Chilean speaker as \"del RIO\" (full name Nieto del Rio, as in the database). The catchword \"/Mr. DUKES\" at the foot of the page is on the scan but not in the OCR lines.",
+   "The database's start at line 28 is wrong. Lines 28-30 (\"The CHAIRMAN, VICE-CHAIRMAN and RAPPORTEUR ... may consult\") quote the text of Malik's proposal, so they are part of his turn and not a chair turn. The database also misses the chair turn at line 18 (\"The CHAIRMAN felt that Item 16 ...\"). The scan prints the Chilean delegate as \"del RIO\"; the database names him Nieto del Rio, which is his full surname. Line 1 continues a turn from the previous page. The catchword \"/Mr. DUKES\" at the foot of the scan is not in the OCR lines, so no line is junk.",
+   "Line 1 continues a turn from the previous page. The database errs in two places. It misses the chair's turn at line 18 (\"The CHAIRMAN felt that Item 16 ...\"). It also treats line 28 as a chair turn, but that line is the quoted text of Malik's proposal, which begins at line 27. The scan prints the Chilean delegate as \"del RIO\"; the database has the full name Nieto del Rio. The catchword \"/Mr. DUKES\" at the foot of the page is not among the OCR lines, so no junk line numbers apply."
+  ],
+  "page": 9,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "Chile",
+    "kind": "speech",
+    "line": 1,
+    "offset": 0,
+    "speaker": "DEL RIO",
+    "variants": {
+     "delegation": [
+      "Chile",
+      "Chile",
+      "Chile"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "del Rio",
+      "del Rio",
+      "del Rio"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. del RIO (Chile) asked whether the no"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 4,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The CHAIRMAN said, that the Economic and"
+   },
+   {
+    "delegation": "Chile",
+    "kind": "speech",
+    "line": 8,
+    "offset": 0,
+    "speaker": "DEL RIO",
+    "variants": {
+     "delegation": [
+      "Chile",
+      "Chile",
+      "Chile"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "del Rio",
+      "del Rio",
+      "del Rio"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. del RIO (Chile) suggested that a dec"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 10,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The CHAIRMAN said that the final decisio"
+   },
+   {
+    "delegation": "Egypt",
+    "kind": "speech",
+    "line": 14,
+    "offset": 0,
+    "speaker": "EBEID",
+    "variants": {
+     "delegation": [
+      "Egypt",
+      "Egypt",
+      "Egypt"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "Ebeid",
+      "Ebeid",
+      "Ebeid"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. EBEID (Egypt) suggested that if the "
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 17,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The.CHAIRMAN.felt that Item, 16. should "
+   },
+   {
+    "delegation": "Lebanon",
+    "kind": "speech",
+    "line": 19,
+    "offset": 0,
+    "speaker": "MALIK",
+    "variants": {
+     "delegation": [
+      "Lebanon",
+      "Lebanon",
+      "Lebanon"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "Malik",
+      "Malik",
+      "Malik"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. MALIK (Lebanon), Rapporteur, said th"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 23,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The CHAIRMAN felt that the Report should"
+   },
+   {
+    "delegation": "Lebanon",
+    "kind": "speech",
+    "line": 26,
+    "offset": 0,
+    "speaker": "MALIK",
+    "variants": {
+     "delegation": [
+      "Lebanon",
+      "Lebanon",
+      "Lebanon"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "Malik",
+      "Malik",
+      "Malik"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. MALIK (Lebanon) Rapporteur, proposed"
+   }
+  ],
+  "stratum": "UDHR 1946-48",
+  "symbol": "E/CN.4/SR.17",
+  "unanimous": true
+ },
+ "E/CN.4/SR.226 p6": {
+  "disputes": [
+   {
+    "delegation": "Union of Soviet Socialist Republics",
+    "kind": "speech",
+    "line": 6,
+    "offset": 0,
+    "speaker": "MOROSOV",
+    "variants": {
+     "delegation": [
+      "Union of Soviet Socialist Republics",
+      "Union of Soviet Socialist Republics",
+      "Union of Soviet Socialist Republics"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "MOROSOV",
+      "MOROZOV",
+      "MOROSOV"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr, MOROSOV (Union of ‘Soviet Socialist "
+   }
+  ],
+  "junk_disputed": [],
+  "junk_lines": [
+   0,
+   16
+  ],
+  "notes": [
+   "The scan has seven separate vote lines, Paragraphs 1) to 7), each rejected, but the OCR keeps only three of them: lines 28, 29 and 30 (line 30 is Paragraph 4). Paragraphs 3), 5), 6) and 7) have no OCR line, so they cannot be given a line number. On the scan the speaker's name is spelled MOROSOV, with a mark under the S (it could be read as MOROŞOV). The database's MOROZOV is the usual spelling but is not the one printed here. Lines 1 ('mm') and 17 (a stray quote mark) are scan noise, not text.",
+   "The scan shows seven separate underlined vote lines (Paragraphs 1 to 7), but the OCR keeps only three. It has no lines for Paragraphs 3, 5, 6 and 7. Line 30 reads 'Paragraph 4)', and its numbers fit Paragraphs 3, 4 and 5 alike (8 votes to 3 with 7 abstentions). Each vote line is marked as its own vote. The surname is typed 'MOROSOV' with a mark under the S, possibly a Z typed over it. I gave the usual spelling, MOROZOV; if the field should copy the scan exactly, it is MOROSOV. The two 'It was so agreed' lines (22 and 27) are votes, and the database is missing both. Lines 1 ('mm') and 17 (a stray quotation mark) are OCR noise.",
+   "The scan has seven separate underlined vote lines (paragraphs 1 to 7). The OCR kept only three of them (lines 28 to 30), so the votes on paragraphs 4 to 7 (or 3 and 5 to 7) have no OCR line. Line 30 reads \"4)\", but its figures (8 votes to 3) fit both paragraph 3 and paragraph 4, so I cannot tell which line it is. Each paragraph result is printed on its own line, so I marked each one as a separate vote. \"It was so agreed\" at lines 22 and 27 is printed as its own underlined paragraph, so I marked both as votes. On the scan the speaker's name is printed MOROSOV, with a mark under the S; the database uses the usual spelling MOROZOV. Line 1 (\"mm\") and line 17 (a stray mark) are OCR noise."
+  ],
+  "page": 6,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "Union of Soviet Socialist Republics",
+    "kind": "speech",
+    "line": 6,
+    "offset": 0,
+    "speaker": "MOROSOV",
+    "variants": {
+     "delegation": [
+      "Union of Soviet Socialist Republics",
+      "Union of Soviet Socialist Republics",
+      "Union of Soviet Socialist Republics"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "MOROSOV",
+      "MOROZOV",
+      "MOROSOV"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr, MOROSOV (Union of ‘Soviet Socialist "
+   },
+   {
+    "delegation": "France",
+    "kind": "speech",
+    "line": 17,
+    "offset": 0,
+    "speaker": "CASSIN",
+    "variants": {
+     "delegation": [
+      "France",
+      "France",
+      "France"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "CASSIN",
+      "CASSIN",
+      "CASSIN"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. CASSIN (France) asked that two edito"
+   },
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 21,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "vote",
+      "vote",
+      "vote"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "It was so- agreed,"
+   },
+   {
+    "delegation": "Ukrainian Soviet Socialist Republic",
+    "kind": "speech",
+    "line": 22,
+    "offset": 0,
+    "speaker": "KOVALENKO",
+    "variants": {
+     "delegation": [
+      "Ukrainian Soviet Socialist Republic",
+      "Ukrainian Soviet Socialist Republic",
+      "Ukrainian Soviet Socialist Republic"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "KOVALENKO",
+      "KOVALENKO",
+      "KOVALENKO"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. \"KOVALENKO (Ukrainian Soviet Sociali"
+   },
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 26,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "vote",
+      "vote",
+      "vote"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "it was so. agreed,"
+   },
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 27,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "vote",
+      "vote",
+      "vote"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "Paragraph 1) was rejected by 7 votes to "
+   },
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 28,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "vote",
+      "vote",
+      "vote"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "nee 2) was rejected by 9 votes to 2 me Z"
+   },
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 29,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "vote",
+      "vote",
+      "vote"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "rerant 4) was reledted by_8 votes to 3 w"
+   }
+  ],
+  "stratum": "CHR 1949-54",
+  "symbol": "E/CN.4/SR.226",
+  "unanimous": false
+ },
+ "E/CN.4/SR.245 p7": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [],
+  "notes": [
+   "Lines 1-19 continue a woman NGO speaker's turn from the previous page ('She spoke on behalf...' is a new paragraph, not a new turn). The scan prints the name as WARBURG; the type is blurred ('WAREURG' in the OCR), but the B is legible enough.",
+   "Lines 1-19 continue a turn that began on the previous page (a woman speaking for a women's legal organisation), so nothing starts there; line 9 is just a new paragraph of the same turn. On the scan the name at line 20 reads WARBURG, which the OCR gives as WAREURG. The database has the right line, kind and delegation but leaves the speaker empty. No running head or footer is left in the lines.",
+   "Lines 1-19 (\"She spoke on behalf...\") continue a woman NGO speaker's turn from the previous page; her name is not on this page, so no start there. The scan's print of the name is blurred (\"WAREURG\"/\"WARBURG\"); I read it as Warburg. The database's start at line 20 is right, but its speaker field is empty and should be Warburg."
+  ],
+  "page": 7,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "Co-ordinating Board of Jewish Organizations",
+    "kind": "speech",
+    "line": 19,
+    "offset": 0,
+    "speaker": "WARBURG",
+    "variants": {
+     "delegation": [
+      "Co-ordinating Board of Jewish Organizations",
+      "Co-ordinating Board of Jewish Organizations",
+      "Co-ordinating Board of Jewish Organizations"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "Warburg",
+      "Warburg",
+      "Warburg"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr, WAREURG (Co-ordinating Board of Jewi"
+   }
+  ],
+  "stratum": "CHR 1949-54",
+  "symbol": "E/CN.4/SR.245",
+  "unanimous": true
+ },
+ "E/CN.4/SR.246 p9": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [
+   26
+  ],
+  "notes": [
+   "The database misses Pickford's turn (ILO) at line 6: the OCR reads \"Me. PICKFOR)\" but the scan has \"Mr. PICKFORD\". Line 27 (\":\") is a speck on the scan, not text. The \".,.\" at the end of line 13 is margin noise, but the rest of that line is real text. The Chairman's turn at line 1 starts a new paragraph at the top of the page, so it is kept as a start.",
+   "The database misses Pickford's turn (ILO) at line 6. Line 27 is a stray mark on the scan, not text. The scan has WHITLAM, though it is printed blurred. The chair's turn at line 1 begins at the top of the page; it reads as a new turn (it answers the ILO question), not a continuation.",
+   "The database misses Pickford's turn (ILO) at line 6. On the scan it is a new indented paragraph. Line 27 is a stray mark (':') between paragraphs. The Chairman's turn at line 1 begins as a new indented paragraph at the top of the page, so it starts here."
+  ],
+  "page": 9,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 0,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The CHAIRMAN stated that that subject ha"
+   },
+   {
+    "delegation": "International Labour Organisation",
+    "kind": "speech",
+    "line": 5,
+    "offset": 5,
+    "speaker": "PICKFORD",
+    "variants": {
+     "delegation": [
+      "International Labour Organisation",
+      "International Labour Organisation",
+      "International Labour Organisation"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "Pickford",
+      "PICKFORD",
+      "PICKFORD"
+     ]
+    },
+    "votes": 3,
+    "words": "PICKFOR) (International Labour Organisat"
+   },
+   {
+    "delegation": "Greece",
+    "kind": "speech",
+    "line": 12,
+    "offset": 0,
+    "speaker": "EUSTATHIADES",
+    "variants": {
+     "delegation": [
+      "Greece",
+      "Greece",
+      "Greece"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "Eustathiades",
+      "EUSTATHIADES",
+      "EUSTATHIADES"
+     ]
+    },
+    "votes": 3,
+    "words": "tr, EUSTATHIADES (Greece) shared the Fra"
+   },
+   {
+    "delegation": "Australia",
+    "kind": "speech",
+    "line": 27,
+    "offset": 0,
+    "speaker": "WHITLAM",
+    "variants": {
+     "delegation": [
+      "Australia",
+      "Australia",
+      "Australia"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "Whitlam",
+      "WHITLAM",
+      "WHITLAM"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. WHITLAI (Australia) said that his de"
+   }
+  ],
+  "stratum": "CHR 1949-54",
+  "symbol": "E/CN.4/SR.246",
+  "unanimous": true
+ },
+ "E/CN.4/SR.31 p9": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [],
+  "notes": [
+   "Lines 1-6 continue a turn from the previous page. The database's four starts match the scan. The only difference is ROMULO's delegation: the scan prints \"Philippine Republic\" and the database has \"Philippines\". No junk lines.",
+   "Lines 1-6 continue a turn from the previous page. The scan prints the delegation as 'Philippine Republic', which the database normalised to 'Philippines'. The database's four starts match the scan. No junk lines: the running head has already been removed.",
+   "Lines 1-6 continue a turn from the previous page. The database's four starts are right; the only difference is that the scan gives Romulo's delegation as 'Philippine Republic', where the database has 'Philippines'. No junk lines: the running head was already removed. The OCR misreads 'Sub-Commission' as 'Bub-Commission' (line 9) and 'He' as 'Ho' (line 18), but these are only misspellings."
+  ],
+  "page": 9,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "Belgium",
+    "kind": "speech",
+    "line": 6,
+    "offset": 0,
+    "speaker": "DEHOUSSE",
+    "variants": {
+     "delegation": [
+      "Belgium",
+      "Belgium",
+      "Belgium"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "DEHOUSSE",
+      "DEHOUSSE",
+      "DEHOUSSE"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. DEHOUSSE (Belgium) said that two fac"
+   },
+   {
+    "delegation": "Philippine Republic",
+    "kind": "speech",
+    "line": 21,
+    "offset": 0,
+    "speaker": "ROMULO",
+    "variants": {
+     "delegation": [
+      "Philippine Republic",
+      "Philippine Republic",
+      "Philippine Republic"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "ROMULO",
+      "ROMULO",
+      "ROMULO"
+     ]
+    },
+    "votes": 3,
+    "words": "General ROMULO (Philippine Republic) pro"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 25,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The CHAIRMAN said that, if the Soviet Un"
+   },
+   {
+    "delegation": "Union of Soviet Socialist Republics",
+    "kind": "speech",
+    "line": 29,
+    "offset": 0,
+    "speaker": "BOGOMOLOV",
+    "variants": {
+     "delegation": [
+      "Union of Soviet Socialist Republics",
+      "Union of Soviet Socialist Republics",
+      "Union of Soviet Socialist Republics"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "BOGOMOLOV",
+      "BOGOMOLOV",
+      "BOGOMOLOV"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. BOGOMOLOV (Union of Soviet Socialist"
+   }
+  ],
+  "stratum": "UDHR 1946-48",
+  "symbol": "E/CN.4/SR.31",
+  "unanimous": true
+ },
+ "E/CN.4/SR.338 p28": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [],
+  "notes": [
+   "The OCR lines leave out the top of the scan. Above Bracco the scan has \"Annex II was adopted.\" (vote), the heading \"Annex III\", \"Annex III was adopted.\" (vote) and the heading \"Annex IV\". None of these has a line number, so none could be listed. Line 5 is a garbled OCR of the underlined \"The Uruguayan proposal was adopted.\" Line 8 is the heading \"Chapter VI: Adoption of the report of the eighth session to the Economic and Social Council (E/CN.4/L.200/Add.9)\", and its second line is also missing from the OCR. Line 11 is the vote \"The report of the eighth session of the Commission on Human Rights was adopted by 11 votes to none, with 5 abstentions.\" The catchword \"/instructions,\" at the foot of the scan is not among the lines. The chair is not named on this page, so the database's MALIK cannot be checked here.",
+   "The OCR leaves out the top of the scan, which has four starts above Bracco: 'Annex II was adopted.' (vote), 'Annex III' (heading), 'Annex III was adopted.' (vote) and 'Annex IV' (heading). They have no line numbers, so they are not in the list. Line 5 is garbled OCR of 'The Uruguayan proposal was adopted.' (vote). Line 8 is the heading 'Chapter VI: Adoption of the report of the eighth session to the Economic and Social Council (E/CN.4/L.200/Add.9)'; the OCR drops its second line. Lines 11-12 are one underlined vote: 'The report ... was adopted by 11 votes to none, with 5 abstentions.' The catchword '/instructions,' at the foot is not among the OCR lines. The database misses all six heading and vote starts on lines 5-11, and its chair turn on line 9.",
+   "The OCR lines leave out the top of the scan: 'Annex II was adopted.' (vote), 'Annex III' (heading), 'Annex III was adopted.' (vote) and 'Annex IV' (heading) come before Bracco's turn and have no line numbers, so they cannot be marked. The OCR also leaves out the second line of the Chapter VI heading ('Social Council (E/CN.4/L.200/Add.9)') and the catchword '/instructions,' at the foot of the page. Line 5 is a garbled OCR of 'The Uruguayan proposal was adopted.' and line 11 of 'The report of the eighth session of the Commission on Human Rights was adopted by 11 votes to none, with 5 abstentions'; line 12 continues it. The database lists only 3 starts. It misses these 6: the votes on lines 5, 7 and 11 and the headings on lines 6 and 8, plus the chair's turn on line 9."
+  ],
+  "page": 28,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "Uruguay",
+    "kind": "speech",
+    "line": 0,
+    "offset": 0,
+    "speaker": "BRACCO",
+    "variants": {
+     "delegation": [
+      "Uruguay",
+      "Uruguay",
+      "Uruguay"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "BRACCO",
+      "BRACCO",
+      "BRACCO"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. BRACCO (Uruguay) proposed that Thurs"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 2,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The CHAIRMAN observed that the Commissio"
+   },
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 4,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "vote",
+      "vote",
+      "vote"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "Tha woo ods"
+   },
+   {
+    "delegation": "",
+    "kind": "heading",
+    "line": 5,
+    "offset": 1,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "heading",
+      "heading",
+      "heading"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "nexen V and VI"
+   },
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 6,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "vote",
+      "vote",
+      "vote"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "Annexes V and VI wore adopted."
+   },
+   {
+    "delegation": "",
+    "kind": "heading",
+    "line": 7,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "heading",
+      "heading",
+      "heading"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "Vi: Adoption of the the eighth se to the"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 8,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The CHAIRHAN asked the Commission to act"
+   },
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 10,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "vote",
+      "vote",
+      "vote"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "Tho of the eighth session of the Commiss"
+   },
+   {
+    "delegation": "Union of Soviet Socialist Republics",
+    "kind": "speech",
+    "line": 12,
+    "offset": 0,
+    "speaker": "MOROZOV",
+    "variants": {
+     "delegation": [
+      "Union of Soviet Socialist Republics",
+      "Union of Soviet Socialist Republics",
+      "Union of Soviet Socialist Republics"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "MOROZOV",
+      "MOROZOV",
+      "MOROZOV"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. MOROZOV (Union of Soviet Socialist R"
+   }
+  ],
+  "stratum": "CHR 1949-54",
+  "symbol": "E/CN.4/SR.338",
+  "unanimous": true
+ },
+ "E/CN.4/SR.367 p11": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [],
+  "notes": [
+   "The database leaves out the vote on line 21 (\"That amendment was adopted by 11 votes to 1\"). On the scan it is underlined and stands as its own paragraph, the same as the other results. Everything else in the database matches the scan. On the scan the Chinese speaker is printed \"CHENG PAONAN\"; the full printed name is given because the surname alone is ambiguous. On the scan the Philippine speaker is printed \"INGLÉS\" with an accent; the name is given as INGLES here. Lines 1-3 continue a turn from the previous page. No junk lines: the running head was already removed.",
+   "The database misses the vote at line 21 (\"adopted by 11 votes to 1\"); it is underlined on the scan like the other results. Lines 1-3 carry on the chairman's turn from the previous page. The scan may print the Philippine delegate's name with an accent (INGLÉS), but I could not be sure, so I kept INGLES. OCR errors that need no junk marking: line 13 reads 'paragraph }' where the scan has 'paragraph 4', and line 14 reads 'E/CN./,/L.255/Rev.1', which is E/CN.4/L.255/Rev.1 on the scan.",
+   "Database misses the vote at line 21 ('That amendment was adopted by 11 votes to 1 with 5 abstentions', underlined on the scan). Lines 1-3 continue the chairman's turn from the previous page. INGLES may carry an accent (INGLÉS) on the scan; unclear at this resolution. OCR 'paragraph }' in line 13 is '4' on the scan."
+  ],
+  "page": 11,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "United Kingdom",
+    "kind": "speech",
+    "line": 3,
+    "offset": 0,
+    "speaker": "HOARE",
+    "variants": {
+     "delegation": [
+      "United Kingdom",
+      "United Kingdom",
+      "United Kingdom"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "HOARE",
+      "HOARE",
+      "HOARE"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr, HOARE (United Kingdom) thought it wo"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 5,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The CHAIRMAN said he could allow the Chi"
+   },
+   {
+    "delegation": "China",
+    "kind": "speech",
+    "line": 7,
+    "offset": 0,
+    "speaker": "CHENG PAONAN",
+    "variants": {
+     "delegation": [
+      "China",
+      "China",
+      "China"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "CHENG PAONAN",
+      "CHENG PAONAN",
+      "CHENG PAONAN"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr, CHENG PaONAN (China) srid that he wo"
+   },
+   {
+    "delegation": "Philippines",
+    "kind": "speech",
+    "line": 11,
+    "offset": 0,
+    "speaker": "INGLES",
+    "variants": {
+     "delegation": [
+      "Philippines",
+      "Philippines",
+      "Philippines"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "INGLES",
+      "INGLES",
+      "INGLES"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. INGLES (Philippines) withdrew his am"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 15,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The CHAIRMAN put to the vote paragraph 1"
+   },
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 17,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "vote",
+      "vote",
+      "vote"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "That amendment was adopted by 7 votes to"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 18,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The CHaIRMAN put to the vote paragraph 2"
+   },
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 20,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "vote",
+      "vote",
+      "vote"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "That_amendment was adopted by 11 votes t"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 21,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The CHAIRMAN put to the vote the first p"
+   },
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 28,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "vote",
+      "vote",
+      "vote"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The first part of paragraph 3 of the rev"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 30,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The CHAIRMAN put to the vote paragraph 4"
+   },
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 32,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "vote",
+      "vote",
+      "vote"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "That amendment was adopted by 7 votes to"
+   }
+  ],
+  "stratum": "CHR 1949-54",
+  "symbol": "E/CN.4/SR.367",
+  "unanimous": true
+ },
+ "E/CN.4/SR.42 p8": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [],
+  "notes": [
+   "Lines 1-4 continue a turn from the previous page (the Lebanese delegate quoting his proposal, then \"He pointed out...\"), so no start there. On the scan, both vote results (line 14 \"it was adopted by 7 votes with 8 abstentions\" and line 26 \"it was adopted by 10 votes, with 4 abstentions\") follow a semicolon. They finish the chairman's sentence; neither is a separate paragraph. So neither is marked as a vote. The database marks line 26 as a vote but not line 14, which is inconsistent. If wrapped results like these should count as votes, both line 14 and line 26 qualify. In line 26 the OCR reads \"+\" where the scan has 4, and the line begins with a lowercase \"it\" on the scan. The scan prints the delegation as \"ILO\", which I expanded to International Labour Organisation.",
+   "Lines 1-4 continue a turn from the previous page (the \"He\" is probably the Lebanese speaker), so nothing starts there. On the scan, line 26 (\"it was adopted by 10 votes, with 4 abstentions\") is not a paragraph of its own. It is the second half of the CHAIRMAN's sentence begun on line 25, joined by a semicolon. Line 14 has the same shape and the database does not mark it. So I marked neither result as a separate vote. The database marks line 26 and not line 14, which is inconsistent. If results inside a chair paragraph should count as votes, add both: line 14 (\"it was adopted by 7 votes\") and line 26. The OCR's \"+\" on line 26 is a \"4\" on the scan. The scan prints DE GIVRY's body as \"ILO\", given here as International Labour Organisation.",
+   "Lines 1-4 continue a turn from the previous page (the Lebanese speaker reading his proposal), so no start there. On the scan, line 14 (\"it was adopted by 7 votes with 8 abstentions\") and line 26 (\"it was adopted by 10 votes, with 4 abstentions\"; the OCR reads '+' for '4' and 'It' for 'it') are the second half of the chairman's sentence after a semicolon. They are not separate paragraphs, so I did not mark either as a vote. The database marks 26 as a vote but not 14, which is inconsistent. If results should be split out even inside a sentence, both 14 and 26 would be votes. The scan prints the delegation as 'ILO'. I expanded it to International Labour Organisation, following the example given."
+  ],
+  "page": 8,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "Uruguay",
+    "kind": "speech",
+    "line": 4,
+    "offset": 0,
+    "speaker": "VICTORICA",
+    "variants": {
+     "delegation": [
+      "Uruguay",
+      "Uruguay",
+      "Uruguay"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "VICTORICA",
+      "VICTORICA",
+      "VICTORICA"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. VICTORICA (Uruguay) said that he wou"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 12,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The CHAIRMAN put the Lebanese proposal t"
+   },
+   {
+    "delegation": "",
+    "kind": "heading",
+    "line": 14,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "heading",
+      "heading",
+      "heading"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "Draft Resolution on Minor Communal Servi"
+   },
+   {
+    "delegation": "United Kingdom",
+    "kind": "speech",
+    "line": 15,
+    "offset": 0,
+    "speaker": "DUKESTON",
+    "variants": {
+     "delegation": [
+      "United Kingdom",
+      "United Kingdom",
+      "United Kingdom"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "DUKESTON",
+      "DUKESTON",
+      "DUKESTON"
+     ]
+    },
+    "votes": 3,
+    "words": "Lord DUKESTON (United Kingdom) supported"
+   },
+   {
+    "delegation": "International Labour Organisation",
+    "kind": "speech",
+    "line": 20,
+    "offset": 0,
+    "speaker": "DE GIVRY",
+    "variants": {
+     "delegation": [
+      "International Labour Organisation",
+      "International Labour Organisation",
+      "International Labour Organisation"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "DE GIVRY",
+      "DE GIVRY",
+      "DE GIVRY"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. DE GIVRY (ILO) pointed out that his "
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 24,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The CHAIRMAN put the Draft Resolution to"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 26,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The CHAIRMAN invited the Commission to d"
+   }
+  ],
+  "stratum": "UDHR 1946-48",
+  "symbol": "E/CN.4/SR.42",
+  "unanimous": true
+ },
+ "E/CN.4/SR.48 p3": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [],
+  "notes": [
+   "Line 8 ('The Chairman stressed...') is set as a continuation paragraph of the chair's turn from line 1: it has the shallower indent and no capitalised CHAIRMAN, so it is not marked as a new start (the database marks it). The database marks line 14 as procedural, but it is an underlined decision paragraph, so it is marked here as vote. The catchword '/secondary importance' is not among the OCR lines.",
+   "Line 8 'The Chairman stressed...' is a second paragraph of the chair's turn begun at line 1 (lower-case 'Chairman', no intervening speaker), so I treated it as a continuation, not a new start; the database splits it. Line 14 is an underlined decision (the Commission decided it would fulfil the task), so it is a vote/decision, not procedural. On the scan the name looks like 'KIEKOVKIN', but it is Klekovkin (Ukrainian SSR). The catchword '/secondary importance' is on the scan but not in the OCR lines.",
+   "Line 8 ('The Chairman stressed...', lower-case, indented as an ordinary paragraph) reads as the chair's same turn continuing, not a new start; the database splits it. Line 14 is an underlined decision of the Commission ('decided that it would fulfil that task'), so it is a vote/decision, not procedural. The catchword '/secondary importance' at the foot is on the scan but not among the OCR lines. The speaker's name could be read KIEKOVKIN on the typescript; I took it as KLEKOVKIN."
+  ],
+  "page": 3,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 0,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The CHAIRMAN recalled that at its previo"
+   },
+   {
+    "delegation": "",
+    "kind": "vote",
+    "line": 13,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "vote",
+      "vote",
+      "vote"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The Commission decided that it would ful"
+   },
+   {
+    "delegation": "",
+    "kind": "chair",
+    "line": 14,
+    "offset": 0,
+    "speaker": "",
+    "variants": {
+     "delegation": [
+      "",
+      "",
+      ""
+     ],
+     "kind": [
+      "chair",
+      "chair",
+      "chair"
+     ],
+     "speaker": [
+      "",
+      "",
+      ""
+     ]
+    },
+    "votes": 3,
+    "words": "The CHAIRMAN then asked for the views of"
+   },
+   {
+    "delegation": "Ukrainian Soviet Socialist Republic",
+    "kind": "speech",
+    "line": 18,
+    "offset": 0,
+    "speaker": "KLEKOVKIN",
+    "variants": {
+     "delegation": [
+      "Ukrainian Soviet Socialist Republic",
+      "Ukrainian Soviet Socialist Republic",
+      "Ukrainian Soviet Socialist Republic"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "KLEKOVKIN",
+      "KLEKOVKIN",
+      "KLEKOVKIN"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. KLEKOVKIN (Ukrainian Soviet Socialis"
+   }
+  ],
+  "stratum": "UDHR 1946-48",
+  "symbol": "E/CN.4/SR.48",
+  "unanimous": true
+ },
+ "E/CN.4/SR.86 p5": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [
+   0,
+   19
+  ],
+  "notes": [
+   "Only one segment starts on this page: Pavlov's speech (USSR) at line 2. Everything after it continues his speech, and the later mentions of \"Mr. Pavlov\" are inside sentences, so they do not start new turns. The database has the same single start. Two OCR lines are junk: line 1 is noise from the scan, and line 20 is the hand-drawn underline beneath \"individuals\". The \"/religious\" catchword at the foot of the page is not among the OCR lines.",
+   "The page has one turn start, Pavlov's. The other paragraphs continue his speech. Line 1 is scan noise near the running head. Line 20 is the underline mark under 'individuals'. The catchword '/religious' at the foot of the page is not among the OCR lines.",
+   "Line 1 is scan noise near the running head. Line 20 is the OCR of the underline beneath \"individuals\" in the line above. The rest of the page continues Pavlov's speech, and his later mentions of \"Mr. Pavlov\" fall mid-sentence, so they do not start new turns. The catchword \"/religious\" at the foot of the page is not among the OCR lines."
+  ],
+  "page": 5,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "Union of Soviet Socialist Republics",
+    "kind": "speech",
+    "line": 1,
+    "offset": 0,
+    "speaker": "PAVLOV",
+    "variants": {
+     "delegation": [
+      "Union of Soviet Socialist Republics",
+      "Union of Soviet Socialist Republics",
+      "Union of Soviet Socialist Republics"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "PAVLOV",
+      "PAVLOV",
+      "PAVLOV"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. PAVLOV (Union of Soviet Socialist Re"
+   }
+  ],
+  "stratum": "CHR 1949-54",
+  "symbol": "E/CN.4/SR.86",
+  "unanimous": true
+ },
+ "E/PV.69 p2": {
+  "disputes": [],
+  "junk_disputed": [],
+  "junk_lines": [
+   56,
+   57,
+   58,
+   59
+  ],
+  "notes": [
+   "Lines 1-40 continue the UNESCO representative's turn from the previous page. The OCR reads \"Stock\", but the scan prints STOLK. Lines 57-60 are the footnote to \"Chapultepec\" at the foot of the page.",
+   "Lines 1-40 carry on the UNESCO representative's turn from the previous page. The blank gaps between its paragraphs only line the English column up with the French one, so they are not new turns. On the scan the surname is STOLK; the OCR has 'Stock'. Lines 57-60 are the footnote to 'Chapultepec' at the foot of the column.",
+   "Lines 1-40 continue a UNESCO representative's statement from the previous page, so nothing starts there. The scan reads 'STOLK', not the OCR's 'Stock'. Lines 57-60 are the footnote about Chapultepec at the foot of the column. They would run into Stolk's speech, which carries on to the next page."
+  ],
+  "page": 2,
+  "readers": 3,
+  "starts": [
+   {
+    "delegation": "Venezuela",
+    "kind": "speech",
+    "line": 40,
+    "offset": 0,
+    "speaker": "STOLK",
+    "variants": {
+     "delegation": [
+      "Venezuela",
+      "Venezuela",
+      "Venezuela"
+     ],
+     "kind": [
+      "speech",
+      "speech",
+      "speech"
+     ],
+     "speaker": [
+      "Stolk",
+      "Stolk",
+      "Stolk"
+     ]
+    },
+    "votes": 3,
+    "words": "Mr. Stock (Venezuela) stated that the ne"
+   }
+  ],
+  "stratum": "UDHR 1946-48 plenary",
+  "symbol": "E/PV.69",
+  "unanimous": true
+ }
+}

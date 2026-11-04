@@ -1,0 +1,1793 @@
+{
+ "block": "B",
+ "engines": [
+  "vote",
+  "chandra",
+  "tess3",
+  "layer",
+  "vision"
+ ],
+ "pages_scored": 59,
+ "missing": [],
+ "groups": {
+  "typewritten records": {
+   "pages": 19,
+   "chars": 22115,
+   "cer": {
+    "vote": 0.014786344110332354,
+    "chandra": 0.017228125706534026,
+    "tess3": 0.022292561609767128,
+    "layer": 0.22912050644359033,
+    "vision": 0.04160072349084332
+   },
+   "diff_chandra_minus_vote": {
+    "point": 0.002441781596201672,
+    "ci95": [
+     -0.01766310851562874,
+     0.040547494082535766
+    ]
+   },
+   "diff_tess3_minus_vote": {
+    "point": 0.007506217499434774,
+    "ci95": [
+     0.0036897870755898572,
+     0.012002854733017581
+    ]
+   },
+   "diff_layer_minus_vote": {
+    "point": 0.21433416233325797,
+    "ci95": [
+     0.04539709290077944,
+     0.4280420544639779
+    ]
+   },
+   "diff_vision_minus_vote": {
+    "point": 0.026814379380510962,
+    "ci95": [
+     0.007537688442211057,
+     0.0495140430091069
+    ]
+   }
+  },
+  "typewritten documents": {
+   "pages": 20,
+   "chars": 31209,
+   "cer": {
+    "vote": 0.13768464225063284,
+    "chandra": 0.12409881764875516,
+    "tess3": 0.1431958729853568,
+    "layer": 0.3514691274952738,
+    "vision": 0.1726745490082989
+   },
+   "diff_chandra_minus_vote": {
+    "point": -0.013585824601877683,
+    "ci95": [
+     -0.028218324405699678,
+     -0.006012579313402239
+    ]
+   },
+   "diff_tess3_minus_vote": {
+    "point": 0.005511230734723954,
+    "ci95": [
+     0.0004951078627843941,
+     0.016362923770331175
+    ]
+   },
+   "diff_layer_minus_vote": {
+    "point": 0.21378448524464097,
+    "ci95": [
+     0.08857085668534827,
+     0.4288359932458195
+    ]
+   },
+   "diff_vision_minus_vote": {
+    "point": 0.034989906757666056,
+    "ci95": [
+     0.0016355255984536882,
+     0.07456314535345512
+    ]
+   }
+  },
+  "printed pages": {
+   "pages": 20,
+   "chars": 32027,
+   "cer": {
+    "vote": 0.014206763043681894,
+    "chandra": 0.012146001810971993,
+    "tess3": 0.0161114060011865,
+    "layer": 0.02828863146719955,
+    "vision": 0.06816123895463203
+   },
+   "diff_chandra_minus_vote": {
+    "point": -0.002060761232709901,
+    "ci95": [
+     -0.0028171989998943547,
+     -0.0013952450050228812
+    ]
+   },
+   "diff_tess3_minus_vote": {
+    "point": 0.0019046429575046066,
+    "ci95": [
+     0.001294322013692565,
+     0.0026191118129646022
+    ]
+   },
+   "diff_layer_minus_vote": {
+    "point": 0.014081868423517658,
+    "ci95": [
+     0.009747057006555239,
+     0.01967543163931426
+    ]
+   },
+   "diff_vision_minus_vote": {
+    "point": 0.05395447591095013,
+    "ci95": [
+     0.03327188130980599,
+     0.07951741900501558
+    ]
+   }
+  },
+  "typewritten (records and documents)": {
+   "pages": 39,
+   "chars": 53324,
+   "cer": {
+    "vote": 0.08671517515565223,
+    "chandra": 0.07977646088065411,
+    "tess3": 0.09305378441227215,
+    "layer": 0.3007276273347836,
+    "vision": 0.11831445502963019
+   },
+   "diff_chandra_minus_vote": {
+    "point": -0.00693871427499812,
+    "ci95": [
+     -0.018534218142485456,
+     0.008920750541699322
+    ]
+   },
+   "diff_tess3_minus_vote": {
+    "point": 0.006338609256619915,
+    "ci95": [
+     0.002666068669955647,
+     0.012468039117484248
+    ]
+   },
+   "diff_layer_minus_vote": {
+    "point": 0.21401245217913134,
+    "ci95": [
+     0.10620399579390116,
+     0.35455819906946506
+    ]
+   },
+   "diff_vision_minus_vote": {
+    "point": 0.03159927987397795,
+    "ci95": [
+     0.010789593446601936,
+     0.05609679660993855
+    ]
+   }
+  },
+  "all": {
+   "pages": 59,
+   "chars": 85351,
+   "cer": {
+    "vote": 0.059507211397640335,
+    "chandra": 0.054398893978980914,
+    "tess3": 0.06418202481517499,
+    "layer": 0.19849796721772445,
+    "vision": 0.09949502642031142
+   },
+   "diff_chandra_minus_vote": {
+    "point": -0.005108317418659421,
+    "ci95": [
+     -0.012258296148125352,
+     0.004596735329370917
+    ]
+   },
+   "diff_tess3_minus_vote": {
+    "point": 0.004674813417534653,
+    "ci95": [
+     0.0023178100070884444,
+     0.008324803821221416
+    ]
+   },
+   "diff_layer_minus_vote": {
+    "point": 0.1389907558200841,
+    "ci95": [
+     0.06990925241273349,
+     0.22438257560087702
+    ]
+   },
+   "diff_vision_minus_vote": {
+    "point": 0.03998781502267109,
+    "ci95": [
+     0.023840021200945208,
+     0.05800094471235706
+    ]
+   }
+  }
+ },
+ "pages": [
+  {
+   "id": "E/CN.4/AC.1/SR.38 p14",
+   "kind": "record",
+   "cell": "record, lowest decile",
+   "segments": 10,
+   "chars": 1090,
+   "errors": {
+    "vote": 2,
+    "chandra": 0,
+    "tess3": 10,
+    "layer": 1090,
+    "vision": 0,
+    "chandra_guarded": 0
+   },
+   "cer": {
+    "vote": 0.001834862385321101,
+    "chandra": 0.0,
+    "tess3": 0.009174311926605505,
+    "layer": 1.0,
+    "vision": 0.0
+   },
+   "length_ratio": 1.0,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/SR.48 p1",
+   "kind": "record",
+   "cell": "record, lowest decile",
+   "segments": 1,
+   "chars": 105,
+   "errors": {
+    "vote": 15,
+    "chandra": 12,
+    "tess3": 15,
+    "layer": 20,
+    "vision": 15,
+    "chandra_guarded": 12
+   },
+   "cer": {
+    "vote": 0.14285714285714285,
+    "chandra": 0.11428571428571428,
+    "tess3": 0.14285714285714285,
+    "layer": 0.19047619047619047,
+    "vision": 0.14285714285714285
+   },
+   "length_ratio": 1.0,
+   "guard": false
+  },
+  {
+   "id": "E/CN.6/SR.28 p1",
+   "kind": "record",
+   "cell": "record, lowest decile",
+   "segments": 1,
+   "chars": 97,
+   "errors": {
+    "vote": 4,
+    "chandra": 2,
+    "tess3": 4,
+    "layer": 4,
+    "vision": 3,
+    "chandra_guarded": 2
+   },
+   "cer": {
+    "vote": 0.041237113402061855,
+    "chandra": 0.020618556701030927,
+    "tess3": 0.041237113402061855,
+    "layer": 0.041237113402061855,
+    "vision": 0.030927835051546393
+   },
+   "length_ratio": 0.888,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/AC.1/SR.38 p10",
+   "kind": "record",
+   "cell": "record, lowest decile",
+   "segments": 12,
+   "chars": 1386,
+   "errors": {
+    "vote": 8,
+    "chandra": 1,
+    "tess3": 8,
+    "layer": 1386,
+    "vision": 5,
+    "chandra_guarded": 1
+   },
+   "cer": {
+    "vote": 0.005772005772005772,
+    "chandra": 0.0007215007215007215,
+    "tess3": 0.005772005772005772,
+    "layer": 1.0,
+    "vision": 0.0036075036075036075
+   },
+   "length_ratio": 0.98,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/AC.1/SR.42 p2",
+   "kind": "record",
+   "cell": "record, lowest decile",
+   "segments": 10,
+   "chars": 1611,
+   "errors": {
+    "vote": 8,
+    "chandra": 1,
+    "tess3": 34,
+    "layer": 1611,
+    "vision": 9,
+    "chandra_guarded": 1
+   },
+   "cer": {
+    "vote": 0.004965859714463066,
+    "chandra": 0.0006207324643078833,
+    "tess3": 0.02110490378646803,
+    "layer": 1.0,
+    "vision": 0.00558659217877095
+   },
+   "length_ratio": 1.0,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/SR.8 p1",
+   "kind": "record",
+   "cell": "record, lowest decile",
+   "segments": 2,
+   "chars": 420,
+   "errors": {
+    "vote": 12,
+    "chandra": 316,
+    "tess3": 40,
+    "layer": 15,
+    "vision": 29,
+    "chandra_guarded": 12
+   },
+   "cer": {
+    "vote": 0.02857142857142857,
+    "chandra": 0.7523809523809524,
+    "tess3": 0.09523809523809523,
+    "layer": 0.03571428571428571,
+    "vision": 0.06904761904761905
+   },
+   "length_ratio": 0.31,
+   "guard": true
+  },
+  {
+   "id": "E/CN.4/SUB.2/SR.6 p2",
+   "kind": "record",
+   "cell": "record, lowest decile",
+   "segments": 1,
+   "chars": 111,
+   "errors": {
+    "vote": 4,
+    "chandra": 0,
+    "tess3": 7,
+    "layer": 32,
+    "vision": 1,
+    "chandra_guarded": 0
+   },
+   "cer": {
+    "vote": 0.036036036036036036,
+    "chandra": 0.0,
+    "tess3": 0.06306306306306306,
+    "layer": 0.2882882882882883,
+    "vision": 0.009009009009009009
+   },
+   "length_ratio": 0.898,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/SR.70 p12",
+   "kind": "record",
+   "cell": "record",
+   "segments": 5,
+   "chars": 1183,
+   "errors": {
+    "vote": 15,
+    "chandra": 1,
+    "tess3": 18,
+    "layer": 39,
+    "vision": 81,
+    "chandra_guarded": 1
+   },
+   "cer": {
+    "vote": 0.01267962806424345,
+    "chandra": 0.0008453085376162299,
+    "tess3": 0.015215553677092139,
+    "layer": 0.03296703296703297,
+    "vision": 0.06846999154691462
+   },
+   "length_ratio": 0.995,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/SR.29 p10",
+   "kind": "record",
+   "cell": "record",
+   "segments": 10,
+   "chars": 1486,
+   "errors": {
+    "vote": 26,
+    "chandra": 14,
+    "tess3": 27,
+    "layer": 31,
+    "vision": 22,
+    "chandra_guarded": 14
+   },
+   "cer": {
+    "vote": 0.017496635262449527,
+    "chandra": 0.009421265141318977,
+    "tess3": 0.01816958277254374,
+    "layer": 0.02086137281292059,
+    "vision": 0.014804845222072678
+   },
+   "length_ratio": 1.004,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/AC.1/SR.1 p3",
+   "kind": "record",
+   "cell": "record",
+   "segments": 11,
+   "chars": 1675,
+   "errors": {
+    "vote": 8,
+    "chandra": 2,
+    "tess3": 10,
+    "layer": 25,
+    "vision": 22,
+    "chandra_guarded": 2
+   },
+   "cer": {
+    "vote": 0.004776119402985075,
+    "chandra": 0.0011940298507462687,
+    "tess3": 0.005970149253731343,
+    "layer": 0.014925373134328358,
+    "vision": 0.013134328358208954
+   },
+   "length_ratio": 1.0,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/AC.1/SR.36 p16",
+   "kind": "record",
+   "cell": "record",
+   "segments": 4,
+   "chars": 492,
+   "errors": {
+    "vote": 8,
+    "chandra": 0,
+    "tess3": 15,
+    "layer": 150,
+    "vision": 15,
+    "chandra_guarded": 0
+   },
+   "cer": {
+    "vote": 0.016260162601626018,
+    "chandra": 0.0,
+    "tess3": 0.03048780487804878,
+    "layer": 0.3048780487804878,
+    "vision": 0.03048780487804878
+   },
+   "length_ratio": 0.959,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/AC.1/SR.44 p1",
+   "kind": "record",
+   "cell": "record",
+   "segments": 1,
+   "chars": 111,
+   "errors": {
+    "vote": 12,
+    "chandra": 12,
+    "tess3": 12,
+    "layer": 48,
+    "vision": 14,
+    "chandra_guarded": 12
+   },
+   "cer": {
+    "vote": 0.10810810810810811,
+    "chandra": 0.10810810810810811,
+    "tess3": 0.10810810810810811,
+    "layer": 0.43243243243243246,
+    "vision": 0.12612612612612611
+   },
+   "length_ratio": 0.961,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/SR.42 p11",
+   "kind": "record",
+   "cell": "record",
+   "segments": 12,
+   "chars": 1585,
+   "errors": {
+    "vote": 5,
+    "chandra": 1,
+    "tess3": 9,
+    "layer": 3,
+    "vision": 5,
+    "chandra_guarded": 1
+   },
+   "cer": {
+    "vote": 0.0031545741324921135,
+    "chandra": 0.0006309148264984228,
+    "tess3": 0.0056782334384858045,
+    "layer": 0.0018927444794952682,
+    "vision": 0.0031545741324921135
+   },
+   "length_ratio": 1.0,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/AC.1/SR.4 p2",
+   "kind": "record",
+   "cell": "record",
+   "segments": 16,
+   "chars": 1937,
+   "errors": {
+    "vote": 12,
+    "chandra": 2,
+    "tess3": 18,
+    "layer": 94,
+    "vision": 17,
+    "chandra_guarded": 2
+   },
+   "cer": {
+    "vote": 0.00619514713474445,
+    "chandra": 0.0010325245224574084,
+    "tess3": 0.009292720702116675,
+    "layer": 0.048528652555498195,
+    "vision": 0.008776458440887971
+   },
+   "length_ratio": 1.0,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/SR.72 p6",
+   "kind": "record",
+   "cell": "record",
+   "segments": 17,
+   "chars": 1974,
+   "errors": {
+    "vote": 34,
+    "chandra": 0,
+    "tess3": 60,
+    "layer": 48,
+    "vision": 146,
+    "chandra_guarded": 0
+   },
+   "cer": {
+    "vote": 0.017223910840932118,
+    "chandra": 0.0,
+    "tess3": 0.030395136778115502,
+    "layer": 0.0243161094224924,
+    "vision": 0.07396149949341439
+   },
+   "length_ratio": 0.997,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/AC.1/SR.13 p2",
+   "kind": "record",
+   "cell": "record",
+   "segments": 16,
+   "chars": 1770,
+   "errors": {
+    "vote": 9,
+    "chandra": 8,
+    "tess3": 11,
+    "layer": 4,
+    "vision": 12,
+    "chandra_guarded": 8
+   },
+   "cer": {
+    "vote": 0.005084745762711864,
+    "chandra": 0.004519774011299435,
+    "tess3": 0.0062146892655367235,
+    "layer": 0.0022598870056497176,
+    "vision": 0.006779661016949152
+   },
+   "length_ratio": 1.0,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/SUB.1/SR.25 p5",
+   "kind": "record",
+   "cell": "record",
+   "segments": 20,
+   "chars": 2341,
+   "errors": {
+    "vote": 117,
+    "chandra": 6,
+    "tess3": 156,
+    "layer": 429,
+    "vision": 308,
+    "chandra_guarded": 6
+   },
+   "cer": {
+    "vote": 0.04997864160615122,
+    "chandra": 0.0025630072618539087,
+    "tess3": 0.06663818880820162,
+    "layer": 0.18325501922255447,
+    "vision": 0.13156770610850063
+   },
+   "length_ratio": 0.889,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/SR.50 p7",
+   "kind": "record",
+   "cell": "record",
+   "segments": 11,
+   "chars": 1912,
+   "errors": {
+    "vote": 17,
+    "chandra": 1,
+    "tess3": 24,
+    "layer": 25,
+    "vision": 42,
+    "chandra_guarded": 1
+   },
+   "cer": {
+    "vote": 0.00889121338912134,
+    "chandra": 0.0005230125523012552,
+    "tess3": 0.012552301255230125,
+    "layer": 0.01307531380753138,
+    "vision": 0.021966527196652718
+   },
+   "length_ratio": 1.003,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/SR.20 p6",
+   "kind": "record",
+   "cell": "record",
+   "segments": 6,
+   "chars": 829,
+   "errors": {
+    "vote": 11,
+    "chandra": 2,
+    "tess3": 15,
+    "layer": 13,
+    "vision": 174,
+    "chandra_guarded": 2
+   },
+   "cer": {
+    "vote": 0.013268998793727383,
+    "chandra": 0.0024125452352231603,
+    "tess3": 0.018094089264173704,
+    "layer": 0.015681544028950542,
+    "vision": 0.20989143546441497
+   },
+   "length_ratio": 1.0,
+   "guard": false
+  },
+  {
+   "id": "A/C.3/SC.4/22 p1",
+   "kind": "document",
+   "cell": "document, lowest decile",
+   "segments": 7,
+   "chars": 1461,
+   "errors": {
+    "vote": 44,
+    "chandra": 2,
+    "tess3": 30,
+    "layer": 1461,
+    "vision": 65,
+    "chandra_guarded": 2
+   },
+   "cer": {
+    "vote": 0.030116358658453114,
+    "chandra": 0.0013689253935660506,
+    "tess3": 0.02053388090349076,
+    "layer": 1.0,
+    "vision": 0.044490075290896644
+   },
+   "length_ratio": 0.935,
+   "guard": false
+  },
+  {
+   "id": "A/C.3/363 p4",
+   "kind": "document",
+   "cell": "document, lowest decile",
+   "segments": 4,
+   "chars": 479,
+   "errors": {
+    "vote": 39,
+    "chandra": 26,
+    "tess3": 143,
+    "layer": 43,
+    "vision": 91,
+    "chandra_guarded": 26
+   },
+   "cer": {
+    "vote": 0.081419624217119,
+    "chandra": 0.054279749478079335,
+    "tess3": 0.2985386221294363,
+    "layer": 0.08977035490605428,
+    "vision": 0.18997912317327767
+   },
+   "length_ratio": 0.886,
+   "guard": false
+  },
+  {
+   "id": "A/C.3/SC.4/20 p1",
+   "kind": "document",
+   "cell": "document, lowest decile",
+   "segments": 11,
+   "chars": 1294,
+   "errors": {
+    "vote": 51,
+    "chandra": 0,
+    "tess3": 66,
+    "layer": 1294,
+    "vision": 167,
+    "chandra_guarded": 0
+   },
+   "cer": {
+    "vote": 0.03941267387944358,
+    "chandra": 0.0,
+    "tess3": 0.05100463678516229,
+    "layer": 1.0,
+    "vision": 0.12905718701700156
+   },
+   "length_ratio": 0.969,
+   "guard": false
+  },
+  {
+   "id": "PC/20 p1",
+   "kind": "document",
+   "cell": "document, lowest decile",
+   "segments": 1,
+   "chars": 58,
+   "errors": {
+    "vote": 0,
+    "chandra": 0,
+    "tess3": 6,
+    "layer": 9,
+    "vision": 0,
+    "chandra_guarded": 0
+   },
+   "cer": {
+    "vote": 0.0,
+    "chandra": 0.0,
+    "tess3": 0.10344827586206896,
+    "layer": 0.15517241379310345,
+    "vision": 0.0
+   },
+   "length_ratio": 1.0,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/SUB.2/29 p1",
+   "kind": "document",
+   "cell": "document, lowest decile",
+   "segments": 4,
+   "chars": 529,
+   "errors": {
+    "vote": 40,
+    "chandra": 4,
+    "tess3": 42,
+    "layer": 109,
+    "vision": 14,
+    "chandra_guarded": 40
+   },
+   "cer": {
+    "vote": 0.07561436672967864,
+    "chandra": 0.007561436672967864,
+    "tess3": 0.07939508506616257,
+    "layer": 0.2060491493383743,
+    "vision": 0.026465028355387523
+   },
+   "length_ratio": 1.31,
+   "guard": true
+  },
+  {
+   "id": "A/C.3/SC.4/20 p2",
+   "kind": "document",
+   "cell": "document, lowest decile",
+   "segments": 14,
+   "chars": 1876,
+   "errors": {
+    "vote": 47,
+    "chandra": 18,
+    "tess3": 58,
+    "layer": 1876,
+    "vision": 161,
+    "chandra_guarded": 18
+   },
+   "cer": {
+    "vote": 0.025053304904051173,
+    "chandra": 0.009594882729211088,
+    "tess3": 0.03091684434968017,
+    "layer": 1.0,
+    "vision": 0.08582089552238806
+   },
+   "length_ratio": 0.997,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/AC.1/3/Add.1 p257",
+   "kind": "document",
+   "cell": "document, lowest decile",
+   "segments": 27,
+   "chars": 7137,
+   "errors": {
+    "vote": 3617,
+    "chandra": 3617,
+    "tess3": 3617,
+    "layer": 4263,
+    "vision": 3644,
+    "chandra_guarded": 3617
+   },
+   "cer": {
+    "vote": 0.5067955723693428,
+    "chandra": 0.5067955723693428,
+    "tess3": 0.5067955723693428,
+    "layer": 0.5973097940311055,
+    "vision": 0.5105786745131008
+   },
+   "length_ratio": 1.0,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/AC.1/11 p35",
+   "kind": "document",
+   "cell": "document",
+   "segments": 35,
+   "chars": 1630,
+   "errors": {
+    "vote": 162,
+    "chandra": 35,
+    "tess3": 164,
+    "layer": 290,
+    "vision": 15,
+    "chandra_guarded": 35
+   },
+   "cer": {
+    "vote": 0.09938650306748466,
+    "chandra": 0.02147239263803681,
+    "tess3": 0.10061349693251534,
+    "layer": 0.17791411042944785,
+    "vision": 0.009202453987730062
+   },
+   "length_ratio": 1.015,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/AC.1/3/Add.1 p232",
+   "kind": "document",
+   "cell": "document",
+   "segments": 32,
+   "chars": 5294,
+   "errors": {
+    "vote": 62,
+    "chandra": 45,
+    "tess3": 67,
+    "layer": 328,
+    "vision": 382,
+    "chandra_guarded": 45
+   },
+   "cer": {
+    "vote": 0.011711371363808084,
+    "chandra": 0.008500188893086513,
+    "tess3": 0.012655836796373252,
+    "layer": 0.06195693237627503,
+    "vision": 0.07215715904797884
+   },
+   "length_ratio": 0.992,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/AC.1/W.2/Rev.2 p6",
+   "kind": "document",
+   "cell": "document",
+   "segments": 12,
+   "chars": 1431,
+   "errors": {
+    "vote": 19,
+    "chandra": 7,
+    "tess3": 23,
+    "layer": 21,
+    "vision": 24,
+    "chandra_guarded": 7
+   },
+   "cer": {
+    "vote": 0.013277428371767994,
+    "chandra": 0.004891684136967156,
+    "tess3": 0.01607267645003494,
+    "layer": 0.014675052410901468,
+    "vision": 0.016771488469601678
+   },
+   "length_ratio": 0.991,
+   "guard": false
+  },
+  {
+   "id": "A/C.3/294/Rev.1 p1",
+   "kind": "document",
+   "cell": "document",
+   "segments": 3,
+   "chars": 529,
+   "errors": {
+    "vote": 11,
+    "chandra": 2,
+    "tess3": 5,
+    "layer": 105,
+    "vision": 33,
+    "chandra_guarded": 2
+   },
+   "cer": {
+    "vote": 0.020793950850661626,
+    "chandra": 0.003780718336483932,
+    "tess3": 0.00945179584120983,
+    "layer": 0.19848771266540643,
+    "vision": 0.062381852551984876
+   },
+   "length_ratio": 0.985,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/85 p31",
+   "kind": "document",
+   "cell": "document",
+   "segments": 7,
+   "chars": 878,
+   "errors": {
+    "vote": 11,
+    "chandra": 1,
+    "tess3": 18,
+    "layer": 11,
+    "vision": 18,
+    "chandra_guarded": 1
+   },
+   "cer": {
+    "vote": 0.012528473804100227,
+    "chandra": 0.0011389521640091116,
+    "tess3": 0.02050113895216401,
+    "layer": 0.012528473804100227,
+    "vision": 0.02050113895216401
+   },
+   "length_ratio": 1.003,
+   "guard": false
+  },
+  {
+   "id": "A/C.3/311 p1",
+   "kind": "document",
+   "cell": "document",
+   "segments": 1,
+   "chars": 140,
+   "errors": {
+    "vote": 0,
+    "chandra": 0,
+    "tess3": 1,
+    "layer": 40,
+    "vision": 2,
+    "chandra_guarded": 0
+   },
+   "cer": {
+    "vote": 0.0,
+    "chandra": 0.0,
+    "tess3": 0.007142857142857143,
+    "layer": 0.2857142857142857,
+    "vision": 0.014285714285714285
+   },
+   "length_ratio": 0.963,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/AC.1/3/Add.1 p324",
+   "kind": "document",
+   "cell": "document",
+   "segments": 10,
+   "chars": 1909,
+   "errors": {
+    "vote": 11,
+    "chandra": 2,
+    "tess3": 12,
+    "layer": 70,
+    "vision": 23,
+    "chandra_guarded": 2
+   },
+   "cer": {
+    "vote": 0.005762179151388162,
+    "chandra": 0.0010476689366160294,
+    "tess3": 0.006286013619696176,
+    "layer": 0.03666841278156103,
+    "vision": 0.012048192771084338
+   },
+   "length_ratio": 1.0,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/AC.1/3/Add.1 p284",
+   "kind": "document",
+   "cell": "document",
+   "segments": 29,
+   "chars": 2929,
+   "errors": {
+    "vote": 138,
+    "chandra": 101,
+    "tess3": 169,
+    "layer": 555,
+    "vision": 689,
+    "chandra_guarded": 101
+   },
+   "cer": {
+    "vote": 0.04711505633321953,
+    "chandra": 0.034482758620689655,
+    "tess3": 0.05769887333560942,
+    "layer": 0.1894844656879481,
+    "vision": 0.23523386821440764
+   },
+   "length_ratio": 1.0,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/81 p1",
+   "kind": "document",
+   "cell": "document",
+   "segments": 5,
+   "chars": 722,
+   "errors": {
+    "vote": 2,
+    "chandra": 1,
+    "tess3": 4,
+    "layer": 6,
+    "vision": 4,
+    "chandra_guarded": 1
+   },
+   "cer": {
+    "vote": 0.002770083102493075,
+    "chandra": 0.0013850415512465374,
+    "tess3": 0.00554016620498615,
+    "layer": 0.008310249307479225,
+    "vision": 0.00554016620498615
+   },
+   "length_ratio": 1.016,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/77 p10",
+   "kind": "document",
+   "cell": "document",
+   "segments": 1,
+   "chars": 178,
+   "errors": {
+    "vote": 6,
+    "chandra": 4,
+    "tess3": 9,
+    "layer": 10,
+    "vision": 4,
+    "chandra_guarded": 4
+   },
+   "cer": {
+    "vote": 0.033707865168539325,
+    "chandra": 0.02247191011235955,
+    "tess3": 0.05056179775280899,
+    "layer": 0.056179775280898875,
+    "vision": 0.02247191011235955
+   },
+   "length_ratio": 0.984,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/AC.1/3/Add.1 p112",
+   "kind": "document",
+   "cell": "document",
+   "segments": 16,
+   "chars": 2210,
+   "errors": {
+    "vote": 3,
+    "chandra": 1,
+    "tess3": 6,
+    "layer": 15,
+    "vision": 6,
+    "chandra_guarded": 1
+   },
+   "cer": {
+    "vote": 0.0013574660633484162,
+    "chandra": 0.00045248868778280545,
+    "tess3": 0.0027149321266968325,
+    "layer": 0.006787330316742082,
+    "vision": 0.0027149321266968325
+   },
+   "length_ratio": 0.996,
+   "guard": false
+  },
+  {
+   "id": "A/C.3/SC.4/23 p2",
+   "kind": "document",
+   "cell": "document",
+   "segments": 3,
+   "chars": 398,
+   "errors": {
+    "vote": 17,
+    "chandra": 4,
+    "tess3": 18,
+    "layer": 398,
+    "vision": 22,
+    "chandra_guarded": 4
+   },
+   "cer": {
+    "vote": 0.04271356783919598,
+    "chandra": 0.010050251256281407,
+    "tess3": 0.04522613065326633,
+    "layer": 1.0,
+    "vision": 0.05527638190954774
+   },
+   "length_ratio": 0.94,
+   "guard": false
+  },
+  {
+   "id": "E/CN.4/SUB.2/22 p1",
+   "kind": "document",
+   "cell": "document",
+   "segments": 2,
+   "chars": 127,
+   "errors": {
+    "vote": 17,
+    "chandra": 3,
+    "tess3": 11,
+    "layer": 65,
+    "vision": 25,
+    "chandra_guarded": 3
+   },
+   "cer": {
+    "vote": 0.13385826771653545,
+    "chandra": 0.023622047244094488,
+    "tess3": 0.08661417322834646,
+    "layer": 0.5118110236220472,
+    "vision": 0.1968503937007874
+   },
+   "length_ratio": 0.867,
+   "guard": false
+  },
+  {
+   "id": "A/C.3/SR.93 p10",
+   "kind": "printed",
+   "cell": "printed",
+   "segments": 14,
+   "chars": 2352,
+   "errors": {
+    "vote": 79,
+    "chandra": 80,
+    "tess3": 81,
+    "layer": 128,
+    "vision": 84,
+    "chandra_guarded": 80
+   },
+   "cer": {
+    "vote": 0.03358843537414966,
+    "chandra": 0.034013605442176874,
+    "tess3": 0.03443877551020408,
+    "layer": 0.05442176870748299,
+    "vision": 0.03571428571428571
+   },
+   "length_ratio": 1.003,
+   "guard": false
+  },
+  {
+   "id": "A/C.3/SR.95 p1",
+   "kind": "printed",
+   "cell": "printed",
+   "segments": 3,
+   "chars": 654,
+   "errors": {
+    "vote": 8,
+    "chandra": 5,
+    "tess3": 9,
+    "layer": 8,
+    "vision": 53,
+    "chandra_guarded": 5
+   },
+   "cer": {
+    "vote": 0.012232415902140673,
+    "chandra": 0.00764525993883792,
+    "tess3": 0.013761467889908258,
+    "layer": 0.012232415902140673,
+    "vision": 0.08103975535168195
+   },
+   "length_ratio": 0.999,
+   "guard": false
+  },
+  {
+   "id": "A/C.3/SR.179 p1",
+   "kind": "printed",
+   "cell": "printed",
+   "segments": 8,
+   "chars": 1184,
+   "errors": {
+    "vote": 4,
+    "chandra": 2,
+    "tess3": 5,
+    "layer": 14,
+    "vision": 121,
+    "chandra_guarded": 2
+   },
+   "cer": {
+    "vote": 0.0033783783783783786,
+    "chandra": 0.0016891891891891893,
+    "tess3": 0.004222972972972973,
+    "layer": 0.011824324324324325,
+    "vision": 0.10219594594594594
+   },
+   "length_ratio": 0.997,
+   "guard": false
+  },
+  {
+   "id": "A/C.3/SR.146 p1",
+   "kind": "printed",
+   "cell": "printed",
+   "segments": 12,
+   "chars": 2580,
+   "errors": {
+    "vote": 39,
+    "chandra": 38,
+    "tess3": 47,
+    "layer": 51,
+    "vision": 46,
+    "chandra_guarded": 38
+   },
+   "cer": {
+    "vote": 0.015116279069767442,
+    "chandra": 0.014728682170542635,
+    "tess3": 0.01821705426356589,
+    "layer": 0.019767441860465116,
+    "vision": 0.017829457364341085
+   },
+   "length_ratio": 0.998,
+   "guard": false
+  },
+  {
+   "id": "A/C.3/SR.103 p1",
+   "kind": "printed",
+   "cell": "printed",
+   "segments": 11,
+   "chars": 1784,
+   "errors": {
+    "vote": 6,
+    "chandra": 2,
+    "tess3": 6,
+    "layer": 25,
+    "vision": 38,
+    "chandra_guarded": 2
+   },
+   "cer": {
+    "vote": 0.0033632286995515697,
+    "chandra": 0.0011210762331838565,
+    "tess3": 0.0033632286995515697,
+    "layer": 0.014013452914798207,
+    "vision": 0.021300448430493273
+   },
+   "length_ratio": 1.001,
+   "guard": false
+  },
+  {
+   "id": "A/C.3/SR.154 p1",
+   "kind": "printed",
+   "cell": "printed",
+   "segments": 4,
+   "chars": 618,
+   "errors": {
+    "vote": 20,
+    "chandra": 17,
+    "tess3": 24,
+    "layer": 34,
+    "vision": 23,
+    "chandra_guarded": 17
+   },
+   "cer": {
+    "vote": 0.032362459546925564,
+    "chandra": 0.02750809061488673,
+    "tess3": 0.038834951456310676,
+    "layer": 0.05501618122977346,
+    "vision": 0.0372168284789644
+   },
+   "length_ratio": 0.999,
+   "guard": false
+  },
+  {
+   "id": "A/C.3/SR.153 p1",
+   "kind": "printed",
+   "cell": "printed",
+   "segments": 3,
+   "chars": 326,
+   "errors": {
+    "vote": 6,
+    "chandra": 5,
+    "tess3": 6,
+    "layer": 7,
+    "vision": 4,
+    "chandra_guarded": 5
+   },
+   "cer": {
+    "vote": 0.018404907975460124,
+    "chandra": 0.015337423312883436,
+    "tess3": 0.018404907975460124,
+    "layer": 0.02147239263803681,
+    "vision": 0.012269938650306749
+   },
+   "length_ratio": 1.005,
+   "guard": false
+  },
+  {
+   "id": "A/C.3/SR.160 p8",
+   "kind": "printed",
+   "cell": "printed",
+   "segments": 10,
+   "chars": 1812,
+   "errors": {
+    "vote": 86,
+    "chandra": 79,
+    "tess3": 93,
+    "layer": 135,
+    "vision": 177,
+    "chandra_guarded": 79
+   },
+   "cer": {
+    "vote": 0.04746136865342163,
+    "chandra": 0.04359823399558499,
+    "tess3": 0.05132450331125828,
+    "layer": 0.07450331125827815,
+    "vision": 0.09768211920529801
+   },
+   "length_ratio": 0.995,
+   "guard": false
+  },
+  {
+   "id": "A/C.3/SR.160 p3",
+   "kind": "printed",
+   "cell": "printed",
+   "segments": 14,
+   "chars": 2473,
+   "errors": {
+    "vote": 20,
+    "chandra": 14,
+    "tess3": 22,
+    "layer": 49,
+    "vision": 141,
+    "chandra_guarded": 14
+   },
+   "cer": {
+    "vote": 0.008087343307723413,
+    "chandra": 0.005661140315406389,
+    "tess3": 0.008896077638495753,
+    "layer": 0.01981399110392236,
+    "vision": 0.057015770319450064
+   },
+   "length_ratio": 0.998,
+   "guard": false
+  },
+  {
+   "id": "A/C.3/SR.113 p1",
+   "kind": "printed",
+   "cell": "printed",
+   "segments": 6,
+   "chars": 910,
+   "errors": {
+    "vote": 11,
+    "chandra": 5,
+    "tess3": 11,
+    "layer": 79,
+    "vision": 20,
+    "chandra_guarded": 5
+   },
+   "cer": {
+    "vote": 0.012087912087912088,
+    "chandra": 0.005494505494505495,
+    "tess3": 0.012087912087912088,
+    "layer": 0.08681318681318681,
+    "vision": 0.02197802197802198
+   },
+   "length_ratio": 0.996,
+   "guard": false
+  },
+  {
+   "id": "A/C.3/SR.158 p1",
+   "kind": "printed",
+   "cell": "printed",
+   "segments": 20,
+   "chars": 2622,
+   "errors": {
+    "vote": 33,
+    "chandra": 26,
+    "tess3": 41,
+    "layer": 51,
+    "vision": 120,
+    "chandra_guarded": 26
+   },
+   "cer": {
+    "vote": 0.012585812356979404,
+    "chandra": 0.009916094584286803,
+    "tess3": 0.015636918382913808,
+    "layer": 0.019450800915331808,
+    "vision": 0.04576659038901602
+   },
+   "length_ratio": 1.001,
+   "guard": false
+  },
+  {
+   "id": "A/C.3/SR.33 p1",
+   "kind": "printed",
+   "cell": "printed",
+   "segments": 13,
+   "chars": 1924,
+   "errors": {
+    "vote": 4,
+    "chandra": 3,
+    "tess3": 8,
+    "layer": 9,
+    "vision": 335,
+    "chandra_guarded": 3
+   },
+   "cer": {
+    "vote": 0.002079002079002079,
+    "chandra": 0.0015592515592515593,
+    "tess3": 0.004158004158004158,
+    "layer": 0.004677754677754678,
+    "vision": 0.1741164241164241
+   },
+   "length_ratio": 1.004,
+   "guard": false
+  },
+  {
+   "id": "A/C.3/SR.176 p1",
+   "kind": "printed",
+   "cell": "printed",
+   "segments": 19,
+   "chars": 2509,
+   "errors": {
+    "vote": 44,
+    "chandra": 39,
+    "tess3": 45,
+    "layer": 85,
+    "vision": 92,
+    "chandra_guarded": 39
+   },
+   "cer": {
+    "vote": 0.01753686727779992,
+    "chandra": 0.015544041450777202,
+    "tess3": 0.017935432443204464,
+    "layer": 0.03387803905938621,
+    "vision": 0.036667995217218016
+   },
+   "length_ratio": 1.002,
+   "guard": false
+  },
+  {
+   "id": "A/C.3/SR.163 p1",
+   "kind": "printed",
+   "cell": "printed",
+   "segments": 6,
+   "chars": 1187,
+   "errors": {
+    "vote": 6,
+    "chandra": 5,
+    "tess3": 8,
+    "layer": 10,
+    "vision": 27,
+    "chandra_guarded": 5
+   },
+   "cer": {
+    "vote": 0.005054759898904802,
+    "chandra": 0.004212299915754001,
+    "tess3": 0.006739679865206402,
+    "layer": 0.008424599831508003,
+    "vision": 0.02274641954507161
+   },
+   "length_ratio": 0.995,
+   "guard": false
+  },
+  {
+   "id": "A/C.3/SR.116 p1",
+   "kind": "printed",
+   "cell": "printed",
+   "segments": 4,
+   "chars": 876,
+   "errors": {
+    "vote": 8,
+    "chandra": 6,
+    "tess3": 12,
+    "layer": 26,
+    "vision": 62,
+    "chandra_guarded": 6
+   },
+   "cer": {
+    "vote": 0.0091324200913242,
+    "chandra": 0.00684931506849315,
+    "tess3": 0.0136986301369863,
+    "layer": 0.02968036529680365,
+    "vision": 0.07077625570776255
+   },
+   "length_ratio": 1.008,
+   "guard": false
+  },
+  {
+   "id": "A/C.3/SR.164 p1",
+   "kind": "printed",
+   "cell": "printed",
+   "segments": 8,
+   "chars": 1691,
+   "errors": {
+    "vote": 7,
+    "chandra": 0,
+    "tess3": 8,
+    "layer": 24,
+    "vision": 174,
+    "chandra_guarded": 0
+   },
+   "cer": {
+    "vote": 0.004139562389118865,
+    "chandra": 0.0,
+    "tess3": 0.004730928444707274,
+    "layer": 0.014192785334121822,
+    "vision": 0.1028976936723832
+   },
+   "length_ratio": 0.996,
+   "guard": false
+  },
+  {
+   "id": "A/C.3/SR.45 p1",
+   "kind": "printed",
+   "cell": "printed",
+   "segments": 2,
+   "chars": 381,
+   "errors": {
+    "vote": 1,
+    "chandra": 1,
+    "tess3": 4,
+    "layer": 5,
+    "vision": 161,
+    "chandra_guarded": 1
+   },
+   "cer": {
+    "vote": 0.0026246719160104987,
+    "chandra": 0.0026246719160104987,
+    "tess3": 0.010498687664041995,
+    "layer": 0.013123359580052493,
+    "vision": 0.4225721784776903
+   },
+   "length_ratio": 1.004,
+   "guard": false
+  },
+  {
+   "id": "A/C.3/SR.162 p1",
+   "kind": "printed",
+   "cell": "printed",
+   "segments": 18,
+   "chars": 2680,
+   "errors": {
+    "vote": 31,
+    "chandra": 27,
+    "tess3": 35,
+    "layer": 79,
+    "vision": 273,
+    "chandra_guarded": 27
+   },
+   "cer": {
+    "vote": 0.011567164179104477,
+    "chandra": 0.010074626865671642,
+    "tess3": 0.013059701492537313,
+    "layer": 0.029477611940298507,
+    "vision": 0.10186567164179104
+   },
+   "length_ratio": 0.999,
+   "guard": false
+  },
+  {
+   "id": "A/C.3/SR.157 p1",
+   "kind": "printed",
+   "cell": "printed",
+   "segments": 22,
+   "chars": 2564,
+   "errors": {
+    "vote": 36,
+    "chandra": 33,
+    "tess3": 40,
+    "layer": 69,
+    "vision": 176,
+    "chandra_guarded": 33
+   },
+   "cer": {
+    "vote": 0.014040561622464899,
+    "chandra": 0.012870514820592824,
+    "tess3": 0.015600624024960999,
+    "layer": 0.02691107644305772,
+    "vision": 0.0686427457098284
+   },
+   "length_ratio": 0.997,
+   "guard": false
+  },
+  {
+   "id": "A/C.3/SR.167 p1",
+   "kind": "printed",
+   "cell": "printed",
+   "segments": 4,
+   "chars": 900,
+   "errors": {
+    "vote": 6,
+    "chandra": 2,
+    "tess3": 11,
+    "layer": 18,
+    "vision": 56,
+    "chandra_guarded": 2
+   },
+   "cer": {
+    "vote": 0.006666666666666667,
+    "chandra": 0.0022222222222222222,
+    "tess3": 0.012222222222222223,
+    "layer": 0.02,
+    "vision": 0.06222222222222222
+   },
+   "length_ratio": 0.997,
+   "guard": false
+  }
+ ],
+ "summary_variants": {
+  "as preregistered": {
+   "typewritten records": {
+    "pages": 19,
+    "vote": 0.014786344110332354,
+    "chandra": 0.017228125706534026,
+    "chandra_guarded": 0.003481799683472756,
+    "diff": [
+     0.002441781596201672,
+     -0.01766310851562874,
+     0.040547494082535766
+    ],
+    "diff_guarded": [
+     -0.011304544426859598,
+     -0.020168067226890754,
+     -0.0051145107268941795
+    ]
+   },
+   "typewritten documents": {
+    "pages": 20,
+    "vote": 0.13768464225063284,
+    "chandra": 0.12409881764875516,
+    "chandra_guarded": 0.12525233105834854,
+    "diff": [
+     -0.013585824601877683,
+     -0.028218324405699678,
+     -0.006012579313402239
+    ],
+    "diff_guarded": [
+     -0.012432311192284301,
+     -0.026435810810810808,
+     -0.005221011041732837
+    ]
+   },
+   "printed pages": {
+    "pages": 20,
+    "vote": 0.014206763043681894,
+    "chandra": 0.012146001810971993,
+    "chandra_guarded": 0.012146001810971993,
+    "diff": [
+     -0.002060761232709901,
+     -0.0028171989998943547,
+     -0.0013952450050228812
+    ],
+    "diff_guarded": [
+     -0.002060761232709901,
+     -0.0028171989998943547,
+     -0.0013952450050228812
+    ]
+   },
+   "typewritten (records and documents)": {
+    "pages": 39,
+    "vote": 0.08671517515565223,
+    "chandra": 0.07977646088065411,
+    "chandra_guarded": 0.07475058135173655,
+    "diff": [
+     -0.00693871427499812,
+     -0.018534218142485456,
+     0.008920750541699322
+    ],
+    "diff_guarded": [
+     -0.01196459380391568,
+     -0.019723198990172212,
+     -0.006463302033065624
+    ]
+   },
+   "all": {
+    "pages": 59,
+    "vote": 0.059507211397640335,
+    "chandra": 0.054398893978980914,
+    "chandra_guarded": 0.051258919051915035,
+    "diff": [
+     -0.005108317418659421,
+     -0.012258296148125352,
+     0.004596735329370917
+    ],
+    "diff_guarded": [
+     -0.0082482923457253,
+     -0.012989785353670125,
+     -0.004715069019222973
+    ]
+   }
+  },
+  "without the artefact page (E/CN.4/AC.1/3/Add.1 p257)": {
+   "typewritten records": {
+    "pages": 19,
+    "vote": 0.014786344110332354,
+    "chandra": 0.017228125706534026,
+    "chandra_guarded": 0.003481799683472756,
+    "diff": [
+     0.002441781596201672,
+     -0.01766310851562874,
+     0.040547494082535766
+    ],
+    "diff_guarded": [
+     -0.011304544426859598,
+     -0.020168067226890754,
+     -0.0051145107268941795
+    ]
+   },
+   "typewritten documents": {
+    "pages": 19,
+    "vote": 0.02824858757062147,
+    "chandra": 0.010634762379528082,
+    "chandra_guarded": 0.012130275839149218,
+    "diff": [
+     -0.017613825191093387,
+     -0.03253891478322047,
+     -0.008761436746306295
+    ],
+    "diff_guarded": [
+     -0.01611831173147225,
+     -0.030657582938388626,
+     -0.007663986775865954
+    ]
+   },
+   "printed pages": {
+    "pages": 20,
+    "vote": 0.014206763043681894,
+    "chandra": 0.012146001810971993,
+    "chandra_guarded": 0.012146001810971993,
+    "diff": [
+     -0.002060761232709901,
+     -0.0028171989998943547,
+     -0.0013952450050228812
+    ],
+    "diff_guarded": [
+     -0.002060761232709901,
+     -0.0028171989998943547,
+     -0.0013952450050228812
+    ]
+   },
+   "typewritten (records and documents)": {
+    "pages": 38,
+    "vote": 0.021802671747461408,
+    "chandra": 0.013791759586030702,
+    "chandra_guarded": 0.007989261047480893,
+    "diff": [
+     -0.008010912161430706,
+     -0.020503469133606123,
+     0.010245635316033444
+    ],
+    "diff_guarded": [
+     -0.013813410699980514,
+     -0.021432108547093195,
+     -0.00799132855837283
+    ]
+   },
+   "all": {
+    "pages": 58,
+    "vote": 0.01869230572531772,
+    "chandra": 0.013117856138287263,
+    "chandra_guarded": 0.009691359603140102,
+    "diff": [
+     -0.005574449587030456,
+     -0.01313969571230982,
+     0.005022403139368029
+    ],
+    "diff_guarded": [
+     -0.009000946122177616,
+     -0.013854163981751166,
+     -0.00528169014084507
+    ]
+   }
+  }
+ }
+}

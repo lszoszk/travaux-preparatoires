@@ -1,0 +1,629 @@
+{
+ "article": 24,
+ "witnesses": [
+  {
+   "sigil": "Sec",
+   "stage": "secretariat_outline",
+   "text": "every one has the right to a fair share of rest and leisure"
+  },
+  {
+   "sigil": "Cassin",
+   "stage": "cassin_draft",
+   "text": "every one has the right to a pair share of rest and leisure and to the knowledge of the outside world"
+  },
+  {
+   "sigil": "DC1",
+   "stage": "drafting_committee_1",
+   "text": "every one has the right to a fair share of rest and leisure"
+  },
+  {
+   "sigil": "WG57",
+   "stage": "e_cn4_57",
+   "text": "everyone has the right to rest and leisure"
+  },
+  {
+   "sigil": "Geneva",
+   "stage": "geneva_draft",
+   "text": "every one has the right to rest and leisure rest and leisure should be ensured to every one by laws or contracts providing in particular for reasonable limitations on working hours and for periodic vacations with pay"
+  },
+  {
+   "sigil": "DC2",
+   "stage": "drafting_committee_2",
+   "text": "very one has the right t rest and leisure lest and leisure should be ensured to every one by laws or contracts providing in particular for reasonable limitations on working hours and for periodic vacations with pay"
+  },
+  {
+   "sigil": "CHR3",
+   "stage": "chr_3",
+   "text": "everyone has the right to rest and leisure"
+  },
+  {
+   "sigil": "A777",
+   "stage": "a777",
+   "text": "bveryoug 3 the wight to real and leisure including reasonable 7 limits on of pork hours ant periodic holidays with pay"
+  }
+ ],
+ "sources": {
+  "Sec": [
+   {
+    "symbol": "E/CN.4/AC.1/3",
+    "draft_article": 43,
+    "page": 14,
+    "text_from": "OCR"
+   }
+  ],
+  "Cassin": [
+   {
+    "symbol": "E/CN.4/AC.1/W.2/Rev.2",
+    "draft_article": 36,
+    "page": 7,
+    "text_from": "OCR"
+   }
+  ],
+  "DC1": [
+   {
+    "symbol": "E/CN.4/21",
+    "draft_article": 32,
+    "page": 80,
+    "text_from": "OCR"
+   }
+  ],
+  "WG57": [
+   {
+    "symbol": "E/CN.4/57",
+    "draft_article": 32,
+    "page": 14,
+    "text_from": "OCR"
+   }
+  ],
+  "Geneva": [
+   {
+    "symbol": "E/600",
+    "draft_article": 29,
+    "page": 21,
+    "text_from": "OCR"
+   }
+  ],
+  "DC2": [
+   {
+    "symbol": "E/CN.4/95",
+    "draft_article": 29,
+    "page": 12,
+    "text_from": "OCR"
+   }
+  ],
+  "CHR3": [
+   {
+    "symbol": "E/800",
+    "draft_article": 24,
+    "page": 13,
+    "text_from": "OCR"
+   }
+  ],
+  "A777": [
+   {
+    "symbol": "A/777",
+    "draft_article": 25,
+    "page": 6,
+    "text_from": "OCR"
+   }
+  ]
+ },
+ "branches": [
+  {
+   "n": 1,
+   "column": 0,
+   "readings": [
+    {
+     "text": "every",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "DC1",
+      "Geneva"
+     ]
+    },
+    {
+     "text": "everyone",
+     "stages": [
+      "WG57",
+      "CHR3"
+     ]
+    },
+    {
+     "text": "very",
+     "stages": [
+      "DC2"
+     ]
+    },
+    {
+     "text": "bveryoug 3",
+     "stages": [
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "column": 1,
+   "readings": [
+    {
+     "text": "one",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "DC1",
+      "Geneva",
+      "DC2"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "WG57",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "column": 2,
+   "readings": [
+    {
+     "text": "has",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "column": 4,
+   "readings": [
+    {
+     "text": "right",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3"
+     ]
+    },
+    {
+     "text": "wight",
+     "stages": [
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "column": 5,
+   "readings": [
+    {
+     "text": "to",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "DC1",
+      "WG57",
+      "Geneva",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "t",
+     "stages": [
+      "DC2"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "column": 6,
+   "readings": [
+    {
+     "text": "a",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "DC1"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "WG57",
+      "CHR3"
+     ]
+    },
+    {
+     "text": "rest and leisure",
+     "stages": [
+      "Geneva",
+      "DC2"
+     ]
+    },
+    {
+     "text": "real",
+     "stages": [
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "column": 7,
+   "readings": [
+    {
+     "text": "fair",
+     "stages": [
+      "Sec",
+      "DC1"
+     ]
+    },
+    {
+     "text": "pair",
+     "stages": [
+      "Cassin"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "WG57",
+      "Geneva",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "lest",
+     "stages": [
+      "DC2"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "column": 8,
+   "readings": [
+    {
+     "text": "share of",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "DC1"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "column": 9,
+   "readings": [
+    {
+     "text": "rest",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "DC1",
+      "WG57",
+      "Geneva",
+      "CHR3"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "DC2",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "column": 11,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "DC1",
+      "WG57",
+      "CHR3"
+     ]
+    },
+    {
+     "text": "and",
+     "stages": [
+      "Cassin"
+     ]
+    },
+    {
+     "text": "should be ensured",
+     "stages": [
+      "Geneva",
+      "DC2"
+     ]
+    },
+    {
+     "text": "including reasonable 7 limits on",
+     "stages": [
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "column": 12,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "DC1",
+      "WG57",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "to",
+     "stages": [
+      "Cassin",
+      "Geneva",
+      "DC2"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "column": 13,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "DC1",
+      "WG57",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "the knowledge",
+     "stages": [
+      "Cassin"
+     ]
+    },
+    {
+     "text": "every one by laws or contracts providing in particular for reasonable limitations on working",
+     "stages": [
+      "Geneva",
+      "DC2"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "column": 14,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3"
+     ]
+    },
+    {
+     "text": "of",
+     "stages": [
+      "Cassin",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "column": 15,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3"
+     ]
+    },
+    {
+     "text": "the outside world",
+     "stages": [
+      "Cassin"
+     ]
+    },
+    {
+     "text": "pork",
+     "stages": [
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "column": 16,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "DC1",
+      "WG57",
+      "CHR3"
+     ]
+    },
+    {
+     "text": "hours",
+     "stages": [
+      "Geneva",
+      "DC2",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "column": 17,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "DC1",
+      "WG57",
+      "CHR3"
+     ]
+    },
+    {
+     "text": "and for",
+     "stages": [
+      "Geneva",
+      "DC2"
+     ]
+    },
+    {
+     "text": "ant",
+     "stages": [
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "column": 18,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "DC1",
+      "WG57",
+      "CHR3"
+     ]
+    },
+    {
+     "text": "periodic",
+     "stages": [
+      "Geneva",
+      "DC2",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "column": 19,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "DC1",
+      "WG57",
+      "CHR3"
+     ]
+    },
+    {
+     "text": "vacations",
+     "stages": [
+      "Geneva",
+      "DC2"
+     ]
+    },
+    {
+     "text": "holidays",
+     "stages": [
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "column": 20,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "DC1",
+      "WG57",
+      "CHR3"
+     ]
+    },
+    {
+     "text": "with pay",
+     "stages": [
+      "Geneva",
+      "DC2",
+      "A777"
+     ]
+    }
+   ]
+  }
+ ]
+}

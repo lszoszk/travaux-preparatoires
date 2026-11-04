@@ -1,0 +1,1083 @@
+{
+ "pages": [
+  {
+   "id": "p0",
+   "stratum": "changed86",
+   "symbol": "A/C.1/SR.41",
+   "page": 1
+  },
+  {
+   "id": "p1",
+   "stratum": "changed86",
+   "symbol": "A/C.3/SR.1298",
+   "page": 4
+  },
+  {
+   "id": "p2",
+   "stratum": "changed86",
+   "symbol": "A/C.3/SR.387",
+   "page": 2
+  },
+  {
+   "id": "p3",
+   "stratum": "changed86",
+   "symbol": "E/CN.4/AC.1/SR.2",
+   "page": 8
+  },
+  {
+   "id": "p4",
+   "stratum": "changed86",
+   "symbol": "E/CN.4/AC.1/SR.40",
+   "page": 12
+  },
+  {
+   "id": "p5",
+   "stratum": "changed86",
+   "symbol": "E/CN.4/AC.1/SR.43/Corr.1",
+   "page": 1
+  },
+  {
+   "id": "p6",
+   "stratum": "changed86",
+   "symbol": "E/CN.4/SR.145",
+   "page": 8
+  },
+  {
+   "id": "p7",
+   "stratum": "changed86",
+   "symbol": "E/CN.4/SR.147",
+   "page": 7
+  },
+  {
+   "id": "p8",
+   "stratum": "changed86",
+   "symbol": "E/CN.4/SR.193",
+   "page": 7
+  },
+  {
+   "id": "p9",
+   "stratum": "changed86",
+   "symbol": "E/CN.4/SR.199",
+   "page": 24
+  },
+  {
+   "id": "p10",
+   "stratum": "changed86",
+   "symbol": "E/CN.4/SR.227",
+   "page": 1
+  },
+  {
+   "id": "p11",
+   "stratum": "changed86",
+   "symbol": "E/CN.4/SR.241",
+   "page": 22
+  },
+  {
+   "id": "p12",
+   "stratum": "changed86",
+   "symbol": "E/CN.4/SR.270",
+   "page": 5
+  },
+  {
+   "id": "p13",
+   "stratum": "changed86",
+   "symbol": "E/CN.4/SR.304",
+   "page": 13
+  },
+  {
+   "id": "p14",
+   "stratum": "changed86",
+   "symbol": "E/CN.4/SR.306",
+   "page": 6
+  },
+  {
+   "id": "p15",
+   "stratum": "changed86",
+   "symbol": "E/CN.4/SR.328",
+   "page": 7
+  },
+  {
+   "id": "p16",
+   "stratum": "changed86",
+   "symbol": "E/CN.4/SR.337",
+   "page": 10
+  },
+  {
+   "id": "p17",
+   "stratum": "changed86",
+   "symbol": "E/CN.4/SR.379",
+   "page": 1
+  },
+  {
+   "id": "p18",
+   "stratum": "changed86",
+   "symbol": "E/CN.4/SR.55",
+   "page": 5
+  },
+  {
+   "id": "p19",
+   "stratum": "changed86",
+   "symbol": "E/CN.4/SR.64",
+   "page": 16
+  },
+  {
+   "id": "p20",
+   "stratum": "changed86",
+   "symbol": "E/CN.4/SR.88",
+   "page": 7
+  },
+  {
+   "id": "p21",
+   "stratum": "changed86",
+   "symbol": "E/CN.4/SR.9",
+   "page": 5
+  },
+  {
+   "id": "p22",
+   "stratum": "changed86",
+   "symbol": "E/CN.4/SUB.1/SR.27",
+   "page": 2
+  },
+  {
+   "id": "p23",
+   "stratum": "changed86",
+   "symbol": "E/CN.4/SUB.2/SR.11",
+   "page": 22
+  },
+  {
+   "id": "p24",
+   "stratum": "changed86",
+   "symbol": "E/CN.4/SUB.2/SR.17",
+   "page": 4
+  },
+  {
+   "id": "p25",
+   "stratum": "changed86",
+   "symbol": "E/CN.4/SUB.2/SR.6",
+   "page": 15
+  },
+  {
+   "id": "p26",
+   "stratum": "changed86",
+   "symbol": "E/CN.6/SR.12",
+   "page": 3
+  },
+  {
+   "id": "p27",
+   "stratum": "changed86",
+   "symbol": "E/SR.79",
+   "page": 8
+  },
+  {
+   "id": "p28",
+   "stratum": "changed86",
+   "symbol": "E/SR.84",
+   "page": 2
+  },
+  {
+   "id": "p29",
+   "stratum": "changed86",
+   "symbol": "E/SR.84",
+   "page": 4
+  }
+ ],
+ "results": [
+  {
+   "label": "old86",
+   "i": 0,
+   "page_ok": false,
+   "speeches_on_image": 9,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.1_sr.41-0005",
+     "detail": "The underlined 'Decision: On the proposal of the Chairman, the New Zealand amendment was adopted unanimously.' stands apart on the page but is left at the end of Alfaro's speech."
+    },
+    {
+     "type": "wrong_speaker",
+     "segment_id": "a_c.1_sr.41-0006",
+     "detail": "The page prints 'Mr. SANDERS (United States of America)'. The segment gives the speaker as SANDIFER, a different name."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "a_c.1_sr.41-0011",
+     "detail": "The chair's turn contains the rest of footnote 1 ('part of the first session, Annexes 30 and 62.') and then 'QUA', apparently from the French column. Footnote segment 0012 holds only the footnote's first line."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.1_sr.41-0002",
+     "detail": "The bold agenda-item heading '36. Continuation of discussion of the draft declaration of rights and duties of States...' is marked procedural instead of heading."
+    },
+    {
+     "type": "text_missing",
+     "segment_id": null,
+     "detail": "None of the listed segments holds the meeting header: 'FORTY-FIRST MEETING [A/C.1/124]', place, date, 'Chairman: Mr. P.-H. Spaak' and 'In the absence of Mr. Manuilsky, Mr. Spaak took the Chair'."
+    }
+   ]
+  },
+  {
+   "label": "old86",
+   "i": 1,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.1298-0037",
+     "detail": "Italic vote result 'The combined draft resolution, as amended, was adopted by 79 votes to none, with 2 abstentions' at top of left column is left inside Mohammed's speech instead of its own vote segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.1298-0043",
+     "detail": "Italic decision 'It was so agreed. 2/' after para 38 is left inside the Chairman's turn instead of being its own procedural segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.1298-0044",
+     "detail": "Footnote 2/ at foot of right column ('The revised organization of work ... A/C.3/L.1192/Rev.1') is merged into the closing 'The meeting rose' segment instead of its own footnote segment."
+    }
+   ]
+  },
+  {
+   "label": "old86",
+   "i": 2,
+   "page_ok": false,
+   "speeches_on_image": 18,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_c.3_sr.387-0023",
+     "detail": "Para 24 ('At the request of Mr. ROY (Haiti), Mr. PAZHWAK (Afghanistan) withdrew his motion for the closure') is a separate paragraph about Pazhwak, but it sits inside Garcia Bauer's para 23 segment."
+    }
+   ]
+  },
+  {
+   "label": "old86",
+   "i": 3,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_ac.1_sr.2-0016",
+     "detail": "The DECISION paragraph (Secretariat outline taken as basis for discussion) is left inside Roosevelt's speech; it should be its own decision segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_ac.1_sr.2-0016",
+     "detail": "Agenda heading '2. Consideration of the Draft Outline of the Secretariat and of the Draft Proposed by the United Kingdom' sits at the end of Roosevelt's speech instead of being its own heading segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_ac.1_sr.2-0016",
+     "detail": "The narrative paragraph 'With the exception of Prof. KORETSKY (USSR)... all members accepted Mrs. Roosevelt's suggestions' is procedural and is not Roosevelt's speech, but it is merged into her segment."
+    }
+   ]
+  },
+  {
+   "label": "old86",
+   "i": 4,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_ac.1_sr.40-0053",
+     "detail": "The page has Heyward (Australia), 'supported the Geneva text', and then a separate turn by Mr. PAVLOV (USSR). The segment runs both together under Heyward/Australia."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_ac.1_sr.40-0052",
+     "detail": "The ending of Santa Cruz's speech carries this page's running header 'E/CN.4/AC.1/SR.40 Page 12' (OCR: 'F fow. 4/Ac.1/sr.4o Paze 12')."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_ac.1_sr.40-0054",
+     "detail": "The underlined result 'The USSR representative's suggestion was rejected by 2 votes to 1, with 4 abstentions' is inside Cassin's speech. So is the procedural text that follows ('The next text put to the vote...'). The segment runs on to page 14."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_ac.1_sr.40-0054",
+     "detail": "The ending also holds a vote result from a later page ('adopted by 5 votes to none'), the start of 'The PRESIDENT' and a running header ('B/on.4/ac,1/sR'). This shows the segment swallows the vote material after Cassin's turn."
+    }
+   ]
+  },
+  {
+   "label": "old86",
+   "i": 5,
+   "page_ok": true,
+   "speeches_on_image": 0,
+   "errors": []
+  },
+  {
+   "label": "old86",
+   "i": 6,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.145-0024",
+     "detail": "Para 30 'Mr. MENDEZ (Philippines) pointed out that no arrest could legally be made...' starts on this page, but the Oribe (Uruguay) segment's ending is Mendez's text, so his turn sits inside it."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.145-0025",
+     "detail": "Para 32 'Mr. ORDONNEAU (France) noted that many members...' starts on this page, but the Santa Cruz (Chile) segment runs on to para 33 ('The french delegation therefore preferred...'), so it holds Ordonneau's turn."
+    }
+   ]
+  },
+  {
+   "label": "old86",
+   "i": 7,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "wrong_delegation",
+     "segment_id": "e_cn.4_sr.147-0006",
+     "detail": "Paragraph 22 reads 'The CHAIRMAN, speaking as representative of the United States'. Segment is kind chair with delegation null, so the US delegation is missing (arguably it should be a speech for the United States)."
+    }
+   ]
+  },
+  {
+   "label": "old86",
+   "i": 8,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.193-0015",
+     "detail": "Para. 20, Mrs. MEHTA (India): 'the draft resolution did not request the International Law Commission to examine the political aspect...' starts a new turn. The segment for Malik (Lebanon) ends with her words, so her turn has no segment of its own."
+    }
+   ]
+  },
+  {
+   "label": "old86",
+   "i": 9,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.199-0091",
+     "detail": "Para 128, Mr. MENDEZ (Philippines) proposing text for sub-paragraph (e), is a separate turn but sits at the end of Malik's (Lebanon) segment."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.199-0095",
+     "detail": "Ending carries the next page's running symbol 'B/cv.4/8R.199' (E/CN.4/SR.199) after Cassin's last sentence."
+    }
+   ]
+  },
+  {
+   "label": "old86",
+   "i": 10,
+   "page_ok": false,
+   "speeches_on_image": 0,
+   "errors": [
+    {
+     "type": "other",
+     "segment_id": null,
+     "detail": "Item 10 (E/CN.4/SR.227 p1) has no image field, so the page could not be checked. It also has zero segments; a summary record's first page normally has text, so text may be missing."
+    }
+   ]
+  },
+  {
+   "label": "old86",
+   "i": 11,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.241-0010",
+     "detail": "Page opens with a new turn, Miss HOWELL (World Health Organization) on budgetary provisions for the Pakistani-Swedish proposal. Segment 0010 (Cassin, France, pp. 19-22) ends with that text, so her turn is inside Cassin's speech."
+    }
+   ]
+  },
+  {
+   "label": "old86",
+   "i": 12,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.270-0011",
+     "detail": "Santa Cruz's turn ends on p5 ('study articles 20 to 32'); page catchword '/The CHAIRMAN' shows p6 opens with a chair turn, but segment runs to p6 and ends with the Chairman's words (missed turn on next page)."
+    }
+   ]
+  },
+  {
+   "label": "old86",
+   "i": 13,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.304-0028",
+     "detail": "Page 13's running header (E/CN.4/SR.304 Page 13, handwritten 59) is left at the end of Morozov's speech text: '...(E/cn.4/L.67). 4. ns + one roe 2 Page 13 59'."
+    }
+   ]
+  },
+  {
+   "label": "old86",
+   "i": 14,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.306-0011",
+     "detail": "Page 6 opens with 'The CHAIRMAN proposed that the proposal and amendments should be put to the vote in the following order...'; this chair turn is left inside Hoare's (United Kingdom) segment, whose ending is that voting order."
+    }
+   ]
+  },
+  {
+   "label": "old86",
+   "i": 15,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.328-0018",
+     "detail": "Page opens with a new turn by Mr. MOROZOV (USSR) on Charter article 2, paragraph 7, but the segment puts it inside the Simsarian (United States) segment that started on page 6."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.328-0018",
+     "detail": "The CHAIRMAN's proposal to suspend until the revised Chilean, Yugoslav and Polish amendments were circulated is its own chair turn, but it is left at the end of the Simsarian segment."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.328-0021",
+     "detail": "Mr. HOARE (United Kingdom) starts a turn at the foot of page 7 that runs onto page 8 ('...although inadequate'). The segment folds it into Morozov's speech; no Hoare segment exists."
+    }
+   ]
+  },
+  {
+   "label": "old86",
+   "i": 16,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.337-0077",
+     "detail": "The vote result 'Paragraphs 1 to 5 were adopted... paragraph 5.' and the separate underlined heading 'Paragraphs 6 to 9' are merged in one vote segment; the heading should be its own segment."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.337-0079",
+     "detail": "Whitlam's turn ends on p10 (catchword /Mrs. MEHTA), but the segment runs to p11 and swallows Mrs. Mehta's (India) turn, which opens p11; her turn starts on the next page."
+    }
+   ]
+  },
+  {
+   "label": "old86",
+   "i": 17,
+   "page_ok": true,
+   "speeches_on_image": 0,
+   "errors": []
+  },
+  {
+   "label": "old86",
+   "i": 18,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.55-0015",
+     "detail": "Chairman's one-sentence turn (reads out drafts of article 10) is followed by a new turn, 'Mr. CASSIN (France) pointed out...', running to the page end; both sit in one chair segment attributed to Roosevelt."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.55-0013",
+     "detail": "Vote segment from page 4 ends with the page 5 symbol 'E/CN.4/SR.55' (OCR 'E/CN.tyaS-K»') and repeats the 'Article 10' heading, which is already its own segment."
+    }
+   ]
+  },
+  {
+   "label": "old86",
+   "i": 19,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": []
+  },
+  {
+   "label": "old86",
+   "i": 20,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.88-0019",
+     "detail": "Page shows the Chairman inviting the Board to speak, then a new turn 'Mr. BERNSTEIN (Co-ordinating Board of Jewish Organizations)'; the segment keeps both in one chair segment, so Bernstein's speech goes to Roosevelt."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.88-0016",
+     "detail": "The underlined result 'The amendment was adopted by 9 votes to 3, with 1 abstention' is a separate vote result on the page, but it stays inside the chair's segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.88-0017",
+     "detail": "The underlined result 'The Egyptian proposal as amended was adopted by 9 votes to 2, with 1 abstention' is a separate vote result on the page, but it stays inside the chair's segment."
+    }
+   ]
+  },
+  {
+   "label": "old86",
+   "i": 21,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.9-0010",
+     "detail": "The scan has a new turn: Mrs. ROOSEVELT, Chairman, speaking as United States representative, answering Australia. The Malik segment's ending ('Committee could not be submitted ... before the next session') holds her turn."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.9-0010",
+     "detail": "The segment's ending is '- Page', a page marker or catchword artifact. The page foot carries the catchword '/Mrs. MEHTA'."
+    }
+   ]
+  },
+  {
+   "label": "old86",
+   "i": 22,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sub.1_sr.27-0005",
+     "detail": "The image shows a new paragraph, 'In reply to Mr. Chafee, ... Mr. MACKENZIE (United Kingdom) stated that ... the word \"communication\" in text B covered that point', which is a new Mackenzie turn. The segment has it inside Ferguson's speech."
+    }
+   ]
+  },
+  {
+   "label": "old86",
+   "i": 23,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sub.2_sr.11-0107",
+     "detail": "Underlined 'DECISION: This proposal was accepted.' stands as its own line on the page but is left inside the Chairman's turn proposing the meeting hours."
+    }
+   ]
+  },
+  {
+   "label": "old86",
+   "i": 24,
+   "page_ok": false,
+   "speeches_on_image": 7,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sub.2_sr.17-0013",
+     "detail": "The underlined 'Decision: The proposal was adopted.' is its own line on the scan, after Nisot's one-line acceptance. The segment keeps it inside Nisot's speech instead of as a separate decision/vote segment."
+    }
+   ]
+  },
+  {
+   "label": "old86",
+   "i": 25,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sub.2_sr.6-0064",
+     "detail": "Underlined 'DECISION: This text was adopted by six votes, with five abstentions.' is printed as a separate result but is left inside the Chairman's turn segment."
+    }
+   ]
+  },
+  {
+   "label": "old86",
+   "i": 26,
+   "page_ok": false,
+   "speeches_on_image": 1,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.6_sr.12-0005",
+     "detail": "The underlined result 'DECISION: Paragraph (a) was adopted by a vote of 13 to 0; paragraph (b) and (c) were adopted unanimously.' sits inside the chair segment that runs pp. 2-4. It should be a separate vote segment, with the CHAIRMAN's next turn after it."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.6_sr.12-0005",
+     "detail": "The opening ends with the running header 'Page'. The ending keeps the catchword '/with requests' and the next page's header 'Page 4', so 'with requests' appears twice."
+    }
+   ]
+  },
+  {
+   "label": "old86",
+   "i": 27,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_sr.79-0039",
+     "detail": "Italic 'Decision: The item was accepted on the agenda.' at top of page is left inside Morozov's speech ending instead of its own decision segment."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_sr.79-0042",
+     "detail": "Image shows Mr. Stinebower (United States of America) turn after Colbjoernsen; segment 0042 runs through it (no separate segment for Stinebower)."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_sr.79-0042",
+     "detail": "Mr. Pérez Cisneros (Cuba) turn starts on page; segment 0042 (Colbjoernsen) ending is Pérez Cisneros's text 'The matter should be carefully considered...'."
+    }
+   ]
+  },
+  {
+   "label": "old86",
+   "i": 28,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_sr.84-0008",
+     "detail": "Phillips segment ends with '...rights of women.', so the turn 'In connexion with the amendment (E/386/Add.1)... Mr. HALSTEAD (Canada) brought forward two of the considerations' is inside it. Halstead (Canada) has no segment of his own."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_sr.84-0008",
+     "detail": "The italic decision 'Decision: The USSR amendment was rejected.' comes between Phillips's turn and Halstead's. It is left inside the Phillips speech segment when it should be a separate decision segment."
+    }
+   ]
+  },
+  {
+   "label": "old86",
+   "i": 29,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_sr.84-0016",
+     "detail": "The italic decision 'Decision: The proposals put forward by the President were adopted.' is printed on its own on the page, but it is left at the end of the President's chair segment."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_sr.84-0018",
+     "detail": "Morozov's (USSR) new turn, 'wished to have it recorded that the resolution made no reference...', starts at the foot of the page but sits inside the Phillips/Smith segment."
+    }
+   ]
+  },
+  {
+   "label": "new86",
+   "i": 0,
+   "page_ok": false,
+   "speeches_on_image": 9,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "a_c.1_sr.41-0012",
+     "detail": "Chair's last turn ends with 'part of the first session, Annexes 30 and 62.', the rest of footnote 1 at the foot of the English column. Footnote segment 0013 keeps only its first line."
+    },
+    {
+     "type": "other_column_or_page_text",
+     "segment_id": "a_c.1_sr.41-0012",
+     "detail": "Chair segment ends with 'QUARANTE ET UNIEME SEANCE [A/C.1/124]', which is the French column's meeting title, not part of the English chair turn."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.1_sr.41-0002",
+     "detail": "Agenda item heading '36. Continuation of discussion of the draft declaration of rights and duties of States' is marked procedural, not heading."
+    },
+    {
+     "type": "text_missing",
+     "segment_id": null,
+     "detail": "Page shows 'In the absence of Mr. D. Z. Manuilsky, Mr. P.-H. Spaak took the Chair.' (plus the meeting's date/chairman lines). No listed segment holds it; the list starts at 0002."
+    }
+   ]
+  },
+  {
+   "label": "new86",
+   "i": 1,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.1298-0044",
+     "detail": "Italic decision 'It was so agreed. 2/' after para 38 is printed on its own line but is left at the end of the Chairman's turn instead of being a separate procedural segment."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "a_c.3_sr.1298-0045",
+     "detail": "Footnote 2/ at the foot of the right column ('The revised organization of work ... A/C.3/L.1192/Rev.1.') is joined to the closing 'The meeting rose at 5.45 p.m.' instead of being its own footnote segment."
+    }
+   ]
+  },
+  {
+   "label": "new86",
+   "i": 2,
+   "page_ok": true,
+   "speeches_on_image": 18,
+   "errors": []
+  },
+  {
+   "label": "new86",
+   "i": 3,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_ac.1_sr.2-0016",
+     "detail": "The paragraph 'With the exception of Prof. KORETSKY (USSR) who reserved his position... all of the members accepted Mrs. Roosevelt's suggestions' is a separate outcome paragraph (with Koretsky's reservation), yet it is inside Roosevelt's speech."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_ac.1_sr.2-0017",
+     "detail": "The underlined agenda heading '2. Consideration of the Draft Outline of the Secretariat and of the Draft Proposed by the United Kingdom (E/CN.4/AC.1/3/Add.3)' is inside the DECISION procedural segment and should be its own heading segment."
+    }
+   ]
+  },
+  {
+   "label": "new86",
+   "i": 4,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_ac.1_sr.40-0053",
+     "detail": "Page has Heyward (Australia) one-line turn, then a separate turn by Mr. PAVLOV (USSR). The segment folds Pavlov's whole turn into Heyward's speech, under Heyward/Australia."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_ac.1_sr.40-0052",
+     "detail": "Santa Cruz's speech ends with this page's running header 'E/CN.4/AC.1/SR.40 Page 12', OCR'd as 'F fow. 4/Ac.1/sr.4o Paze 12'."
+    }
+   ]
+  },
+  {
+   "label": "new86",
+   "i": 5,
+   "page_ok": false,
+   "speeches_on_image": 0,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_ac.1_sr.43_corr.1-0001",
+     "detail": "The page is a corrigendum with no speaker turns, and one procedural segment for it is right. But the segment's opening still holds the masthead (United Nations / Nations Unies, ECONOMIC AND SOCIAL COUNCIL, UNRESTRICTED, ORIGINAL: ENGLISH) and the document symbol."
+    }
+   ]
+  },
+  {
+   "label": "new86",
+   "i": 6,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.145-0024",
+     "detail": "Para 30 'Mr. MENDEZ (Philippines) pointed out that no arrest could legally be made without a warrant...' is a new turn, but the Oribe (Uruguay) segment's ending runs through it."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.145-0025",
+     "detail": "Para 32 'Mr. ORDONNEAU (France) noted that many members...' starts a new turn on this page, but the Santa Cruz (Chile) segment runs on to para 33 on p.9 ('The french delegation...')."
+    }
+   ]
+  },
+  {
+   "label": "new86",
+   "i": 7,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": []
+  },
+  {
+   "label": "new86",
+   "i": 8,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.193-0015",
+     "detail": "Para 20, Mrs. MEHTA (India) on the draft resolution's political vs juridical aspects, starts on this page but sits inside Malik's (Lebanon) segment, whose ending is Mehta's text."
+    }
+   ]
+  },
+  {
+   "label": "new86",
+   "i": 9,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.199-0091",
+     "detail": "Para 128, Mr. MENDEZ (Philippines) proposing text for sub-paragraph (e), is a separate turn on the scan, but it was left at the end of Malik's (Lebanon) segment."
+    }
+   ]
+  },
+  {
+   "label": "new86",
+   "i": 10,
+   "page_ok": false,
+   "speeches_on_image": 0,
+   "errors": [
+    {
+     "type": "other",
+     "segment_id": null,
+     "detail": "Item 10 (E/CN.4/SR.227 p1) has no 'image' field and no scan exists in img86; page not checkable. It also has zero segments, so if page 1 carries text (title, attendance, opening) none is in any segment."
+    }
+   ]
+  },
+  {
+   "label": "new86",
+   "i": 11,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.241-0010",
+     "detail": "Page opens with a new turn by Miss Howell (World Health Organization), speaking at the Chairman's invitation, which proposes the budgetary-provisions wording. The Cassin (France) segment ends with that passage, so her turn is inside his speech."
+    }
+   ]
+  },
+  {
+   "label": "new86",
+   "i": 12,
+   "page_ok": true,
+   "speeches_on_image": 4,
+   "errors": []
+  },
+  {
+   "label": "new86",
+   "i": 13,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "false_split",
+     "segment_id": "e_cn.4_sr.304-0030",
+     "detail": "The paragraph 'Replying to the remarks of the Lebanese representative, he recalled...' is the end of Boratynski's (Poland) speech. The segment cuts it off his turn and puts it at the head of Santa Cruz's (Chile) segment, so that segment holds two speakers."
+    }
+   ]
+  },
+  {
+   "label": "new86",
+   "i": 14,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.306-0011",
+     "detail": "Hoare's speech (pages 5-6) ends with the garbled running header of page 6, 'SS FO STS a Lr ea E/cn.4 /SR. 306', left in the speech text."
+    }
+   ]
+  },
+  {
+   "label": "new86",
+   "i": 15,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.328-0018",
+     "detail": "Morozov (USSR) turn at top of page 7 ('said that, whatever efforts it made...') is inside Simsarian's segment; opening shows 'Mr. MOROZOV (Union of Soviet Socialist Rep' following Simsarian's remark."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.328-0018",
+     "detail": "The CHAIRMAN's turn proposing to suspend the meeting until revised Chilean/Yugoslav and Polish amendments circulated is inside Simsarian's segment (its ending is the chair's text)."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.328-0021",
+     "detail": "Mr. HOARE (United Kingdom) turn starting near page foot ('opposed the revised Yugoslav amendment') has no segment; Morozov's segment runs to p.8 and ends with Hoare-like text on the Charter and Chilean text."
+    }
+   ]
+  },
+  {
+   "label": "new86",
+   "i": 16,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.337-0078",
+     "detail": "The underlined heading 'Paragraphs 6 to 9' is a separate heading on the page, but it sits inside the vote segment 'Paragraphs 1 to 5 were adopted...'. It needs its own heading segment."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.337-0080",
+     "detail": "Whitlam's turn ends on this page; the catchword '/Mrs. MEHTA' shows the next speaker. The segment runs to p.11, ending '...[R]apporteur, but felt that the Commission should make some decision', which is Mrs. Mehta's turn, not his."
+    }
+   ]
+  },
+  {
+   "label": "new86",
+   "i": 17,
+   "page_ok": true,
+   "speeches_on_image": 0,
+   "errors": []
+  },
+  {
+   "label": "new86",
+   "i": 18,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": []
+  },
+  {
+   "label": "new86",
+   "i": 19,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": []
+  },
+  {
+   "label": "new86",
+   "i": 20,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.88-0018",
+     "detail": "The underlined vote result 'The Egyptian proposal as amended was adopted by 9 votes to 2, with 1 abstention.' is left inside the Chairman's turn; it should be its own vote/procedural segment."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.88-0020",
+     "detail": "The Chairman's invitation and Mr. Bernstein's (Co-ordinating Board of Jewish Organizations) separate statement are merged in one chair segment; Bernstein's turn needs its own segment with speaker and organization."
+    }
+   ]
+  },
+  {
+   "label": "new86",
+   "i": 21,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.9-0010",
+     "detail": "Image shows a new turn 'Mrs. ROOSEVELT, Chairman, (speaking in her capacity as representative of the United States)' after Malik's speech; the segment's ending ('appointed during the first session... before the next session') shows it merged into Malik's segment."
+    }
+   ]
+  },
+  {
+   "label": "new86",
+   "i": 22,
+   "page_ok": true,
+   "speeches_on_image": 6,
+   "errors": []
+  },
+  {
+   "label": "new86",
+   "i": 23,
+   "page_ok": true,
+   "speeches_on_image": 4,
+   "errors": []
+  },
+  {
+   "label": "new86",
+   "i": 24,
+   "page_ok": true,
+   "speeches_on_image": 7,
+   "errors": []
+  },
+  {
+   "label": "new86",
+   "i": 25,
+   "page_ok": true,
+   "speeches_on_image": 6,
+   "errors": []
+  },
+  {
+   "label": "new86",
+   "i": 26,
+   "page_ok": false,
+   "speeches_on_image": 1,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.6_sr.12-0006",
+     "detail": "Underlined 'DECISION: Paragraph (a) was adopted by a vote of 13 to 0; paragraph (b) and (c) were adopted unanimously.' is left at the end of the chair's turn instead of its own vote/decision segment."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.6_sr.12-0007",
+     "detail": "Ending keeps the catchword '/with requests' and the next page's header 'Page 4' inside the chair's text ('Governnents | or /with requests Page '4 with requests')."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.6_sr.12-0006",
+     "detail": "Opening runs into the page 3 running header: '...which reads Page' (E/CN.6/SR.12 Page 3) left in the text before 'as follows'."
+    }
+   ]
+  },
+  {
+   "label": "new86",
+   "i": 27,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_sr.79-0045",
+     "detail": "Mr. Stinebower (United States of America) turn starts on page but is inside the Colbjoernsen (Norway) segment, which runs on to Perez Cisneros's ending."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_sr.79-0045",
+     "detail": "Mr. Perez Cisneros (Cuba) turn ('questioned whether the Council...proposal was adopted') is inside the Colbjoernsen (Norway) segment; its ending is Perez Cisneros's text."
+    }
+   ]
+  },
+  {
+   "label": "new86",
+   "i": 28,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_sr.84-0010",
+     "detail": "The vote segment 'Decision: The USSR amendment was rejected.' runs on into Mr. Halstead's (Canada) turn 'In connexion with the amendment (document E/386/Add.1)...'; that should be its own speech, Halstead, Canada."
+    }
+   ]
+  },
+  {
+   "label": "new86",
+   "i": 29,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_sr.84-0021",
+     "detail": "Segment opens with the joint Phillips (United Kingdom) and Smith (Canada) support of the Chilean resolution, then runs on into Mr. Morozov's (USSR) separate turn, which starts at the foot of the page and should be its own segment."
+    }
+   ]
+  }
+ ]
+}

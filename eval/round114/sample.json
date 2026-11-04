@@ -1,0 +1,242 @@
+[
+ {
+  "id": "a_c.3_sr.1257-0010",
+  "old": null,
+  "new": "ICCPR 2",
+  "kind": "chair"
+ },
+ {
+  "id": "a_c.3_sr.1402-0025",
+  "old": "ICESCR 19",
+  "new": "ICESCR 18",
+  "kind": "chair"
+ },
+ {
+  "id": "a_c.3_sr.1424-0054",
+  "old": null,
+  "new": "ICCPR 34",
+  "kind": "speech"
+ },
+ {
+  "id": "a_c.3_sr.1424-0057",
+  "old": null,
+  "new": "ICCPR 34",
+  "kind": "speech"
+ },
+ {
+  "id": "a_c.3_sr.1424-0061",
+  "old": null,
+  "new": "ICCPR 34",
+  "kind": "speech"
+ },
+ {
+  "id": "a_c.3_sr.1424-0063",
+  "old": null,
+  "new": "ICCPR 34",
+  "kind": "speech"
+ },
+ {
+  "id": "a_c.3_sr.178-0045",
+  "old": null,
+  "new": "UDHR 18",
+  "kind": "speech"
+ },
+ {
+  "id": "e_cn.4_ac.1_sr.32-0057",
+  "old": "ICCPR 12",
+  "new": "ICCPR 9",
+  "kind": "procedural"
+ },
+ {
+  "id": "e_cn.4_ac.1_sr.34-0009",
+  "old": "ICCPR 4",
+  "new": "ICCPR 2",
+  "kind": "speech"
+ },
+ {
+  "id": "e_cn.4_ac.1_sr.34-0011",
+  "old": "ICCPR 4",
+  "new": "ICCPR 2",
+  "kind": "speech"
+ },
+ {
+  "id": "e_cn.4_ac.1_sr.8-0080",
+  "old": null,
+  "new": "UDHR 18",
+  "kind": "chair"
+ },
+ {
+  "id": "e_cn.4_ac.1_sr.8-0085",
+  "old": null,
+  "new": "UDHR 18",
+  "kind": "speech"
+ },
+ {
+  "id": "e_cn.4_ac.2_sr.4-0012",
+  "old": "UDHR 7",
+  "new": "UDHR 4",
+  "kind": "chair"
+ },
+ {
+  "id": "e_cn.4_ac.2_sr.7-0075",
+  "old": "UDHR 23",
+  "new": "UDHR 22",
+  "kind": "vote"
+ },
+ {
+  "id": "e_cn.4_ac.2_sr.9-0119",
+  "old": null,
+  "new": "UDHR 1",
+  "kind": "vote"
+ },
+ {
+  "id": "e_cn.4_sr.113-0056",
+  "old": "ICCPR 7",
+  "new": "ICCPR 16",
+  "kind": "chair"
+ },
+ {
+  "id": "e_cn.4_sr.124-0051",
+  "old": null,
+  "new": "ICCPR 5",
+  "kind": "vote"
+ },
+ {
+  "id": "e_cn.4_sr.135-0152",
+  "old": "ICCPR 6",
+  "new": null,
+  "kind": "chair"
+ },
+ {
+  "id": "e_cn.4_sr.138-0019",
+  "old": "ICCPR 2",
+  "new": null,
+  "kind": "chair"
+ },
+ {
+  "id": "e_cn.4_sr.142-0024",
+  "old": null,
+  "new": "ICCPR 8",
+  "kind": "speech"
+ },
+ {
+  "id": "e_cn.4_sr.162-0020",
+  "old": null,
+  "new": "ICCPR 19",
+  "kind": "speech"
+ },
+ {
+  "id": "e_cn.4_sr.162-0021",
+  "old": null,
+  "new": "ICCPR 19",
+  "kind": "chair"
+ },
+ {
+  "id": "e_cn.4_sr.172-0030",
+  "old": null,
+  "new": "ICCPR 26",
+  "kind": "speech"
+ },
+ {
+  "id": "e_cn.4_sr.194-0027",
+  "old": null,
+  "new": "ICCPR 2",
+  "kind": "chair"
+ },
+ {
+  "id": "e_cn.4_sr.194-0028",
+  "old": null,
+  "new": "ICCPR 2",
+  "kind": "speech"
+ },
+ {
+  "id": "e_cn.4_sr.196-0004",
+  "old": null,
+  "new": "ICCPR 4",
+  "kind": "chair"
+ },
+ {
+  "id": "e_cn.4_sr.197-0032",
+  "old": null,
+  "new": "ICCPR 50",
+  "kind": "chair"
+ },
+ {
+  "id": "e_cn.4_sr.269-0019",
+  "old": null,
+  "new": "ICESCR 6",
+  "kind": "speech"
+ },
+ {
+  "id": "e_cn.4_sr.275-0042",
+  "old": null,
+  "new": "ICESCR 6",
+  "kind": "speech"
+ },
+ {
+  "id": "e_cn.4_sr.300-0053",
+  "old": null,
+  "new": "ICESCR 8",
+  "kind": "chair"
+ },
+ {
+  "id": "e_cn.4_sr.310-0006",
+  "old": null,
+  "new": "ICCPR 6",
+  "kind": "vote"
+ },
+ {
+  "id": "e_cn.4_sr.310-0007",
+  "old": null,
+  "new": "ICCPR 6",
+  "kind": "speech"
+ },
+ {
+  "id": "e_cn.4_sr.350-0028",
+  "old": null,
+  "new": "ICCPR 43",
+  "kind": "chair"
+ },
+ {
+  "id": "e_cn.4_sr.352-0048",
+  "old": null,
+  "new": "ICCPR 33",
+  "kind": "speech"
+ },
+ {
+  "id": "e_cn.4_sr.352-0050",
+  "old": null,
+  "new": "ICCPR 33",
+  "kind": "speech"
+ },
+ {
+  "id": "e_cn.4_sr.426-0030",
+  "old": "ICESCR 24",
+  "new": null,
+  "kind": "chair"
+ },
+ {
+  "id": "e_cn.4_sr.70-0036",
+  "old": "UDHR 25",
+  "new": "UDHR 27",
+  "kind": "speech"
+ },
+ {
+  "id": "e_cn.4_sr.70-0037",
+  "old": "UDHR 25",
+  "new": "UDHR 27",
+  "kind": "chair"
+ },
+ {
+  "id": "e_cn.4_sr.91-0018",
+  "old": "ICCPR 7",
+  "new": "ICCPR 6",
+  "kind": "chair"
+ },
+ {
+  "id": "e_cn.4_sr.91-0025",
+  "old": "ICCPR 7",
+  "new": "ICCPR 6",
+  "kind": "speech"
+ }
+]

@@ -1,0 +1,673 @@
+{
+ "seed": 17,
+ "drawn": "2026-10-16",
+ "note": "second development set for the local arm: kinds of page without a reference text (1949-66 typed and printed records, A/2929, the L-series, the 1946-48 plenary, the pages on which the OCR engines disagree most); these 62 pages (not their documents: A/2929 alone has 389 pages) are excluded from the preregistered sample",
+ "pages": [
+  {
+   "type": "chr49_54",
+   "symbol": "E/CN.4/SR.159",
+   "page": 15,
+   "score": 0.734
+  },
+  {
+   "type": "chr49_54",
+   "symbol": "E/CN.4/SR.159",
+   "page": 12,
+   "score": 0.684
+  },
+  {
+   "type": "chr49_54",
+   "symbol": "E/CN.4/SR.219",
+   "page": 14,
+   "score": 0.804
+  },
+  {
+   "type": "chr49_54",
+   "symbol": "E/CN.4/SR.218",
+   "page": 3,
+   "score": 0.589
+  },
+  {
+   "type": "chr49_54",
+   "symbol": "E/CN.4/SR.217",
+   "page": 3,
+   "score": 0.641
+  },
+  {
+   "type": "chr49_54",
+   "symbol": "E/CN.4/SR.323",
+   "page": 15,
+   "score": 0.575
+  },
+  {
+   "type": "chr49_54",
+   "symbol": "E/CN.4/SR.316",
+   "page": 2,
+   "score": 0.499
+  },
+  {
+   "type": "chr49_54",
+   "symbol": "E/CN.4/SR.230",
+   "page": 19,
+   "score": 0.939
+  },
+  {
+   "type": "chr49_54",
+   "symbol": "E/CN.4/SR.280",
+   "page": 5,
+   "score": 0.928
+  },
+  {
+   "type": "chr49_54",
+   "symbol": "E/CN.4/SR.185",
+   "page": 4,
+   "score": 0.928
+  },
+  {
+   "type": "chr49_54",
+   "symbol": "E/CN.4/SR.373",
+   "page": 12,
+   "score": 0.906
+  },
+  {
+   "type": "chr49_54",
+   "symbol": "E/CN.4/SR.229",
+   "page": 7,
+   "score": 0.921
+  },
+  {
+   "type": "chr49_54",
+   "symbol": "E/CN.4/SR.403",
+   "page": 4,
+   "score": 0.869
+  },
+  {
+   "type": "chr49_54",
+   "symbol": "E/CN.4/SR.219",
+   "page": 4,
+   "score": 0.836
+  },
+  {
+   "type": "tc_printed_50_61",
+   "symbol": "A/C.3/SR.1023",
+   "page": 2,
+   "score": null
+  },
+  {
+   "type": "tc_printed_50_61",
+   "symbol": "A/C.3/SR.375",
+   "page": 5,
+   "score": null
+  },
+  {
+   "type": "tc_printed_50_61",
+   "symbol": "A/C.3/SR.458",
+   "page": 8,
+   "score": null
+  },
+  {
+   "type": "tc_printed_50_61",
+   "symbol": "A/C.3/SR.890",
+   "page": 6,
+   "score": null
+  },
+  {
+   "type": "tc_printed_50_61",
+   "symbol": "A/C.3/SR.825",
+   "page": 2,
+   "score": null
+  },
+  {
+   "type": "tc_printed_50_61",
+   "symbol": "A/C.3/SR.507",
+   "page": 2,
+   "score": null
+  },
+  {
+   "type": "tc_printed_50_61",
+   "symbol": "A/C.3/SR.377",
+   "page": 6,
+   "score": null
+  },
+  {
+   "type": "tc_printed_50_61",
+   "symbol": "A/C.3/SR.962",
+   "page": 2,
+   "score": null
+  },
+  {
+   "type": "tc_printed_62_66",
+   "symbol": "A/C.3/SR.1409",
+   "page": 3,
+   "score": null
+  },
+  {
+   "type": "tc_printed_62_66",
+   "symbol": "A/C.3/SR.1428",
+   "page": 6,
+   "score": null
+  },
+  {
+   "type": "tc_printed_62_66",
+   "symbol": "A/C.3/SR.1258",
+   "page": 4,
+   "score": null
+  },
+  {
+   "type": "tc_printed_62_66",
+   "symbol": "A/C.3/SR.1194",
+   "page": 2,
+   "score": null
+  },
+  {
+   "type": "tc_printed_62_66",
+   "symbol": "A/C.3/SR.1259",
+   "page": 2,
+   "score": null
+  },
+  {
+   "type": "tc_printed_62_66",
+   "symbol": "A/C.3/SR.1283",
+   "page": 2,
+   "score": null
+  },
+  {
+   "type": "tc_printed_62_66",
+   "symbol": "A/C.3/SR.1264",
+   "page": 2,
+   "score": null
+  },
+  {
+   "type": "tc_printed_62_66",
+   "symbol": "A/C.3/SR.1316",
+   "page": 2,
+   "score": null
+  },
+  {
+   "type": "a2929",
+   "symbol": "A/2929",
+   "page": 170,
+   "score": null
+  },
+  {
+   "type": "a2929",
+   "symbol": "A/2929",
+   "page": 277,
+   "score": null
+  },
+  {
+   "type": "a2929",
+   "symbol": "A/2929",
+   "page": 64,
+   "score": 0.397
+  },
+  {
+   "type": "a2929",
+   "symbol": "A/2929",
+   "page": 367,
+   "score": null
+  },
+  {
+   "type": "a2929",
+   "symbol": "A/2929",
+   "page": 328,
+   "score": 0.528
+  },
+  {
+   "type": "a2929",
+   "symbol": "A/2929",
+   "page": 36,
+   "score": 0.882
+  },
+  {
+   "type": "l_series",
+   "symbol": "A/C.3/L.978",
+   "page": 15,
+   "score": 0.914
+  },
+  {
+   "type": "l_series",
+   "symbol": "E/CN.4/L.272",
+   "page": 13,
+   "score": 0.523
+  },
+  {
+   "type": "l_series",
+   "symbol": "A/C.3/L.1270",
+   "page": 1,
+   "score": 0.83
+  },
+  {
+   "type": "l_series",
+   "symbol": "E/CN.4/L.93",
+   "page": 7,
+   "score": 0.827
+  },
+  {
+   "type": "l_series",
+   "symbol": "E/CN.4/L.72",
+   "page": 1,
+   "score": 0.61
+  },
+  {
+   "type": "l_series",
+   "symbol": "A/C.3/L.1414",
+   "page": 21,
+   "score": 0.909
+  },
+  {
+   "type": "l_series",
+   "symbol": "E/CN.4/L.272",
+   "page": 12,
+   "score": 0.782
+  },
+  {
+   "type": "l_series",
+   "symbol": "E/CN.4/L.93",
+   "page": 6,
+   "score": 0.814
+  },
+  {
+   "type": "plenary_46_48",
+   "symbol": "E/PV.84",
+   "page": 49,
+   "score": null
+  },
+  {
+   "type": "plenary_46_48",
+   "symbol": "A/PV.1496",
+   "page": 5,
+   "score": null
+  },
+  {
+   "type": "plenary_46_48",
+   "symbol": "E/PV.84",
+   "page": 73,
+   "score": null
+  },
+  {
+   "type": "plenary_46_48",
+   "symbol": "E/PV.84",
+   "page": 58,
+   "score": null
+  },
+  {
+   "type": "plenary_46_48",
+   "symbol": "E/PV.84",
+   "page": 109,
+   "score": null
+  },
+  {
+   "type": "plenary_46_48",
+   "symbol": "A/PV.1496",
+   "page": 14,
+   "score": null
+  },
+  {
+   "type": "plenary_46_48",
+   "symbol": "E/PV.84",
+   "page": 53,
+   "score": null
+  },
+  {
+   "type": "plenary_46_48",
+   "symbol": "A/PV.1496",
+   "page": 13,
+   "score": null
+  },
+  {
+   "type": "worst",
+   "symbol": "E/CN.4/SR.233",
+   "page": 3,
+   "score": 0.278
+  },
+  {
+   "type": "worst",
+   "symbol": "E/CN.4/SR.202",
+   "page": 2,
+   "score": 0.166
+  },
+  {
+   "type": "worst",
+   "symbol": "E/CN.4/SR.240",
+   "page": 2,
+   "score": 0.14
+  },
+  {
+   "type": "worst",
+   "symbol": "E/CONF.6/79",
+   "page": 3,
+   "score": 0.146
+  },
+  {
+   "type": "worst",
+   "symbol": "A/2929",
+   "page": 37,
+   "score": 0.264
+  },
+  {
+   "type": "worst",
+   "symbol": "E/CN.4/SR.210",
+   "page": 3,
+   "score": 0.27
+  },
+  {
+   "type": "worst",
+   "symbol": "E/2152",
+   "page": 104,
+   "score": 0.196
+  },
+  {
+   "type": "worst",
+   "symbol": "A/C.3/L.1221",
+   "page": 1,
+   "score": 0.202
+  },
+  {
+   "type": "worst",
+   "symbol": "E/CN.4/SR.239",
+   "page": 2,
+   "score": 0.195
+  },
+  {
+   "type": "worst",
+   "symbol": "A/C.3/SR.904",
+   "page": 3,
+   "score": 0.298
+  }
+ ],
+ "documents": [
+  {
+   "symbol": "A/2929",
+   "pages": [
+    36,
+    37,
+    64,
+    170,
+    277,
+    328,
+    367
+   ]
+  },
+  {
+   "symbol": "A/C.3/L.1221",
+   "pages": [
+    1
+   ]
+  },
+  {
+   "symbol": "A/C.3/L.1270",
+   "pages": [
+    1
+   ]
+  },
+  {
+   "symbol": "A/C.3/L.1414",
+   "pages": [
+    21
+   ]
+  },
+  {
+   "symbol": "A/C.3/L.978",
+   "pages": [
+    15
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1023",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1194",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1258",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1259",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1264",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1283",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1316",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1409",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1428",
+   "pages": [
+    6
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.375",
+   "pages": [
+    5
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.377",
+   "pages": [
+    6
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.458",
+   "pages": [
+    8
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.507",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.825",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.890",
+   "pages": [
+    6
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.904",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.962",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "A/PV.1496",
+   "pages": [
+    5,
+    13,
+    14
+   ]
+  },
+  {
+   "symbol": "E/2152",
+   "pages": [
+    104
+   ]
+  },
+  {
+   "symbol": "E/CN.4/L.272",
+   "pages": [
+    12,
+    13
+   ]
+  },
+  {
+   "symbol": "E/CN.4/L.72",
+   "pages": [
+    1
+   ]
+  },
+  {
+   "symbol": "E/CN.4/L.93",
+   "pages": [
+    6,
+    7
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.159",
+   "pages": [
+    12,
+    15
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.185",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.202",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.210",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.217",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.218",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.219",
+   "pages": [
+    4,
+    14
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.229",
+   "pages": [
+    7
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.230",
+   "pages": [
+    19
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.233",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.239",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.240",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.280",
+   "pages": [
+    5
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.316",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.323",
+   "pages": [
+    15
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.373",
+   "pages": [
+    12
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.403",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "E/CONF.6/79",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "E/PV.84",
+   "pages": [
+    49,
+    53,
+    58,
+    73,
+    109
+   ]
+  }
+ ]
+}

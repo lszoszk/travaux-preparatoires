@@ -1,0 +1,358 @@
+{
+ "article": 18,
+ "texts": {
+  "secretariat_outline": "There shall be freedom of conscience and belief and of private and public religious worship.",
+  "cassin_draft": "The individual freedom of conscience, belief and thought is an absolute and sacred right. The practice of a private or public worship and the manifestations of opposite convictions can be subject only to such limitations as are necessary to protect public order, morals and the rights and freedoms of others.",
+  "drafting_committee_1": "Article 20 Individual freedom of thought and conscience, to hold or change beliefs, is an absolute and sacred right. The practice of a private or public worship, religious observances, and manifestations of differing convictions, can be subject only to such limitations as are necessary to protect public order, morals and the rights and freedoms of others.",
+  "e_cn4_57": "Para 1. Individual freedom of thought and conscience, to hold and change beliefs is an absolute and sacred right. \"Para 2. Freedom of belief, of worship and of religious teaching is the right of everyone.\"",
+  "geneva_draft": "1. Individual freedom of thought and conscience, to hold and change beliefs is an absolute and sacred right. 2. Every person has the right, either alone or in community with other persons of like mind and in public or private, to manifest his beliefs in worship, observance, teaching and practice.",
+  "drafting_committee_2": "16 1. Individual freedom of thought and conscience, to hold and change beliefs, is an absolute and sacred right. 2. Every person has the right, either alone or in community with other persons of like mind and in public or private, to manifest his beliefs in teaching, practice, worship and observance.",
+  "chr_3": "Everyone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief, and freedom, either alone or in community with others and in public or private, to manifest his religion or belief in teaching, practice, worship and observance.",
+  "a777": "Everyone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief, and freedom, either alone or in community with others and in public or private, to manifest his religion or belief in teaching, practice, worship and observance.",
+  "final": "Everyone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief, and freedom, either alone or in community with others and in public or private, to manifest his religion or belief in teaching, practice, worship and observance."
+ },
+ "sources": {
+  "secretariat_outline": [
+   {
+    "symbol": "E/CN.4/AC.1/3",
+    "draft_article": 14,
+    "page": 6,
+    "text_from": "vision reader"
+   }
+  ],
+  "cassin_draft": [
+   {
+    "symbol": "E/CN.4/AC.1/W.2/Rev.2",
+    "draft_article": 20,
+    "page": 4,
+    "text_from": "vision reader"
+   }
+  ],
+  "drafting_committee_1": [
+   {
+    "symbol": "E/CN.4/21",
+    "draft_article": 20,
+    "page": 77,
+    "text_from": "vision reader"
+   }
+  ],
+  "e_cn4_57": [
+   {
+    "symbol": "E/CN.4/57",
+    "draft_article": 20,
+    "page": 11,
+    "text_from": "vision reader"
+   }
+  ],
+  "geneva_draft": [
+   {
+    "symbol": "E/600",
+    "draft_article": 16,
+    "page": 19,
+    "text_from": "vision reader"
+   }
+  ],
+  "drafting_committee_2": [
+   {
+    "symbol": "E/CN.4/95",
+    "draft_article": 16,
+    "page": 8,
+    "text_from": "vision reader"
+   }
+  ],
+  "chr_3": [
+   {
+    "symbol": "E/800",
+    "draft_article": 16,
+    "page": 12,
+    "text_from": "vision reader"
+   }
+  ],
+  "a777": [
+   {
+    "symbol": "A/777",
+    "draft_article": 19,
+    "page": 5,
+    "text_from": "vision reader"
+   }
+  ],
+  "final": [
+   {
+    "symbol": "A/RES/217(III)",
+    "text_from": "un.org"
+   }
+  ]
+ },
+ "steps": [
+  {
+   "from": "secretariat_outline",
+   "to": "cassin_draft",
+   "changes": [
+    {
+     "kind": "replaced",
+     "old": "there shall be",
+     "new": "the individual",
+     "context": "the individual freedom of conscience belief",
+     "n": "secretariat_outline>cassin_draft#1"
+    },
+    {
+     "kind": "dropped",
+     "old": "and",
+     "new": "",
+     "context": "be freedom of conscience and belief and of private",
+     "n": "secretariat_outline>cassin_draft#2"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "thought is an absolute and sacred right the practice",
+     "context": "of conscience belief and thought is an absolute and sacred right the practice of a private or",
+     "n": "secretariat_outline>cassin_draft#3"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "a",
+     "context": "right the practice of a private or public worship",
+     "n": "secretariat_outline>cassin_draft#4"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "or public worship",
+     "context": "practice of a private or public worship and the manifestations of",
+     "n": "secretariat_outline>cassin_draft#5"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "the manifestations of opposite convictions can be subject only to such limitations as are necessary to protect",
+     "context": "or public worship and the manifestations of opposite convictions can be subject only to such limitations as are necessary to protect public order morals and",
+     "n": "secretariat_outline>cassin_draft#6"
+    },
+    {
+     "kind": "replaced",
+     "old": "religious worship",
+     "new": "order morals and the rights and freedoms of others",
+     "context": "necessary to protect public order morals and the rights and freedoms of others",
+     "n": "secretariat_outline>cassin_draft#7"
+    }
+   ]
+  },
+  {
+   "from": "cassin_draft",
+   "to": "drafting_committee_1",
+   "changes": [
+    {
+     "kind": "dropped",
+     "old": "the",
+     "new": "",
+     "context": "the individual freedom of conscience",
+     "n": "cassin_draft>drafting_committee_1#1"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "thought and",
+     "context": "individual freedom of thought and conscience to hold or",
+     "n": "cassin_draft>drafting_committee_1#2"
+    },
+    {
+     "kind": "replaced",
+     "old": "belief and thought",
+     "new": "to hold or change beliefs",
+     "context": "of thought and conscience to hold or change beliefs is an absolute and",
+     "n": "cassin_draft>drafting_committee_1#3"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "religious observances",
+     "context": "private or public worship religious observances and manifestations of differing",
+     "n": "cassin_draft>drafting_committee_1#4"
+    },
+    {
+     "kind": "dropped",
+     "old": "the",
+     "new": "",
+     "context": "or public worship and the manifestations of opposite convictions",
+     "n": "cassin_draft>drafting_committee_1#5"
+    },
+    {
+     "kind": "replaced",
+     "old": "opposite",
+     "new": "differing",
+     "context": "observances and manifestations of differing convictions can be subject",
+     "n": "cassin_draft>drafting_committee_1#6"
+    }
+   ]
+  },
+  {
+   "from": "drafting_committee_1",
+   "to": "e_cn4_57",
+   "changes": [
+    {
+     "kind": "added",
+     "old": "",
+     "new": "para",
+     "context": "para individual freedom of thought",
+     "n": "drafting_committee_1>e_cn4_57#1"
+    },
+    {
+     "kind": "replaced",
+     "old": "or",
+     "new": "and",
+     "context": "and conscience to hold and change beliefs is an",
+     "n": "drafting_committee_1>e_cn4_57#2"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "para freedom of belief of worship and of religious teaching is",
+     "context": "absolute and sacred right para freedom of belief of worship and of religious teaching is the right of everyone",
+     "n": "drafting_committee_1>e_cn4_57#3"
+    },
+    {
+     "kind": "replaced",
+     "old": "practice",
+     "new": "right",
+     "context": "religious teaching is the right of everyone",
+     "n": "drafting_committee_1>e_cn4_57#4"
+    },
+    {
+     "kind": "replaced",
+     "old": "a private or public worship religious observances and manifestations of differing convictions can be subject only to such limitations as are necessary to protect public order morals and the rights and freedoms of others",
+     "new": "everyone",
+     "context": "is the right of everyone",
+     "n": "drafting_committee_1>e_cn4_57#5"
+    }
+   ]
+  },
+  {
+   "from": "e_cn4_57",
+   "to": "geneva_draft",
+   "changes": [
+    {
+     "kind": "dropped",
+     "old": "para",
+     "new": "",
+     "context": "para individual freedom of thought",
+     "n": "e_cn4_57>geneva_draft#1"
+    },
+    {
+     "kind": "replaced",
+     "old": "para freedom of belief of worship and of religious teaching is",
+     "new": "every person has",
+     "context": "absolute and sacred right every person has the right either alone",
+     "n": "e_cn4_57>geneva_draft#2"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "either alone or in community with other persons",
+     "context": "person has the right either alone or in community with other persons of like mind and",
+     "n": "e_cn4_57>geneva_draft#3"
+    },
+    {
+     "kind": "replaced",
+     "old": "everyone",
+     "new": "like mind and in public or private to manifest his beliefs in worship observance teaching and practice",
+     "context": "with other persons of like mind and in public or private to manifest his beliefs in worship observance teaching and practice",
+     "n": "e_cn4_57>geneva_draft#4"
+    }
+   ]
+  },
+  {
+   "from": "geneva_draft",
+   "to": "drafting_committee_2",
+   "changes": [
+    {
+     "kind": "added",
+     "old": "",
+     "new": "teaching practice",
+     "context": "manifest his beliefs in teaching practice worship and observance",
+     "n": "geneva_draft>drafting_committee_2#1"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "and",
+     "context": "in teaching practice worship and observance",
+     "n": "geneva_draft>drafting_committee_2#2"
+    },
+    {
+     "kind": "dropped",
+     "old": "teaching and practice",
+     "new": "",
+     "context": "beliefs in worship observance teaching and practice",
+     "n": "geneva_draft>drafting_committee_2#3"
+    }
+   ]
+  },
+  {
+   "from": "drafting_committee_2",
+   "to": "chr_3",
+   "changes": [
+    {
+     "kind": "replaced",
+     "old": "individual",
+     "new": "everyone has the right to",
+     "context": "everyone has the right to freedom of thought conscience",
+     "n": "drafting_committee_2>chr_3#1"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "conscience",
+     "context": "to freedom of thought conscience and religion this right",
+     "n": "drafting_committee_2>chr_3#2"
+    },
+    {
+     "kind": "replaced",
+     "old": "conscience",
+     "new": "religion this right includes freedom",
+     "context": "of thought conscience and religion this right includes freedom to change his religion",
+     "n": "drafting_committee_2>chr_3#3"
+    },
+    {
+     "kind": "replaced",
+     "old": "hold",
+     "new": "change his religion or belief",
+     "context": "right includes freedom to change his religion or belief and freedom either alone",
+     "n": "drafting_committee_2>chr_3#4"
+    },
+    {
+     "kind": "replaced",
+     "old": "change beliefs is an absolute and sacred right every person has the right",
+     "new": "freedom",
+     "context": "religion or belief and freedom either alone or in",
+     "n": "drafting_committee_2>chr_3#5"
+    },
+    {
+     "kind": "replaced",
+     "old": "other persons of like mind",
+     "new": "others",
+     "context": "or in community with others and in public or",
+     "n": "drafting_committee_2>chr_3#6"
+    },
+    {
+     "kind": "replaced",
+     "old": "beliefs",
+     "new": "religion or belief",
+     "context": "private to manifest his religion or belief in teaching practice worship",
+     "n": "drafting_committee_2>chr_3#7"
+    }
+   ]
+  },
+  {
+   "from": "chr_3",
+   "to": "a777",
+   "changes": []
+  },
+  {
+   "from": "a777",
+   "to": "final",
+   "changes": []
+  }
+ ]
+}

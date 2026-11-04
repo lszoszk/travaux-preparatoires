@@ -1,0 +1,211 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0">
+	<app>
+		<rdg wit="#A777 #CHR3">everyone has</rdg>
+		<rdg wit="#Sec">there shall be</rdg>
+		<rdg wit="#WG57">para</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #Cassin">the</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3">right to</rdg>
+		<rdg wit="#Cassin #DC1 #DC2 #Geneva #WG57">individual</rdg>
+	</app>
+	 
+	freedom of
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #DC1 #DC2 #Geneva #WG57">thought</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3">conscience</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #DC1 #DC2 #Geneva #WG57">and</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3">religion this right includes freedom to</rdg>
+		<rdg wit="#Cassin #DC1 #DC2 #Geneva #Sec #WG57">conscience</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin">belief</rdg>
+		<rdg wit="#DC1 #DC2 #Geneva #WG57">to hold</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin #DC2 #Geneva #Sec #WG57">and</rdg>
+		<rdg wit="#DC1">or</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #DC1 #DC2 #Geneva #WG57">change</rdg>
+		<rdg wit="#Cassin">thought</rdg>
+		<rdg wit="#Sec">belief</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3">his religion or belief</rdg>
+		<rdg wit="#DC1 #DC2 #Geneva #WG57">beliefs</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin #DC1 #DC2 #Geneva #WG57">is an absolute</rdg>
+	</app>
+	 
+	and
+	 
+	<app>
+		<rdg wit="#Cassin #DC1 #DC2 #Geneva #WG57">sacred right</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#DC2 #Geneva">every person has</rdg>
+		<rdg wit="#WG57">para</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #WG57">freedom</rdg>
+		<rdg wit="#Cassin #DC1 #DC2 #Geneva">the</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin #DC1">practice</rdg>
+		<rdg wit="#DC2 #Geneva">right</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #DC2 #Geneva">either alone</rdg>
+		<rdg wit="#Cassin #DC1 #Sec #WG57">of</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin #DC1">a</rdg>
+		<rdg wit="#WG57">belief of</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin #DC1 #Sec">private</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #Cassin #DC1 #DC2 #Geneva">or</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #DC2 #Geneva">in community with</rdg>
+		<rdg wit="#Cassin #DC1">public</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3">others</rdg>
+		<rdg wit="#Cassin #DC1 #WG57">worship</rdg>
+		<rdg wit="#DC2 #Geneva">other persons</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#DC1">religious observances</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin #DC1 #Sec #WG57">and</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin">the</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin #DC1">manifestations</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin #DC1 #DC2 #Geneva #WG57">of</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin">opposite</rdg>
+		<rdg wit="#DC1">differing</rdg>
+		<rdg wit="#DC2">lil e</rdg>
+		<rdg wit="#Geneva">like</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin #DC1">convictions can be subject only</rdg>
+		<rdg wit="#DC2 #Geneva">mind</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #DC2 #Geneva">and in public or private</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #Cassin #DC1 #DC2 #Geneva">to</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #DC2 #Geneva">manifest his</rdg>
+		<rdg wit="#Cassin #DC1">such limitations as are necessary to protect</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3">religion or belief</rdg>
+		<rdg wit="#Cassin #DC1 #Sec">public</rdg>
+		<rdg wit="#DC2 #Geneva">beliefs</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #DC2 #Geneva">in</rdg>
+		<rdg wit="#Cassin #DC1">order morals</rdg>
+		<rdg wit="#Sec #WG57">religious</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #DC2">teaching practice</rdg>
+		<rdg wit="#WG57">teaching is</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #DC2 #Geneva #Sec">worship</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #Cassin #DC1 #DC2">and</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #DC2 #Geneva">observance</rdg>
+		<rdg wit="#Cassin #DC1 #WG57">the</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin #DC1">rights</rdg>
+		<rdg wit="#Geneva">teaching</rdg>
+		<rdg wit="#WG57">right</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin #DC1 #Geneva">and</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin #DC1">freedoms</rdg>
+		<rdg wit="#Geneva">practice</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin #DC1 #WG57">of</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin #DC1">others</rdg>
+		<rdg wit="#WG57">everyone</rdg>
+	</app>
+</cx:apparatus>
+

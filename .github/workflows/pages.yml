@@ -1,0 +1,42 @@
+# The public repository's .github/workflows/pages.yml (deploy/public_tree.py puts it there): publishes site/ on GitHub Pages,
+# the app shell only; the data comes from the API on the VM (CORS: TRAVAUX_CORS_ORIGINS in the VM's .env).
+#
+# Settings: Pages -> Source: GitHub Actions; Variables: TRAVAUX_API_URL = https://<host>/travaux-api, TRAVAUX_URL (the site's
+# own address, e.g. https://lszoszk.github.io/travaux-preparatoires/), TRAVAUX_AUTHOR, TRAVAUX_AFFILIATION, TRAVAUX_CONTACT
+# (who answers for the site), TRAVAUX_GA4 (a GA4 measurement ID, or empty: no Google Analytics, no banner).
+name: Publish the site
+on:
+  push:
+    branches: [main]
+    paths: ["site/**", ".github/workflows/pages.yml"]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Point the site at the API, and give it its own address
+        run: |
+          cat > site/config.js <<EOF2
+          window.TRAVAUX = { api: "${{ vars.TRAVAUX_API_URL }}", scans: "un", label: "working edition v0.9", version: "v0.9",
+            author: "${{ vars.TRAVAUX_AUTHOR }}", affiliation: "${{ vars.TRAVAUX_AFFILIATION }}", contact: "${{ vars.TRAVAUX_CONTACT }}",
+            url: "${{ vars.TRAVAUX_URL }}",
+            analytics: { goatcounter: "https://lszoszk.goatcounter.com/count", path: "/travaux", ga4: "${{ vars.TRAVAUX_GA4 }}" } };
+          EOF2
+          for f in index.html llms.txt robots.txt sitemap.xml; do sed -i "s|{{SITE_URL}}|${{ vars.TRAVAUX_URL }}|g" "site/$f"; done
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v4

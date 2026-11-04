@@ -1,0 +1,14 @@
+{
+  "api": "/travaux-api",
+  "url": "https://<host>/travaux/",
+  "author": "<name to cite and credit>",
+  "affiliation": "<institution>",
+  "contact": "<an email address or a web address for corrections>",
+  "version": "v0.9",
+  "label": "working edition v0.9",
+  "analytics": {
+    "goatcounter": "https://lszoszk.goatcounter.com/count",
+    "path": "/travaux",
+    "ga4": ""
+  }
+}

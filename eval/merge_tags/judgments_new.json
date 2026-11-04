@@ -1,0 +1,335 @@
+[
+ {
+  "kind": "P",
+  "a": {
+   "e_cn.4_sr.182-0013": {
+    "correct": true,
+    "note": "Bowie argues the experimentation clause (draft art. 7) is already covered by 'cruel, inhuman or degrading treatment'; both clauses form final art. 7."
+   },
+   "e_cn.4_sr.200-0094": {
+    "correct": true,
+    "note": "French-text drafting change ('en l'occurrence') to draft art. 21, i.e. the hatred/advocacy article."
+   },
+   "e_cn.4_sr.197-0073": {
+    "correct": true,
+    "note": "Mendez on who may initiate amendments to the covenant (Philippine addition to draft art. 26, the amendments article)."
+   },
+   "e_cn.4_sr.282-0009": {
+    "correct": true,
+    "note": "WFTU on draft art. 22 (social security) and provision for the aged and retirement age."
+   },
+   "a_c.3_sr.1422-0018": {
+    "correct": false,
+    "note": "Correction to an amendment naming the 'Chairman of the meeting' of States Parties, i.e. the drawing of lots for first-term members (final art. 32, terms of office), not the composition rules of art. 31; fairly but not fully sure."
+   },
+   "e_cn.4_sr.243-0031": {
+    "correct": true,
+    "note": "Yu on the level of Committee members' emoluments and the Chinese amendment to art. 36 bis."
+   },
+   "e_cn.4_sr.237-0021": {
+    "correct": true,
+    "note": "Azmi withdraws his drafting amendments to the general undertaking article (progressive realization of 'the rights recognized in this Part')."
+   },
+   "e_cn.4_sr.228-0010": {
+    "correct": true,
+    "note": "UNESCO answers questions on its proposed education article and on the amendments to it."
+   },
+   "e_cn.4_sr.199-0092": {
+    "correct": true,
+    "note": "Cassin on 'legitime defense', the English wording of para. 1 and suicide in the right-to-life article."
+   },
+   "e_cn.4_sr.145-0039": {
+    "correct": true,
+    "note": "Jevremovic defends the original para. 3 on informing an arrested person of the reasons and charges."
+   },
+   "e_cn.4_sr.327-0015": {
+    "correct": true,
+    "note": "Azkoul contrasts article 17 (equality before the law/non-discrimination) with article 1 and supports the Yugoslav amendment to art. 17."
+   },
+   "e_cn.4_sr.183-0063": {
+    "correct": true,
+    "note": "WHO explains its proposal to omit the medical experimentation article, which went into final art. 7."
+   },
+   "e_cn.4_sr.107-0008": {
+    "correct": false,
+    "note": "Bowie on the Philippine and US amendments to article 13 (fair trial: legal assistance, public hearing, compensation), i.e. final art. 14, not equality before the law."
+   },
+   "e_cn.4_sr.324-0035": {
+    "correct": true,
+    "note": "Santa Cruz on para. 2 (Nuremberg clause) and the wording of para. 1 of the non-retroactivity article."
+   },
+   "e_cn.4_sr.222-0053": {
+    "correct": true,
+    "note": "Valenzuela on housing and the concept of an adequate standard of living in the proposals before the Commission."
+   },
+   "e_cn.4_ac.1_sr.38-0063": {
+    "correct": true,
+    "note": "Wilson proposes 'by the law' for 'by the State and Society' in para. 2 of the marriage and family article."
+   },
+   "e_cn.4_sr.294-0022": {
+    "correct": true,
+    "note": "Cheng Paonan introduces his amendment adding food and clothing to article 23 (standard of living)."
+   },
+   "e_cn.4_sr.158-0009": {
+    "correct": true,
+    "note": "Mendez on para. 3 of article 13, compensation for erroneous conviction (final art. 14(6))."
+   },
+   "e_cn.4_sr.239-0084": {
+    "correct": true,
+    "note": "Short warning that the UK text of the article under discussion could have unfortunate effects if a GA suggestion on art. 33 were adopted; best guess that it concerns the meetings article, uncertain."
+   },
+   "e_cn.4_sr.293-0008": {
+    "correct": true,
+    "note": "Azkoul's sub-amendment adding a paragraph on freedom for scientific research to article 30 (final art. 15(3))."
+   },
+   "e_cn.4_sr.199-0071": {
+    "correct": true,
+    "note": "Oribe on the derogation article and its interplay with the non-discrimination clauses."
+   },
+   "e_cn.4_sr.196-0058": {
+    "correct": true,
+    "note": "Nisot on the value of the signature procedure for the covenant."
+   },
+   "e_cn.4_sr.159-0054": {
+    "correct": true,
+    "note": "Malik supports the UK paragraph (general principles of law/Nuremberg) for the non-retroactivity article."
+   },
+   "e_cn.4_sr.296-0015": {
+    "correct": true,
+    "note": "Roosevelt revises the wording of sub-para. (a) of her amendment to the health article."
+   },
+   "e_cn.4_sr.312-0037": {
+    "correct": true,
+    "note": "Hoare explains his vote against the Yugoslav amendment on medical experimentation."
+   },
+   "e_cn.4_sr.197-0098": {
+    "correct": true,
+    "note": "Kyrou argues only contracting States should have the right to amend the covenant."
+   },
+   "e_cn.4_sr.148-0062": {
+    "correct": true,
+    "note": "Chang explains his abstention on para. 3 (forced labour) of the slavery article as too detailed."
+   },
+   "e_cn.4_sr.159-0053": {
+    "correct": true,
+    "note": "Mehta opposes the UK paragraph on war crimes/general principles added to the non-retroactivity article."
+   },
+   "e_cn.4_sr.200-0115": {
+    "correct": true,
+    "note": "Schachter's drafting changes to paragraphs 2 and 3 of draft art. 23 (signature and ratification)."
+   },
+   "e_cn.4_sr.171-0032": {
+    "correct": false,
+    "note": "Whitlam on para. 3 (trade union rights) and para. 1 of article 19, freedom of association (final art. 22), not equality before the law."
+   },
+   "e_cn.4_sr.127-0009": {
+    "correct": true,
+    "note": "Hood supports the principle of the UK derogation amendment for war or emergency."
+   },
+   "e_cn.4_sr.157-0027": {
+    "correct": true,
+    "note": "Malik on the wording on legal assistance for the accused in the fair-trial article."
+   },
+   "e_cn.4_sr.277-0021": {
+    "correct": true,
+    "note": "Juvigny on the order of votes on the sub-amendments to the Chilean amendment to the right-to-work article."
+   },
+   "e_cn.4_sr.279-0028": {
+    "correct": true,
+    "note": "Azmi on keeping 'minimum remuneration' in the conditions-of-work article."
+   },
+   "e_cn.4_sr.70-0052": {
+    "correct": true,
+    "note": "Lebeau supports the ILO amendment to the standard-of-living/social security text (articles 25/26)."
+   },
+   "e_cn.4_sr.310-0019": {
+    "correct": true,
+    "note": "Ghorbal on the UK, US and joint amendments on self-defence and civil commotion in the right-to-life article."
+   },
+   "e_cn.4_sr.306-0044": {
+    "correct": true,
+    "note": "Roosevelt defends article 32, the general limitations clause, and the French amendment."
+   },
+   "e_cn.4_sr.325-0009": {
+    "correct": true,
+    "note": "Morozov on the USSR amendment to the assembly and association articles, mainly the right of assembly."
+   },
+   "e_cn.4_sr.188-0069": {
+    "correct": true,
+    "note": "Oribe opposes the election system of implementation article 3 (elections of the Committee)."
+   },
+   "e_cn.4_sr.195-0015": {
+    "correct": true,
+    "note": "Cassin on the remedy in sub-para. (a) of the UK amendment (final art. 2(3))."
+   }
+  },
+  "c": {
+   "e_cn.4_sr.182-0013": {
+    "correct": true,
+    "note": "UK delegate says the 'cruel, inhuman or degrading treatment' wording already covers medical experimentation, in the debate on the experimentation clause of the torture article."
+   },
+   "e_cn.4_sr.200-0094": {
+    "correct": true,
+    "note": "Proposes deleting 'en l'occurrence' in the French text of the draft article on advocacy of hatred (pure wording point on that article)."
+   },
+   "e_cn.4_sr.197-0073": {
+    "correct": true,
+    "note": "Philippine proposal on who may initiate amendments, added to draft article 26 on amendment of the covenant."
+   },
+   "e_cn.4_sr.282-0009": {
+    "correct": true,
+    "note": "WFTU speaks on draft article 22 (social security) and its failure to provide for the aged and retirement age."
+   },
+   "a_c.3_sr.1422-0018": {
+    "correct": true,
+    "note": "India corrects the wording of an amendment to paragraph 1 of article 31 (Committee composition)."
+   },
+   "e_cn.4_sr.243-0031": {
+    "correct": true,
+    "note": "China's view on the emoluments of Committee members in the debate on draft article 36 bis, including a vote on a Chinese wording change."
+   },
+   "e_cn.4_sr.237-0021": {
+    "correct": true,
+    "note": "Egypt withdraws its amendments to the obligations article (context: vote on 'progressively'/'if necessary' in the same article)."
+   },
+   "e_cn.4_sr.228-0010": {
+    "correct": true,
+    "note": "UNESCO representative replies on the education article and its amendments (racial/ethnic, territories, merit)."
+   },
+   "e_cn.4_sr.199-0092": {
+    "correct": true,
+    "note": "Cassin proposes wording changes to the right-to-life article (paragraphs 1 and 2, suicide, 'legitime defense')."
+   },
+   "e_cn.4_sr.145-0039": {
+    "correct": true,
+    "note": "Yugoslavia on the paragraph requiring arrested persons to be told reasons and charges, in the liberty and security article."
+   },
+   "e_cn.4_sr.327-0015": {
+    "correct": true,
+    "note": "Lebanon compares draft article 17 (equality before the law/non-discrimination) with article 1 and takes a position on amendments to article 17."
+   },
+   "e_cn.4_sr.183-0063": {
+    "correct": true,
+    "note": "WHO on its proposal to omit the draft article on medical experimentation/ill-treatment."
+   },
+   "e_cn.4_sr.107-0008": {
+    "correct": false,
+    "note": "UK delegate comments on the Philippine amendment to draft article 13 on fair trial, legal assistance, public hearing and compensation (final art. 14, art. 9), not equality before the law."
+   },
+   "e_cn.4_sr.324-0035": {
+    "correct": true,
+    "note": "Chile on paragraph 2 and paragraph 1 of the non-retroactivity article (international law, Nuremberg)."
+   },
+   "e_cn.4_sr.222-0053": {
+    "correct": true,
+    "note": "Chile on housing and the standard-of-living provision and the proposals before the Commission."
+   },
+   "e_cn.4_ac.1_sr.38-0063": {
+    "correct": true,
+    "note": "UK proposes replacing 'by the State and Society' with 'by the law' in paragraph 2 of the marriage/family draft article (best judgment: the heading and context point to draft art. 13)."
+   },
+   "e_cn.4_sr.294-0022": {
+    "correct": true,
+    "note": "China introduces its amendment adding food and clothing to the standard-of-living article."
+   },
+   "e_cn.4_sr.158-0009": {
+    "correct": true,
+    "note": "Philippines on the compensation-for-erroneous-conviction paragraph of the fair-trial article."
+   },
+   "e_cn.4_sr.239-0084": {
+    "correct": true,
+    "note": "World Jewish Congress on the UK text under debate in the Committee-meetings article and its link to article 33; hard to tell, best judgment is that the UK text under discussion is the article's."
+   },
+   "e_cn.4_sr.293-0008": {
+    "correct": true,
+    "note": "Lebanon's revised sub-amendment on scientific research freedom added as a new paragraph 3 to the cultural-life/science article (draft art. 30)."
+   },
+   "e_cn.4_sr.199-0071": {
+    "correct": true,
+    "note": "Uruguay on the derogation article and the question of which articles (non-discrimination) may be derogated from."
+   },
+   "e_cn.4_sr.196-0058": {
+    "correct": true,
+    "note": "Belgium on the value of the signature procedure, in the signature and ratification article."
+   },
+   "e_cn.4_sr.159-0054": {
+    "correct": true,
+    "note": "Lebanon supports the UK proposal for an added paragraph (international-law offences) in the non-retroactivity article."
+   },
+   "e_cn.4_sr.296-0015": {
+    "correct": true,
+    "note": "US revises a word in sub-paragraph (a) of her amendment to the health article."
+   },
+   "e_cn.4_sr.312-0037": {
+    "correct": true,
+    "note": "UK explains its vote against the Yugoslav amendment on medical experimentation in the torture/experimentation article."
+   },
+   "e_cn.4_sr.197-0098": {
+    "correct": true,
+    "note": "Greece argues that only contracting States should have the right to amend the covenant (amendment article)."
+   },
+   "e_cn.4_sr.148-0062": {
+    "correct": true,
+    "note": "China explains abstention on the adopted paragraph 3 on forced labour in the slavery/forced labour article."
+   },
+   "e_cn.4_sr.159-0053": {
+    "correct": true,
+    "note": "India opposes the UK proposal to re-add the war-criminals paragraph to the non-retroactivity article."
+   },
+   "e_cn.4_sr.200-0115": {
+    "correct": true,
+    "note": "Secretariat suggests drafting changes to paragraphs 2 and 3 of the signature and ratification article."
+   },
+   "e_cn.4_sr.171-0032": {
+    "correct": false,
+    "note": "Australia on paragraph 3 of draft article 19 (trade union rights) and the French amendment on compulsory association, i.e. freedom of association (final art. 22), not equality before the law."
+   },
+   "e_cn.4_sr.127-0009": {
+    "correct": true,
+    "note": "Australia supports the principle of the UK derogation amendment for war or emergency in the derogation article."
+   },
+   "e_cn.4_sr.157-0027": {
+    "correct": true,
+    "note": "Lebanon criticises the French text on assigned legal assistance in the fair-trial article."
+   },
+   "e_cn.4_sr.277-0021": {
+    "correct": true,
+    "note": "France and US on the order of voting on sub-amendments to the Chilean full-employment amendment to the right-to-work article."
+   },
+   "e_cn.4_sr.279-0028": {
+    "correct": true,
+    "note": "Egypt on retaining 'minimum remuneration' in the just and favourable conditions of work article."
+   },
+   "e_cn.4_sr.70-0052": {
+    "correct": true,
+    "note": "Belgium supports the ILO amendment (social security) to articles 25/26 on the standard of living."
+   },
+   "e_cn.4_sr.310-0019": {
+    "correct": true,
+    "note": "Egypt on the self-defence/justifiable-action amendments to the right-to-life article."
+   },
+   "e_cn.4_sr.306-0044": {
+    "correct": true,
+    "note": "US on the general limitations clause and the French amendment to it (draft art. 32)."
+   },
+   "e_cn.4_sr.325-0009": {
+    "correct": true,
+    "note": "USSR amendment to articles 15 and 16 (assembly and association), speech devoted to the assembly article jointly with association; right but shared with the association article."
+   },
+   "e_cn.4_sr.188-0069": {
+    "correct": true,
+    "note": "Uruguay votes against the election system of the article on elections to the Committee (frequent changes in the panel)."
+   },
+   "e_cn.4_sr.195-0015": {
+    "correct": true,
+    "note": "France asks about the remedy and abrogation of illegal measures in sub-paragraph (a) of the UK amendment on remedies in the obligations article."
+   }
+  },
+  "third": {
+   "a_c.3_sr.1422-0018": {
+    "correct": false,
+    "note": "The speech corrects an amendment to draft art. 31(1) on who draws lots for the staggered first-election terms ('Chairman of the meeting referred to in paragraph 3 of article 29', i.e. the meeting of States parties), which is the term-of-office provision that became ICCPR art. 32(2), not art. 31 on nationality and geographical distribution."
+   }
+  }
+ }
+]

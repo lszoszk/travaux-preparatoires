@@ -1,0 +1,160 @@
+{
+ "description": "Covenant reports under their Commission symbols",
+ "count": 14,
+ "documents": [
+  {
+   "symbol": "E/CN.4/350",
+   "doc_type": "document",
+   "series": "E/CN.4/",
+   "meeting_no": null,
+   "discovery_basis": "alternate_symbol",
+   "note": "= E/1371, CHR 5th session report (1949): draft covenant as revised in 1949",
+   "body": "Commission on Human Rights",
+   "session": null,
+   "relevance_check": false
+  },
+  {
+   "symbol": "E/CN.4/507",
+   "doc_type": "document",
+   "series": "E/CN.4/",
+   "meeting_no": null,
+   "discovery_basis": "alternate_symbol",
+   "note": "= E/1681, CHR 6th session report (1950): draft covenant, 1950 text",
+   "body": "Commission on Human Rights",
+   "session": null,
+   "relevance_check": false
+  },
+  {
+   "symbol": "E/CN.4/640",
+   "doc_type": "document",
+   "series": "E/CN.4/",
+   "meeting_no": null,
+   "discovery_basis": "alternate_symbol",
+   "note": "= E/1992, CHR 7th session report (1951)",
+   "body": "Commission on Human Rights",
+   "session": null,
+   "relevance_check": false
+  },
+  {
+   "symbol": "E/CN.4/669",
+   "doc_type": "document",
+   "series": "E/CN.4/",
+   "meeting_no": null,
+   "discovery_basis": "alternate_symbol",
+   "note": "= E/2256, CHR 8th session report (1952): the two draft covenants",
+   "body": "Commission on Human Rights",
+   "session": null,
+   "relevance_check": false
+  },
+  {
+   "symbol": "E/CN.4/689",
+   "doc_type": "document",
+   "series": "E/CN.4/",
+   "meeting_no": null,
+   "discovery_basis": "alternate_symbol",
+   "note": "= E/2447, CHR 9th session report (1953)",
+   "body": "Commission on Human Rights",
+   "session": null,
+   "relevance_check": false
+  },
+  {
+   "symbol": "E/CN.4/705",
+   "doc_type": "document",
+   "series": "E/CN.4/",
+   "meeting_no": null,
+   "discovery_basis": "alternate_symbol",
+   "note": "= E/2573, CHR 10th session report (1954): the drafts sent to the General Assembly",
+   "body": "Commission on Human Rights",
+   "session": null,
+   "relevance_check": false
+  },
+  {
+   "symbol": "E/CN.4/SR.52",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/SR.",
+   "meeting_no": 52,
+   "discovery_basis": "alternate_symbol",
+   "note": "retry of a failed UDHR download (CHR 3rd session)",
+   "body": "Commission on Human Rights",
+   "session": null,
+   "relevance_check": false
+  },
+  {
+   "symbol": "A/3077",
+   "doc_type": "document",
+   "series": "A/",
+   "meeting_no": null,
+   "discovery_basis": "added_by_hand",
+   "note": "report of the Third Committee on the draft Covenants, 10th session (1955): each article's meetings",
+   "body": "General Assembly Third Committee",
+   "session": "10th session (1955)",
+   "relevance_check": false
+  },
+  {
+   "symbol": "A/3525",
+   "doc_type": "document",
+   "series": "A/",
+   "meeting_no": null,
+   "discovery_basis": "added_by_hand",
+   "note": "report of the Third Committee on the draft Covenants, 11th session (1956): each article's meetings",
+   "body": "General Assembly Third Committee",
+   "session": "11th session (1956)",
+   "relevance_check": false
+  },
+  {
+   "symbol": "A/3764",
+   "doc_type": "document",
+   "series": "A/",
+   "meeting_no": null,
+   "discovery_basis": "added_by_hand",
+   "note": "report of the Third Committee on the draft Covenants, 12th session (1957): each article's meetings",
+   "body": "General Assembly Third Committee",
+   "session": "12th session (1957)",
+   "relevance_check": false
+  },
+  {
+   "symbol": "A/4045",
+   "doc_type": "document",
+   "series": "A/",
+   "meeting_no": null,
+   "discovery_basis": "added_by_hand",
+   "note": "report of the Third Committee on the draft Covenants, 13th session (1958): each article's meetings",
+   "body": "General Assembly Third Committee",
+   "session": "13th session (1958)",
+   "relevance_check": false
+  },
+  {
+   "symbol": "A/4299",
+   "doc_type": "document",
+   "series": "A/",
+   "meeting_no": null,
+   "discovery_basis": "added_by_hand",
+   "note": "report of the Third Committee on the draft Covenants, 14th session (1959): each article's meetings",
+   "body": "General Assembly Third Committee",
+   "session": "14th session (1959)",
+   "relevance_check": false
+  },
+  {
+   "symbol": "A/4625",
+   "doc_type": "document",
+   "series": "A/",
+   "meeting_no": null,
+   "discovery_basis": "added_by_hand",
+   "note": "report of the Third Committee on the draft Covenants, 15th session (1960): each article's meetings",
+   "body": "General Assembly Third Committee",
+   "session": "15th session (1960)",
+   "relevance_check": false
+  },
+  {
+   "symbol": "A/5000",
+   "doc_type": "document",
+   "series": "A/",
+   "meeting_no": null,
+   "discovery_basis": "added_by_hand",
+   "note": "report of the Third Committee on the draft Covenants, 16th session (1961): each article's meetings",
+   "body": "General Assembly Third Committee",
+   "session": "16th session (1961)",
+   "relevance_check": false
+  }
+ ]
+}

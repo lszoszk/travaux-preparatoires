@@ -1,0 +1,2025 @@
+{
+ "same": 27608,
+ "changed": 715,
+ "within_delegation": {
+  "better": 167,
+  "neither fits": 36,
+  "worse": 57,
+  "no printed name": 16,
+  "both fit": 10
+ },
+ "examples": {
+  "better": [
+   {
+    "old_id": "a_c.1_sr.41-0027",
+    "new_id": "a_c.1_sr.41-0027",
+    "old": "LAFLWNTE",
+    "new": "LAFRRONTE",
+    "printed": "LaFrronte"
+   },
+   {
+    "old_id": "a_c.3_sr.105-0013",
+    "new_id": "a_c.3_sr.105-0014",
+    "old": "CANAS",
+    "new": "CAFTAS",
+    "printed": "Caftas"
+   },
+   {
+    "old_id": "a_c.3_sr.1058-0032",
+    "new_id": "a_c.3_sr.1058-0032",
+    "old": "NAM",
+    "new": "NAIR",
+    "printed": "NAIR"
+   },
+   {
+    "old_id": "a_c.3_sr.108-0026",
+    "new_id": "a_c.3_sr.108-0026",
+    "old": "MACDONNELL",
+    "new": "MACPONNETT",
+    "printed": "Macponnett"
+   },
+   {
+    "old_id": "a_c.3_sr.108-0037",
+    "new_id": "a_c.3_sr.108-0037",
+    "old": "LINDSTROM",
+    "new": "LINPSTRÉM",
+    "printed": "Linpstrém"
+   },
+   {
+    "old_id": "a_c.3_sr.1082-0007",
+    "new_id": "a_c.3_sr.1082-0007",
+    "old": "MARANON MOYA",
+    "new": "MARANON",
+    "printed": "MARANON"
+   },
+   {
+    "old_id": "a_c.3_sr.109-0011",
+    "new_id": "a_c.3_sr.109-0011",
+    "old": "BAGDADI",
+    "new": "BADAWI",
+    "printed": "BADAWI"
+   },
+   {
+    "old_id": "a_c.3_sr.1095-0043",
+    "new_id": "a_c.3_sr.1095-0043",
+    "old": "TSAO",
+    "new": "TSAQ",
+    "printed": "TSAQ"
+   },
+   {
+    "old_id": "a_c.3_sr.1102-0015",
+    "new_id": "a_c.3_sr.1102-0015",
+    "old": "GONZALEZ FERNANDEZ",
+    "new": "GONZALEZ",
+    "printed": "GONZALEZ"
+   },
+   {
+    "old_id": "a_c.3_sr.1103-0019",
+    "new_id": "a_c.3_sr.1103-0019",
+    "old": "DOMINGUEZ CABALLERO",
+    "new": "DOMINGUEZ",
+    "printed": "DOMINGUEZ"
+   },
+   {
+    "old_id": "a_c.3_sr.111-0016",
+    "new_id": "a_c.3_sr.111-0016",
+    "old": "SANDIFER",
+    "new": "SANPIRERR",
+    "printed": "SanpirerR"
+   },
+   {
+    "old_id": "a_c.3_sr.112-0029",
+    "new_id": "a_c.3_sr.112-0029",
+    "old": "",
+    "new": "DE ATHAYDE",
+    "printed": "DE ATHAYDE"
+   },
+   {
+    "old_id": "a_c.3_sr.115-0049",
+    "new_id": "a_c.3_sr.115-0049",
+    "old": "",
+    "new": "DE ROSEN",
+    "printed": "DE Rose"
+   },
+   {
+    "old_id": "a_c.3_sr.117-0010",
+    "new_id": "a_c.3_sr.117-0010",
+    "old": "FEEPERSRREL",
+    "new": "FEDERSPIEL",
+    "printed": "FEDERSPIEL"
+   },
+   {
+    "old_id": "a_c.3_sr.126-0014",
+    "new_id": "a_c.3_sr.126-0014",
+    "old": "LINDSTROM",
+    "new": "LINPSTRÉM",
+    "printed": "Linpstrém"
+   },
+   {
+    "old_id": "a_c.3_sr.126-0026",
+    "new_id": "a_c.3_sr.126-0026",
+    "old": "MEYKADEH",
+    "new": "MEYXAVEN",
+    "printed": "Meyxaven"
+   },
+   {
+    "old_id": "a_c.3_sr.127-0005",
+    "new_id": "a_c.3_sr.127-0005",
+    "old": "LINDSTROM",
+    "new": "LINPSTRÉM",
+    "printed": "Linpstrém"
+   },
+   {
+    "old_id": "a_c.3_sr.127-0032",
+    "new_id": "a_c.3_sr.127-0032",
+    "old": "LINDSTROM",
+    "new": "LINPSTRÉM",
+    "printed": "Linpstrém"
+   },
+   {
+    "old_id": "a_c.3_sr.132-0004",
+    "new_id": "a_c.3_sr.132-0004",
+    "old": "LINDSTROM",
+    "new": "LINPSTRÉM",
+    "printed": "Linpstrém"
+   },
+   {
+    "old_id": "a_c.3_sr.133-0020",
+    "new_id": "a_c.3_sr.133-0020",
+    "old": "LINDSTROM",
+    "new": "LINPSTRÉM",
+    "printed": "Linpstrém"
+   },
+   {
+    "old_id": "a_c.3_sr.1346-0010",
+    "new_id": "a_c.3_sr.1346-0010",
+    "old": "BELTRAMINO",
+    "new": "BLANCO",
+    "printed": "BLANCO"
+   },
+   {
+    "old_id": "a_c.3_sr.1376-0007",
+    "new_id": "a_c.3_sr.1376-0007",
+    "old": "RONALD MACDONALD",
+    "new": "MACDONALD",
+    "printed": "Macdonald"
+   },
+   {
+    "old_id": "a_c.3_sr.1389-0020",
+    "new_id": "a_c.3_sr.1389-0020",
+    "old": "DJL'RUM",
+    "new": "DORUM",
+    "printed": "DORUM"
+   },
+   {
+    "old_id": "a_c.3_sr.139-0010",
+    "new_id": "a_c.3_sr.139-0010",
+    "old": "SUNDFELDT",
+    "new": "SUNPFELPT",
+    "printed": "SunpFELpT"
+   },
+   {
+    "old_id": "a_c.3_sr.1440-0014",
+    "new_id": "a_c.3_sr.1440-0014",
+    "old": "BASHIEH",
+    "new": "BASHHER",
+    "printed": "BASHHER"
+   },
+   {
+    "old_id": "a_c.3_sr.150-0016",
+    "new_id": "a_c.3_sr.150-0016",
+    "old": "VERWEY-JONICER",
+    "new": "VERWEY-JONXER",
+    "printed": "Verwey-Jonxer"
+   },
+   {
+    "old_id": "a_c.3_sr.152-0024",
+    "new_id": "a_c.3_sr.152-0024",
+    "old": "GRAZIAPIO",
+    "new": "GRAZIADIO",
+    "printed": "GRAZIADIO"
+   },
+   {
+    "old_id": "a_c.3_sr.165-0011",
+    "new_id": "a_c.3_sr.165-0011",
+    "old": "WATT",
+    "new": "WARR",
+    "printed": "Warr"
+   },
+   {
+    "old_id": "a_c.3_sr.179-0003",
+    "new_id": "a_c.3_sr.179-0003",
+    "old": "CUARAR",
+    "new": "CHARAR",
+    "printed": "CHARAR"
+   },
+   {
+    "old_id": "a_c.3_sr.179-0037",
+    "new_id": "a_c.3_sr.179-0037",
+    "old": "BESSEL",
+    "new": "HESSE",
+    "printed": "Hesse"
+   },
+   {
+    "old_id": "a_c.3_sr.317-0011",
+    "new_id": "a_c.3_sr.317-0011",
+    "old": "SZYMANOWSKI",
+    "new": "MICHALOWSKI",
+    "printed": "MICHALOWSKI"
+   },
+   {
+    "old_id": "a_c.3_sr.333-0034",
+    "new_id": "a_c.3_sr.333-0034",
+    "old": "CHANG",
+    "new": "CHA",
+    "printed": "CHA"
+   },
+   {
+    "old_id": "a_c.3_sr.382-0027",
+    "new_id": "a_c.3_sr.382-0027",
+    "old": "YU TSUNE-CHI",
+    "new": "YU",
+    "printed": "YU"
+   },
+   {
+    "old_id": "a_c.3_sr.42-0016",
+    "new_id": "a_c.3_sr.42-0016",
+    "old": "LIONAES",
+    "new": "LIONAZS",
+    "printed": "Lionazs"
+   },
+   {
+    "old_id": "a_c.3_sr.485-0028",
+    "new_id": "a_c.3_sr.485-0028",
+    "old": "YU",
+    "new": "YU TSUNE-CHI",
+    "printed": "YU Tsune-Chi"
+   },
+   {
+    "old_id": "a_c.3_sr.559-0015",
+    "new_id": "a_c.3_sr.559-0015",
+    "old": "MENDEZ",
+    "new": "JIMENEZ",
+    "printed": "JIMENEZ"
+   },
+   {
+    "old_id": "a_c.3_sr.560-0064",
+    "new_id": "a_c.3_sr.560-0064",
+    "old": "MENDEZ",
+    "new": "JIMENEZ",
+    "printed": "JIMENEZ"
+   },
+   {
+    "old_id": "a_c.3_sr.721-0006",
+    "new_id": "a_c.3_sr.721-0006",
+    "old": "TSAO",
+    "new": "TSAI",
+    "printed": "TSAI"
+   },
+   {
+    "old_id": "a_c.3_sr.725-0012",
+    "new_id": "a_c.3_sr.725-0012",
+    "old": "TSAO",
+    "new": "TSAI",
+    "printed": "TSAI"
+   },
+   {
+    "old_id": "a_c.3_sr.726-0022",
+    "new_id": "a_c.3_sr.726-0022",
+    "old": "TSAO",
+    "new": "TSAI",
+    "printed": "TSAI"
+   },
+   {
+    "old_id": "a_c.3_sr.861-0010",
+    "new_id": "a_c.3_sr.861-0010",
+    "old": "ARAUJO GRAU",
+    "new": "ARAUJO",
+    "printed": "ARAUJO"
+   },
+   {
+    "old_id": "a_c.3_sr.89-0007",
+    "new_id": "a_c.3_sr.89-0007",
+    "old": "CASTBERG",
+    "new": "CASRNERC",
+    "printed": "Casrnerc"
+   },
+   {
+    "old_id": "a_c.3_sr.92-0009",
+    "new_id": "a_c.3_sr.92-0009",
+    "old": "BAGDADI",
+    "new": "BADAWI",
+    "printed": "BADAWI"
+   },
+   {
+    "old_id": "a_c.3_sr.92-0010",
+    "new_id": "a_c.3_sr.92-0010",
+    "old": "BAGDADI",
+    "new": "BADAWI",
+    "printed": "BADAWI"
+   },
+   {
+    "old_id": "a_c.3_sr.93-0026",
+    "new_id": "a_c.3_sr.93-0026",
+    "old": "BAGDADI",
+    "new": "BADAWI",
+    "printed": "BADAWI"
+   },
+   {
+    "old_id": "a_c.3_sr.94-0017",
+    "new_id": "a_c.3_sr.94-0018",
+    "old": "BAGDADI",
+    "new": "BADAWI",
+    "printed": "BADAWI"
+   },
+   {
+    "old_id": "a_c.3_sr.94-0056",
+    "new_id": "a_c.3_sr.94-0057",
+    "old": "BAGDADI",
+    "new": "BADAWI",
+    "printed": "BADAWI"
+   },
+   {
+    "old_id": "a_c.3_sr.94-0060",
+    "new_id": "a_c.3_sr.94-0061",
+    "old": "BAGDADI",
+    "new": "BADAWI",
+    "printed": "BADAWI"
+   },
+   {
+    "old_id": "a_c.3_sr.95-0008",
+    "new_id": "a_c.3_sr.95-0008",
+    "old": "BAGDADI",
+    "new": "BADAWI",
+    "printed": "BADAWI"
+   },
+   {
+    "old_id": "a_c.3_sr.95-0017",
+    "new_id": "a_c.3_sr.95-0017",
+    "old": "BAGDADI",
+    "new": "BADAWI",
+    "printed": "BADAWI"
+   },
+   {
+    "old_id": "a_c.3_sr.96-0004",
+    "new_id": "a_c.3_sr.96-0004",
+    "old": "BESSEL",
+    "new": "HESSE",
+    "printed": "Hesser"
+   },
+   {
+    "old_id": "a_pv.139-0009",
+    "new_id": "a_pv.139-0009",
+    "old": "",
+    "new": "MOVZZTEWSXT",
+    "printed": "Movzztewsxt"
+   },
+   {
+    "old_id": "a_pv.139-0018",
+    "new_id": "a_pv.139-0018",
+    "old": "BLANCO",
+    "new": "BIANCO",
+    "printed": "Bianco"
+   },
+   {
+    "old_id": "a_pv.145-0018",
+    "new_id": "a_pv.145-0018",
+    "old": "CREMENRIS",
+    "new": "CLEMENTIS",
+    "printed": "CLEMENTIS"
+   },
+   {
+    "old_id": "a_pv.147-0011",
+    "new_id": "a_pv.147-0011",
+    "old": "BATACUZR",
+    "new": "BALAGUER",
+    "printed": "BALAGUER"
+   },
+   {
+    "old_id": "a_pv.147-0013",
+    "new_id": "a_pv.147-0013",
+    "old": "SPAAK",
+    "new": "SPAAX",
+    "printed": "Spaax"
+   },
+   {
+    "old_id": "a_pv.147-0014",
+    "new_id": "a_pv.147-0014",
+    "old": "VIRENI-LARRONRE",
+    "new": "VITERI LAFRONTE",
+    "printed": "VITERI-LAFRONTE"
+   },
+   {
+    "old_id": "a_pv.147-0015",
+    "new_id": "a_pv.147-0015",
+    "old": "GARCIA-SAYAN",
+    "new": "GANCTA-SAYAN",
+    "printed": "Gancta-Sayan"
+   },
+   {
+    "old_id": "a_pv.178-0011",
+    "new_id": "a_pv.178-0011",
+    "old": "ANUORR",
+    "new": "AGPOU",
+    "printed": "Agpou"
+   },
+   {
+    "old_id": "a_pv.178-0013",
+    "new_id": "a_pv.178-0013",
+    "old": "SUNRNNRU",
+    "new": "SUNOANAM",
+    "printed": "Sunoanam"
+   },
+   {
+    "old_id": "a_pv.178-0014",
+    "new_id": "a_pv.178-0014",
+    "old": "RAAFAT",
+    "new": "RAARAR",
+    "printed": "Raarar"
+   },
+   {
+    "old_id": "a_pv.178-0015",
+    "new_id": "a_pv.178-0015",
+    "old": "",
+    "new": "KUONVSSXO",
+    "printed": "Kuonvssxo"
+   },
+   {
+    "old_id": "a_pv.181-0005",
+    "new_id": "a_pv.181-0005",
+    "old": "THORS",
+    "new": "TUORS",
+    "printed": "Tuors"
+   },
+   {
+    "old_id": "a_pv.181-0008",
+    "new_id": "a_pv.181-0008",
+    "old": "AUGENTHALER",
+    "new": "AVEZNRAAVEN",
+    "printed": "Aveznraaven"
+   },
+   {
+    "old_id": "a_pv.182-0002",
+    "new_id": "a_pv.182-0002",
+    "old": "BEGTRUP",
+    "new": "BEERNUR",
+    "printed": "Beernur"
+   },
+   {
+    "old_id": "a_pv.183-0007",
+    "new_id": "a_pv.183-0007",
+    "old": "ABDUL RAHMAN KAYALY",
+    "new": "ABDUL RAHMAN KAVATY",
+    "printed": "Abdul Rahman Kavaty"
+   },
+   {
+    "old_id": "a_pv.55-0006",
+    "new_id": "a_pv.55-0006",
+    "old": "HORRUERR",
+    "new": "HOFFHERR",
+    "printed": "HOFFHERR"
+   },
+   {
+    "old_id": "a_pv.55-0038",
+    "new_id": "a_pv.55-0038",
+    "old": "YERRZS",
+    "new": "YEPES",
+    "printed": "YEPES"
+   },
+   {
+    "old_id": "a_pv.7-0034",
+    "new_id": "a_pv.7-0034",
+    "old": "",
+    "new": "PE SOUZA DANTAS",
+    "printed": "DE Souza Dantas"
+   },
+   {
+    "old_id": "e_ac.7_sr.39-0024",
+    "new_id": "e_ac.7_sr.39-0035",
+    "old": "LAMARLE",
+    "new": "LABEYRIE",
+    "printed": "LABEYRIE"
+   },
+   {
+    "old_id": "e_ac.7_sr.39-0041",
+    "new_id": "e_ac.7_sr.39-0061",
+    "old": "",
+    "new": "VAN DER MANDELE",
+    "printed": "van der MANDELE"
+   },
+   {
+    "old_id": "e_ac.7_sr.39-0043",
+    "new_id": "e_ac.7_sr.39-0063",
+    "old": "",
+    "new": "VAN DER MANDELE",
+    "printed": "van der MANDELLE"
+   },
+   {
+    "old_id": "e_cn.4_ac.1_sr.22-0005",
+    "new_id": "e_cn.4_ac.1_sr.22-0005",
+    "old": "IVOOD",
+    "new": "HEYWOOD",
+    "printed": "HEYWOOD"
+   },
+   {
+    "old_id": "e_cn.4_ac.1_sr.28-0021",
+    "new_id": "e_cn.4_ac.1_sr.28-0038",
+    "old": "",
+    "new": "COX",
+    "printed": "COX"
+   },
+   {
+    "old_id": "e_cn.4_sr.106-0013",
+    "new_id": "e_cn.4_sr.106-0014",
+    "old": "MERWA",
+    "new": "MEHTA",
+    "printed": "MEHTA"
+   },
+   {
+    "old_id": "e_cn.4_sr.133-0070",
+    "new_id": "e_cn.4_sr.133-0071",
+    "old": "DUQUESNZ",
+    "new": "DUQUESNE",
+    "printed": "DUQUESNE"
+   },
+   {
+    "old_id": "e_cn.4_sr.167-0009",
+    "new_id": "e_cn.4_sr.167-0011",
+    "old": "PIGUL",
+    "new": "MIGNOT",
+    "printed": "MIGNOT"
+   },
+   {
+    "old_id": "e_cn.4_sr.18-0009",
+    "new_id": "e_cn.4_sr.18-0009",
+    "old": "TEPER",
+    "new": "SENDER",
+    "printed": "SENDER"
+   },
+   {
+    "old_id": "e_cn.4_sr.180-0045",
+    "new_id": "e_cn.4_sr.180-0062",
+    "old": "MOSOR",
+    "new": "NOGOT",
+    "printed": "NOGOT"
+   },
+   {
+    "old_id": "e_cn.4_sr.183-0021",
+    "new_id": "e_cn.4_sr.183-0028",
+    "old": "EZROU",
+    "new": "KYROU",
+    "printed": "KYROU"
+   },
+   {
+    "old_id": "e_cn.4_sr.183-0035",
+    "new_id": "e_cn.4_sr.183-0046",
+    "old": "ATETA",
+    "new": "MEHTA",
+    "printed": "MEHTA"
+   },
+   {
+    "old_id": "e_cn.4_sr.187-0007",
+    "new_id": "e_cn.4_sr.187-0011",
+    "old": "BGVIE",
+    "new": "BOWIE",
+    "printed": "BOWIE"
+   },
+   {
+    "old_id": "e_cn.4_sr.189-0007",
+    "new_id": "e_cn.4_sr.189-0016",
+    "old": "ORTRE",
+    "new": "ORIBE",
+    "printed": "ORIBE"
+   },
+   {
+    "old_id": "e_cn.4_sr.190-0065",
+    "new_id": "e_cn.4_sr.190-0085",
+    "old": "CRIDE",
+    "new": "ORIBE",
+    "printed": "ORIBE"
+   },
+   {
+    "old_id": "e_cn.4_sr.191-0093",
+    "new_id": "e_cn.4_sr.191-0122",
+    "old": "HOANS",
+    "new": "HOARE",
+    "printed": "HOARE"
+   },
+   {
+    "old_id": "e_cn.4_sr.193-0019",
+    "new_id": "e_cn.4_sr.193-0022",
+    "old": "HENUEZ",
+    "new": "MENDEZ",
+    "printed": "MENDEZ"
+   },
+   {
+    "old_id": "e_cn.4_sr.196-0066",
+    "new_id": "e_cn.4_sr.196-0080",
+    "old": "MTBOT",
+    "new": "NISOT",
+    "printed": "NISOT"
+   },
+   {
+    "old_id": "e_cn.4_sr.197-0072",
+    "new_id": "e_cn.4_sr.197-0087",
+    "old": "HUNDEZ",
+    "new": "MENDEZ",
+    "printed": "MENDEZ"
+   },
+   {
+    "old_id": "e_cn.4_sr.197-0084",
+    "new_id": "e_cn.4_sr.197-0106",
+    "old": "MALEK",
+    "new": "MALIK",
+    "printed": "MALIK"
+   },
+   {
+    "old_id": "e_cn.4_sr.198-0016",
+    "new_id": "e_cn.4_sr.198-0020",
+    "old": "MALEK",
+    "new": "MALIK",
+    "printed": "MALIK"
+   },
+   {
+    "old_id": "e_cn.4_sr.198-0021",
+    "new_id": "e_cn.4_sr.198-0029",
+    "old": "MEUDIZ",
+    "new": "MENDEZ",
+    "printed": "MENDEZ"
+   },
+   {
+    "old_id": "e_cn.4_sr.200-0047",
+    "new_id": "e_cn.4_sr.200-0058",
+    "old": "MALTY",
+    "new": "MALIK",
+    "printed": "MALIK"
+   },
+   {
+    "old_id": "e_cn.4_sr.202-0020",
+    "new_id": "e_cn.4_sr.202-0025",
+    "old": "SIMI",
+    "new": "AZMI",
+    "printed": "AZMI"
+   },
+   {
+    "old_id": "e_cn.4_sr.204-0007",
+    "new_id": "e_cn.4_sr.204-0009",
+    "old": "NMI",
+    "new": "AZMI",
+    "printed": "AZMI"
+   },
+   {
+    "old_id": "e_cn.4_sr.210-0002",
+    "new_id": "e_cn.4_sr.210-0006",
+    "old": "EAWIE",
+    "new": "BOWIE",
+    "printed": "BOWIE"
+   },
+   {
+    "old_id": "e_cn.4_sr.215-0048",
+    "new_id": "e_cn.4_sr.215-0098",
+    "old": "CICDIU",
+    "new": "CASSIN",
+    "printed": "CASSIN"
+   },
+   {
+    "old_id": "e_cn.4_sr.221-0014",
+    "new_id": "e_cn.4_sr.221-0016",
+    "old": "EAWIE",
+    "new": "BOWIE",
+    "printed": "BOWIE"
+   },
+   {
+    "old_id": "e_cn.4_sr.230-0016",
+    "new_id": "e_cn.4_sr.230-0017",
+    "old": "LAM",
+    "new": "WHITLAM",
+    "printed": "WHITLAM"
+   },
+   {
+    "old_id": "e_cn.4_sr.231-0008",
+    "new_id": "e_cn.4_sr.231-0011",
+    "old": "AZMI",
+    "new": "AMI",
+    "printed": "AMI"
+   },
+   {
+    "old_id": "e_cn.4_sr.233-0020",
+    "new_id": "e_cn.4_sr.233-0027",
+    "old": "TU",
+    "new": "YU",
+    "printed": "YU"
+   },
+   {
+    "old_id": "e_cn.4_sr.233-0031",
+    "new_id": "e_cn.4_sr.233-0055",
+    "old": "MUWSOY",
+    "new": "MUMUSOV",
+    "printed": "MUMUSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.234-0035",
+    "new_id": "e_cn.4_sr.234-0062",
+    "old": "HE",
+    "new": "MEHTA",
+    "printed": "MEHTA"
+   },
+   {
+    "old_id": "e_cn.4_sr.237-0011",
+    "new_id": "e_cn.4_sr.237-0011",
+    "old": "ATM",
+    "new": "AZMI",
+    "printed": "AZMI"
+   },
+   {
+    "old_id": "e_cn.4_sr.238-0018",
+    "new_id": "e_cn.4_sr.238-0017",
+    "old": "HOUSLL",
+    "new": "HOWELL",
+    "printed": "HOWELL"
+   },
+   {
+    "old_id": "e_cn.4_sr.240-0010",
+    "new_id": "e_cn.4_sr.240-0023",
+    "old": "YY",
+    "new": "YU",
+    "printed": "YU"
+   },
+   {
+    "old_id": "e_cn.4_sr.241-0014",
+    "new_id": "e_cn.4_sr.241-0021",
+    "old": "SOASMUS",
+    "new": "SØRUM",
+    "printed": "SØRUM"
+   },
+   {
+    "old_id": "e_cn.4_sr.243-0006",
+    "new_id": "e_cn.4_sr.243-0023",
+    "old": "SGWQISEN",
+    "new": "SORENSEN",
+    "printed": "SØRENSEN"
+   },
+   {
+    "old_id": "e_cn.4_sr.246-0047",
+    "new_id": "e_cn.4_sr.246-0068",
+    "old": "GDIIL",
+    "new": "GAMU",
+    "printed": "GAMU"
+   },
+   {
+    "old_id": "e_cn.4_sr.246-0050",
+    "new_id": "e_cn.4_sr.246-0073",
+    "old": "GDIIL",
+    "new": "GIANI",
+    "printed": "GIANI"
+   },
+   {
+    "old_id": "e_cn.4_sr.247-0008",
+    "new_id": "e_cn.4_sr.247-0012",
+    "old": "SALTN GILD",
+    "new": "SANTA CRUZ",
+    "printed": "SANTA CRUZ"
+   },
+   {
+    "old_id": "e_cn.4_sr.247-0034",
+    "new_id": "e_cn.4_sr.247-0055",
+    "old": "TU",
+    "new": "YU",
+    "printed": "YU"
+   },
+   {
+    "old_id": "e_cn.4_sr.247-0045",
+    "new_id": "e_cn.4_sr.247-0069",
+    "old": "YW",
+    "new": "YU",
+    "printed": "YU"
+   },
+   {
+    "old_id": "e_cn.4_sr.248-0005",
+    "new_id": "e_cn.4_sr.248-0009",
+    "old": "ITHIN",
+    "new": "MEHTA",
+    "printed": "MEHTA"
+   },
+   {
+    "old_id": "e_cn.4_sr.248-0027",
+    "new_id": "e_cn.4_sr.248-0036",
+    "old": "WW",
+    "new": "YU",
+    "printed": "YU"
+   },
+   {
+    "old_id": "e_cn.4_sr.250-0018",
+    "new_id": "e_cn.4_sr.250-0022",
+    "old": "SABTA CHIZ",
+    "new": "SANTA CRUZ",
+    "printed": "SANTA CRUZ"
+   },
+   {
+    "old_id": "e_cn.4_sr.250-0035",
+    "new_id": "e_cn.4_sr.250-0053",
+    "old": "BLALSOV",
+    "new": "MIRONOVA",
+    "printed": "MIRONOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.258-0049",
+    "new_id": "e_cn.4_sr.258-0050",
+    "old": "MORCROV",
+    "new": "MOROZOV",
+    "printed": "MOROZOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.267-0007",
+    "new_id": "e_cn.4_sr.267-0008",
+    "old": "CNY",
+    "new": "JUVIGNY",
+    "printed": "JUVIGNY"
+   },
+   {
+    "old_id": "e_cn.4_sr.269-0021",
+    "new_id": "e_cn.4_sr.269-0024",
+    "old": "MOKCZOV",
+    "new": "MOROZOV",
+    "printed": "MOROZOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.271-0013",
+    "new_id": "e_cn.4_sr.271-0014",
+    "old": "KORCZOY",
+    "new": "MOROZOV",
+    "printed": "MOROZOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.294-0025",
+    "new_id": "e_cn.4_sr.294-0027",
+    "old": "ACOSIVEJI",
+    "new": "ROOSEVELT",
+    "printed": "ROOSEVELT"
+   },
+   {
+    "old_id": "e_cn.4_sr.297-0003",
+    "new_id": "e_cn.4_sr.297-0003",
+    "old": "WABLED",
+    "new": "WAHEED",
+    "printed": "WAHEED"
+   },
+   {
+    "old_id": "e_cn.4_sr.300-0044",
+    "new_id": "e_cn.4_sr.300-0050",
+    "old": "AMI",
+    "new": "AZMI",
+    "printed": "AZMI"
+   },
+   {
+    "old_id": "e_cn.4_sr.302-0043",
+    "new_id": "e_cn.4_sr.302-0050",
+    "old": "MCROZOV",
+    "new": "MOROZOV",
+    "printed": "MOROZOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.306-0037",
+    "new_id": "e_cn.4_sr.306-0038",
+    "old": "MOROZOV",
+    "new": "MOROVOZ",
+    "printed": "MOROVOZ"
+   },
+   {
+    "old_id": "e_cn.4_sr.308-0018",
+    "new_id": "e_cn.4_sr.308-0021",
+    "old": "JOVICNY",
+    "new": "JUVIGNY",
+    "printed": "JUVIGNY"
+   },
+   {
+    "old_id": "e_cn.4_sr.308-0030",
+    "new_id": "e_cn.4_sr.308-0033",
+    "old": "HEID'A",
+    "new": "MEHTA",
+    "printed": "MEHTA"
+   },
+   {
+    "old_id": "e_cn.4_sr.311-0025",
+    "new_id": "e_cn.4_sr.311-0027",
+    "old": "MOROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROZOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.315-0006",
+    "new_id": "e_cn.4_sr.315-0007",
+    "old": "DOYIB",
+    "new": "DOYLE",
+    "printed": "DOYLE"
+   },
+   {
+    "old_id": "e_cn.4_sr.315-0008",
+    "new_id": "e_cn.4_sr.315-0009",
+    "old": "AYUMI",
+    "new": "AZMI",
+    "printed": "AZMI"
+   },
+   {
+    "old_id": "e_cn.4_sr.316-0026",
+    "new_id": "e_cn.4_sr.316-0036",
+    "old": "",
+    "new": "MEHTA",
+    "printed": "MEHTA"
+   },
+   {
+    "old_id": "e_cn.4_sr.320-0003",
+    "new_id": "e_cn.4_sr.320-0004",
+    "old": "AMI",
+    "new": "AZMI",
+    "printed": "AZMI"
+   },
+   {
+    "old_id": "e_cn.4_sr.323-0028",
+    "new_id": "e_cn.4_sr.323-0044",
+    "old": "ACARE",
+    "new": "HOARE",
+    "printed": "HOARE"
+   },
+   {
+    "old_id": "e_cn.4_sr.330-0010",
+    "new_id": "e_cn.4_sr.330-0012",
+    "old": "JUYIGHY",
+    "new": "JUVIGNY",
+    "printed": "JUVIGNY"
+   },
+   {
+    "old_id": "e_cn.4_sr.332-0003",
+    "new_id": "e_cn.4_sr.332-0004",
+    "old": "AMI",
+    "new": "AZMI",
+    "printed": "AZMI"
+   },
+   {
+    "old_id": "e_cn.4_sr.333-0003",
+    "new_id": "e_cn.4_sr.333-0003",
+    "old": "WITTA",
+    "new": "WHITLAM",
+    "printed": "WHITLAM"
+   },
+   {
+    "old_id": "e_cn.4_sr.333-0005",
+    "new_id": "e_cn.4_sr.333-0005",
+    "old": "HOST",
+    "new": "ROOSEVELT",
+    "printed": "ROOSEVELT"
+   },
+   {
+    "old_id": "e_cn.4_sr.338-0133",
+    "new_id": "e_cn.4_sr.338-0221",
+    "old": "MORGEOV",
+    "new": "MOROZOV",
+    "printed": "MOROZOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.389-0025",
+    "new_id": "e_cn.4_sr.389-0026",
+    "old": "",
+    "new": "ABDUR RAHMAN",
+    "printed": "Abdur RAHMAN"
+   },
+   {
+    "old_id": "e_cn.4_sr.409-0017",
+    "new_id": "e_cn.4_sr.409-0015",
+    "old": "DIAZ CASANUEVA",
+    "new": "SANTA CRUZ",
+    "printed": "Santa Cruz"
+   },
+   {
+    "old_id": "e_cn.4_sr.73-0014",
+    "new_id": "e_cn.4_sr.73-0014",
+    "old": "BTEPMMEO",
+    "new": "STEPANENKO",
+    "printed": "STEPANENKO"
+   },
+   {
+    "old_id": "e_cn.4_sr.80-0032",
+    "new_id": "e_cn.4_sr.80-0035",
+    "old": "ELD YEN",
+    "new": "KLEIDOVAN",
+    "printed": "KLEIDOVAN"
+   },
+   {
+    "old_id": "e_cn.4_sr.91-0029",
+    "new_id": "e_cn.4_sr.91-0030",
+    "old": "SORRENEEH",
+    "new": "SORENSEN",
+    "printed": "SORENSEN"
+   },
+   {
+    "old_id": "e_cn.4_sub.1_sr.24-0002",
+    "new_id": "e_cn.4_sub.1_sr.24-0002",
+    "old": "ROGAN",
+    "new": "HOGAN",
+    "printed": "Charles Hogan"
+   },
+   {
+    "old_id": "e_cn.4_sub.2_sr.10-0024",
+    "new_id": "e_cn.4_sub.2_sr.10-0024",
+    "old": "WI",
+    "new": "WU",
+    "printed": "WU"
+   },
+   {
+    "old_id": "e_cn.6_sr.12-0023",
+    "new_id": "e_cn.6_sr.12-0023",
+    "old": "KEVIN",
+    "new": "KENYON",
+    "printed": "KENYON"
+   },
+   {
+    "old_id": "e_pv.68-0009",
+    "new_id": "e_pv.68-0009",
+    "old": "YAZICR",
+    "new": "YAZICI",
+    "printed": "YAZICI"
+   },
+   {
+    "old_id": "e_pv.69-0004",
+    "new_id": "e_pv.69-0004",
+    "old": "STOLK",
+    "new": "STOCK",
+    "printed": "Stock"
+   },
+   {
+    "old_id": "e_pv.84-0009",
+    "new_id": "e_pv.84-0009",
+    "old": "PHILLIPS",
+    "new": "PHITUIES",
+    "printed": "PHituies"
+   },
+   {
+    "old_id": "e_pv.84-0029",
+    "new_id": "e_pv.84-0029",
+    "old": "MOE",
+    "new": "MOR",
+    "printed": "Mor"
+   },
+   {
+    "old_id": "e_sr.157-0044",
+    "new_id": "e_sr.157-0044",
+    "old": "RAPHAEL CITENRO",
+    "new": "RAPHAEL CILENTO",
+    "printed": "Raphael CILENTO"
+   },
+   {
+    "old_id": "e_sr.157-0087",
+    "new_id": "e_sr.157-0087",
+    "old": "BORISOV",
+    "new": "MOROZOV",
+    "printed": "Morozov"
+   },
+   {
+    "old_id": "e_sr.157-0097",
+    "new_id": "e_sr.157-0097",
+    "old": "BORISOV",
+    "new": "MOROZOV",
+    "printed": "Morozov"
+   },
+   {
+    "old_id": "e_sr.157-0105",
+    "new_id": "e_sr.157-0105",
+    "old": "BORISOV",
+    "new": "MOROZOV",
+    "printed": "Morozov"
+   },
+   {
+    "old_id": "e_sr.18-0005",
+    "new_id": "e_sr.18-0005",
+    "old": "STINEBOWER",
+    "new": "FOWLER",
+    "printed": "FoWLER"
+   },
+   {
+    "old_id": "e_sr.18-0009",
+    "new_id": "e_sr.18-0009",
+    "old": "WARREN",
+    "new": "WINANT",
+    "printed": "WINANT"
+   },
+   {
+    "old_id": "e_sr.180-0007",
+    "new_id": "e_sr.180-0007",
+    "old": "MCNEIL",
+    "new": "MONEW",
+    "printed": "MoNew"
+   },
+   {
+    "old_id": "e_sr.20-0023",
+    "new_id": "e_sr.20-0023",
+    "old": "PATINO",
+    "new": "PATIXO",
+    "printed": "PatiXo"
+   },
+   {
+    "old_id": "e_sr.20-0084",
+    "new_id": "e_sr.20-0084",
+    "old": "WARREN",
+    "new": "WINANT",
+    "printed": "Winant"
+   },
+   {
+    "old_id": "e_sr.201-0018",
+    "new_id": "e_sr.201-0018",
+    "old": "MIKAOUI",
+    "new": "MIXAOUR",
+    "printed": "Mixaour"
+   },
+   {
+    "old_id": "e_sr.201-0019",
+    "new_id": "e_sr.201-0019",
+    "old": "SAFWAT",
+    "new": "SARWAR",
+    "printed": "Sarwar"
+   },
+   {
+    "old_id": "e_sr.201-0035",
+    "new_id": "e_sr.201-0035",
+    "old": "HOOCLSON",
+    "new": "HOPASON",
+    "printed": "Hopason"
+   },
+   {
+    "old_id": "e_sr.202-0084",
+    "new_id": "e_sr.202-0084",
+    "old": "MIKAOUI",
+    "new": "MIXAOUR",
+    "printed": "Mixaour"
+   },
+   {
+    "old_id": "e_sr.215-0004",
+    "new_id": "e_sr.215-0004",
+    "old": "",
+    "new": "THORP",
+    "printed": "THorp"
+   },
+   {
+    "old_id": "e_sr.218-0009",
+    "new_id": "e_sr.218-0009",
+    "old": "EVATT",
+    "new": "EVARR",
+    "printed": "Evarr"
+   },
+   {
+    "old_id": "e_sr.218-0011",
+    "new_id": "e_sr.218-0011",
+    "old": "OHA",
+    "new": "CUA",
+    "printed": "Cua"
+   },
+   {
+    "old_id": "e_sr.218-0030",
+    "new_id": "e_sr.218-0030",
+    "old": "STEPHIJJNS",
+    "new": "STEPUMNS",
+    "printed": "Stepumns"
+   }
+  ],
+  "neither fits": [
+   {
+    "old_id": "a_c.3_sr.101-0012",
+    "new_id": "a_c.3_sr.101-0012",
+    "old": "",
+    "new": "DE LEÓN",
+    "printed": "DE Leén"
+   },
+   {
+    "old_id": "a_c.3_sr.108-0023",
+    "new_id": "a_c.3_sr.108-0023",
+    "old": "LINDSTROM",
+    "new": "LINPSTRÉM",
+    "printed": "Linpsrrém"
+   },
+   {
+    "old_id": "a_c.3_sr.178-0068",
+    "new_id": "a_c.3_sr.178-0068",
+    "old": "CORBER",
+    "new": "CORBET",
+    "printed": "Corner"
+   },
+   {
+    "old_id": "a_c.3_sr.94-0048",
+    "new_id": "a_c.3_sr.94-0049",
+    "old": "SAINT-LOT",
+    "new": "",
+    "printed": "Sarnt-Lor"
+   },
+   {
+    "old_id": "a_pv.55-0076",
+    "new_id": "a_pv.55-0076",
+    "old": "VYSHINSKY",
+    "new": "",
+    "printed": "Vysuinsxy"
+   },
+   {
+    "old_id": "a_pv.7-0009",
+    "new_id": "a_pv.7-0009",
+    "old": "DUUCO",
+    "new": "DIHIGO",
+    "printed": "Duttico"
+   },
+   {
+    "old_id": "a_pv.7-0013",
+    "new_id": "a_pv.7-0013",
+    "old": "DUUCO",
+    "new": "DIHIGO",
+    "printed": "Dusico"
+   },
+   {
+    "old_id": "e_ac.7_sr.39-0007",
+    "new_id": "e_ac.7_sr.39-0007",
+    "old": "LAMARLE",
+    "new": "LABEYRIE",
+    "printed": "LABAYRIE"
+   },
+   {
+    "old_id": "e_cn.4_ac.1_sr.20-0016",
+    "new_id": "e_cn.4_ac.1_sr.20-0017",
+    "old": "HEYWARD",
+    "new": "HEYWOOD",
+    "printed": "HiywooD"
+   },
+   {
+    "old_id": "e_cn.4_sr.187-0005",
+    "new_id": "e_cn.4_sr.187-0009",
+    "old": "CRIDE",
+    "new": "ORIBE",
+    "printed": "GRIE"
+   },
+   {
+    "old_id": "e_cn.4_sr.199-0077",
+    "new_id": "e_cn.4_sr.199-0112",
+    "old": "MALEK",
+    "new": "MALIK",
+    "printed": "MAREK"
+   },
+   {
+    "old_id": "e_cn.4_sr.207-0011",
+    "new_id": "e_cn.4_sr.207-0012",
+    "old": "SCHREIBER",
+    "new": "SCHWELB",
+    "printed": "SCHWEIBER"
+   },
+   {
+    "old_id": "e_cn.4_sr.223-0034",
+    "new_id": "e_cn.4_sr.223-0036",
+    "old": "MORUSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.223-0058",
+    "new_id": "e_cn.4_sr.223-0066",
+    "old": "MUROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.231-0014",
+    "new_id": "e_cn.4_sr.231-0018",
+    "old": "MOSDSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.231-0018",
+    "new_id": "e_cn.4_sr.231-0025",
+    "old": "AZMI",
+    "new": "",
+    "printed": "AZIZI"
+   },
+   {
+    "old_id": "e_cn.4_sr.232-0007",
+    "new_id": "e_cn.4_sr.232-0013",
+    "old": "RLGSUVELT",
+    "new": "",
+    "printed": "BASSWELL"
+   },
+   {
+    "old_id": "e_cn.4_sr.233-0017",
+    "new_id": "e_cn.4_sr.233-0021",
+    "old": "MOROSOV",
+    "new": "MOROZOV",
+    "printed": "KUNOSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.233-0019",
+    "new_id": "e_cn.4_sr.233-0026",
+    "old": "MEHTA",
+    "new": "",
+    "printed": "NARAY"
+   },
+   {
+    "old_id": "e_cn.4_sr.235-0015",
+    "new_id": "e_cn.4_sr.235-0029",
+    "old": "EUSTATHIADES",
+    "new": "",
+    "printed": "MISTHALIDIS"
+   },
+   {
+    "old_id": "e_cn.4_sr.236-0060",
+    "new_id": "e_cn.4_sr.236-0066",
+    "old": "MORUSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.243-0008",
+    "new_id": "e_cn.4_sr.243-0025",
+    "old": "MUROSOV",
+    "new": "MOROZOV",
+    "printed": "MAMSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.245-0020",
+    "new_id": "e_cn.4_sr.245-0024",
+    "old": "SCHREIBER",
+    "new": "SCHWELB",
+    "printed": "SCHWEIB"
+   },
+   {
+    "old_id": "e_cn.4_sr.245-0021",
+    "new_id": "e_cn.4_sr.245-0025",
+    "old": "MOROSST",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.247-0022",
+    "new_id": "e_cn.4_sr.247-0037",
+    "old": "MONOSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.250-0010",
+    "new_id": "e_cn.4_sr.250-0013",
+    "old": "AZMI",
+    "new": "",
+    "printed": "AZIZI"
+   },
+   {
+    "old_id": "e_cn.4_sr.250-0062",
+    "new_id": "e_cn.4_sr.250-0085",
+    "old": "MUWSSVELT",
+    "new": "",
+    "printed": "MUSEVELT"
+   },
+   {
+    "old_id": "e_cn.4_sr.250-0067",
+    "new_id": "e_cn.4_sr.250-0092",
+    "old": "MUROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.257-0012",
+    "new_id": "e_cn.4_sr.257-0014",
+    "old": "MBNTA",
+    "new": "",
+    "printed": "MENTTA"
+   },
+   {
+    "old_id": "e_cn.4_sr.260-0032",
+    "new_id": "e_cn.4_sr.260-0036",
+    "old": "MUROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.349-0039",
+    "new_id": "e_cn.4_sr.349-0037",
+    "old": "HOANS",
+    "new": "",
+    "printed": "HOAnB"
+   },
+   {
+    "old_id": "e_sr.180-0010",
+    "new_id": "e_sr.180-0010",
+    "old": "MCNEIL",
+    "new": "MONEW",
+    "printed": "Monet"
+   },
+   {
+    "old_id": "e_sr.180-0074",
+    "new_id": "e_sr.180-0074",
+    "old": "MCNEIL",
+    "new": "MONEW",
+    "printed": "McNem"
+   },
+   {
+    "old_id": "e_sr.180-0106",
+    "new_id": "e_sr.180-0106",
+    "old": "MCNEIL",
+    "new": "MONEW",
+    "printed": "McNer"
+   },
+   {
+    "old_id": "e_sr.180-0110",
+    "new_id": "e_sr.180-0110",
+    "old": "MCNEIL",
+    "new": "MONEW",
+    "printed": "McNerz"
+   },
+   {
+    "old_id": "e_sr.218-0012",
+    "new_id": "e_sr.218-0012",
+    "old": "MIKAOUI",
+    "new": "MIXAOUR",
+    "printed": "Mrxaoui"
+   }
+  ],
+  "worse": [
+   {
+    "old_id": "a_c.3_sr.1061-0009",
+    "new_id": "a_c.3_sr.1061-0009",
+    "old": "PELT",
+    "new": "",
+    "printed": "Pelt"
+   },
+   {
+    "old_id": "a_c.3_sr.164-0033",
+    "new_id": "a_c.3_sr.164-0033",
+    "old": "DE MARCHENA Y DUJARRIC",
+    "new": "",
+    "printed": "DE MARCHENA y DUJARRIC"
+   },
+   {
+    "old_id": "a_c.3_sr.176-0054",
+    "new_id": "a_c.3_sr.176-0054",
+    "old": "CORSRR",
+    "new": "",
+    "printed": "Corsrr"
+   },
+   {
+    "old_id": "a_c.3_sr.355-0041",
+    "new_id": "a_c.3_sr.355-0041",
+    "old": "BARMADA",
+    "new": "",
+    "printed": "BARMADA"
+   },
+   {
+    "old_id": "a_c.3_sr.574-0039",
+    "new_id": "a_c.3_sr.574-0039",
+    "old": "US",
+    "new": "",
+    "printed": "US"
+   },
+   {
+    "old_id": "a_c.3_sr.781-0019",
+    "new_id": "a_c.3_sr.781-0019",
+    "old": "LOPES",
+    "new": "LOPEZ",
+    "printed": "LOPES"
+   },
+   {
+    "old_id": "a_c.3_sr.911-0016",
+    "new_id": "a_c.3_sr.911-0016",
+    "old": "LUPINACCI",
+    "new": "",
+    "printed": "LUPINACCI"
+   },
+   {
+    "old_id": "a_c.3_sr.930-0005",
+    "new_id": "a_c.3_sr.930-0005",
+    "old": "FERNANDEZ",
+    "new": "",
+    "printed": "FERNANDEZ"
+   },
+   {
+    "old_id": "a_pv.1495-0008",
+    "new_id": "a_pv.1495-0008",
+    "old": "KULEBIAKIN",
+    "new": "",
+    "printed": "KULEBIAKIN"
+   },
+   {
+    "old_id": "a_pv.55-0079",
+    "new_id": "a_pv.55-0079",
+    "old": "VYSHINSKY",
+    "new": "",
+    "printed": "VYSHINSKY"
+   },
+   {
+    "old_id": "a_pv.7-0002",
+    "new_id": "a_pv.7-0002",
+    "old": "PERZZ CISVZROS",
+    "new": "",
+    "printed": "Perzz Cisvzros"
+   },
+   {
+    "old_id": "a_pv.7-0011",
+    "new_id": "a_pv.7-0011",
+    "old": "MANUIWSXY",
+    "new": "",
+    "printed": "ManuiwSxy"
+   },
+   {
+    "old_id": "a_pv.7-0018",
+    "new_id": "a_pv.7-0018",
+    "old": "PUXUZ CISNEROS",
+    "new": "PÉREZ CISNEROS",
+    "printed": "Puxuz Cisneros"
+   },
+   {
+    "old_id": "e_cn.4_sr.117-0011",
+    "new_id": "e_cn.4_sr.117-0012",
+    "old": "BAUER",
+    "new": "GARCIA BAUER",
+    "printed": "BAUER"
+   },
+   {
+    "old_id": "e_cn.4_sr.123-0006",
+    "new_id": "e_cn.4_sr.123-0013",
+    "old": "BAUER",
+    "new": "GARCIA BAUER",
+    "printed": "BAUER"
+   },
+   {
+    "old_id": "e_cn.4_sr.202-0006",
+    "new_id": "e_cn.4_sr.202-0007",
+    "old": "MOROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.202-0010",
+    "new_id": "e_cn.4_sr.202-0011",
+    "old": "MOROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.202-0012",
+    "new_id": "e_cn.4_sr.202-0014",
+    "old": "MOROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.202-0015",
+    "new_id": "e_cn.4_sr.202-0018",
+    "old": "MOROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.202-0032",
+    "new_id": "e_cn.4_sr.202-0040",
+    "old": "MOROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.202-0035",
+    "new_id": "e_cn.4_sr.202-0044",
+    "old": "MOROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.202-0037",
+    "new_id": "e_cn.4_sr.202-0052",
+    "old": "MOROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.202-0038",
+    "new_id": "e_cn.4_sr.202-0053",
+    "old": "ADII",
+    "new": "",
+    "printed": "ADII"
+   },
+   {
+    "old_id": "e_cn.4_sr.214-0010",
+    "new_id": "e_cn.4_sr.214-0014",
+    "old": "SCHACHTER",
+    "new": "",
+    "printed": "SCHACHTER"
+   },
+   {
+    "old_id": "e_cn.4_sr.23-0011",
+    "new_id": "e_cn.4_sr.23-0011",
+    "old": "CAMPBELL",
+    "new": "",
+    "printed": "CAMPBELL"
+   },
+   {
+    "old_id": "e_cn.4_sr.232-0010",
+    "new_id": "e_cn.4_sr.232-0015",
+    "old": "MOROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.233-0023",
+    "new_id": "e_cn.4_sr.233-0035",
+    "old": "CRUZ",
+    "new": "SANTA CRUZ",
+    "printed": "SANTI CRUZ"
+   },
+   {
+    "old_id": "e_cn.4_sr.233-0030",
+    "new_id": "e_cn.4_sr.233-0052",
+    "old": "CRUZ",
+    "new": "SANTA CRUZ",
+    "printed": "SANTI CRUZ"
+   },
+   {
+    "old_id": "e_cn.4_sr.234-0022",
+    "new_id": "e_cn.4_sr.234-0035",
+    "old": "MOROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.234-0027",
+    "new_id": "e_cn.4_sr.234-0045",
+    "old": "CRUZ",
+    "new": "SANTA CRUZ",
+    "printed": "SANTI CRUZ"
+   },
+   {
+    "old_id": "e_cn.4_sr.234-0032",
+    "new_id": "e_cn.4_sr.234-0054",
+    "old": "MOROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.240-0027",
+    "new_id": "e_cn.4_sr.240-0048",
+    "old": "MOROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.242-0010",
+    "new_id": "e_cn.4_sr.242-0016",
+    "old": "MOROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.243-0014",
+    "new_id": "e_cn.4_sr.243-0030",
+    "old": "MOROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.246-0030",
+    "new_id": "e_cn.4_sr.246-0038",
+    "old": "MOROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.246-0034",
+    "new_id": "e_cn.4_sr.246-0044",
+    "old": "MOROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.247-0049",
+    "new_id": "e_cn.4_sr.247-0074",
+    "old": "CRUZ",
+    "new": "SANTA CRUZ",
+    "printed": "SAMA CRUZ"
+   },
+   {
+    "old_id": "e_cn.4_sr.247-0060",
+    "new_id": "e_cn.4_sr.247-0092",
+    "old": "MOROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.247-0062",
+    "new_id": "e_cn.4_sr.247-0097",
+    "old": "CRUZ",
+    "new": "SANTA CRUZ",
+    "printed": "SANTI CRUZ"
+   },
+   {
+    "old_id": "e_cn.4_sr.249-0028",
+    "new_id": "e_cn.4_sr.249-0034",
+    "old": "MOROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.249-0047",
+    "new_id": "e_cn.4_sr.249-0060",
+    "old": "MOROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.249-0082",
+    "new_id": "e_cn.4_sr.249-0110",
+    "old": "MOROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.249-0092",
+    "new_id": "e_cn.4_sr.249-0128",
+    "old": "MOROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.250-0037",
+    "new_id": "e_cn.4_sr.250-0055",
+    "old": "MOROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.250-0046",
+    "new_id": "e_cn.4_sr.250-0066",
+    "old": "MOROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.250-0049",
+    "new_id": "e_cn.4_sr.250-0069",
+    "old": "MOROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.250-0066",
+    "new_id": "e_cn.4_sr.250-0090",
+    "old": "MOROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.250-0070",
+    "new_id": "e_cn.4_sr.250-0096",
+    "old": "MOROSOV",
+    "new": "MOROZOV",
+    "printed": "MOROSOV"
+   },
+   {
+    "old_id": "e_cn.4_sr.409-0008",
+    "new_id": "e_cn.4_sr.409-0006",
+    "old": "HISCOCKS",
+    "new": "",
+    "printed": "Hiscocks"
+   },
+   {
+    "old_id": "e_cn.4_sr.409-0011",
+    "new_id": "e_cn.4_sr.409-0009",
+    "old": "BOCOBO",
+    "new": "",
+    "printed": "Bocobo"
+   },
+   {
+    "old_id": "e_cn.4_sr.409-0012",
+    "new_id": "e_cn.4_sr.409-0010",
+    "old": "CHATENET",
+    "new": "",
+    "printed": "Chatenet"
+   },
+   {
+    "old_id": "e_cn.4_sr.409-0013",
+    "new_id": "e_cn.4_sr.409-0011",
+    "old": "EMELYANOV",
+    "new": "",
+    "printed": "Emelyanov"
+   },
+   {
+    "old_id": "e_cn.4_sr.409-0015",
+    "new_id": "e_cn.4_sr.409-0013",
+    "old": "WINIEWICZ",
+    "new": "",
+    "printed": "Winiewicz"
+   },
+   {
+    "old_id": "e_cn.4_sr.409-0016",
+    "new_id": "e_cn.4_sr.409-0014",
+    "old": "MOHAMMED",
+    "new": "",
+    "printed": "Mohammed"
+   },
+   {
+    "old_id": "e_cn.4_sr.83-0051",
+    "new_id": "e_cn.4_sr.83-0051",
+    "old": "BAUER",
+    "new": "GARCIA BAUER",
+    "printed": "BAUER"
+   },
+   {
+    "old_id": "e_conf.6_sr.10-0007",
+    "new_id": "e_conf.6_sr.10-0008",
+    "old": "HAMMES",
+    "new": "",
+    "printed": "HAMMES"
+   },
+   {
+    "old_id": "e_sr.218-0025",
+    "new_id": "e_sr.218-0025",
+    "old": "EVATT",
+    "new": "EVARR",
+    "printed": "Evatt"
+   }
+  ],
+  "no printed name": [
+   {
+    "old_id": "a_c.3_sr.1185-0003",
+    "new_id": "a_c.3_sr.1185-0003",
+    "old": "BUSTAMANTE",
+    "new": "",
+    "printed": null
+   },
+   {
+    "old_id": "a_c.3_sr.866-0024",
+    "new_id": "a_c.3_sr.866-0024",
+    "old": "ISHIBASHI",
+    "new": "",
+    "printed": null
+   },
+   {
+    "old_id": "a_c.3_sr.941-0004",
+    "new_id": "a_c.3_sr.941-0004",
+    "old": "KHAMHING",
+    "new": "",
+    "printed": null
+   },
+   {
+    "old_id": "e_cn.4_sr.214-0011",
+    "new_id": "e_cn.4_sr.214-0015",
+    "old": "SCHACHTER",
+    "new": "",
+    "printed": null
+   },
+   {
+    "old_id": "e_cn.4_sr.224-0064",
+    "new_id": "e_cn.4_sr.224-0065",
+    "old": "BEY",
+    "new": "",
+    "printed": null
+   },
+   {
+    "old_id": "e_cn.4_sr.246-0016",
+    "new_id": "e_cn.4_sr.246-0022",
+    "old": "CRUZ",
+    "new": "",
+    "printed": null
+   },
+   {
+    "old_id": "e_cn.4_sr.267-0042",
+    "new_id": "e_cn.4_sr.267-0050",
+    "old": "SANTA CRUZ",
+    "new": "",
+    "printed": null
+   },
+   {
+    "old_id": "e_cn.4_sr.31-0004",
+    "new_id": "e_cn.4_sr.31-0004",
+    "old": "EKSTRAND",
+    "new": "",
+    "printed": null
+   },
+   {
+    "old_id": "e_cn.4_sr.31-0008",
+    "new_id": "e_cn.4_sr.31-0008",
+    "old": "EKSTRAND",
+    "new": "",
+    "printed": null
+   },
+   {
+    "old_id": "e_cn.4_sr.31-0012",
+    "new_id": "e_cn.4_sr.31-0012",
+    "old": "EKSTRAND",
+    "new": "",
+    "printed": null
+   },
+   {
+    "old_id": "e_cn.4_sr.31-0015",
+    "new_id": "e_cn.4_sr.31-0015",
+    "old": "EKSTRAND",
+    "new": "",
+    "printed": null
+   },
+   {
+    "old_id": "e_cn.4_sr.31-0017",
+    "new_id": "e_cn.4_sr.31-0017",
+    "old": "EKSTRAND",
+    "new": "",
+    "printed": null
+   },
+   {
+    "old_id": "e_cn.4_sub.2_sr.8-0077",
+    "new_id": "e_cn.4_sub.2_sr.8-0079",
+    "old": "HUMPHREY",
+    "new": "",
+    "printed": null
+   },
+   {
+    "old_id": "e_cn.4_sub.2_sr.8-0098",
+    "new_id": "e_cn.4_sub.2_sr.8-0102",
+    "old": "HUMPHREY",
+    "new": "",
+    "printed": null
+   },
+   {
+    "old_id": "e_cn.4_sub.2_sr.8-0104",
+    "new_id": "e_cn.4_sub.2_sr.8-0108",
+    "old": "HUMPHREY",
+    "new": "",
+    "printed": null
+   },
+   {
+    "old_id": "e_sr.128-0005",
+    "new_id": "e_sr.128-0005",
+    "old": "ROOSEVELT",
+    "new": "",
+    "printed": null
+   }
+  ],
+  "both fit": [
+   {
+    "old_id": "a_c.3_sr.488-0014",
+    "new_id": "a_c.3_sr.488-0014",
+    "old": "GUTIERREZ",
+    "new": "GUTIERREZ GUTIERREZ",
+    "printed": "GUTIERREZ GUTIERREZ"
+   },
+   {
+    "old_id": "a_c.3_sr.812-0012",
+    "new_id": "a_c.3_sr.812-0012",
+    "old": "RODRIGUES",
+    "new": "MADEIRA RODRIGUES",
+    "printed": "MADEIRA RODRIGUES"
+   },
+   {
+    "old_id": "e_cn.4_sr.105-0015",
+    "new_id": "e_cn.4_sr.105-0016",
+    "old": "HANSA MEHTA",
+    "new": "MEHTA",
+    "printed": "Hansa MEHTA"
+   },
+   {
+    "old_id": "e_cn.4_sr.235-0005",
+    "new_id": "e_cn.4_sr.235-0008",
+    "old": "CRUZ",
+    "new": "SANTA CRUZ",
+    "printed": "SANTA CRUZ"
+   },
+   {
+    "old_id": "e_cn.4_sr.247-0003",
+    "new_id": "e_cn.4_sr.247-0006",
+    "old": "CRUZ",
+    "new": "SANTA CRUZ",
+    "printed": "SANTA CRUZ"
+   },
+   {
+    "old_id": "e_cn.4_sr.248-0007",
+    "new_id": "e_cn.4_sr.248-0011",
+    "old": "CRUZ",
+    "new": "SANTA CRUZ",
+    "printed": "SANTA CRUZ"
+   },
+   {
+    "old_id": "e_cn.4_sr.32-0047",
+    "new_id": "e_cn.4_sr.32-0047",
+    "old": "TONI SENDER",
+    "new": "SENDER",
+    "printed": "Toni SENDER"
+   },
+   {
+    "old_id": "e_cn.4_sub.1_sr.28-0023",
+    "new_id": "e_cn.4_sub.1_sr.28-0030",
+    "old": "CERISTENSEN",
+    "new": "CHRISTENSEN",
+    "printed": "CHRISTENSEN"
+   },
+   {
+    "old_id": "e_cn.6_sr.12-0060",
+    "new_id": "e_cn.6_sr.12-0063",
+    "old": "LEDON",
+    "new": "DO CASTILLO LEDON",
+    "printed": "de CASTILLO LEDON"
+   },
+   {
+    "old_id": "e_cn.6_sr.12-0062",
+    "new_id": "e_cn.6_sr.12-0065",
+    "old": "LEDON",
+    "new": "DO CASTILLO LEDON",
+    "printed": "de CASTILLO LEDON"
+   }
+  ]
+ }
+}

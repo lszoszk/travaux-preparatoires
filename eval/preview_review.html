@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ślepy przegląd</title>
+<style>
+:root { --bg: #f6f5f1; --panel: #fff; --ink: #1d1d1b; --muted: #6b6a66; --line: #dddbd4; --accent: #2f5d8a; --ok: #2e7d4f; --bad: #a33a2b; --mark: #fff3c4; }
+* { box-sizing: border-box; }
+body { margin: 0; font: 15px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif; background: var(--bg); color: var(--ink); }
+header { display: flex; gap: 16px; align-items: center; padding: 10px 16px; border-bottom: 1px solid var(--line); background: var(--panel); position: sticky; top: 0; z-index: 2; }
+header h1 { font-size: 16px; margin: 0; }
+#progress { color: var(--muted); }
+#bar { flex: 1; height: 6px; background: var(--line); border-radius: 3px; overflow: hidden; }
+#bar div { height: 100%; background: var(--accent); width: 0; }
+main { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: 16px; padding: 16px; }
+#scan { background: var(--panel); border: 1px solid var(--line); overflow: auto; max-height: calc(100vh - 90px); position: sticky; top: 62px; }
+#scan img { width: 100%; display: block; cursor: zoom-in; }
+#scan.zoom img { width: 180%; cursor: zoom-out; }
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 12px 14px; margin-bottom: 12px; }
+.meta { color: var(--muted); font-size: 13px; }
+.task { font-weight: 600; margin: 4px 0 8px; }
+.versions { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.version h2 { font-size: 15px; margin: 0 0 6px; }
+.seg { border-left: 3px solid var(--line); padding: 4px 8px; margin: 6px 0; font-size: 13px; }
+.seg.diff { border-left-color: var(--accent); background: var(--mark); }
+.seg .k { font-weight: 600; font-size: 12px; text-transform: uppercase; letter-spacing: .03em; }
+.seg .sp { font-weight: 600; }
+.seg .runs { color: var(--muted); font-size: 12px; }
+.seg .t { color: #3b3a37; }
+.speaker { font-size: 20px; font-weight: 600; }
+.opening { font-size: 14px; color: #3b3a37; }
+.choices { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
+button { font: inherit; padding: 8px 14px; border: 1px solid var(--line); border-radius: 5px; background: var(--panel); cursor: pointer; }
+button.primary { border-color: var(--accent); color: var(--accent); font-weight: 600; }
+button.picked { background: var(--accent); color: #fff; }
+button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+textarea { width: 100%; min-height: 48px; font: inherit; margin-top: 8px; padding: 6px; border: 1px solid var(--line); border-radius: 5px; }
+nav { display: flex; gap: 8px; justify-content: space-between; margin-top: 10px; }
+.help { font-size: 13px; color: var(--muted); }
+kbd { border: 1px solid var(--line); border-radius: 3px; padding: 0 4px; font-size: 12px; background: var(--bg); }
+#saved { color: var(--ok); font-size: 13px; min-height: 18px; }
+@media (max-width: 900px) { main { grid-template-columns: 1fr; } #scan { position: static; max-height: 60vh; } .versions { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>Ślepy przegląd: podgląd bazy</h1>
+  <span id="progress"></span>
+  <div id="bar"><div></div></div>
+  <button id="nextOpen">Następna bez odpowiedzi</button>
+</header>
+<main>
+  <div id="scan"><img id="img" alt="skan strony"></div>
+  <div>
+    <div class="card">
+      <div class="meta" id="meta"></div>
+      <div class="task" id="task"></div>
+      <div class="help" id="hint"></div>
+    </div>
+    <div class="versions" id="versions"></div>
+    <div class="card">
+      <div class="choices" id="choices"></div>
+      <textarea id="note" placeholder="Notatka (opcjonalnie): co jest nie tak"></textarea>
+      <div id="saved"></div>
+      <nav><button id="prev">← Poprzednia</button><button id="next">Następna →</button></nav>
+      <p class="help">Klawisze: <kbd>1</kbd> A lepsze, <kbd>2</kbd> B lepsze, <kbd>3</kbd> obie dobre, <kbd>4</kbd> obie złe, <kbd>5</kbd> nie wiem, <kbd>←</kbd> <kbd>→</kbd> nawigacja. Kliknij skan, by powiększyć.</p>
+    </div>
+  </div>
+</main>
+<script>
+const CHOICES = [["A", "A lepsze"], ["B", "B lepsze"], ["both good", "Obie dobre"], ["both wrong", "Obie złe"], ["unsure", "Nie wiem"]];
+const KIND = { speech: "wypowiedź", chair: "przewodniczący", vote: "głosowanie", procedural: "proceduralne", heading: "nagłówek", closing: "zamknięcie", continuation: "ciąg dalszy", other: "inne" };
+let items = [], at = 0;
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+function segKey(s) { return [s.kind, (s.speaker || "").toUpperCase(), s.delegation || ""].join("|"); }
+
+function renderPage(it) {
+  const other = { A: it.B, B: it.A };
+  return ["A", "B"].map(v => {
+    const others = new Set(other[v].map(s => segKey(s) + "|" + s.text.slice(0, 40)));
+    const segs = it[v].map(s => {
+      const diff = !others.has(segKey(s) + "|" + s.text.slice(0, 40));
+      const who = s.speaker ? `<span class="sp">${esc(s.speaker)}</span>${s.delegation ? " (" + esc(s.delegation) + ")" : ""}` : (s.delegation ? esc(s.delegation) : "");
+      return `<div class="seg${diff ? " diff" : ""}"><span class="k">${esc(KIND[s.kind] || s.kind)}</span> ${who}
+        ${s.starts_here ? "" : '<span class="runs">(zaczęte na poprzedniej stronie)</span>'}<div class="t">${esc(s.text)}${s.text.length >= 219 ? ' <span class="runs">[… skrócone]</span>' : ''}</div></div>`;
+    }).join("");
+    return `<div class="card version"><h2>Wersja ${v} <span class="meta">(${it[v].length} tur)</span></h2>${segs}</div>`;
+  }).join("");
+}
+
+function renderSpeaker(it) {
+  return ["A", "B"].map(v => `<div class="card version"><h2>Wersja ${v}</h2>
+    <div class="speaker">${esc(it[v].speaker || "(brak)")}</div><div class="meta">${esc(it[v].delegation || "(brak delegacji)")}</div></div>`).join("");
+}
+
+function render() {
+  const it = items[at];
+  $("img").src = "/img/" + it.image;
+  $("meta").textContent = `${at + 1} / ${items.length} · ${it.symbol}, s. ${it.page}`;
+  if (it.kind === "page") {
+    $("task").textContent = "Która wersja dzieli tę stronę na tury zgodnie ze skanem?";
+    $("hint").innerHTML = "Sprawdź: gdzie zaczyna się każda tura, jej rodzaj, mówcę i delegację. Lista tur jest pełna (wszystkie, które zaczynają się na tej stronie lub z niej przechodzą), ale <b>tekst każdej tury jest celowo skrócony do początku</b> – nie oceniaj jego kompletności. Tekst w obu wersjach jest ten sam (jedno wspólne odczytanie); nazwisko na początku tury jest zakryte <b>▒▒▒</b> – odczytaj je ze skanu. Tury, którymi wersje się różnią, są podświetlone.";
+    $("versions").innerHTML = renderPage(it);
+  } else {
+    $("task").textContent = "Kto wygłosił tę wypowiedź? Która wersja podaje właściwego mówcę?";
+    $("hint").innerHTML = `Początek wypowiedzi (nazwisko zakryte, odczytaj je ze skanu):<div class="opening">${esc(it.opening)}</div>Pole mówcy ma dawać <b>zwykłe nazwisko osoby</b> (jak w listach obecności), także gdy maszynistka napisała je inaczej (SORENSON na stronie to SORENSEN). Ta sama osoba w dwóch dobrych pisowniach to „obie dobre”; pisownia zniekształcona to błąd.`;
+    $("versions").innerHTML = renderSpeaker(it);
+  }
+  $("choices").innerHTML = CHOICES.map(([c, label], k) =>
+    `<button data-c="${c}" class="${k < 2 ? "primary" : ""}${it.saved && it.saved.choice === c ? " picked" : ""}">${label}</button>`).join("");
+  $("note").value = it.saved ? it.saved.note : "";
+  $("saved").textContent = it.saved ? "Zapisane " + it.saved.at.replace("T", " ") : "";
+  const done = items.filter(i => i.saved).length;
+  $("progress").textContent = `${done} z ${items.length} ocenionych`;
+  $("bar").firstElementChild.style.width = (100 * done / items.length) + "%";
+  $("scan").scrollTop = 0;
+  window.scrollTo(0, 0);
+}
+
+async function answer(choice) {
+  const it = items[at];
+  const r = await fetch("/api/answer", { method: "POST", headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ id: it.id, choice, note: $("note").value }) });
+  if (!r.ok) { $("saved").textContent = "Błąd zapisu: " + await r.text(); return; }
+  it.saved = await r.json();
+  if (at < items.length - 1) at++;
+  render();
+}
+
+function go(d) { at = Math.max(0, Math.min(items.length - 1, at + d)); render(); }
+
+$("choices").addEventListener("click", e => { const c = e.target.dataset.c; if (c) answer(c); });
+$("prev").onclick = () => go(-1);
+$("next").onclick = () => go(1);
+$("nextOpen").onclick = () => { const k = items.findIndex(i => !i.saved); if (k >= 0) { at = k; render(); } };
+$("img").onclick = () => $("scan").classList.toggle("zoom");
+document.addEventListener("keydown", e => {
+  if (e.target.tagName === "TEXTAREA") return;
+  if (e.key >= "1" && e.key <= "5") answer(CHOICES[+e.key - 1][0]);
+  else if (e.key === "ArrowLeft") go(-1);
+  else if (e.key === "ArrowRight") go(1);
+});
+
+fetch("/api/items").then(r => r.json()).then(d => { items = d; const k = items.findIndex(i => !i.saved); at = k >= 0 ? k : 0; render(); });
+</script>
+</body>
+</html>

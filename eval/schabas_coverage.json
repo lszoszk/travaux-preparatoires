@@ -1,0 +1,400 @@
+{
+ "before": {
+  "all:all": {
+   "not aligned": 677,
+   "missed": 7200,
+   "covered": 1368,
+   "possible": 46
+  },
+  "kind:general debates": {
+   "not aligned": 289,
+   "missed": 1876,
+   "possible": 15
+  },
+  "article:1": {
+   "not aligned": 16,
+   "missed": 129,
+   "covered": 58
+  },
+  "article:5": {
+   "not aligned": 20,
+   "covered": 1,
+   "missed": 156
+  },
+  "article:7": {
+   "not aligned": 17,
+   "missed": 211,
+   "covered": 50,
+   "possible": 2
+  },
+  "article:19": {
+   "not aligned": 25,
+   "missed": 253,
+   "covered": 78,
+   "possible": 1
+  },
+  "article:21": {
+   "not aligned": 29,
+   "covered": 83,
+   "missed": 300,
+   "possible": 2
+  },
+  "article:23": {
+   "not aligned": 61,
+   "covered": 35,
+   "missed": 530,
+   "possible": 1
+  },
+  "article:24": {
+   "not aligned": 15,
+   "covered": 31,
+   "missed": 132
+  },
+  "article:25": {
+   "not aligned": 64,
+   "covered": 68,
+   "missed": 561,
+   "possible": 3
+  },
+  "article:26": {
+   "not aligned": 33,
+   "covered": 82,
+   "missed": 297
+  },
+  "article:29": {
+   "not aligned": 62,
+   "missed": 385,
+   "covered": 70,
+   "possible": 2
+  },
+  "kind:documents": {
+   "missed": 3668,
+   "not aligned": 149,
+   "covered": 426
+  },
+  "article:2": {
+   "missed": 522,
+   "not aligned": 33,
+   "covered": 47,
+   "possible": 10
+  },
+  "article:11": {
+   "missed": 289,
+   "covered": 47,
+   "possible": 6,
+   "not aligned": 15
+  },
+  "article:3": {
+   "missed": 171,
+   "covered": 39,
+   "possible": 3,
+   "not aligned": 18
+  },
+  "article:4": {
+   "missed": 122,
+   "covered": 12,
+   "not aligned": 2,
+   "possible": 1
+  },
+  "article:9": {
+   "missed": 162,
+   "possible": 1,
+   "not aligned": 11,
+   "covered": 60
+  },
+  "article:22": {
+   "missed": 209,
+   "covered": 39,
+   "not aligned": 10,
+   "possible": 2
+  },
+  "kind:article debates": {
+   "covered": 942,
+   "missed": 1656,
+   "possible": 31,
+   "not aligned": 239
+  },
+  "article:12": {
+   "missed": 132,
+   "covered": 44,
+   "not aligned": 8
+  },
+  "article:8": {
+   "missed": 150,
+   "covered": 5,
+   "not aligned": 8
+  },
+  "article:6": {
+   "covered": 36,
+   "missed": 161,
+   "not aligned": 19,
+   "possible": 1
+  },
+  "article:13": {
+   "covered": 51,
+   "missed": 255,
+   "not aligned": 17
+  },
+  "article:14": {
+   "covered": 73,
+   "missed": 221,
+   "not aligned": 15
+  },
+  "article:15": {
+   "covered": 52,
+   "missed": 236,
+   "not aligned": 24
+  },
+  "article:16": {
+   "covered": 61,
+   "missed": 290,
+   "not aligned": 28,
+   "possible": 1
+  },
+  "article:17": {
+   "covered": 43,
+   "missed": 282,
+   "not aligned": 22,
+   "possible": 1
+  },
+  "article:18": {
+   "covered": 56,
+   "missed": 246,
+   "not aligned": 21,
+   "possible": 2
+  },
+  "article:20": {
+   "covered": 50,
+   "missed": 289,
+   "not aligned": 36
+  },
+  "article:27": {
+   "covered": 37,
+   "missed": 173,
+   "not aligned": 18
+  },
+  "article:10": {
+   "missed": 216,
+   "not aligned": 16,
+   "covered": 28,
+   "possible": 2
+  },
+  "article:28": {
+   "missed": 68,
+   "covered": 12,
+   "not aligned": 6,
+   "possible": 5
+  },
+  "article:30": {
+   "missed": 52,
+   "covered": 20,
+   "not aligned": 8
+  },
+  "ours_only_pairs": 233
+ },
+ "after-possible": {
+  "all:all": {
+   "not aligned": 677,
+   "missed": 4907,
+   "possible": 2339,
+   "covered": 1368
+  },
+  "kind:general debates": {
+   "not aligned": 289,
+   "possible": 1723,
+   "missed": 168
+  },
+  "article:1": {
+   "not aligned": 16,
+   "missed": 94,
+   "possible": 35,
+   "covered": 58
+  },
+  "article:5": {
+   "not aligned": 20,
+   "covered": 1,
+   "missed": 96,
+   "possible": 60
+  },
+  "article:7": {
+   "not aligned": 17,
+   "missed": 125,
+   "possible": 88,
+   "covered": 50
+  },
+  "article:19": {
+   "not aligned": 25,
+   "missed": 176,
+   "covered": 78,
+   "possible": 78
+  },
+  "article:21": {
+   "not aligned": 29,
+   "covered": 83,
+   "missed": 173,
+   "possible": 129
+  },
+  "article:23": {
+   "not aligned": 61,
+   "covered": 35,
+   "missed": 375,
+   "possible": 156
+  },
+  "article:24": {
+   "not aligned": 15,
+   "covered": 31,
+   "possible": 31,
+   "missed": 101
+  },
+  "article:25": {
+   "not aligned": 64,
+   "covered": 68,
+   "missed": 425,
+   "possible": 139
+  },
+  "article:26": {
+   "not aligned": 33,
+   "covered": 82,
+   "possible": 106,
+   "missed": 191
+  },
+  "article:29": {
+   "not aligned": 62,
+   "possible": 118,
+   "missed": 269,
+   "covered": 70
+  },
+  "kind:documents": {
+   "missed": 3668,
+   "not aligned": 149,
+   "covered": 426
+  },
+  "article:2": {
+   "missed": 319,
+   "not aligned": 33,
+   "covered": 47,
+   "possible": 213
+  },
+  "article:11": {
+   "possible": 103,
+   "covered": 47,
+   "missed": 192,
+   "not aligned": 15
+  },
+  "article:3": {
+   "missed": 132,
+   "covered": 39,
+   "possible": 42,
+   "not aligned": 18
+  },
+  "article:4": {
+   "missed": 103,
+   "covered": 12,
+   "possible": 20,
+   "not aligned": 2
+  },
+  "article:9": {
+   "missed": 136,
+   "possible": 27,
+   "not aligned": 11,
+   "covered": 60
+  },
+  "article:22": {
+   "missed": 147,
+   "possible": 64,
+   "covered": 39,
+   "not aligned": 10
+  },
+  "kind:article debates": {
+   "covered": 942,
+   "missed": 1071,
+   "possible": 616,
+   "not aligned": 239
+  },
+  "article:12": {
+   "possible": 18,
+   "covered": 44,
+   "missed": 114,
+   "not aligned": 8
+  },
+  "article:8": {
+   "missed": 103,
+   "possible": 47,
+   "covered": 5,
+   "not aligned": 8
+  },
+  "article:6": {
+   "covered": 36,
+   "missed": 85,
+   "possible": 77,
+   "not aligned": 19
+  },
+  "article:13": {
+   "covered": 51,
+   "missed": 158,
+   "possible": 97,
+   "not aligned": 17
+  },
+  "article:14": {
+   "covered": 73,
+   "missed": 138,
+   "possible": 83,
+   "not aligned": 15
+  },
+  "article:15": {
+   "covered": 52,
+   "missed": 152,
+   "not aligned": 24,
+   "possible": 84
+  },
+  "article:16": {
+   "covered": 61,
+   "possible": 130,
+   "missed": 161,
+   "not aligned": 28
+  },
+  "article:17": {
+   "covered": 43,
+   "missed": 206,
+   "possible": 77,
+   "not aligned": 22
+  },
+  "article:18": {
+   "covered": 56,
+   "missed": 199,
+   "not aligned": 21,
+   "possible": 49
+  },
+  "article:20": {
+   "covered": 50,
+   "missed": 212,
+   "not aligned": 36,
+   "possible": 77
+  },
+  "article:27": {
+   "covered": 37,
+   "possible": 62,
+   "not aligned": 18,
+   "missed": 111
+  },
+  "article:10": {
+   "missed": 155,
+   "not aligned": 16,
+   "covered": 28,
+   "possible": 63
+  },
+  "article:28": {
+   "possible": 48,
+   "missed": 25,
+   "covered": 12,
+   "not aligned": 6
+  },
+  "article:30": {
+   "missed": 34,
+   "possible": 18,
+   "covered": 20,
+   "not aligned": 8
+  },
+  "ours_only_pairs": 233
+ }
+}

@@ -1,0 +1,900 @@
+[
+ {
+  "label": "s77f-old",
+  "i": 0,
+  "page_ok": false,
+  "speeches_on_image": 13,
+  "errors": [
+   {
+    "type": "wrong_kind",
+    "segment_id": "a_c.3_sr.948-0023",
+    "detail": "The scan prints the heading 'DRAFT RESOLUTION ON THE WORLD REFUGEE YEAR (A/C.3/L.782) (concluded)' on its own after para. 22. The segment leaves it inside the chair's turn ('the correction would be noted.')."
+   },
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "a_c.3_sr.948-0029",
+    "detail": "The Cuevas Cancino speech ends with the rest of footnote 2/ ('at Geneva, Switzerland, from 2 to 25 July 1951, Final Act and Convention ... Sales No.: 1951.IV.4)'). Footnote segment 0036 keeps only its first line. Footnote 1/ ('See paragraphs 21 and 22 below') has no footnote segment either."
+   }
+  ]
+ },
+ {
+  "label": "s77f-old",
+  "i": 1,
+  "page_ok": false,
+  "speeches_on_image": 2,
+  "errors": [
+   {
+    "type": "wrong_kind",
+    "segment_id": "a_c.3_sr.116-0002",
+    "detail": "The agenda item '40. Draft international declaration of human rights (E/800) (continued)' is a bold heading, but the segment is kind procedural, not heading."
+   },
+   {
+    "type": "text_missing",
+    "segment_id": "a_c.3_sr.116-0005",
+    "detail": "Footnote segment holds only the first line of footnote 1 (opening equals ending). The rest ('session of the General Assembly, Sixth Committee, annex 13b.') and footnote 2 ('Ibid., 32nd meeting.') are in no segment shown."
+   }
+  ]
+ },
+ {
+  "label": "s77f-old",
+  "i": 2,
+  "page_ok": false,
+  "speeches_on_image": 1,
+  "errors": [
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "Foot of right column prints footnotes 1 (Official Records of ECOSOC, Fourteenth Session, Supplement No. 4, para. 61) and 2 (Ibid., paras. 62 and 68); no footnote segment exists for this page (may be dropped or left inside Morozov's text)."
+   }
+  ]
+ },
+ {
+  "label": "s77f-old",
+  "i": 3,
+  "page_ok": false,
+  "speeches_on_image": 8,
+  "errors": [
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "Two footnotes at the foot of the left column (a: Official Records of the GA, Third Session, Part I, Plenary Meetings, 174th meeting; 4: Ibid., 186th meeting) have no footnote segment; they may be buried in Azkoul's speech (a_c.3_sr.409-0032)."
+   }
+  ]
+ },
+ {
+  "label": "s77f-old",
+  "i": 4,
+  "page_ok": false,
+  "speeches_on_image": 2,
+  "errors": [
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "a_c.3_sr.769-0005",
+    "detail": "Footnote 2/ at the foot of the left column ('Ibid., Twenty-fourth Session, Supplement No.10, annex II, resolution II.') is left at the end of Epinat's speech instead of being its own footnote segment."
+   }
+  ]
+ },
+ {
+  "label": "s77f-old",
+  "i": 5,
+  "page_ok": false,
+  "speeches_on_image": 9,
+  "errors": [
+   {
+    "type": "missed_turn",
+    "segment_id": "a_c.3_sr.1338-0006",
+    "detail": "Para 4, Mr. BELTRAMINO (Argentina) announcing the sponsors' revised second amendment, is a separate turn but sits inside procedural segment 0006 after the suspension note."
+   },
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "a_c.3_sr.1338-0006",
+    "detail": "The left-column footnote '*Resumed from the 1335th meeting.' appears in 0006's opening text. It is not a separate footnote segment."
+   },
+   {
+    "type": "text_missing",
+    "segment_id": "a_c.3_sr.1338-0006",
+    "detail": "The start of para 4, '4. Mr. BELTRAMINO (Argentina) announced that the sponsors of the fourteen-Power amendments', is missing. 0006 jumps from the footnote to '(A/C.3/L.1280/Rev.1) had agreed...'."
+   },
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "No listed heading segment holds 'AGENDA ITEM 54 / World social situation (concluded) ... CONSIDERATION OF DRAFT RESOLUTIONS (concluded)'. The first listed segment is para 1 (Zuloaga)."
+   },
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "Footnote 1/ at the foot of the right column ('The revised text of the second amendment ... A/C.3/L.1280/Rev.2') has no footnote segment. It may be inside 0011, which runs onto page 2."
+   }
+  ]
+ },
+ {
+  "label": "s77f-old",
+  "i": 6,
+  "page_ok": true,
+  "speeches_on_image": 4,
+  "errors": []
+ },
+ {
+  "label": "s77f-old",
+  "i": 7,
+  "page_ok": false,
+  "speeches_on_image": 13,
+  "errors": [
+   {
+    "type": "missed_turn",
+    "segment_id": "a_c.3_sr.637-0028",
+    "detail": "Para 31, Mr. RODRIGUEZ FABREGAT (Uruguay), starts at the foot of column 1, but there is no segment for it. Bernardino's segment ends with his text ('...replaced by a declaration of principle'), so the two turns are merged."
+   },
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "Footnote 3 at the foot of column 1 ('Ibid., document A/C.3/L.427 (incorporated in A/2808 and Corr.1, para. 42).') has no footnote segment. It may be buried unseen inside segment 0028."
+   }
+  ]
+ },
+ {
+  "label": "s77f-old",
+  "i": 8,
+  "page_ok": false,
+  "speeches_on_image": 4,
+  "errors": [
+   {
+    "type": "wrong_speaker",
+    "segment_id": "a_c.3_sr.1416-0004",
+    "detail": "Page prints para 6 as 'Mr. DAS (Secretary of the Committee)'. The segment gives the speaker as DAES, a different person, not an OCR variant."
+   },
+   {
+    "type": "wrong_delegation",
+    "segment_id": "a_c.3_sr.1416-0004",
+    "detail": "Das speaks as Secretary of the Committee (Secretariat), but the segment's delegation is Greece."
+   },
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "Footnote 1/ at the foot of the right column (Official Records of ECOSOC, Fortieth Session, Annexes, agenda item 9, E/4144, paras. 32 and 33) has no footnote segment. It is either missing or left inside a speech."
+   }
+  ]
+ },
+ {
+  "label": "s77f-old",
+  "i": 9,
+  "page_ok": false,
+  "speeches_on_image": 1,
+  "errors": [
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "Footnote 5 at the foot of the left column (Official Records of the General Assembly, Seventh Session, Annexes, agenda item 25, A/C.2/L.165...) has no footnote segment. It is either lost or left inside Lord's speech 0006."
+   }
+  ]
+ },
+ {
+  "label": "s77f-old",
+  "i": 10,
+  "page_ok": false,
+  "speeches_on_image": 8,
+  "errors": [
+   {
+    "type": "wrong_kind",
+    "segment_id": "a_c.3_sr.667-0023",
+    "detail": "Chair's para 29 segment runs on through the italic roll-call notes (request of Cuba, Lebanon drawn by lot) and the In favour/Against/Abstaining lists; the roll-call block should be set apart from the chair's turn."
+   },
+   {
+    "type": "wrong_kind",
+    "segment_id": "a_c.3_sr.667-0034",
+    "detail": "Footnotes 1 (United Nations publication, Sales No.: 1955.IV.1) and 2 (Resumed from 659th meeting) are inside the closing segment instead of separate footnote segments."
+   },
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "a_c.3_sr.667-0034",
+    "detail": "Closing segment ends with garbled 'A tre ncsShrhreere,', apparently the printer's line (Printed in Canada / M-77301-January 1956) left in the text."
+   }
+  ]
+ },
+ {
+  "label": "s77f-old",
+  "i": 11,
+  "page_ok": false,
+  "speeches_on_image": 7,
+  "errors": [
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "The footnote at the foot of the right column ('1/ United Nations publication, Sales No.: 59.IV.2.') has no footnote segment. It is either dropped or buried inside SHEN's speech 0012, which runs onto p.2."
+   },
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "The opening heading 'AGENDA ITEM 64 / Draft Declaration of the Rights of the Child (A/C.3/L.763/Rev.1) (concluded) / DRAFT RESOLUTION SUBMITTED BY AFGHANISTAN' is in no listed segment. The list starts at 0002, so 0001 may hold it without page data."
+   }
+  ]
+ },
+ {
+  "label": "s77f-old",
+  "i": 12,
+  "page_ok": false,
+  "speeches_on_image": 5,
+  "errors": [
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "Footnote 1 at the foot of the right column ('See Official Records of the Economic and Social Council Twenty-second Session, Supplement No. 4, para. 139') has no footnote segment; it is either dropped or hidden inside Stabel's 0013, which runs on to page 4."
+   }
+  ]
+ },
+ {
+  "label": "s77f-old",
+  "i": 13,
+  "page_ok": false,
+  "speeches_on_image": 6,
+  "errors": [
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "Footnote 1 at foot of left column ('Official Records of the General Assembly, Ninth Session, Annexes, agenda item 58, document A/C.3/L.412 ...') has no footnote segment; Gilson's segment ends at 'voted on before others.'"
+   },
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "Headings 'AGENDA ITEM 28 / Draft International Covenants on Human Rights (E/2573 ... A/C.3/L.474) (continued)', 'General discussion (continued)' and 'Preamble (continued)' before para. 1 appear in no listed segment (no heading segment)."
+   }
+  ]
+ },
+ {
+  "label": "s77f-old",
+  "i": 14,
+  "page_ok": false,
+  "speeches_on_image": 1,
+  "errors": [
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "Left-column footnotes 2-4 ('Ibid., para. 26'; 'Ibid., Eighteenth Session, Supplement No. 6, chap. IV'; 'Ibid., Twentieth Session, Supplement No. 2, chap. VI') have no footnote segment for this page."
+   },
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "Right-column footnotes 5-6 ('Ibid., para. 97'; 'Ibid., Twentieth Session, 890th meetings') have no footnote segment for this page."
+   }
+  ]
+ },
+ {
+  "label": "s77f-old",
+  "i": 15,
+  "page_ok": false,
+  "speeches_on_image": 0,
+  "errors": [
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "Two footnotes sit at the foot of the right column: 1, Georges Scelle, Précis de droit des gens, p. 259; 2, Ibid., p. 262. No footnote segment exists for them. They may be inside Azmi's speech text, but the opening and ending given do not show it."
+   }
+  ]
+ },
+ {
+  "label": "s77f-old",
+  "i": 16,
+  "page_ok": false,
+  "speeches_on_image": 6,
+  "errors": [
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "e_cn.4_sr.363-0031",
+    "detail": "The footnote at the foot of the page ('1 Subsequently reproduced as document E/CN.4/L.255.') is inside the closing segment ('The meeting rose at 6 p.m.'). It should be its own footnote segment."
+   }
+  ]
+ },
+ {
+  "label": "s77f-old",
+  "i": 17,
+  "page_ok": false,
+  "speeches_on_image": 1,
+  "errors": [
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "Footnote 1 at the foot of the English column ('1 Resumed from the 199th meeting.') has no footnote segment; only footnote 2 (e_sr.201-0004) is a segment. It is missing or buried in the President's turn."
+   }
+  ]
+ },
+ {
+  "label": "s77f-old",
+  "i": 18,
+  "page_ok": false,
+  "speeches_on_image": 0,
+  "errors": [
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "Page foot has footnote 1 ('See FAO Report of the third session of the Conference, Resolutions, page 6.') but no footnote segment exists; it is either dropped or merged into Dodd's speech (a_pv.147-0006)."
+   }
+  ]
+ },
+ {
+  "label": "s77f-old",
+  "i": 19,
+  "page_ok": false,
+  "speeches_on_image": 4,
+  "errors": [
+   {
+    "type": "other_column_or_page_text",
+    "segment_id": "e_sr.218-0002",
+    "detail": "Rudzinski's vote explanation is in the 217th meeting's tail, printed above the 'Two hundred and eighteenth meeting' title. The segment files it under E/SR.218, the wrong meeting."
+   },
+   {
+    "type": "other_column_or_page_text",
+    "segment_id": "e_sr.218-0003",
+    "detail": "Santa Cruz's explanation of his abstention on draft resolution C is in the 217th meeting's tail, above the 218th meeting's title. The segment files it under E/SR.218."
+   },
+   {
+    "type": "other_column_or_page_text",
+    "segment_id": "e_sr.218-0004",
+    "detail": "The 'Draft resolution D was adopted by 15 votes to 2' vote result closes the 217th meeting, not the 218th, yet it is filed under E/SR.218."
+   },
+   {
+    "type": "missed_turn",
+    "segment_id": "e_sr.218-0005",
+    "detail": "The President's announcement that the Council would hear the remaining general statements is a chair turn. It sits inside the 'closing' segment, along with the 217th meeting's 'meeting rose' line and the 218th meeting's title."
+   },
+   {
+    "type": "wrong_kind",
+    "segment_id": "e_sr.218-0005",
+    "detail": "The agenda heading '75. Continuation of the discussion on the Report of the third session of the Commission on Human Rights (E/800...E/1009)' sits inside the closing segment instead of having its own heading segment."
+   },
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "Neither footnote at the foot of the English column ('1 Resumed from the 215th meeting.' and '2 See Supplement No. 2 (E/800).') has a footnote segment."
+   }
+  ]
+ },
+ {
+  "label": "s77f-old",
+  "i": 20,
+  "page_ok": false,
+  "speeches_on_image": 2,
+  "errors": [
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "The heading '101. Adoption of the agenda' above the President's turn is in no listed segment. The chair segment opens directly with 'The PRESIDENT', and no heading segment is listed for this page."
+   },
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "Footnotes 1-5 at the foot of the English column ('This document incorporates A/66 and A/118', 'See Agenda, items 56 to 58', 'Ibidem...') have no footnote segment on this page."
+   }
+  ]
+ },
+ {
+  "label": "s77f-old",
+  "i": 21,
+  "page_ok": false,
+  "speeches_on_image": 0,
+  "errors": [
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "The page has two English footnotes: 1 (San Francisco documents, Vol. I, p. 171) and 2 'Ibid., Volume VIII, page 62.' Only footnote 1 is a segment (a_pv.145-0005). Footnote 2 is in no footnote segment, and may have been left in the speech."
+   },
+   {
+    "type": "wrong_speaker",
+    "segment_id": "a_pv.145-0004",
+    "detail": "The continuing speech is credited to Marshall (USA). Its opening starts mid-sentence on a cited reference, 'Mr. Marshall (139th meeting)', alongside Bevin and Thorn. On this page the speaker reports others' views in the third person, so Marshall is quoted, not speaking. The turn starts on p3."
+   }
+  ]
+ },
+ {
+  "label": "s77f-old",
+  "i": 22,
+  "page_ok": true,
+  "speeches_on_image": 0,
+  "errors": []
+ },
+ {
+  "label": "s77f-old",
+  "i": 23,
+  "page_ok": false,
+  "speeches_on_image": 3,
+  "errors": [
+   {
+    "type": "wrong_kind",
+    "segment_id": "e_sr.202-0009",
+    "detail": "The chair's turn from p2 runs on through the italic 'The voting was as follows:', the vote counts and the italic decision 'China and Australia were elected members...'. These are vote results and a decision, not part of the President's turn."
+   },
+   {
+    "type": "wrong_kind",
+    "segment_id": "e_sr.202-0010",
+    "detail": "The President's announcement keeps the italic 'The voting was as follows:', the Fiscal Commission counts and the italic decision 'The United States of America, New Zealand... were elected' inside the chair turn."
+   },
+   {
+    "type": "wrong_kind",
+    "segment_id": "e_sr.202-0011",
+    "detail": "The President's announcement keeps the italic voting line, the Population Commission counts and the italic decision 'The Union of Soviet Socialist Republics... were elected' inside the chair turn."
+   },
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "e_sr.202-0013",
+    "detail": "The footnote at the foot of the column, '1 Resumed from the 201st meeting.', is at the end of the President's turn. It is not a separate footnote segment."
+   }
+  ]
+ },
+ {
+  "label": "s77f-old",
+  "i": 24,
+  "page_ok": false,
+  "speeches_on_image": 0,
+  "errors": [
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "English footnote 1 at foot of left column ('See Documents of the United Nations Conference on International Organization, San Francisco, 1945, Volume VIII, page 52.') has no footnote segment; only footnote 2 (a_pv.145-0010) does. Possibly left inside speech text."
+   },
+   {
+    "type": "wrong_speaker",
+    "segment_id": "a_pv.145-0004",
+    "detail": "Continuing speech on this page (quoting Truman, Mudaliar on ECOSOC) attributed to Marshall (USA), but segment opening cites 'Mr. Marshall (139th meeting)' in third person alongside Bevin and Thorn: the speaker is someone else, not Marshall."
+   }
+  ]
+ },
+ {
+  "label": "s77f-old",
+  "i": 25,
+  "page_ok": false,
+  "speeches_on_image": 0,
+  "errors": [
+   {
+    "type": "wrong_kind",
+    "segment_id": "e_pv.84-0070",
+    "detail": "The page is annex text: the end of an amendment and Annex 20, a Netherlands draft resolution (E/387). Nobody speaks on it. The segment marks this document text, which runs over pp. 72-79, as kind chair."
+   },
+   {
+    "type": "wrong_kind",
+    "segment_id": "e_pv.84-0070",
+    "detail": "The heading 'ANNEX 20 / Draft resolution submitted by the Netherlands delegation on foreign exchange problems...' is left inside the long chair segment. It is not a separate heading segment."
+   }
+  ]
+ },
+ {
+  "label": "s77f-old",
+  "i": 26,
+  "page_ok": false,
+  "speeches_on_image": 0,
+  "errors": [
+   {
+    "type": "wrong_kind",
+    "segment_id": "e_pv.84-0052",
+    "detail": "The page is annex text: the end of Annex 2 (narcotics costs) and the start of Annex 3 (Report of the Secretary-General, E/287). It sits in one 'closing' segment covering pp. 11-36. The ANNEX 3 heading and title have no segment of their own."
+   },
+   {
+    "type": "text_missing",
+    "segment_id": "e_pv.84-0054",
+    "detail": "The footnote segment stops at 'Supplement No. 1,'. The image continues with 'page 10.' and footnote 2, 'Ibid., pages 58 and 59.', but no footnote segment holds that second footnote."
+   }
+  ]
+ },
+ {
+  "label": "s77f-new",
+  "i": 0,
+  "page_ok": false,
+  "speeches_on_image": 13,
+  "errors": [
+   {
+    "type": "wrong_kind",
+    "segment_id": "a_c.3_sr.948-0023",
+    "detail": "The agenda heading 'DRAFT RESOLUTION ON THE WORLD REFUGEE YEAR (A/C.3/L.782) (concluded)', printed centred between paras 22 and 23, is left inside the chair's turn (para 22). It should be its own heading segment."
+   },
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "a_c.3_sr.948-0029",
+    "detail": "The Cuevas Cancino speech (para 26) ends with the rest of footnote 2/ ('at Geneva, Switzerland, from 2 to 25 July 1951, Final Act and Convention ... Sales No.: 1951.IV.4)'). Footnote segment 0037 holds only its first line."
+   }
+  ]
+ },
+ {
+  "label": "s77f-new",
+  "i": 1,
+  "page_ok": false,
+  "speeches_on_image": 1,
+  "errors": [
+   {
+    "type": "text_missing",
+    "segment_id": "a_c.3_sr.116-0005",
+    "detail": "Footnote 1 has three lines on the image ('...first session of the General Assembly, Sixth Committee, annex 13b.'); the segment's opening and ending are both only the first line, so the rest is in no footnote segment."
+   }
+  ]
+ },
+ {
+  "label": "s77f-new",
+  "i": 2,
+  "page_ok": false,
+  "speeches_on_image": 1,
+  "errors": [
+   {
+    "type": "text_missing",
+    "segment_id": "a_c.3_sr.646-0005",
+    "detail": "The foot of the page prints two footnotes: 1 (Official Records of ECOSOC, 14th session) and 2 ('Ibid., paras. 62 and 68.'). The footnote segment holds only footnote 1. Footnote 2 is in no footnote segment and may be missing or left inside the speech text."
+   }
+  ]
+ },
+ {
+  "label": "s77f-new",
+  "i": 3,
+  "page_ok": false,
+  "speeches_on_image": 8,
+  "errors": [
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "The page has two footnotes: 3, 'See Official Records ... 174th meeting', and 4, 'Ibid., 186th meeting.' Only footnote 3 has a segment (a_c.3_sr.409-0037). Footnote 4 is in no segment."
+   }
+  ]
+ },
+ {
+  "label": "s77f-new",
+  "i": 4,
+  "page_ok": false,
+  "speeches_on_image": 2,
+  "errors": [
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "a_c.3_sr.769-0005",
+    "detail": "The second line of footnote 2/ ('II, resolution II.') ends Epinat's speech ('...shape the world to their desire. II, resolution II.'). Because of this, the footnote segment stops at 'annex'."
+   }
+  ]
+ },
+ {
+  "label": "s77f-new",
+  "i": 5,
+  "page_ok": false,
+  "speeches_on_image": 9,
+  "errors": [
+   {
+    "type": "missed_turn",
+    "segment_id": "a_c.3_sr.1338-0006",
+    "detail": "Procedural note 'The meeting was suspended ... resumed at 11.25 a.m.' runs straight into paragraph 4 (Mr. BELTRAMINO, Argentina, announcing the sponsors' revision). Beltramino's turn has no segment of its own."
+   },
+   {
+    "type": "text_missing",
+    "segment_id": "a_c.3_sr.1338-0006",
+    "detail": "Opening of para 4, '4. Mr. BELTRAMINO (Argentina) announced that the sponsors of the fourteen-Power amendments', is missing. Segment jumps from 'resumed at 11.25 a.m.' to '(A/C.3/L.1280/Rev.1) had agreed'."
+   },
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "Footnote 1/ at the foot of the right column ('The revised text of the second amendment ... circulated as document A/C.3/L.1280/Rev.2.') has no footnote segment. Only the * footnote (0012) exists. It may sit inside Mironova's speech 0011."
+   }
+  ]
+ },
+ {
+  "label": "s77f-new",
+  "i": 6,
+  "page_ok": false,
+  "speeches_on_image": 4,
+  "errors": [
+   {
+    "type": "other_column_or_page_text",
+    "segment_id": "a_c.3_sr.120-0062",
+    "detail": "The footnote 'Article 15 of the draft universal declaration (A/777)' belongs to the 'ARTICLE 12' heading of the 121st meeting further down the page. It is held as a footnote of SR.120, which ends with 'The meeting rose at 6 p.m.'"
+   }
+  ]
+ },
+ {
+  "label": "s77f-new",
+  "i": 7,
+  "page_ok": false,
+  "speeches_on_image": 13,
+  "errors": [
+   {
+    "type": "missed_turn",
+    "segment_id": "a_c.3_sr.637-0029",
+    "detail": "Para. 31, Mr. RODRIGUEZ FABREGAT (Uruguay), starts at the foot of the left column and runs into the right column. It has no segment of its own: Bernardino's segment (para. 30) ends with his text ('...replaced by a declaration of principle')."
+   }
+  ]
+ },
+ {
+  "label": "s77f-new",
+  "i": 8,
+  "page_ok": false,
+  "speeches_on_image": 4,
+  "errors": [
+   {
+    "type": "wrong_speaker",
+    "segment_id": "a_c.3_sr.1416-0004",
+    "detail": "Para. 6 is printed 'Mr. DAS (Secretary of the Committee)', but the segment names the speaker DAES. That is a different person (Daes of Greece), not a spelling variant of the same name."
+   },
+   {
+    "type": "wrong_delegation",
+    "segment_id": "a_c.3_sr.1416-0004",
+    "detail": "The image prints 'Secretary of the Committee' (Secretariat) for Mr. Das, but the segment gives the delegation as Greece."
+   }
+  ]
+ },
+ {
+  "label": "s77f-new",
+  "i": 9,
+  "page_ok": false,
+  "speeches_on_image": 1,
+  "errors": [
+   {
+    "type": "text_missing",
+    "segment_id": "a_c.3_sr.646-0010",
+    "detail": "Footnote 5 on the image ends 'Corr.1 and 2, and A/C.2/L.165/Rev.1.'; the footnote segment (opening = ending, so it is the full text) stops at 'Corr.1'. Its last line is not in this segment."
+   }
+  ]
+ },
+ {
+  "label": "s77f-new",
+  "i": 10,
+  "page_ok": false,
+  "speeches_on_image": 8,
+  "errors": [
+   {
+    "type": "wrong_kind",
+    "segment_id": "a_c.3_sr.667-0023",
+    "detail": "The chair segment for para. 29 runs on through the italic notes ('At the request of the representative of Cuba, a vote was taken by roll-call', 'Lebanon, having been drawn by lot...') and the whole roll-call list (In favour / Against / Abstaining). These should be separate procedural or vote segments."
+   },
+   {
+    "type": "other",
+    "segment_id": "a_c.3_sr.667-0034",
+    "detail": "The closing segment 'The meeting rose at 4.35 p.m.' ends with OCR junk 'A tre ncsShrhreere,', which is probably the footnote rule line read as text."
+   }
+  ]
+ },
+ {
+  "label": "s77f-new",
+  "i": 11,
+  "page_ok": false,
+  "speeches_on_image": 7,
+  "errors": [
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "The opening heading 'AGENDA ITEM 64 / Draft Declaration of the Rights of the Child (A/C.3/L.763/Rev.1) (concluded) / DRAFT RESOLUTION SUBMITTED BY AFGHANISTAN' before para 1 is in no segment, though Agenda item 12's heading has one (0011)."
+   }
+  ]
+ },
+ {
+  "label": "s77f-new",
+  "i": 12,
+  "page_ok": true,
+  "speeches_on_image": 5,
+  "errors": []
+ },
+ {
+  "label": "s77f-new",
+  "i": 13,
+  "page_ok": false,
+  "speeches_on_image": 6,
+  "errors": [
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "Headings above para. 1 ('AGENDA ITEM 28 / Draft International Covenants on Human Rights (E/2573 ...) (continued)', 'General discussion (continued)', 'Preamble (continued)') appear in no listed segment; the first segment is 0002 (Gilson)."
+   },
+   {
+    "type": "text_missing",
+    "segment_id": "a_c.3_sr.639-0008",
+    "detail": "Footnote 1 is cut off after its first line, ending at '(incorporated'. The second line, 'in A/2808 and Corr.1, para. 41).', is not in the footnote segment (its opening and ending are the same short string)."
+   }
+  ]
+ },
+ {
+  "label": "s77f-new",
+  "i": 14,
+  "page_ok": false,
+  "speeches_on_image": 1,
+  "errors": [
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "Footnote 6 at the foot of the right column ('Ibid., Twentieth Session, 890th meetings.') has no footnote segment. Footnotes 2-5 have segments. Footnote 6 may have been left inside the Zeelenberg speech (0027)."
+   }
+  ]
+ },
+ {
+  "label": "s77f-new",
+  "i": 15,
+  "page_ok": false,
+  "speeches_on_image": 0,
+  "errors": [
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "The page has two footnotes at the foot of the right column. Footnote 2 ('Ibid., p. 262.') has its own segment. Footnote 1 ('Georges Scelle, Précis de droit des gens—Principes et systématique, part II, chap. 1, section VIII, p. 259.') is not a footnote segment on this page."
+   }
+  ]
+ },
+ {
+  "label": "s77f-new",
+  "i": 16,
+  "page_ok": true,
+  "speeches_on_image": 6,
+  "errors": []
+ },
+ {
+  "label": "s77f-new",
+  "i": 17,
+  "page_ok": false,
+  "speeches_on_image": 1,
+  "errors": [
+   {
+    "type": "wrong_kind",
+    "segment_id": "e_sr.201-0002",
+    "detail": "The bold numbered agenda-item heading '47. Continuation of the discussion on working arrangements for the session (E/965 and E/979)' is its own segment, but it is marked kind 'procedural' rather than 'heading'. The same heading in E/SR.202 is marked 'heading'."
+   }
+  ]
+ },
+ {
+  "label": "s77f-new",
+  "i": 18,
+  "page_ok": false,
+  "speeches_on_image": 0,
+  "errors": [
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "a_pv.147-0007",
+    "detail": "The English footnote 1 ('See FAO Report of the third session of the Conference, Resolutions, page 6.') is correctly its own segment. But its text ends with the running-header date '28 September 1948', which is page furniture."
+   }
+  ]
+ },
+ {
+  "label": "s77f-new",
+  "i": 19,
+  "page_ok": false,
+  "speeches_on_image": 4,
+  "errors": [
+   {
+    "type": "missed_turn",
+    "segment_id": "e_sr.218-0005",
+    "detail": "The President's turn ('The PRESIDENT announced that the Council would hear the remainder of the series of general statements...') is inside closing segment 0005 instead of being a separate chair segment."
+   },
+   {
+    "type": "wrong_kind",
+    "segment_id": "e_sr.218-0005",
+    "detail": "Closing segment 0005 also holds the 218th meeting's title block (Held at..., President, Acting President) and agenda heading '75. Continuation of the discussion on the Report... (E/800... E/1009)'. These should be separate heading segments."
+   },
+   {
+    "type": "other_column_or_page_text",
+    "segment_id": "e_sr.218-0002",
+    "detail": "The top of the page is the end of the 217th meeting (it rose at 1.15 p.m.). Segments 0002 (Rudzinski), 0003 (Santa Cruz) and vote 0004 are filed under E/SR.218, which is a different meeting."
+   },
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "The first line, the italic vote 'Draft resolution C was adopted by 12 votes to none, with 6 abstentions.', is in none of this page's segments."
+   },
+   {
+    "type": "text_missing",
+    "segment_id": "e_sr.218-0007",
+    "detail": "Footnote 2 'See Supplement No. 2 (E/800).' has no footnote segment. Footnote segment 0007 holds only footnote 1. Footnote 2 is either missing or buried inside speech 0006."
+   }
+  ]
+ },
+ {
+  "label": "s77f-new",
+  "i": 20,
+  "page_ok": false,
+  "speeches_on_image": 1,
+  "errors": [
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "The heading '101. Adoption of the agenda' above the President's turn is in no segment. The page's segments are only the chair turn and footnote 1."
+   },
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "English footnotes 2-5 at the foot of the column ('See Agenda, items 56 to 58'; 'Ibidem, items 1 to 34'; 'items 35 to 46'; 'item 54') are in no segment. The footnote segment holds only footnote 1."
+   }
+  ]
+ },
+ {
+  "label": "s77f-new",
+  "i": 21,
+  "page_ok": false,
+  "speeches_on_image": 0,
+  "errors": [
+   {
+    "type": "other_column_or_page_text",
+    "segment_id": "a_pv.145-0007",
+    "detail": "This footnote segment is the French column's footnote 2 ('Ibid., tome VIII, page 76'), mis-numbered 3 by OCR. The English footnote 2 is already segment 0006, so this is other-language text."
+   },
+   {
+    "type": "wrong_speaker",
+    "segment_id": "a_pv.145-0004",
+    "detail": "The turn starts on p.3, so the speaker is not visible here. The opening is mid-sentence: the speaker cites Marshall, Bevin and Thorn, so MARSHALL (USA) looks taken from the citation, not from the speaker."
+   }
+  ]
+ },
+ {
+  "label": "s77f-new",
+  "i": 22,
+  "page_ok": false,
+  "speeches_on_image": 0,
+  "errors": [
+   {
+    "type": "other_column_or_page_text",
+    "segment_id": "a_pv.148-0015",
+    "detail": "The English column has three footnotes (1 See Official Records, 2 Ibid. page 22, 3 Ibid. First Year No. 1), already in segments 0012-0014. Segment 0015, '2 Ibid., page 22.', duplicates footnote 2 and is most likely the French column's footnote 2."
+   }
+  ]
+ },
+ {
+  "label": "s77f-new",
+  "i": 23,
+  "page_ok": false,
+  "speeches_on_image": 3,
+  "errors": [
+   {
+    "type": "wrong_kind",
+    "segment_id": "e_sr.202-0010",
+    "detail": "On this page the italic 'The voting was as follows:' block, the vote count (China 16; Australia 10...) and the italic decision 'China and Australia were elected members...' are left inside the President's chair turn instead of being separate vote segments."
+   },
+   {
+    "type": "wrong_kind",
+    "segment_id": "e_sr.202-0011",
+    "detail": "The chair turn takes in the Fiscal Commission vote results (United States of America 17; New Zealand 14...) and the italic decision 'The United States of America, New Zealand... were elected members of the Fiscal Commission'. Neither is set apart as a vote."
+   },
+   {
+    "type": "wrong_kind",
+    "segment_id": "e_sr.202-0012",
+    "detail": "The chair turn takes in the Population Commission vote results (USSR 17; United Kingdom 16...) and the italic decision 'The Union of Soviet Socialist Republics... were elected members of the Population Commission'. Neither is set apart."
+   }
+  ]
+ },
+ {
+  "label": "s77f-new",
+  "i": 24,
+  "page_ok": false,
+  "speeches_on_image": 0,
+  "errors": [
+   {
+    "type": "text_missing",
+    "segment_id": "a_pv.145-0012",
+    "detail": "Footnote 1 on the image reads 'See Documents of the United Nations Conference on International Organization, San Francisco, 1945, Volume VIII, page 52.' The segment's opening and ending are both just the first line, cut at 'Inter'. The rest of the footnote is missing."
+   }
+  ]
+ },
+ {
+  "label": "s77f-new",
+  "i": 25,
+  "page_ok": false,
+  "speeches_on_image": 0,
+  "errors": [
+   {
+    "type": "wrong_kind",
+    "segment_id": "e_pv.84-0081",
+    "detail": "The page is annex text: the end of the Annex 19a amendments and the Annex 20 draft resolution (E/387). No one speaks. The segment covers pp. 72-79 as a 'chair' turn, which is the wrong kind; it should be annex or document text."
+   },
+   {
+    "type": "wrong_kind",
+    "segment_id": "e_pv.84-0081",
+    "detail": "The bold heading 'ANNEX 20 Draft resolution submitted by the Netherlands delegation on foreign exchange problems...' is left inside the pp. 72-79 chair segment. It should be its own heading segment."
+   },
+   {
+    "type": "wrong_kind",
+    "segment_id": "e_pv.84-0082",
+    "detail": "'Document E/387 28 March 1947' is the symbol and date line under the Annex 20 heading, not a footnote. The segment is marked as a footnote."
+   }
+  ]
+ },
+ {
+  "label": "s77f-new",
+  "i": 26,
+  "page_ok": false,
+  "speeches_on_image": 0,
+  "errors": [
+   {
+    "type": "wrong_kind",
+    "segment_id": "e_pv.84-0053",
+    "detail": "The page is annex text only, with no speaker turns. The 'ANNEX 3 / Report of the Secretary-General ... on the Co-ordination Committee' heading sits inside the closing segment that runs from p.11 to p.36, not as its own heading segment."
+   },
+   {
+    "type": "text_missing",
+    "segment_id": "e_pv.84-0060",
+    "detail": "Footnote 1 on the image ends 'Supplement No. 1, page 10.' The footnote segment stops at 'Supplement No. 1,', so its last line 'page 10.' is not in it."
+   }
+  ]
+ }
+]

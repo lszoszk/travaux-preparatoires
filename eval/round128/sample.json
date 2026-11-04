@@ -1,0 +1,402 @@
+[
+ {
+  "item": 1,
+  "id": "a_c.3_sr.1426-0026",
+  "stratum": "speech other speaker",
+  "kind": "speech",
+  "old_speaker": "ABDEL-RAHMAN",
+  "old_delegation": "International Labour Organisation",
+  "new_speaker": "ABDEL RAHMAN",
+  "new_delegation": "International Labour Organisation"
+ },
+ {
+  "item": 2,
+  "id": "a_c.3_sr.1136-0004",
+  "stratum": "chair renamed",
+  "kind": "chair",
+  "old_speaker": "KASLIWAL",
+  "old_delegation": null,
+  "new_speaker": null,
+  "new_delegation": null
+ },
+ {
+  "item": 3,
+  "id": "a_c.3_sr.575-0003",
+  "stratum": "chair renamed",
+  "kind": "chair",
+  "old_speaker": "NOSEK",
+  "old_delegation": null,
+  "new_speaker": null,
+  "new_delegation": null
+ },
+ {
+  "item": 4,
+  "id": "e_cn.4_sr.234-0029",
+  "stratum": "chair named",
+  "kind": "chair",
+  "old_speaker": null,
+  "old_delegation": null,
+  "new_speaker": "MALIK",
+  "new_delegation": null
+ },
+ {
+  "item": 5,
+  "id": "a_c.3_sr.820-0025",
+  "stratum": "chair named",
+  "kind": "chair",
+  "old_speaker": null,
+  "old_delegation": null,
+  "new_speaker": "LOPEZ",
+  "new_delegation": null
+ },
+ {
+  "item": 6,
+  "id": "a_c.3_sr.956-0014",
+  "stratum": "speech given speaker",
+  "kind": "speech",
+  "old_speaker": null,
+  "old_delegation": null,
+  "new_speaker": "RUDA",
+  "new_delegation": "Argentina"
+ },
+ {
+  "item": 7,
+  "id": "e_cn.4_sr.185-0007",
+  "stratum": "chair named",
+  "kind": "chair",
+  "old_speaker": null,
+  "old_delegation": null,
+  "new_speaker": "ROOSEVELT",
+  "new_delegation": null
+ },
+ {
+  "item": 8,
+  "id": "e_cn.4_sr.294-0026",
+  "stratum": "speech delegation only",
+  "kind": "speech",
+  "old_speaker": "VERGARA",
+  "old_delegation": "Catholic International Union for S;Jcia.l Service",
+  "new_speaker": "VERGARA",
+  "new_delegation": "Catholic International Union for Social Service"
+ },
+ {
+  "item": 9,
+  "id": "a_c.3_sr.906-0025",
+  "stratum": "chair renamed",
+  "kind": "chair",
+  "old_speaker": "CISELET",
+  "old_delegation": null,
+  "new_speaker": null,
+  "new_delegation": null
+ },
+ {
+  "item": 10,
+  "id": "e_cn.4_sr.145-0035",
+  "stratum": "speech given speaker",
+  "kind": "speech",
+  "old_speaker": null,
+  "old_delegation": null,
+  "new_speaker": "WHITLAM",
+  "new_delegation": "Australia"
+ },
+ {
+  "item": 11,
+  "id": "e_cn.4_sr.183-0028",
+  "stratum": "speech other speaker",
+  "kind": "speech",
+  "old_speaker": "EZROU",
+  "old_delegation": "Greece",
+  "new_speaker": "KYROU",
+  "new_delegation": "Greece"
+ },
+ {
+  "item": 12,
+  "id": "a_pv.1496-0061",
+  "stratum": "speech given speaker",
+  "kind": "speech",
+  "old_speaker": null,
+  "old_delegation": "Netherlands",
+  "new_speaker": "QUARLES VAN UFPORD",
+  "new_delegation": "Netherlands"
+ },
+ {
+  "item": 13,
+  "id": "a_c.3_sr.374-0004",
+  "stratum": "speech given speaker",
+  "kind": "speech",
+  "old_speaker": null,
+  "old_delegation": "United Nations High Commissioner for Refugees",
+  "new_speaker": "VAN HEUVEN GOEDHART",
+  "new_delegation": "United Nations High Commissioner for Refugees"
+ },
+ {
+  "item": 14,
+  "id": "e_cn.4_ac.2_sr.2-0052",
+  "stratum": "chair named",
+  "kind": "chair",
+  "old_speaker": null,
+  "old_delegation": null,
+  "new_speaker": "CASSIN",
+  "new_delegation": null
+ },
+ {
+  "item": 15,
+  "id": "e_cn.4_sub.1_sr.28-0031",
+  "stratum": "chair named",
+  "kind": "chair",
+  "old_speaker": null,
+  "old_delegation": null,
+  "new_speaker": "VAN HEUVEN GOEDHART",
+  "new_delegation": null
+ },
+ {
+  "item": 16,
+  "id": "a_c.3_sr.311-0025",
+  "stratum": "chair renamed",
+  "kind": "chair",
+  "old_speaker": "GORPHARR",
+  "old_delegation": null,
+  "new_speaker": "VAN HEUVEN GOEDHART",
+  "new_delegation": null
+ },
+ {
+  "item": 17,
+  "id": "e_cn.4_sr.150-0030",
+  "stratum": "chair named",
+  "kind": "chair",
+  "old_speaker": null,
+  "old_delegation": null,
+  "new_speaker": "ROOSEVELT",
+  "new_delegation": null
+ },
+ {
+  "item": 18,
+  "id": "e_sr.202-0051",
+  "stratum": "speech other speaker",
+  "kind": "speech",
+  "old_speaker": "SMOLIAR",
+  "old_delegation": "Byelorussian Soviet Socialist Republic",
+  "new_speaker": "SMOUAR",
+  "new_delegation": "Byelorussian Soviet Socialist Republic"
+ },
+ {
+  "item": 19,
+  "id": "e_cn.4_sr.242-0011",
+  "stratum": "speech other speaker",
+  "kind": "speech",
+  "old_speaker": "WHITLE",
+  "old_delegation": "Australia",
+  "new_speaker": "WHITLAM",
+  "new_delegation": "Australia"
+ },
+ {
+  "item": 20,
+  "id": "e_cn.4_ac.2_sr.9-0027",
+  "stratum": "chair named",
+  "kind": "chair",
+  "old_speaker": null,
+  "old_delegation": null,
+  "new_speaker": "ROOSEVELT",
+  "new_delegation": null
+ },
+ {
+  "item": 21,
+  "id": "e_cn.4_sr.31-0008",
+  "stratum": "speech delegation only",
+  "kind": "speech",
+  "old_speaker": "EKSTRAND",
+  "old_delegation": null,
+  "new_speaker": "EKSTRAND",
+  "new_delegation": "Sweden"
+ },
+ {
+  "item": 22,
+  "id": "e_cn.4_sr.230-0061",
+  "stratum": "chair named",
+  "kind": "chair",
+  "old_speaker": null,
+  "old_delegation": null,
+  "new_speaker": "MALIK",
+  "new_delegation": null
+ },
+ {
+  "item": 23,
+  "id": "a_c.3_sr.474-0014",
+  "stratum": "chair renamed",
+  "kind": "chair",
+  "old_speaker": "MALIK",
+  "old_delegation": null,
+  "new_speaker": "AMJAD ALI",
+  "new_delegation": null
+ },
+ {
+  "item": 24,
+  "id": "a_c.3_sr.1259-0033",
+  "stratum": "chair named",
+  "kind": "chair",
+  "old_speaker": null,
+  "old_delegation": null,
+  "new_speaker": "DIAZ CASANUEVA",
+  "new_delegation": null
+ },
+ {
+  "item": 25,
+  "id": "a_c.3_sr.1452-0007",
+  "stratum": "chair named",
+  "kind": "chair",
+  "old_speaker": null,
+  "old_delegation": null,
+  "new_speaker": "EMBAREK WARZAZI",
+  "new_delegation": null
+ },
+ {
+  "item": 26,
+  "id": "e_ac.7_sr.39-0063",
+  "stratum": "speech given speaker",
+  "kind": "speech",
+  "old_speaker": null,
+  "old_delegation": "Netherlands",
+  "new_speaker": "VAN DER MANDELE",
+  "new_delegation": "Netherlands"
+ },
+ {
+  "item": 27,
+  "id": "e_sr.157-0034",
+  "stratum": "chair named",
+  "kind": "chair",
+  "old_speaker": null,
+  "old_delegation": null,
+  "new_speaker": "MALIK",
+  "new_delegation": null
+ },
+ {
+  "item": 28,
+  "id": "e_cn.4_sr.243-0021",
+  "stratum": "chair named",
+  "kind": "chair",
+  "old_speaker": null,
+  "old_delegation": null,
+  "new_speaker": "MALIK",
+  "new_delegation": null
+ },
+ {
+  "item": 29,
+  "id": "a_pv.7-0019",
+  "stratum": "chair named",
+  "kind": "chair",
+  "old_speaker": null,
+  "old_delegation": null,
+  "new_speaker": "SPAAK",
+  "new_delegation": null
+ },
+ {
+  "item": 30,
+  "id": "a_c.3_sr.784-0004",
+  "stratum": "chair named",
+  "kind": "chair",
+  "old_speaker": null,
+  "old_delegation": null,
+  "new_speaker": "LOPEZ",
+  "new_delegation": null
+ },
+ {
+  "item": 31,
+  "id": "e_cn.4_sr.160-0013",
+  "stratum": "chair named",
+  "kind": "chair",
+  "old_speaker": null,
+  "old_delegation": null,
+  "new_speaker": "ROOSEVELT",
+  "new_delegation": null
+ },
+ {
+  "item": 32,
+  "id": "e_cn.4_sr.222-0023",
+  "stratum": "speech other speaker",
+  "kind": "speech",
+  "old_speaker": "VALENZUELA",
+  "old_delegation": "Uruguay",
+  "new_speaker": "VALENZUELD",
+  "new_delegation": "Uruguay"
+ },
+ {
+  "item": 33,
+  "id": "e_sr.128-0005",
+  "stratum": "speech delegation only",
+  "kind": "speech",
+  "old_speaker": "ROOSEVELT",
+  "old_delegation": null,
+  "new_speaker": "ROOSEVELT",
+  "new_delegation": "United States of America"
+ },
+ {
+  "item": 34,
+  "id": "e_cn.4_sr.189-0010",
+  "stratum": "speech given speaker",
+  "kind": "speech",
+  "old_speaker": null,
+  "old_delegation": null,
+  "new_speaker": "NISOT",
+  "new_delegation": "Belgium"
+ },
+ {
+  "item": 35,
+  "id": "e_cn.4_sub.2_sr.8-0109",
+  "stratum": "speech delegation only",
+  "kind": "speech",
+  "old_speaker": "HUMPHREY",
+  "old_delegation": null,
+  "new_speaker": "HUMPHREY",
+  "new_delegation": "UN Secretariat"
+ },
+ {
+  "item": 36,
+  "id": "e_cn.4_sr.236-0066",
+  "stratum": "speech other speaker",
+  "kind": "speech",
+  "old_speaker": "MORUSOV",
+  "old_delegation": "Union of Soviet Socialist Republics",
+  "new_speaker": "MOROSOV",
+  "new_delegation": "Union of Soviet Socialist Republics"
+ },
+ {
+  "item": 37,
+  "id": "a_c.3_sr.1435-0047",
+  "stratum": "chair named",
+  "kind": "chair",
+  "old_speaker": null,
+  "old_delegation": null,
+  "new_speaker": "EMBAREK WARZAZI",
+  "new_delegation": null
+ },
+ {
+  "item": 38,
+  "id": "e_cn.4_sr.315-0009",
+  "stratum": "speech other speaker",
+  "kind": "speech",
+  "old_speaker": "AYUMI",
+  "old_delegation": "Egypt",
+  "new_speaker": "AZMI",
+  "new_delegation": "Egypt"
+ },
+ {
+  "item": 39,
+  "id": "e_cn.4_sr.136-0048",
+  "stratum": "chair renamed",
+  "kind": "chair",
+  "old_speaker": "LAUGIER",
+  "old_delegation": null,
+  "new_speaker": "ROOSEVELT",
+  "new_delegation": null
+ },
+ {
+  "item": 40,
+  "id": "e_cn.4_sr.18-0009",
+  "stratum": "speech other speaker",
+  "kind": "speech",
+  "old_speaker": "TEPER",
+  "old_delegation": "American Federation of Labor",
+  "new_speaker": "SENDER",
+  "new_delegation": "American Federation of Labor"
+ }
+]

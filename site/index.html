@@ -1,0 +1,311 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>UN Travaux Préparatoires — working edition</title>
+<meta name="description" content="The drafting records of the Universal Declaration of Human Rights (1946–48) and the two International Covenants (1949–66), split into speeches with speaker, delegation, date, article and the UN's page pinpoint. A working edition; not an official UN product.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="UN Travaux Préparatoires">
+<meta property="og:title" content="UN Travaux Préparatoires: who said what in drafting the UDHR and the Covenants">
+<meta property="og:description" content="Search every speech of the UN drafting records, 1946–66, by speaker, delegation, date and article, with the page of the UN record beside it. A working edition.">
+<meta property="og:url" content="{{SITE_URL}}">
+<meta property="og:image" content="{{SITE_URL}}assets/social-card.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="UN Travaux Préparatoires: the speeches of each year of the drafting, 1946–66">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{SITE_URL}}assets/social-card.png">
+<link rel="canonical" href="{{SITE_URL}}">
+<!-- deploy/build_bundle.py writes the site's address over {{SITE_URL}}; the description of the dataset for search engines: -->
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Dataset",
+ "name": "UN Travaux Préparatoires: a speech-level database of the drafting records of the UDHR, ICCPR and ICESCR",
+ "description": "The UN's records of the drafting of the Universal Declaration of Human Rights (1946-48) and the two International Covenants (1949-66), divided into speeches with speaker, delegation, date, final article and the UN's page pinpoint, with the decisions and votes read from the records. An independent research resource, not an official UN product.",
+ "url": "{{SITE_URL}}", "isAccessibleForFree": true, "inLanguage": "en", "temporalCoverage": "1946/1966",
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "keywords": ["travaux préparatoires", "human rights", "Universal Declaration of Human Rights", "ICCPR", "ICESCR", "United Nations", "treaty interpretation"],
+ "creator": {"@type": "Person", "name": "Łukasz Szoszkiewicz", "sameAs": "https://orcid.org/0000-0001-6671-2893",
+             "affiliation": {"@type": "Organization", "name": "Adam Mickiewicz University, Poznań"}},
+ "isBasedOn": "Meeting records, reports and drafts of the United Nations Commission on Human Rights, the Economic and Social Council and the General Assembly, 1946-66"}
+</script>
+<link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+<script>
+  // Theme before first paint (UNHRDB pattern): stored choice, else the system setting.
+  (function () {
+    var t = null;
+    try { t = localStorage.getItem("travaux_theme"); } catch (e) {}
+    if (!t) t = window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    document.documentElement.setAttribute("data-theme", t);
+  })();
+</script>
+<link rel="stylesheet" href="assets/tokens.css">
+<link rel="stylesheet" href="assets/app.css">
+</head>
+<body>
+<a class="skip-link" href="#results" data-skip>Skip to results</a>
+
+<header class="mast">
+  <div class="mast-row">
+    <div class="mast-brand">
+      <div class="folio" id="mast-folio">Travaux préparatoires · working edition</div>
+      <h1 class="serif mast-title">UN Travaux Préparatoires</h1>
+      <div class="serif mast-sub">A speech-level companion to the drafting records of the UDHR, ICCPR and ICESCR</div>
+    </div>
+    <nav class="mast-nav">
+      <a href="#view=search" data-nav="search" class="active">Search</a>
+      <a href="#view=ask" data-nav="ask">Ask</a>
+      <a href="#view=check" data-nav="check">Check</a>
+      <a href="#view=articles" data-nav="articles">Articles</a>
+      <a href="#view=delegations" data-nav="delegations">Delegations</a>
+      <a href="#view=votes" data-nav="votes">Votes</a>
+      <a href="#view=amendments" data-nav="amendments">Amendments</a>
+      <a href="#view=records" data-nav="records">Records</a>
+      <a href="#view=workspace" data-nav="workspace">Workspace<span class="ws-badge" id="ws-badge" hidden></span></a>
+      <a href="#view=about" data-nav="about">About</a>
+      <span class="mast-sep"></span>
+      <button id="theme-toggle" class="btn btn-ghost" type="button" title="Toggle dark mode">◐</button>
+    </nav>
+  </div>
+</header>
+
+<div class="app-error" id="app-error" role="alert" hidden></div>
+
+<div class="view view-search" data-view="search">
+<section class="searchbar">
+  <form class="searchbar-inner" id="search" autocomplete="off">
+    <span class="serif search-prompt">Search<span class="garnet">.</span></span>
+    <input id="q" type="search" class="serif search-input" spellcheck="false"
+           placeholder='e.g. "freedom of thought"  ·  religion AND change  ·  speaker:cassin art:18' aria-label="Search the records">
+    <button type="submit" id="search-submit" class="btn btn-ghost" title="Run search">Search</button>
+    <span class="folio" id="result-count" role="status">—</span>
+    <button type="button" id="sort-toggle" class="btn btn-ghost" hidden title="Switch between relevance and chronological order">↕ Chronological</button>
+    <details class="export-menu" id="export-menu">
+      <summary class="btn btn-ghost" title="Export all results of this search">↓ Export</summary>
+      <div class="export-pop">
+        <a data-format="csv" href="#">CSV <span>all results · UTF-8</span></a>
+        <a data-format="json" href="#">JSON <span>results + query provenance</span></a>
+        <a data-format="bibtex" href="#">BibTeX <span>one entry per record</span></a>
+        <a data-format="ris" href="#">RIS <span>Zotero, EndNote</span></a>
+      </div>
+    </details>
+    <button type="button" id="copy-link" class="btn btn-ghost" title="Copy a link to this search">⌥ Copy link</button>
+  </form>
+  <div class="searchbar-hint">
+    <span class="folio">Try</span>
+    <button class="suggest" type="button" data-q='"freedom of thought"'>"freedom of thought"</button>
+    <button class="suggest" type="button" data-q="religion AND change">religion AND change</button>
+    <button class="suggest" type="button" data-q="expression OR opinion">expression OR opinion</button>
+    <button class="suggest" type="button" data-q="propert*">propert*</button>
+    <button class="suggest" type="button" data-q="speaker:cassin art:18">speaker:cassin art:18</button>
+  </div>
+</section>
+
+<div class="ocr-banner">
+  <strong>Read with care.</strong> Summary records paraphrase what delegates said; the text is OCR of
+  1946–66 scans (check the scan before quoting); articles are given in the final numbering, mapped from each session's draft numbering.
+</div>
+
+<div class="layout">
+  <aside class="filters" id="filters" aria-label="Filters">
+    <button type="button" class="btn btn-ghost filters-toggle" id="filters-toggle" aria-expanded="true" aria-controls="filters-body">Filters</button>
+    <div id="filters-body">
+    <div class="filter-block">
+      <div class="filter-head"><label class="folio" for="symbol">Record</label></div>
+      <select id="symbol"><option value="">All records</option></select>
+    </div>
+    <div class="filter-block">
+      <div class="filter-head"><label class="folio" for="session">Body &amp; session</label></div>
+      <select id="session"><option value="">All sessions</option></select>
+    </div>
+    <div class="filter-block">
+      <div class="filter-head"><label class="folio" for="delegation">Delegation</label></div>
+      <select id="delegation"><option value="">All delegations</option></select>
+    </div>
+    <div class="filter-block">
+      <div class="filter-head"><label class="folio" for="speaker">Speaker</label></div>
+      <select id="speaker"><option value="">All speakers</option></select>
+    </div>
+    <div class="filter-block">
+      <div class="filter-head"><label class="folio" for="instrument">Instrument</label></div>
+      <select id="instrument">
+        <option value="">All instruments</option>
+        <option value="UDHR">UDHR (1946–48)</option>
+        <option value="ICCPR">ICCPR (1949–66)</option>
+        <option value="ICESCR">ICESCR (1949–66)</option>
+      </select>
+    </div>
+    <div class="filter-block">
+      <div class="filter-head"><label class="folio" for="article">Article</label></div>
+      <select id="article"><option value="">Any article</option></select>
+    </div>
+    <div class="filter-block">
+      <div class="filter-head"><label class="folio" for="topic">General debate</label></div>
+      <select id="topic"><option value="">Any question</option></select>
+    </div>
+    <div class="filter-block">
+      <div class="filter-head"><label class="folio" for="kind">Kind</label></div>
+      <select id="kind">
+        <option value="">Speeches, chair, votes</option>
+        <option value="speech">Speeches</option>
+        <option value="chair">Chair</option>
+        <option value="vote">Votes</option>
+        <option value="paragraph">Document paragraphs</option>
+        <option value="all">Everything, including documents</option>
+      </select>
+    </div>
+    <div class="filter-block" id="translations-block" hidden>
+      <label class="check"><input type="checkbox" id="translations" checked> Include machine translations</label>
+      <p class="filter-note" id="translations-note"></p>
+    </div>
+    <button type="button" id="reset" class="btn btn-ghost btn-block">Clear filters</button>
+    </div>
+  </aside>
+
+  <main class="results" id="results-pane">
+    <div id="welcome" class="welcome" hidden>
+      <p class="serif welcome-lede">How the Universal Declaration of Human Rights (1946–48) and the two Covenants (1949–66) were
+        drafted, speech by speech: who spoke, for which delegation, on which article, with the page of the UN record beside it.</p>
+      <ul class="welcome-paths">
+        <li><a href="#view=search" data-focus-search>Search what delegates said</a> <span>by word, speaker, delegation or article: the box above, the filters at the left</span></li>
+        <li><a href="#view=articles">Follow an article through the drafting</a> <span>its drafts, the meetings that debated it, its amendments and votes</span></li>
+        <li><a href="#view=votes">Check a vote</a> <span>the figures, and how each delegation voted</span></li>
+        <li><a href="#view=about&part=mcp">Use from Claude or another AI assistant (MCP &amp; Skill)</a> <span>connect the database to Claude to search speeches, trace article drafts and cite UN records with pinpoints</span></li>
+      </ul>
+      <p class="welcome-try"><span class="folio">Or start from</span>
+        <a href="#view=article&i=UDHR&n=18">Article 18 of the Declaration, freedom of religion</a>
+        <a href="#view=search&q=%22freedom+of+thought%22">speeches on “freedom of thought”</a></p>
+    </div>
+    <ol id="results" class="result-list"></ol>
+    <button id="more" class="btn btn-ghost more" type="button" hidden>More results</button>
+  </main>
+
+  <aside class="dossier" id="reader" role="region" aria-label="Record">
+    <div class="dossier-empty">
+      <div class="folio garnet">Record</div>
+      <p class="serif">Open a result to read it in its record, speech by speech, with page references and the scan.</p>
+    </div>
+  </aside>
+</div>
+</div>
+
+<main class="view view-page" data-view="records" hidden>
+  <div class="page-inner">
+    <div class="folio garnet">Records</div>
+    <h2 class="serif page-title">The records in the database</h2>
+    <p class="page-lede">Meeting records and documents, by body and session. Open one to read it speech by speech.</p>
+    <div class="tabs" id="records-tabs"></div>
+    <div class="xfilters">
+      <input type="search" id="records-filter" class="xfilter-inline" placeholder="Filter by symbol, session or year (e.g. SR.317, 1952)…" aria-label="Filter records">
+      <span class="folio" id="records-count"></span>
+    </div>
+    <div id="records-list"></div>
+  </div>
+</main>
+
+<main class="view view-page" data-view="ask" hidden>
+  <div class="page-inner ask">
+    <div class="folio garnet ask-kicker">UN travaux préparatoires · search by meaning</div>
+    <h1 class="serif page-title">Ask</h1>
+    <p class="ask-lede">Ask a question or describe what you are looking for in a sentence, in plain words. Ask returns the passages of the
+      records that match its meaning, even when they use other words; it does not write an answer.</p>
+    <div class="ask-note" id="ask-note"><strong>Experimental.</strong> Your question is sent to Voyage AI, a commercial service, to be
+      matched with the passages; it is not kept by this site. Ask works on sentences: in a test on 579 claims from two commentaries
+      on the Covenants, the record a commentary cites was among the first ten passages for 82% of the claims written as a sentence,
+      but for 26% of them written as a few keywords, where <a href="#view=search">Search</a> did better (47%). Search remains the
+      tool for finding every passage with a word. <a href="#view=about&amp;part=methods&amp;sec=ask">How Ask works, and how well</a></div>
+    <section class="ask-panel">
+      <form class="ask-main" id="ask-form" autocomplete="off">
+        <label class="ask-label" for="ask-q">Your question</label>
+        <p class="ask-help">A sentence works best: who proposed, argued or decided what, on which right.</p>
+        <textarea id="ask-q" class="serif" rows="5" spellcheck="true"
+          placeholder="Which delegations argued that the Covenants should apply to colonies and trust territories?"></textarea>
+        <div class="ask-row">
+          <label class="ask-inst"><span class="folio">Instrument</span>
+            <select id="ask-instrument"><option value="">All</option><option value="UDHR">Declaration (1946–48)</option>
+              <option value="Covenants">Covenants (1949–66)</option></select></label>
+          <button type="submit" class="btn btn-garnet" id="ask-submit">Ask the records</button>
+          <span class="ask-kbd">⌘ + ⏎</span>
+          <span class="folio ask-status" id="ask-status" role="status" aria-live="polite"></span>
+        </div>
+      </form>
+      <aside class="ask-side">
+        <span class="folio">Try an example</span>
+        <h2 class="serif">Six questions</h2>
+        <ol class="ask-examples" id="ask-examples"></ol>
+      </aside>
+    </section>
+    <div class="ask-hint" id="ask-hint" hidden></div>
+    <ol class="results ask-results" id="ask-results"></ol>
+  </div>
+</main>
+<main class="view view-page" data-view="check" hidden>
+  <div class="page-inner ask check-page">
+    <div class="folio garnet ask-kicker">UN travaux préparatoires · citations against the records</div>
+    <h1 class="serif page-title">Check</h1>
+    <p class="ask-lede">Paste a text that cites the drafting records (a draft, a chapter, a brief). Every UN symbol in it is held
+      against the record it names: is the document here, is the cited page or paragraph in it, does the delegate or delegation
+      named with it speak there, and is the quotation just before it in the record, word for word.</p>
+    <div class="ask-note">Your text is checked on this server and kept nowhere. It reads citations such as
+      <code>E/CN.4/SR.60, p. 7 (Malik, Lebanon)</code>, <code>A/C.3/SR.290, paras. 7–15</code> or <code>U.N. Doc. A/C.3/SR.290, ¶ 7 (1950)</code>.
+      The records are machine-read summary records: a quotation that differs by a word may be the OCR, so open the record and its scan.</div>
+    <form class="check-form" id="check-form" autocomplete="off">
+      <label class="ask-label" for="check-text">Your text</label>
+      <textarea id="check-text" class="serif" rows="9" spellcheck="false"
+        placeholder="… the article “dealt with the rights and freedoms that were above the law” (E/CN.4/SR.60, p. 7 (Malik, Lebanon)) …"></textarea>
+      <div class="ask-row">
+        <button type="submit" class="btn btn-garnet" id="check-submit">Check the citations</button>
+        <button type="button" class="btn btn-ghost" id="check-sample">Try a sample text</button>
+        <span class="folio ask-status" id="check-status" role="status" aria-live="polite"></span>
+      </div>
+    </form>
+    <div class="check-out" id="check-out" hidden>
+      <div class="check-text" id="check-annotated"></div>
+      <ol class="check-list" id="check-list"></ol>
+    </div>
+  </div>
+</main>
+<main class="view view-page" data-view="articles" hidden><div class="page-inner" id="articles-page"></div></main>
+<main class="view view-page" data-view="article" hidden><div class="page-inner" id="article-page"></div></main>
+<main class="view view-page" data-view="delegations" hidden><div class="page-inner" id="delegations-page"></div></main>
+<main class="view view-page" data-view="delegation" hidden><div class="page-inner" id="delegation-page"></div></main>
+<main class="view view-page" data-view="votes" hidden><div class="page-inner" id="votes-page"></div></main>
+<main class="view view-page" data-view="amendments" hidden><div class="page-inner" id="amendments-page"></div></main>
+
+<main class="view view-page" data-view="about" hidden><div class="page-inner about" id="about-page"></div></main>
+
+<main class="view view-page" data-view="workspace" hidden>
+  <div class="page-inner">
+    <div class="folio garnet">Workspace</div>
+    <h2 class="serif page-title">Saved passages</h2>
+    <p class="page-lede">Passages you saved with ☆, with your notes. Kept in this browser only.</p>
+    <div class="xfilters">
+      <label class="folio" for="ws-cite-style">Citation style</label>
+      <select id="ws-cite-style" aria-label="Citation style">
+        <option value="un">UN standard (A/C.3/SR.290, paras. 7–15)</option>
+        <option value="bluebook">Bluebook (U.N. Doc. A/C.3/SR.290, ¶¶ 7–15)</option>
+        <option value="oscola">OSCOLA (UN Doc A/C.3/SR.290 paras 7–15)</option>
+      </select>
+      <button type="button" class="btn btn-ghost" id="ws-export">↓ Export Markdown</button>
+      <button type="button" class="btn btn-ghost" id="ws-export-json">↓ Export JSON</button>
+      <label class="btn btn-ghost" for="ws-import-json" style="cursor:pointer">↑ Import JSON<input type="file" id="ws-import-json" accept="application/json,.json" hidden></label>
+      <button type="button" class="btn btn-ghost" id="ws-clear">Clear</button>
+    </div>
+    <ol id="ws-list" class="ws-list"></ol>
+  </div>
+</main>
+
+<div class="sr-only" id="sr-status" role="status" aria-live="polite"></div>
+<footer class="site-foot" id="site-foot"></footer>
+
+<script src="config.js"></script>
+<script src="assets/service-notice.js" charset="utf-8" data-app="UN Travaux Préparatoires"
+        data-effect="The records, the search, Ask and Check do not load while the university's servers cannot be reached; the UN's documents stay available at undocs.org."></script>
+<script src="assets/analytics.js"></script>
+<script src="app.js"></script>
+<script src="explore.js"></script>
+<script src="ask.js"></script>
+<script src="check.js"></script>
+<script src="assets/tour.js"></script>
+</body>
+</html>

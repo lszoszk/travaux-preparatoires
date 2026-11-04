@@ -1,0 +1,32 @@
+# Downloaded UN PDFs, OCR output and fetch caches are rebuilt from the manifest
+data/raw/
+data/ocr/
+data/cache/
+# Segmented UN record text: not published until the UN Library approves republication
+data/segments/
+
+# Private material: copyrighted compilations (Schabas, Saul, Bossuyt) used only as
+# finding aids and OCR ground truth. Never commit anything from here.
+data/private/
+eval/private/
+
+.env
+__pycache__/
+*.pyc
+*.sqlite3
+*.sqlite3-*
+.DS_Store
+
+# Compiled helpers
+bin/
+
+# Local API usage log
+data/jev_usage.jsonl
+
+# Job logs
+data/logs/
+data/export/
+dist/
+
+# The public site's author, contact and address (deploy/site_config.example.json): filled in on the laptop, not committed
+deploy/site_config.json

@@ -1,0 +1,294 @@
+/* Vendored from generalcomments-repo/docs/assets/tokens.css (UNHRDB design system), 2026-09-23. Keep in sync. */
+/* =========================================================
+   UN Human Rights Database · Editorial design tokens
+   Adapted from the ECHR · Strasbourg Reporter system.
+   ========================================================= */
+
+/* Self-hosted fonts (vendored 2026-06-19) — was a Google Fonts @import,
+   which leaked visitor IPs to Google on every load (EU/GDPR). */
+@import url('fonts.css?v=20260619');
+
+:root {
+  /* Paper */
+  --paper:        oklch(98% 0.008 75);
+  --paper-2:      oklch(96% 0.010 75);
+  --paper-3:      oklch(93% 0.012 75);
+  --rule:         oklch(86% 0.013 75);
+  --rule-soft:    oklch(91% 0.011 75);
+
+  /* Ink. v19.51.2 (audit H6): values are sRGB hex (computed from the
+     prior oklch palette via the CSS-Color-4 reference conversion).
+     The browser's actual paint is unchanged from the oklch authoring,
+     but axe-core's color-contrast checker approximates oklch
+     conservatively (reading oklch(18%) as ~#7d7c7d instead of
+     ~#0f1117), which produced false-positive AA violations on every
+     `--ink`-coloured element. Swapping to hex makes the contrast
+     calculation match what the browser displays. */
+  --ink:          #0f1117;
+  --ink-2:        #2b2e35;
+  --ink-3:        #45474f;
+  --ink-4:        #60636a;
+
+  /* Accent — garnet/oxblood (used for hierarchy, never for chrome) */
+  --garnet:       oklch(45% 0.13 25);
+  --garnet-2:     oklch(38% 0.12 25);
+  --garnet-soft:  oklch(94% 0.04 25);
+  --garnet-edge:  oklch(80% 0.06 25);
+
+  /* Functional */
+  --hl:           oklch(92% 0.10 95);     /* search highlight (vellum yellow) */
+  --hl-edge:      oklch(80% 0.12 95);
+
+  /* Source-type semantics — GC vs SP visual signal */
+  --gc-tone:      var(--ink);             /* General Comments — full ink, primary weight */
+  --jur-tone:     oklch(43% 0.09 190);    /* Jurisprudence — teal, preview-but-legal */
+  --mark-bookmark: #c9a227;               /* bookmark accent (warm gold) */
+  --jur-soft:     oklch(94% 0.035 190);
+  --rec-tone:     oklch(46% 0.11 60);     /* Recommendations (UHRI) — ochre, State-directed practice */
+  --rec-soft:     oklch(95% 0.03 60);
+  --sp-tone:      var(--ink-2);           /* Special Procedures — slightly muted, "preview" */
+  /* v19.51.2 (audit H6): darkened --preview from oklch(58%) → 50%
+     (= #945000) so `.badge-preview` (cream text on solid --preview
+     bg, weight 600, ~9px) clears WCAG AA 4.5:1 — was 4.15:1. Knock-on
+     for `.badge-sp` (--preview fg on --preview-soft cream-tinted bg)
+     is positive; contrast goes up. */
+  --preview:      #945000;                /* burnt-orange for PREVIEW badges */
+  --preview-soft: oklch(95% 0.05 70);
+
+  /* Status semantics — case outcomes, metadata confidence, dataset
+     freshness, OCR provenance. v19.63: lifted out of app.css where they
+     were hardcoded hex (and therefore illegible in dark mode — outcome
+     badges kept light-mode pink/green backgrounds on dark paper). */
+  --status-bad:          #b22222;         /* violation found / stale data */
+  --status-bad-soft:     #fdf2f2;
+  --status-good:         #2c6e3a;         /* no violation / fresh data */
+  --status-good-soft:    #f1f8f3;
+  --status-neutral:      #6b6058;         /* inadmissible / discontinued / medium confidence */
+  --status-neutral-soft: #f6f1ec;
+  --status-neutral-edge: #b9ad9d;
+  --status-info:         #4a5d8a;         /* views / decision (no outcome label) */
+  --status-info-soft:    #f0f3fa;
+  --status-warn:         #8a4a00;         /* low confidence */
+  --status-warn-soft:    #fdf6ee;
+  --status-warn-edge:    #c98e3f;
+  --status-amber:        #b87f1f;         /* aging data */
+  --ocr-raw:             #c8741a;         /* raw-OCR provenance banner */
+  --ocr-raw-soft:        #fff5e6;
+  --ocr-raw-link:        #a85a0a;
+
+  /* Type */
+  --display: 'Spectral', 'Iowan Old Style', Georgia, serif;
+  --body:    'Source Serif 4', 'Iowan Old Style', Georgia, serif;
+  --mono:    'JetBrains Mono', ui-monospace, monospace;
+
+  /* Rhythm */
+  --baseline: 8px;
+
+  /* Layout */
+  --col-filters:  260px;
+  --col-dossier:  440px;          /* user-resizable; saved to localStorage */
+  --dossier-font: 1;              /* multiplier for dossier text — 0.9 / 1 / 1.15 */
+}
+
+[data-theme="dark"] {
+  --paper:        oklch(16% 0.012 270);
+  --paper-2:      oklch(19% 0.013 270);
+  --paper-3:      oklch(23% 0.013 270);
+  --rule:         oklch(30% 0.013 270);
+  --rule-soft:    oklch(25% 0.013 270);
+
+  /* Dark-mode inks — same hex conversion (see light-mode comment). */
+  --ink:          #eeeae5;
+  --ink-2:        #c8c3bd;
+  --ink-3:        #9c9791;
+  --ink-4:        #a39d96;
+
+  --garnet:       oklch(72% 0.11 25);
+  --garnet-2:     oklch(78% 0.10 25);
+  --garnet-soft:  oklch(28% 0.05 25);
+  --garnet-edge:  oklch(40% 0.08 25);
+
+  --hl:           oklch(40% 0.08 95);
+  --hl-edge:      oklch(55% 0.10 95);
+
+  --preview:      oklch(75% 0.13 70);
+  --preview-soft: oklch(28% 0.06 70);
+  --jur-tone:     oklch(76% 0.10 190);
+  --mark-bookmark: #d8b94e;               /* bookmark accent — brighter gold for dark paper */
+  --jur-soft:     oklch(27% 0.045 190);
+  --rec-tone:     oklch(80% 0.11 60);
+  --rec-soft:     oklch(28% 0.05 60);
+
+  /* Dark status semantics — lighter foregrounds on deep tinted softs. */
+  --status-bad:          oklch(70% 0.14 25);
+  --status-bad-soft:     oklch(25% 0.05 25);
+  --status-good:         oklch(72% 0.10 150);
+  --status-good-soft:    oklch(24% 0.04 150);
+  --status-neutral:      oklch(72% 0.02 75);
+  --status-neutral-soft: oklch(24% 0.012 75);
+  --status-neutral-edge: oklch(45% 0.02 75);
+  --status-info:         oklch(74% 0.07 270);
+  --status-info-soft:    oklch(26% 0.03 270);
+  --status-warn:         oklch(74% 0.11 70);
+  --status-warn-soft:    oklch(25% 0.04 70);
+  --status-warn-edge:    oklch(50% 0.08 70);
+  --status-amber:        oklch(74% 0.11 80);
+  --ocr-raw:             oklch(70% 0.12 65);
+  --ocr-raw-soft:        oklch(24% 0.045 65);
+  --ocr-raw-link:        oklch(72% 0.12 65);
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+html { color-scheme: light dark; }
+
+body {
+  font-family: var(--body);
+  color: var(--ink);
+  background: var(--paper);
+  font-feature-settings: "kern", "liga", "onum", "pnum";
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  min-height: 100vh;
+}
+
+/* Editorial primitives */
+.serif        { font-family: var(--display); }
+.body         { font-family: var(--body); }
+.mono         { font-family: var(--mono); font-feature-settings: "tnum"; }
+.smallcaps    { font-variant-caps: all-small-caps; letter-spacing: 0.08em; }
+.tnum         { font-feature-settings: "tnum"; }
+
+.garnet       { color: var(--garnet); }
+.muted        { color: var(--ink-3); }
+.dim          { color: var(--ink-4); }
+
+.rule         { border: 0; border-top: 1px solid var(--rule); margin: 0; }
+.rule-thin    { border: 0; border-top: 1px solid var(--rule-soft); margin: 0; }
+.rule-double  { border: 0; border-top: 3px double var(--rule); margin: 0; }
+.rule-thick   { border: 0; border-top: 2px solid var(--ink); margin: 0; }
+
+/* Folio (small caps mono label) */
+.folio {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+}
+
+/* Search highlight */
+mark.hl {
+  background: var(--hl);
+  color: var(--ink);
+  padding: 0 .12em;
+  border-radius: 1px;
+  box-shadow: inset 0 -1px 0 var(--hl-edge);
+}
+::selection { background: var(--hl); color: var(--ink); }
+
+/* Buttons */
+.btn {
+  font-family: var(--body);
+  font-size: 13px;
+  padding: 7px 14px;
+  border: 1px solid var(--ink);
+  background: var(--paper);
+  color: var(--ink);
+  cursor: pointer;
+  letter-spacing: 0.01em;
+  transition: background .12s ease, color .12s ease, border-color .12s ease;
+}
+.btn:hover { background: var(--ink); color: var(--paper); }
+.btn-ghost {
+  border-color: var(--rule);
+  color: var(--ink-2);
+  background: transparent;
+}
+.btn-ghost:hover { background: var(--paper-3); color: var(--ink); border-color: var(--ink-3); }
+.btn-garnet {
+  border-color: var(--garnet);
+  background: var(--garnet);
+  color: var(--paper);
+}
+.btn-garnet:hover { background: var(--garnet-2); border-color: var(--garnet-2); }
+.btn-block { width: 100%; display: block; }
+
+/* Chips */
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--mono);
+  font-size: 11px;
+  padding: 3px 8px;
+  border: 1px solid var(--rule);
+  background: var(--paper-2);
+  color: var(--ink-2);
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.chip:hover { border-color: var(--ink-3); }
+.chip.on { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.chip.garnet { background: var(--garnet-soft); color: var(--garnet); border-color: var(--garnet-edge); }
+
+/* Source-type badges */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  font-family: var(--mono);
+  /* v19.63 (P2 audit): 9px → 10px — smallest legible size for ALL-CAPS
+     mono labels that carry meaning (GC/JUR/SP/PREVIEW). */
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 2px 6px;
+  border: 1px solid currentColor;
+  border-radius: 1px;
+}
+.badge-gc {
+  color: var(--ink-2);
+  background: var(--paper-2);
+}
+.badge-sp {
+  color: var(--preview);
+  background: var(--preview-soft);
+  border-color: var(--preview);
+}
+.badge-jur {
+  color: var(--jur-tone);
+  background: var(--jur-soft);
+  border-color: var(--jur-tone);
+  font-weight: 600;
+}
+.badge-rec {
+  color: var(--rec-tone);
+  background: var(--rec-soft);
+  border-color: var(--rec-tone);
+  font-weight: 600;
+}
+.badge-preview {
+  color: var(--paper);
+  background: var(--preview);
+  border-color: var(--preview);
+  font-weight: 600;
+}
+
+/* Scrollbar */
+* { scrollbar-width: thin; scrollbar-color: var(--ink-4) transparent; }
+*::-webkit-scrollbar { width: 8px; height: 8px; }
+*::-webkit-scrollbar-thumb { background: var(--ink-4); border-radius: 0; }
+
+/* Animations */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.fade-up { animation: fadeUp .35s ease both; }
+
+@keyframes blink { 50% { opacity: 0; } }
+.caret::after {
+  content: "▍"; color: var(--garnet);
+  margin-left: 2px; animation: blink 1s steps(1) infinite;
+}

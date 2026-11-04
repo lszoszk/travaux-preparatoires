@@ -1,0 +1,330 @@
+[
+ {
+  "kind": "P",
+  "a": {
+   "e_cn.4_ac.1_sr.9-0012": {
+    "correct": true,
+    "note": "Proposal to end draft art. 27 (will of the people/elections) with 'and by secret ballot'."
+   },
+   "e_cn.4_sr.351-0028": {
+    "correct": false,
+    "note": "Amendment to paragraph 1 of draft art. 40 (filling casual vacancies, final art. 34), referring to art. 34 only as a cross-reference."
+   },
+   "e_cn.4_sr.68-0043": {
+    "correct": true,
+    "note": "Lebanese amendment to the education article (draft 27), as addition to its second paragraph."
+   },
+   "e_cn.4_sr.389-0004": {
+    "correct": false,
+    "note": "On the Chilean additional article giving the Committee advisory/information functions, not the annual-report article."
+   },
+   "e_cn.4_ac.1_sr.31-0027": {
+    "correct": true,
+    "note": "USSR announces a textual amendment to draft art. 17 (expression)."
+   },
+   "e_cn.4_ac.2_sr.3-0032": {
+    "correct": true,
+    "note": "Cassin proposes combined text of the arrest/detention article (draft 8)."
+   },
+   "e_cn.4_sr.351-0021": {
+    "correct": false,
+    "note": "On the revised UK amendment to draft art. 40 (casual vacancies, final 34) and its inconsistency with art. 34; the amendment under debate is art. 40's."
+   },
+   "e_cn.4_ac.1_sr.3-0014": {
+    "correct": false,
+    "note": "General point on how detailed the Bill's articles should be and on non-discrimination; belief mentioned only as an example (uncertain)."
+   },
+   "e_cn.4_sr.113-0052": {
+    "correct": true,
+    "note": "Wants 'everywhere' retained in the recognition-as-a-person article."
+   },
+   "e_cn.4_ac.1_sr.14-0047": {
+    "correct": true,
+    "note": "Proposes omitting draft art. 32 (trade-union/professional interests) as covered by association; agreed."
+   },
+   "e_cn.4_sr.351-0026": {
+    "correct": false,
+    "note": "Amendment to paragraph 1 of the revised draft on casual vacancies (draft art. 40, final 34)."
+   },
+   "e_cn.4_sr.129-0029": {
+    "correct": true,
+    "note": "Explanation of vote on the signature/accession article, objecting to the invitation clause for non-members."
+   },
+   "e_cn.4_ac.2_sr.3-0033": {
+    "correct": true,
+    "note": "On the word 'law' in the first sentence of the arrest/detention article."
+   },
+   "e_cn.4_sr.351-0074": {
+    "correct": true,
+    "note": "Explains abstention in the vote on revising/reopening art. 34 (nominations), which needed revision."
+   },
+   "e_cn.4_ac.2_sr.3-0031": {
+    "correct": true,
+    "note": "Supports the US draft of the arrest/detention article as preventing arbitrary detention."
+   },
+   "e_cn.4_ac.1_sr.15-0017": {
+    "correct": false,
+    "note": "About draft art. 37 (science and culture, final art. 27), not art. 23."
+   },
+   "e_cn.4_ac.1_sr.9-0054": {
+    "correct": true,
+    "note": "Malik on the asylum article (draft 32), proposing new wording."
+   },
+   "e_cn.4_sr.346-0020": {
+    "correct": true,
+    "note": "On the size and qualifications of the Human Rights Committee (draft art. 33)."
+   },
+   "e_cn.4_sr.351-0025": {
+    "correct": false,
+    "note": "Rapporteur on the new paragraph 1 of draft art. 40 (casual vacancies, final 34) and its consistency with art. 34."
+   },
+   "e_cn.4_sr.357-0003": {
+    "correct": true,
+    "note": "NGO and Yugoslavia on the Indian and other amendments to draft art. 52 (complaints procedure), incl. petitions (borderline with the general petitions question)."
+   },
+   "e_cn.4_sr.354-0038": {
+    "correct": true,
+    "note": "French translation of 'concerned in a case' in the UK amendment to the rules-of-procedure article (draft 47)."
+   },
+   "e_cn.4_sr.377-0006": {
+    "correct": true,
+    "note": "Yugoslavia supports the article against propaganda/incitement to hatred, wanting it broader."
+   },
+   "e_cn.4_sr.389-0003": {
+    "correct": false,
+    "note": "Chile presents its additional article making the Committee an organ of assistance and information, not the annual report."
+   },
+   "e_cn.4_ac.2_sr.3-0018": {
+    "correct": true,
+    "note": "Cassin on the scope of the life/liberty/security article (draft 7)."
+   },
+   "e_cn.4_ac.1_sr.13-0034": {
+    "correct": true,
+    "note": "On the wording 'men' vs 'human beings' in article 1."
+   },
+   "e_cn.4_sr.351-0023": {
+    "correct": true,
+    "note": "Proposes inserting an exception into paragraph 2 of draft art. 34 to remove its conflict with art. 40."
+   },
+   "e_cn.4_sr.329-0023": {
+    "correct": true,
+    "note": "UK on paragraph 2 of draft art. 1 (legislative measures within a reasonable time) and postponing its vote."
+   },
+   "e_cn.4_sr.351-0013": {
+    "correct": false,
+    "note": "On the phrase 'if it so desires' in the UK amendment to draft art. 40 (casual vacancies, final 34)."
+   },
+   "e_cn.4_ac.2_sr.8-0045": {
+    "correct": true,
+    "note": "Cassin proposes concrete wording for the health article (housing, food, medical care)."
+   },
+   "e_cn.4_sr.54-0009": {
+    "correct": true,
+    "note": "Belgium opposes the text of paragraph 2 (equality before the law)."
+   },
+   "e_cn.4_sr.351-0044": {
+    "correct": true,
+    "note": "Egypt withdraws and redrafts its amendment to paragraph 1 of the casual-vacancies article (draft 40)."
+   },
+   "e_cn.4_sr.274-0006": {
+    "correct": false,
+    "note": "Mainly attacks the French limitations proposals (new article and art. 32 amendment), not the general obligations article (uncertain)."
+   },
+   "e_cn.4_sr.352-0032": {
+    "correct": true,
+    "note": "Proposes replacing 'absence of a temporary character' with a six-month period in the vacancy article."
+   },
+   "e_cn.4_ac.2_sr.3-0034": {
+    "correct": true,
+    "note": "On the meaning of 'law' as used in the arrest/detention article."
+   },
+   "e_cn.4_ac.2_sr.2-0016": {
+    "correct": true,
+    "note": "Proposes 'human beings' instead of 'men' in article 1."
+   },
+   "e_cn.4_sr.36-0012": {
+    "correct": false,
+    "note": "On article 8 of the Declaration (E/CN.4/57) and its relation to Declaration art. 38, not the covenant."
+   },
+   "e_cn.4_ac.2_sr.5-0021": {
+    "correct": true,
+    "note": "Supports previous speakers' criticism of the asylum article 14."
+   },
+   "e_cn.4_sr.36-0015": {
+    "correct": false,
+    "note": "Explanation of vote on article 8 of the Declaration (E/CN.4/57), not the covenant."
+   },
+   "e_cn.4_ac.1_sr.8-0073": {
+    "correct": true,
+    "note": "Would omit the property article if it stated the State's right rather than the individual's."
+   },
+   "e_cn.4_sr.42-0035": {
+    "correct": true,
+    "note": "Explains abstention on draft art. 24 (amendments) pending the legal nature of the Convention."
+   }
+  },
+  "c": {
+   "e_cn.4_ac.1_sr.9-0012": {
+    "correct": true,
+    "note": "Proposes ending the draft elections article with 'and by secret ballot'."
+   },
+   "e_cn.4_sr.351-0028": {
+    "correct": false,
+    "note": "Suggests rewording the revised UK amendment on supplementing nominee lists for casual vacancies (draft art. 40), only referencing art. 34 para 3."
+   },
+   "e_cn.4_sr.68-0043": {
+    "correct": true,
+    "note": "Ukrainian view on where the Lebanese amendment fits in the education article."
+   },
+   "e_cn.4_sr.389-0004": {
+    "correct": false,
+    "note": "Assesses the Chilean additional-article proposal on the Committee's assistance/information duties, not the annual report article (low confidence)."
+   },
+   "e_cn.4_ac.1_sr.31-0027": {
+    "correct": true,
+    "note": "Announces a textual amendment to the freedom-of-information/expression article (draft 17)."
+   },
+   "e_cn.4_ac.2_sr.3-0032": {
+    "correct": true,
+    "note": "Discusses combining US and Drafting Committee texts on arbitrary detention and trial within reasonable time."
+   },
+   "e_cn.4_sr.351-0021": {
+    "correct": true,
+    "note": "Points to contradiction between the 2-4 nominee limit in draft art. 34 para 2 and the UK amendment allowing six."
+   },
+   "e_cn.4_ac.1_sr.3-0014": {
+    "correct": false,
+    "note": "General remarks on brevity versus detail of the Bill and non-discrimination; belief/teaching only touched in passing."
+   },
+   "e_cn.4_sr.113-0052": {
+    "correct": true,
+    "note": "Wants the word 'everywhere' retained in the recognition-before-the-law article."
+   },
+   "e_cn.4_ac.1_sr.14-0047": {
+    "correct": true,
+    "note": "Draft art. 32 on protection of professional interests (trade unions); says it duplicates freedom of association and should be omitted."
+   },
+   "e_cn.4_sr.351-0026": {
+    "correct": false,
+    "note": "Amends the revised UK text on completing nominee lists for casual vacancies (draft art. 40, final 34), not the nomination article."
+   },
+   "e_cn.4_sr.129-0029": {
+    "correct": true,
+    "note": "Explains reservation on the clause limiting accession by non-member States in the signature/accession article just adopted."
+   },
+   "e_cn.4_ac.2_sr.3-0033": {
+    "correct": true,
+    "note": "Warns about the word 'law' in the arbitrary detention article and proposes rewording."
+   },
+   "e_cn.4_sr.351-0074": {
+    "correct": true,
+    "note": "Explains abstention in a vote on the inconsistency of draft art. 34 with art. 40; concerns art. 34's text (borderline)."
+   },
+   "e_cn.4_ac.2_sr.3-0031": {
+    "correct": true,
+    "note": "Supports the US draft because it prevents arbitrary detention."
+   },
+   "e_cn.4_ac.1_sr.15-0017": {
+    "correct": false,
+    "note": "Concerns scientific inventions available to everyone, i.e. the cultural/science article (draft 37), not the work/trade union article."
+   },
+   "e_cn.4_ac.1_sr.9-0054": {
+    "correct": true,
+    "note": "Objects to draft asylum article wording and proposes an alternative."
+   },
+   "e_cn.4_sr.346-0020": {
+    "correct": true,
+    "note": "Recalls the compromise on size and composition of the Human Rights Committee (establishment article)."
+   },
+   "e_cn.4_sr.351-0025": {
+    "correct": false,
+    "note": "Rapporteur on whether the new para 1 of art. 40 (supplementary lists for vacancies) contradicts art. 34 para 3; mainly the vacancy provision (borderline)."
+   },
+   "e_cn.4_sr.357-0003": {
+    "correct": true,
+    "note": "NGO urges adding the Indian paragraphs to draft art. 52 (communications), an amendment to that article."
+   },
+   "e_cn.4_sr.354-0038": {
+    "correct": true,
+    "note": "Translation of 'concerned in a case' in the amendments to the Committee rules of procedure article."
+   },
+   "e_cn.4_sr.377-0006": {
+    "correct": true,
+    "note": "Supports including an article on war propaganda/hatred, saying the proposed text does not go far enough."
+   },
+   "e_cn.4_sr.389-0003": {
+    "correct": false,
+    "note": "Chile explains its additional article on the Committee's promotional/assistance function, not the annual report article (low confidence)."
+   },
+   "e_cn.4_ac.2_sr.3-0018": {
+    "correct": true,
+    "note": "Defends the Drafting Committee text of the life/liberty/security article against Chilean and Lebanese alternatives."
+   },
+   "e_cn.4_ac.1_sr.13-0034": {
+    "correct": true,
+    "note": "Notes Russian term for 'human beings' covers both sexes, on the wording of art. 1."
+   },
+   "e_cn.4_sr.351-0023": {
+    "correct": true,
+    "note": "Proposes inserting 'except in the case referred to in article 40' into para 2 of art. 34."
+   },
+   "e_cn.4_sr.329-0023": {
+    "correct": true,
+    "note": "UK asks to postpone the vote on para 2 of draft art. 1 (obligations, progressive realization wording)."
+   },
+   "e_cn.4_sr.351-0013": {
+    "correct": false,
+    "note": "On a separate vote on 'if it so desires' in the amendment on completing lists for casual vacancies (draft art. 40, final 34)."
+   },
+   "e_cn.4_ac.2_sr.8-0045": {
+    "correct": true,
+    "note": "Proposes more concrete wording on the right to protection of health (housing, food, medical care)."
+   },
+   "e_cn.4_sr.54-0009": {
+    "correct": true,
+    "note": "Opposes the confused wording of the equal-protection paragraph."
+   },
+   "e_cn.4_sr.351-0044": {
+    "correct": true,
+    "note": "Egypt withdraws and reformulates its amendment to the vacancy-filling article."
+   },
+   "e_cn.4_sr.274-0006": {
+    "correct": true,
+    "note": "USSR argues the general obligation article must make the obligations strictly enforceable and opposes limiting proposals (borderline)."
+   },
+   "e_cn.4_sr.352-0032": {
+    "correct": true,
+    "note": "Proposes a six-month period instead of 'absence of a temporary character' in the removal article."
+   },
+   "e_cn.4_ac.2_sr.3-0034": {
+    "correct": true,
+    "note": "On the meaning of 'law' in the arbitrary arrest/detention article."
+   },
+   "e_cn.4_ac.2_sr.2-0016": {
+    "correct": true,
+    "note": "Proposes 'human beings' instead of 'men' in art. 1."
+   },
+   "e_cn.4_sr.36-0012": {
+    "correct": true,
+    "note": "On how the liberty/security article (art. 8) is to be construed via the general limitation article (borderline, partly about art. 38)."
+   },
+   "e_cn.4_ac.2_sr.5-0021": {
+    "correct": true,
+    "note": "Supports criticism of the asylum article."
+   },
+   "e_cn.4_sr.36-0015": {
+    "correct": true,
+    "note": "Explanation of vote on art. 8, the liberty and security article."
+   },
+   "e_cn.4_ac.1_sr.8-0073": {
+    "correct": true,
+    "note": "UK view on whether to omit the property article if it states the State's right."
+   },
+   "e_cn.4_sr.42-0035": {
+    "correct": true,
+    "note": "Explains abstention in the vote on the amendments article, citing the legal nature of the Convention (vote on the article's text; borderline)."
+   }
+  },
+  "third": {}
+ }
+]

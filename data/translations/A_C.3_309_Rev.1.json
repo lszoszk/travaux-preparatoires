@@ -1,0 +1,39 @@
+{
+ "symbol": "A/C.3/309/Rev.1",
+ "source_language": "fr",
+ "source_file": "A_C.3_309_Rev.1-FR.pdf",
+ "translation_model": "claude-fable-5-1",
+ "check_model": "claude-sonnet-5-5",
+ "translation_date": "2026-09-29",
+ "title": "Draft International Declaration of Human Rights — Mexico, Chile, Venezuela: Amendment to article 6 of the draft Declaration (E/800)",
+ "date": "1948-10-25",
+ "stated_original_language": "not stated",
+ "pages": [
+  {
+   "page": 1,
+   "text": "United Nations                    Nations Unies\nGENERAL ASSEMBLY                  ASSEMBLEE GENERALE\n\nUNRESTRICTED\nA/C.3/309/Rev.1\n25 October 1948\nFRENCH ONLY\n\nDual distribution\n\nThird session\nTHIRD COMMITTEE\n\nDRAFT INTERNATIONAL DECLARATION OF HUMAN RIGHTS\n\nMexico, Chile, Venezuela: Amendment to article 6 of the draft Declaration (E/800)\n\nAdd to article 6 a second paragraph worded as follows:\n\n\"Everyone has the right to an effective remedy before the competent national courts against acts violating the fundamental rights recognized to him by the constitution or by law.\"\n\n-------\n\n[Footnote: * The present text cancels and replaces the French text of document A/C.3/309]"
+  }
+ ],
+ "uncertain": [],
+ "check": {
+  "verdict": "has_issues",
+  "issues": [
+   {
+    "page": 1,
+    "severity": "minor",
+    "french": "les droits fondamentaux qui lui sont reconnus par la constitution ou par la loi",
+    "translation": "the fundamental rights granted to him by the constitution or by law",
+    "suggestion": "\"the fundamental rights recognized to him by the constitution or by law\" (reconnus = recognized; \"granted\" echoes the final UDHR Article 8 wording rather than this French text). Meaning is close, so this is only a wording point.",
+    "kind": "term"
+   }
+  ],
+  "resolved_by_translator": true,
+  "first_pass": [
+   {
+    "page": 1,
+    "text": "United Nations                    Nations Unies\nGENERAL ASSEMBLY                  ASSEMBLEE GENERALE\n\nUNRESTRICTED\nA/C.3/309/Rev.1\n25 October 1948\nFRENCH ONLY\n\nDual distribution\n\nThird session\nTHIRD COMMITTEE\n\nDRAFT INTERNATIONAL DECLARATION OF HUMAN RIGHTS\n\nMexico, Chile, Venezuela: Amendment to article 6 of the draft Declaration (E/800)\n\nAdd to article 6 a second paragraph worded as follows:\n\n\"Everyone has the right to an effective remedy before the competent national courts against acts violating the fundamental rights granted to him by the constitution or by law.\"\n\n-------\n\n[Footnote: * The present text cancels and replaces the French text of document A/C.3/309]"
+   }
+  ],
+  "summary": "checked against the scan by claude-sonnet-5-5: 1 minor discrepancy, settled by claude-fable-5-1 from the scan"
+ }
+}

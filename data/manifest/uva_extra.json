@@ -1,0 +1,476 @@
+{
+ "description": "Items of the UVA travaux collection of the Covenants (hr-travaux.law.virginia.edu) that the database and the earlier manifests lacked, 30 Sept 2026",
+ "count": 47,
+ "documents": [
+  {
+   "symbol": "E/CN.4/365",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/A-RES-544%28VI%29.pdf",
+   "uva_title": "Compilation of the comments of Governments on the draft International Covenant on Human Rights and o",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/353/Add.1",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/A-RES-543%28VI%29.pdf",
+   "uva_title": "Comments of Governments on the draft International Covenant on Human Rights and measures of implemen",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SR.135/Corr.2",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/E-CN_4-SR_231.pdf",
+   "uva_title": "Corrigendum to the summary record of the 135th meeting held at Lake Success, New York, on Monday, 20",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SR.135/Corr.1",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/E-CN_4-SR_230.pdf",
+   "uva_title": "Summary record of the 135th meeting held at Lake Success, New York, on Monday, 20 June 1949 : Commis",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SR.131/Corr.1",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/E-CN_4-SR_225_0.pdf",
+   "uva_title": "Corrigendum to the summary record of the 131st meeting held at Lake Success, New York, on Thursday, ",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SR.126/Corr.1",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/E-CN_4-SR_219_0.pdf",
+   "uva_title": "Corrigendum to the summary record of the 126th meeting held at Lake Success, New York, on Tuesday, 1",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SR.123/Corr.1",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/E-CN_4-SR_215.pdf",
+   "uva_title": "Summary record of the 123rd meeting: corrigendum",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SR.120/Corr.1",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/E-CN_4-SR_211_0.pdf",
+   "uva_title": "Summary record of the 120th meeting: corrigendum",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SR.113/Corr.1",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/E-CN_4-SR_203.pdf",
+   "uva_title": "Summary record of the 113th meeting: corrigendum",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SR.112/Corr.2",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/A-C_3-SR_317.pdf",
+   "uva_title": "Summary record of the 112th meeting: corrigendum",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SR.112/Corr.1",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/A-C_3-SR_316.pdf",
+   "uva_title": "Summary record of the 112th meeting: corrigendum",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SR.111/Corr.1",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/A-C_3-SR_314.pdf",
+   "uva_title": "Summary record of the 111th meeting: corrigendum",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SR.110/Corr.2",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/A-C_3-SR_311.pdf",
+   "uva_title": "Summary record of the 110th meeting: corrigendum",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SR.110/Corr.1",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/A-C_3-SR_310.pdf",
+   "uva_title": "Summary record of the 110th meeting: corrigendum",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SR.109/Corr.1",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/A-C_3-SR_308.pdf",
+   "uva_title": "Summary record of the 109th meeting: corrigendum",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SR.106/Corr.2",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/A-C_3-SR_304.pdf",
+   "uva_title": "Summary record of the 106th meeting: corrigendum",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SR.106/Corr.1",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/A-C_3-SR_303.pdf",
+   "uva_title": "Summary record of the 106th meeting: corrigendum",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SR.104/Corr.1",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/A-C_3-SR_300.pdf",
+   "uva_title": "Summary record of the 104th meeting: corrigendum",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SR.102/Corr.1",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/A-C_3-SR_297.pdf",
+   "uva_title": "Summary record of the 102nd meeting: corrigendum",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SR.101/Corr.1",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/A-C_3-SR_295.pdf",
+   "uva_title": "Summary record of the 101st meeting: corrigendum",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SR.100/Corr.1",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/A-C_3-SR_293.pdf",
+   "uva_title": "Summary record of the 100th meeting: corrigendum",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SR.98/Corr.2",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/A-C_3-SR_290.pdf",
+   "uva_title": "Summary record of the 98th meeting: corrigendum",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SR.98/Corr.1",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/A-C_3-SR_289.pdf",
+   "uva_title": "Summary record of the 98th meeting: corrigendum",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SR.91/Corr.1",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/E-CN_4-SR_131-Corr_1.pdf",
+   "uva_title": "Summary record of the 91st meeting: corrigendum",
+   "mentions": []
+  },
+  {
+   "symbol": "A/3764/Corr.1",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/E-CN_4-SR_164.pdf",
+   "uva_title": "Draft International Covenants on Human Rights : report of the 3rd Committee : corrigendum",
+   "mentions": []
+  },
+  {
+   "symbol": "A/3764/Add.1",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/E-CN_4-SR_163.pdf",
+   "uva_title": "Draft International Covenants on Human Rights : report of the 3rd Committee : Rapporteur: Mr. Carlos",
+   "mentions": []
+  },
+  {
+   "symbol": "A/2112",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/A-3525.pdf",
+   "uva_title": "Draft International Covenant on Human Rights and Measures of Implementation. Report of the Third Com",
+   "mentions": []
+  },
+  {
+   "symbol": "A/1559",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/A-2112_0.pdf",
+   "uva_title": "Draft International Covenants on Human Rights. Report of the Third Committee",
+   "mentions": []
+  },
+  {
+   "symbol": "A/2808",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/E-2573__E-CN_4-705.pdf",
+   "uva_title": "Draft International Covenants on Human Rights : report of the 3rd Committee",
+   "mentions": []
+  },
+  {
+   "symbol": "A/RES/833(IX)",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": null,
+   "uva_title": "Draft international covenants on human rights.",
+   "mentions": []
+  },
+  {
+   "symbol": "A/RES/544(VI)",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": null,
+   "uva_title": "Preparation of articles on economic, social and cultural rights.",
+   "mentions": []
+  },
+  {
+   "symbol": "A/RES/543(VI)",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": null,
+   "uva_title": "Preparation of two Draft International Covenants on Human Rights.",
+   "mentions": []
+  },
+  {
+   "symbol": "A/RES/421(V)",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": null,
+   "uva_title": "Draft International Covenants on Human Rights and measures of implementation : future work for the C",
+   "mentions": []
+  },
+  {
+   "symbol": "A/RES/2200(XXI)",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": null,
+   "uva_title": "International Covenant on Economic, Social and Cultural Rights, International Covenant on Civil and ",
+   "mentions": []
+  },
+  {
+   "symbol": "A/RES/2106(XX)",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": null,
+   "uva_title": "International Convention on the Elimination of all Forms of Racial Discrimination",
+   "mentions": []
+  },
+  {
+   "symbol": "E/RES/349(XII)",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": null,
+   "uva_title": "Draft International Covenants on Human Rights and measures of implementation: future work of the Com",
+   "mentions": []
+  },
+  {
+   "symbol": "E/RES/384(XIII)",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": null,
+   "uva_title": "Report of the Commission on Human Rights (seventh session).",
+   "mentions": []
+  },
+  {
+   "symbol": "E/RES/303(XI)",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": null,
+   "uva_title": "Report of the Commission on Human Rights (sixth session).",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/595",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": null,
+   "uva_title": "Draft International Covenant on Human Rights and measures of implementation : revised proposal on tr",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/576",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": null,
+   "uva_title": "Draft International Covenant on Human Rights and measures for implementation : proposals and suggest",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/379",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": null,
+   "uva_title": "Draft International Covenant on Human Rights : amendment to article 1 / Lebanon",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/378",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": null,
+   "uva_title": "Draft International Covenant on Human Rights : amendment to article 5 / Chile",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/377/Rev.1",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": null,
+   "uva_title": "Draft International Covenant on Human Rights : revised proposal for a preamble / Australia",
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/377",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": null,
+   "uva_title": "Draft International Covenant on Human Rights : proposed draft preamble / Australia",
+   "mentions": []
+  },
+  {
+   "symbol": "E/2152",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": null,
+   "uva_title": "Resolutions : Economic and Social Council official records, 6th year, 13th session, 30 July-21 Septe",
+   "mentions": []
+  },
+  {
+   "symbol": "E/1989/22",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": null,
+   "uva_title": "Committee on Economic, Social and Cultural Rights : report on the 3rd session, 6-24 February 1989",
+   "mentions": []
+  },
+  {
+   "symbol": "A/2808/Corr.1",
+   "doc_type": "document",
+   "series": "uva",
+   "meeting_no": null,
+   "discovery_basis": "uva_covenants_collection",
+   "uva_file": null,
+   "uva_title": "Draft International Covenants on Human Rights : report of the 3rd Committee : corrigendum",
+   "mentions": []
+  }
+ ]
+}

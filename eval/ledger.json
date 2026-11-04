@@ -1,0 +1,586 @@
+{
+ "generated": "2026-11-01",
+ "period": {
+  "first": "2026-09-22",
+  "last": "2026-11-01",
+  "active_days": 35,
+  "active_hours": 212,
+  "main_session_hours": 211
+ },
+ "sessions": 4,
+ "prompts": 430,
+ "model_turns": 51883,
+ "agents": 9622,
+ "workflows": 181,
+ "tokens": {
+  "output": 24176099,
+  "input": 3043660,
+  "cache_write": 352188734,
+  "cache_read": 6854132458,
+  "processed": 7233540951
+ },
+ "by_model": {
+  "claude-opus-5-5": {
+   "turns": 40161,
+   "output": 17357816,
+   "input": 81258,
+   "cache_write": 256359885,
+   "cache_read": 5531684249
+  },
+  "claude-sonnet-5-5": {
+   "turns": 10261,
+   "output": 5108909,
+   "input": 20594,
+   "cache_write": 92493052,
+   "cache_read": 1128941108
+  },
+  "gemini-4-argon": {
+   "turns": 1241,
+   "output": 1442528,
+   "input": 2938534,
+   "cache_write": 0,
+   "cache_read": 165542455
+  },
+  "claude-fable-5-1": {
+   "turns": 132,
+   "output": 142239,
+   "input": 2500,
+   "cache_write": 2459384,
+   "cache_read": 24504907
+  },
+  "claude-haiku-4-5-20251001": {
+   "turns": 88,
+   "output": 124607,
+   "input": 774,
+   "cache_write": 876413,
+   "cache_read": 3459739
+  }
+ },
+ "by_kind": {
+  "direction and engineering (main session)": {
+   "output": 9254380,
+   "input": 2082179,
+   "cache_write": 64708062,
+   "cache_read": 4396107126,
+   "turns": 9659
+  },
+  "quality checks (blind judges, audits)": {
+   "output": 8815632,
+   "input": 932473,
+   "cache_write": 172532983,
+   "cache_read": 1436806664,
+   "turns": 28827
+  },
+  "tagging and extraction": {
+   "output": 3076070,
+   "input": 10474,
+   "cache_write": 48993714,
+   "cache_read": 205182768,
+   "turns": 4652
+  },
+  "reading reports and texts by hand": {
+   "output": 1709564,
+   "input": 5602,
+   "cache_write": 43881248,
+   "cache_read": 346450607,
+   "turns": 2801
+  },
+  "research checks on articles": {
+   "output": 1108360,
+   "input": 10900,
+   "cache_write": 18627001,
+   "cache_read": 438030088,
+   "turns": 5450
+  },
+  "sources and translation": {
+   "output": 132366,
+   "input": 1270,
+   "cache_write": 2634473,
+   "cache_read": 16298868,
+   "turns": 338
+  },
+  "other agents": {
+   "output": 79727,
+   "input": 762,
+   "cache_write": 811253,
+   "cache_read": 15256337,
+   "turns": 156
+  }
+ },
+ "days": {
+  "2026-09-22": {
+   "prompts": 6,
+   "turns": 403,
+   "output": 517633,
+   "input": 816,
+   "cache_write": 1279787,
+   "cache_read": 128915079,
+   "output_by_model": {
+    "claude-opus-5-5": 517633
+   }
+  },
+  "2026-09-23": {
+   "prompts": 26,
+   "turns": 3012,
+   "output": 3126586,
+   "input": 6050,
+   "cache_write": 24680070,
+   "cache_read": 896426306,
+   "output_by_model": {
+    "claude-opus-5-5": 3126586
+   }
+  },
+  "2026-09-24": {
+   "prompts": 12,
+   "turns": 1340,
+   "output": 993541,
+   "input": 2698,
+   "cache_write": 23349797,
+   "cache_read": 259377451,
+   "output_by_model": {
+    "claude-opus-5-5": 993541
+   }
+  },
+  "2026-09-25": {
+   "prompts": 8,
+   "turns": 2105,
+   "output": 698171,
+   "input": 4222,
+   "cache_write": 9881909,
+   "cache_read": 273158658,
+   "output_by_model": {
+    "claude-opus-5-5": 698171
+   }
+  },
+  "2026-09-26": {
+   "prompts": 5,
+   "turns": 644,
+   "output": 355475,
+   "input": 1296,
+   "cache_write": 3879195,
+   "cache_read": 83202457,
+   "output_by_model": {
+    "claude-opus-5-5": 355475
+   }
+  },
+  "2026-09-28": {
+   "prompts": 30,
+   "turns": 4938,
+   "output": 1931406,
+   "input": 9934,
+   "cache_write": 22095082,
+   "cache_read": 667298662,
+   "output_by_model": {
+    "claude-opus-5-5": 1757061,
+    "claude-sonnet-5-5": 174345
+   }
+  },
+  "2026-09-29": {
+   "prompts": 17,
+   "turns": 1592,
+   "output": 588648,
+   "input": 3660,
+   "cache_write": 8116295,
+   "cache_read": 201219291,
+   "output_by_model": {
+    "claude-sonnet-5-5": 525145,
+    "claude-opus-5-5": 17057,
+    "claude-haiku-4-5-20251001": 18679,
+    "claude-fable-5-1": 27767
+   }
+  },
+  "2026-09-30": {
+   "prompts": 18,
+   "turns": 756,
+   "output": 534247,
+   "input": 2706,
+   "cache_write": 6978195,
+   "cache_read": 139979022,
+   "output_by_model": {
+    "claude-sonnet-5-5": 256418,
+    "claude-opus-5-5": 139353,
+    "claude-fable-5-1": 32548,
+    "claude-haiku-4-5-20251001": 105928
+   }
+  },
+  "2026-10-02": {
+   "prompts": 3,
+   "turns": 42,
+   "output": 37409,
+   "input": 84,
+   "cache_write": 1651465,
+   "cache_read": 34886055,
+   "output_by_model": {
+    "claude-sonnet-5-5": 406,
+    "claude-opus-5-5": 37003
+   }
+  },
+  "2026-10-03": {
+   "prompts": 12,
+   "turns": 7312,
+   "output": 3630422,
+   "input": 14646,
+   "cache_write": 62985500,
+   "cache_read": 612485041,
+   "output_by_model": {
+    "claude-opus-5-5": 1739116,
+    "claude-sonnet-5-5": 1891306
+   }
+  },
+  "2026-10-04": {
+   "prompts": 15,
+   "turns": 93,
+   "output": 134122,
+   "input": 186,
+   "cache_write": 1192850,
+   "cache_read": 34317706,
+   "output_by_model": {
+    "claude-sonnet-5-5": 64747,
+    "claude-opus-5-5": 69375
+   }
+  },
+  "2026-10-05": {
+   "prompts": 1,
+   "turns": 3,
+   "output": 431,
+   "input": 6,
+   "cache_write": 485210,
+   "cache_read": 1086333,
+   "output_by_model": {
+    "claude-sonnet-5-5": 431
+   }
+  },
+  "2026-10-06": {
+   "prompts": 4,
+   "turns": 1316,
+   "output": 498598,
+   "input": 2632,
+   "cache_write": 9949175,
+   "cache_read": 144618552,
+   "output_by_model": {
+    "claude-sonnet-5-5": 246138,
+    "claude-opus-5-5": 252460
+   }
+  },
+  "2026-10-07": {
+   "prompts": 3,
+   "turns": 169,
+   "output": 89508,
+   "input": 338,
+   "cache_write": 2207237,
+   "cache_read": 50835625,
+   "output_by_model": {
+    "claude-opus-5-5": 74756,
+    "claude-sonnet-5-5": 14752
+   }
+  },
+  "2026-10-08": {
+   "prompts": 1,
+   "turns": 2,
+   "output": 264,
+   "input": 4,
+   "cache_write": 1770092,
+   "cache_read": 78608,
+   "output_by_model": {
+    "claude-opus-5-5": 156,
+    "claude-sonnet-5-5": 108
+   }
+  },
+  "2026-10-09": {
+   "prompts": 1,
+   "turns": 3,
+   "output": 594,
+   "input": 6,
+   "cache_write": 859779,
+   "cache_read": 1835763,
+   "output_by_model": {
+    "claude-sonnet-5-5": 594
+   }
+  },
+  "2026-10-13": {
+   "prompts": 25,
+   "turns": 4602,
+   "output": 1549300,
+   "input": 9244,
+   "cache_write": 34000121,
+   "cache_read": 433358597,
+   "output_by_model": {
+    "claude-sonnet-5-5": 282282,
+    "claude-opus-5-5": 1267018
+   }
+  },
+  "2026-10-14": {
+   "prompts": 12,
+   "turns": 5748,
+   "output": 1064777,
+   "input": 11524,
+   "cache_write": 28811353,
+   "cache_read": 472081712,
+   "output_by_model": {
+    "claude-opus-5-5": 921454,
+    "claude-sonnet-5-5": 143323
+   }
+  },
+  "2026-10-15": {
+   "prompts": 19,
+   "turns": 8946,
+   "output": 1461276,
+   "input": 17948,
+   "cache_write": 41171084,
+   "cache_read": 702337604,
+   "output_by_model": {
+    "claude-opus-5-5": 1272106,
+    "claude-sonnet-5-5": 189170
+   }
+  },
+  "2026-10-16": {
+   "prompts": 13,
+   "turns": 636,
+   "output": 281041,
+   "input": 1976,
+   "cache_write": 6970795,
+   "cache_read": 130511457,
+   "output_by_model": {
+    "claude-fable-5-1": 47864,
+    "claude-opus-5-5": 233177
+   }
+  },
+  "2026-10-17": {
+   "prompts": 16,
+   "turns": 931,
+   "output": 242430,
+   "input": 1900,
+   "cache_write": 6194104,
+   "cache_read": 102399578,
+   "output_by_model": {
+    "claude-opus-5-5": 242430
+   }
+  },
+  "2026-10-18": {
+   "prompts": 22,
+   "turns": 199,
+   "output": 125550,
+   "input": 404,
+   "cache_write": 2125342,
+   "cache_read": 94861180,
+   "output_by_model": {
+    "claude-opus-5-5": 125550
+   }
+  },
+  "2026-10-19": {
+   "prompts": 19,
+   "turns": 213,
+   "output": 154045,
+   "input": 444,
+   "cache_write": 1480813,
+   "cache_read": 160865361,
+   "output_by_model": {
+    "claude-opus-5-5": 154045
+   }
+  },
+  "2026-10-20": {
+   "prompts": 53,
+   "turns": 464,
+   "output": 436974,
+   "input": 1314,
+   "cache_write": 3223666,
+   "cache_read": 193433435,
+   "output_by_model": {
+    "claude-opus-5-5": 403421,
+    "claude-fable-5-1": 33553
+   }
+  },
+  "2026-10-21": {
+   "prompts": 25,
+   "turns": 569,
+   "output": 425651,
+   "input": 1330,
+   "cache_write": 3632837,
+   "cache_read": 266682311,
+   "output_by_model": {
+    "claude-opus-5-5": 424119,
+    "claude-sonnet-5-5": 1025,
+    "claude-fable-5-1": 507
+   }
+  },
+  "2026-10-22": {
+   "prompts": 2,
+   "turns": 62,
+   "output": 46239,
+   "input": 136,
+   "cache_write": 1775319,
+   "cache_read": 36033054,
+   "output_by_model": {
+    "claude-opus-5-5": 46164,
+    "claude-sonnet-5-5": 75
+   }
+  },
+  "2026-10-23": {
+   "prompts": 1,
+   "turns": 18,
+   "output": 7860,
+   "input": 40,
+   "cache_write": 790603,
+   "cache_read": 14075314,
+   "output_by_model": {
+    "claude-opus-5-5": 7860
+   }
+  },
+  "2026-10-24": {
+   "prompts": 2,
+   "turns": 38,
+   "output": 10008,
+   "input": 76,
+   "cache_write": 874514,
+   "cache_read": 14007610,
+   "output_by_model": {
+    "claude-opus-5-5": 10008
+   }
+  },
+  "2026-10-25": {
+   "prompts": 4,
+   "turns": 42,
+   "output": 24803,
+   "input": 84,
+   "cache_write": 852341,
+   "cache_read": 35784961,
+   "output_by_model": {
+    "claude-opus-5-5": 24803
+   }
+  },
+  "2026-10-27": {
+   "prompts": 8,
+   "turns": 81,
+   "output": 36721,
+   "input": 186,
+   "cache_write": 1129930,
+   "cache_read": 18830236,
+   "output_by_model": {
+    "claude-opus-5-5": 36721
+   }
+  },
+  "2026-10-28": {
+   "prompts": 10,
+   "turns": 582,
+   "output": 545984,
+   "input": 1254,
+   "cache_write": 3011643,
+   "cache_read": 113073944,
+   "output_by_model": {
+    "claude-opus-5-5": 437547,
+    "claude-sonnet-5-5": 108437
+   }
+  },
+  "2026-10-29": {
+   "prompts": 10,
+   "turns": 1098,
+   "output": 1371475,
+   "input": 2564,
+   "cache_write": 9593903,
+   "cache_read": 137152721,
+   "output_by_model": {
+    "claude-opus-5-5": 882341,
+    "claude-sonnet-5-5": 489134
+   }
+  },
+  "2026-10-30": {
+   "prompts": 7,
+   "turns": 2231,
+   "output": 1347167,
+   "input": 4494,
+   "cache_write": 22158817,
+   "cache_read": 142680719,
+   "output_by_model": {
+    "claude-opus-5-5": 771341,
+    "claude-sonnet-5-5": 575826
+   }
+  },
+  "2026-10-31": {
+   "prompts": 10,
+   "turns": 1342,
+   "output": 1455155,
+   "input": 1842648,
+   "cache_write": 3029911,
+   "cache_read": 213713724,
+   "output_by_model": {
+    "claude-opus-5-5": 319968,
+    "claude-sonnet-5-5": 145247,
+    "gemini-4-argon": 989940
+   }
+  },
+  "2026-11-01": {
+   "prompts": 10,
+   "turns": 351,
+   "output": 452588,
+   "input": 1096810,
+   "cache_write": 0,
+   "cache_read": 42528331,
+   "output_by_model": {
+    "gemini-4-argon": 452588
+   }
+  }
+ },
+ "local": {
+  "pdfs": 2774,
+  "pages": 22449,
+  "jev_answers": 56131,
+  "jev": {
+   "calls": 4527,
+   "questions": 60147,
+   "input": 35994537,
+   "output": 3046929,
+   "by_task": {
+    "article_check": {
+     "calls": 1086,
+     "questions": 20726,
+     "input": 9268484,
+     "output": 387568
+    },
+    "topic_choice": {
+     "calls": 839,
+     "questions": 16631,
+     "input": 15168351,
+     "output": 1747314
+    },
+    "procedure_check": {
+     "calls": 742,
+     "questions": 14398,
+     "input": 6416394,
+     "output": 269219
+    },
+    "article_choice": {
+     "calls": 1427,
+     "questions": 7179,
+     "input": 4154392,
+     "output": 423963
+    },
+    "schabas_choice": {
+     "calls": 413,
+     "questions": 993,
+     "input": 750704,
+     "output": 84694
+    },
+    "speaker": {
+     "calls": 19,
+     "questions": 218,
+     "input": 235088,
+     "output": 134131
+    },
+    "article_check_probe": {
+     "calls": 1,
+     "questions": 2,
+     "input": 1124,
+     "output": 40
+    }
+   }
+  },
+  "commits": 419,
+  "tests": 141
+ },
+ "notes": [
+  "Tokens are counted from the API usage the transcripts record, one count per response.",
+  "Cache reads are the same context read again at every turn; 'output' is what the models generated.",
+  "The split by kind of work classes each agent by keywords in its workflow's name and its label: an approximation.",
+  "Human work (decisions, reading, checking) is not in these numbers."
+ ]
+}

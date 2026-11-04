@@ -1,0 +1,1034 @@
+{
+ "article": 4,
+ "witnesses": [
+  {
+   "sigil": "Sec",
+   "stage": "secretariat_outline",
+   "text": "slavery and compulsory labour are inconsistent with the dignity of man and therefore prohibited by this bill of rights but a man may be required to perform his just share of any public service that is equally incumbent upon all and his right to a livelihood is conditioned by his duty to work involuntary servitude may also be imposed as part of a punishment pronounced by a court of law"
+  },
+  {
+   "sigil": "Cassin",
+   "stage": "cassin_draft",
+   "text": "slavery which is inconsistent with the dignity of man is prohibited public authority may impose a personal service or work only by application of a law and for the common interest"
+  },
+  {
+   "sigil": "DC1",
+   "stage": "drafting_committee_1",
+   "text": "slavery which is inconsistent with the dignity of man is prohibited in all its forms"
+  },
+  {
+   "sigil": "WG57",
+   "stage": "e_cn4_57",
+   "text": "slavery in all its forms being inconsistent with the dignity of man shall be prohibited by law"
+  },
+  {
+   "sigil": "Geneva",
+   "stage": "geneva_draft",
+   "text": "slavery in all its forms being inconsistent with the dignity of man shall be prohibited by law"
+  },
+  {
+   "sigil": "DC2",
+   "stage": "drafting_committee_2",
+   "text": "slavery is prohibited in ell its forms"
+  },
+  {
+   "sigil": "CHR3",
+   "stage": "chr_3",
+   "text": "no one shall be held in slavery or involuntary servitude ko one shall be subjected to torture or to cruel inhuman or degrading treatment or punishment"
+  },
+  {
+   "sigil": "A777",
+   "stage": "a777",
+   "text": "no one shall be held in slavery or servitude slavery and the slave trade shall be prohibited in all their forms"
+  }
+ ],
+ "sources": {
+  "Sec": [
+   {
+    "symbol": "E/CN.4/AC.1/3",
+    "draft_article": 8,
+    "page": 4,
+    "text_from": "OCR"
+   }
+  ],
+  "Cassin": [
+   {
+    "symbol": "E/CN.4/AC.1/W.2/Rev.2",
+    "draft_article": 11,
+    "page": 3,
+    "text_from": "OCR"
+   }
+  ],
+  "DC1": [
+   {
+    "symbol": "E/CN.4/21",
+    "draft_article": 11,
+    "page": 75,
+    "text_from": "OCR"
+   }
+  ],
+  "WG57": [
+   {
+    "symbol": "E/CN.4/57",
+    "draft_article": 11,
+    "page": 8,
+    "text_from": "OCR"
+   }
+  ],
+  "Geneva": [
+   {
+    "symbol": "E/600",
+    "draft_article": 8,
+    "page": 18,
+    "text_from": "OCR"
+   }
+  ],
+  "DC2": [
+   {
+    "symbol": "E/CN.4/95",
+    "draft_article": 5,
+    "page": 5,
+    "text_from": "OCR"
+   }
+  ],
+  "CHR3": [
+   {
+    "symbol": "E/800",
+    "draft_article": 4,
+    "page": 11,
+    "text_from": "OCR"
+   }
+  ],
+  "A777": [
+   {
+    "symbol": "A/777",
+    "draft_article": 5,
+    "page": 3,
+    "text_from": "OCR"
+   }
+  ]
+ },
+ "branches": [
+  {
+   "n": 1,
+   "column": 0,
+   "readings": [
+    {
+     "text": "slavery",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2"
+     ]
+    },
+    {
+     "text": "no one shall be held",
+     "stages": [
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "column": 1,
+   "readings": [
+    {
+     "text": "and compulsory labour are",
+     "stages": [
+      "Sec"
+     ]
+    },
+    {
+     "text": "which is",
+     "stages": [
+      "Cassin",
+      "DC1"
+     ]
+    },
+    {
+     "text": "in all its forms being",
+     "stages": [
+      "WG57",
+      "Geneva"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "column": 2,
+   "readings": [
+    {
+     "text": "inconsistent with the dignity",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "DC1",
+      "WG57",
+      "Geneva"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "column": 3,
+   "readings": [
+    {
+     "text": "of man",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "DC1"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "column": 4,
+   "readings": [
+    {
+     "text": "and therefore",
+     "stages": [
+      "Sec"
+     ]
+    },
+    {
+     "text": "is",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "DC2"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "WG57",
+      "Geneva",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "column": 5,
+   "readings": [
+    {
+     "text": "prohibited",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "DC1",
+      "DC2"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "WG57",
+      "Geneva",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "column": 6,
+   "readings": [
+    {
+     "text": "by this bill",
+     "stages": [
+      "Sec"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "WG57",
+      "Geneva"
+     ]
+    },
+    {
+     "text": "in",
+     "stages": [
+      "DC1",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "column": 7,
+   "readings": [
+    {
+     "text": "of",
+     "stages": [
+      "Sec",
+      "WG57",
+      "Geneva"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1"
+     ]
+    },
+    {
+     "text": "ell",
+     "stages": [
+      "DC2"
+     ]
+    },
+    {
+     "text": "slavery or",
+     "stages": [
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "column": 8,
+   "readings": [
+    {
+     "text": "rights but a",
+     "stages": [
+      "Sec"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "A777"
+     ]
+    },
+    {
+     "text": "involuntary",
+     "stages": [
+      "CHR3"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "column": 9,
+   "readings": [
+    {
+     "text": "man",
+     "stages": [
+      "Sec",
+      "WG57",
+      "Geneva"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "DC2"
+     ]
+    },
+    {
+     "text": "servitude",
+     "stages": [
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "column": 10,
+   "readings": [
+    {
+     "text": "may",
+     "stages": [
+      "Sec"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2"
+     ]
+    },
+    {
+     "text": "ko one",
+     "stages": [
+      "CHR3"
+     ]
+    },
+    {
+     "text": "slavery",
+     "stages": [
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "column": 11,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "DC1",
+      "DC2",
+      "A777"
+     ]
+    },
+    {
+     "text": "shall",
+     "stages": [
+      "WG57",
+      "Geneva",
+      "CHR3"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "column": 12,
+   "readings": [
+    {
+     "text": "be",
+     "stages": [
+      "Sec",
+      "CHR3"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "column": 13,
+   "readings": [
+    {
+     "text": "required to perform his just share of any",
+     "stages": [
+      "Sec"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "A777"
+     ]
+    },
+    {
+     "text": "subjected",
+     "stages": [
+      "CHR3"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "column": 14,
+   "readings": [
+    {
+     "text": "public",
+     "stages": [
+      "Sec",
+      "Cassin"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "column": 15,
+   "readings": [
+    {
+     "text": "service that is equally incumbent upon",
+     "stages": [
+      "Sec"
+     ]
+    },
+    {
+     "text": "authority may impose",
+     "stages": [
+      "Cassin"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "column": 16,
+   "readings": [
+    {
+     "text": "all",
+     "stages": [
+      "Sec",
+      "DC1"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "column": 17,
+   "readings": [
+    {
+     "text": "and",
+     "stages": [
+      "Sec",
+      "A777"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "WG57",
+      "Geneva",
+      "CHR3"
+     ]
+    },
+    {
+     "text": "its forms",
+     "stages": [
+      "DC1",
+      "DC2"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "column": 18,
+   "readings": [
+    {
+     "text": "his right",
+     "stages": [
+      "Sec"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3"
+     ]
+    },
+    {
+     "text": "the slave trade shall",
+     "stages": [
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "column": 19,
+   "readings": [
+    {
+     "text": "to",
+     "stages": [
+      "Sec",
+      "CHR3"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "column": 20,
+   "readings": [
+    {
+     "text": "a",
+     "stages": [
+      "Sec",
+      "Cassin"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "A777"
+     ]
+    },
+    {
+     "text": "torture",
+     "stages": [
+      "CHR3"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "column": 21,
+   "readings": [
+    {
+     "text": "livelihood is conditioned by his duty",
+     "stages": [
+      "Sec"
+     ]
+    },
+    {
+     "text": "personal service",
+     "stages": [
+      "Cassin"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "column": 22,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "A777"
+     ]
+    },
+    {
+     "text": "or",
+     "stages": [
+      "Cassin",
+      "CHR3"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "column": 23,
+   "readings": [
+    {
+     "text": "to",
+     "stages": [
+      "Sec",
+      "CHR3"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "column": 24,
+   "readings": [
+    {
+     "text": "work",
+     "stages": [
+      "Sec",
+      "Cassin"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "A777"
+     ]
+    },
+    {
+     "text": "cruel inhuman or degrading treatment or",
+     "stages": [
+      "CHR3"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "column": 25,
+   "readings": [
+    {
+     "text": "involuntary servitude may also",
+     "stages": [
+      "Sec"
+     ]
+    },
+    {
+     "text": "only by application",
+     "stages": [
+      "Cassin"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "column": 26,
+   "readings": [
+    {
+     "text": "be",
+     "stages": [
+      "Sec",
+      "WG57",
+      "Geneva",
+      "A777"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "DC2",
+      "CHR3"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "column": 27,
+   "readings": [
+    {
+     "text": "imposed as part",
+     "stages": [
+      "Sec"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "DC2",
+      "CHR3"
+     ]
+    },
+    {
+     "text": "prohibited",
+     "stages": [
+      "WG57",
+      "Geneva",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "column": 28,
+   "readings": [
+    {
+     "text": "of a",
+     "stages": [
+      "Sec",
+      "Cassin"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3"
+     ]
+    },
+    {
+     "text": "in all their forms",
+     "stages": [
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "column": 29,
+   "readings": [
+    {
+     "text": "punishment",
+     "stages": [
+      "Sec",
+      "CHR3"
+     ]
+    },
+    {
+     "text": "law and for the common interest",
+     "stages": [
+      "Cassin"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "column": 30,
+   "readings": [
+    {
+     "text": "pronounced",
+     "stages": [
+      "Sec"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "column": 31,
+   "readings": [
+    {
+     "text": "by",
+     "stages": [
+      "Sec",
+      "WG57",
+      "Geneva"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "column": 32,
+   "readings": [
+    {
+     "text": "a court of",
+     "stages": [
+      "Sec"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "column": 33,
+   "readings": [
+    {
+     "text": "law",
+     "stages": [
+      "Sec",
+      "WG57",
+      "Geneva"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  }
+ ]
+}

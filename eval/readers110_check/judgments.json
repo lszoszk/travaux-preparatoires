@@ -1,0 +1,445 @@
+{
+ "a_c.3_sr.310-0004": {
+  "opus": {
+   "correct": true,
+   "note": "Saudi Arabia agrees to restore 'peoples' in the joint self-determination amendment, the precursor of article 1."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Amendment wording on self-determination of peoples."
+  },
+  "third": null
+ },
+ "e_cn.4_ac.1_sr.32-0002": {
+  "opus": {
+   "correct": true,
+   "note": "Prefers the Sub-Committee's text of draft article 16 (religion) to the Soviet text."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Prefers a text for draft art. 16 (religion)."
+  },
+  "third": null
+ },
+ "e_cn.4_sr.281-0005": {
+  "opus": {
+   "correct": true,
+   "note": "Revises the wording of his equal-pay amendment to draft article 21 (conditions of work)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Accepts wording of equal-remuneration amendment (art. 7)."
+  },
+  "third": null
+ },
+ "a_c.3_sr.855-0018": {
+  "opus": {
+   "correct": true,
+   "note": "Explains how Morocco will vote on the amendments to article 7."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Vote explanation on amendments to torture article."
+  },
+  "third": null
+ },
+ "a_c.3_sr.1260-0013": {
+  "opus": {
+   "correct": true,
+   "note": "Formally proposes a freedom-from-hunger provision, which became article 11(2)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Proposes freedom-from-hunger article (art. 11)."
+  },
+  "third": null
+ },
+ "a_c.3_sr.310-0010": {
+  "opus": {
+   "correct": true,
+   "note": "Argues for the joint amendment on the right of peoples to self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Defends self-determination joint amendment."
+  },
+  "third": null
+ },
+ "a_c.3_sr.715-0019": {
+  "opus": {
+   "correct": true,
+   "note": "Introduces the Greek-Uruguayan amendments to article 7, point by point."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Presents amendments to art. 7 text."
+  },
+  "third": null
+ },
+ "a_c.3_sr.867-0008": {
+  "opus": {
+   "correct": true,
+   "note": "Explains Israel's amendments to paragraphs 2 and 3 of article 9."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Substance of art. 9 and Israeli amendments."
+  },
+  "third": null
+ },
+ "a_c.3_sr.1262-0028": {
+  "opus": {
+   "correct": true,
+   "note": "Argues against the proposed new article on the rights of the child (article 24)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Opposes new child-rights article."
+  },
+  "third": null
+ },
+ "a_c.3_sr.856-0019": {
+  "opus": {
+   "correct": true,
+   "note": "Asks for the Mexican suggestions on the wording of article 8 to be circulated; procedural, but about amendments to article 8 (borderline)."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Procedural request to circulate the Mexican suggestions; no substance on art. 8."
+  },
+  "third": {
+   "correct": true,
+   "note": "Within the Third Committee's debate on draft article 8, Juvigny's request concerns only the Mexican suggestions, which he says would substantially change article 8's wording, so its subject is the amendments to that article and not general procedure or the order of work."
+  }
+ },
+ "a_c.3_sr.787-0014": {
+  "opus": {
+   "correct": true,
+   "note": "States Ireland's vote on paragraph 4 of draft article 14 (education) and the Bolivian amendment."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Voting position on para. 4 of education article."
+  },
+  "third": null
+ },
+ "a_c.3_sr.861-0020": {
+  "opus": {
+   "correct": true,
+   "note": "Introduces the UK amendments to article 9 and comments on paragraph 1."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Introduces UK amendments to art. 9."
+  },
+  "third": null
+ },
+ "a_c.3_sr.1097-0004": {
+  "opus": {
+   "correct": true,
+   "note": "Explains her vote on draft article 23 (political participation), with a reservation on sub-paragraph (c)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Explains vote on draft art. 23 (political participation)."
+  },
+  "third": null
+ },
+ "e_cn.4_sr.373-0021": {
+  "opus": {
+   "correct": true,
+   "note": "Explains Belgium's votes on the Swedish amendment and the amended article on equal rights of men and women."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Explains vote on the men-women equality article."
+  },
+  "third": null
+ },
+ "a_c.3_sr.310-0011": {
+  "opus": {
+   "correct": true,
+   "note": "Belgium explains its opposition to the joint self-determination amendment."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Self-determination amendment debate."
+  },
+  "third": null
+ },
+ "a_c.3_sr.723-0015": {
+  "opus": {
+   "correct": true,
+   "note": "Uruguay defends the three-Power amendments to article 8 (trade unions)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Replies on the three-Power amendments to the trade union article."
+  },
+  "third": null
+ },
+ "a_c.3_sr.1267-0015": {
+  "opus": {
+   "correct": true,
+   "note": "Answers whether the proposal can stand as a second paragraph of combined articles 11 and 12 (hunger)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Proposal for paragraph to combined arts 11 and 12."
+  },
+  "third": null
+ },
+ "a_c.3_sr.1085-0029": {
+  "opus": {
+   "correct": true,
+   "note": "Ukraine proposes adding international trade unions to draft article 21 (association)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Draft art. 21 association and trade unions."
+  },
+  "third": null
+ },
+ "a_c.3_sr.1181-0003": {
+  "opus": {
+   "correct": true,
+   "note": "UK proposes deleting paragraph 2 of article 2."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Substance of art. 2 paras 1-2."
+  },
+  "third": null
+ },
+ "a_c.3_sr.723-0019": {
+  "opus": {
+   "correct": true,
+   "note": "Belgium proposes 'worker or employer' to define the scope of article 8 paragraph 1(a)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Scope/wording of trade union article."
+  },
+  "third": null
+ },
+ "a_c.3_sr.1099-0006": {
+  "opus": {
+   "correct": true,
+   "note": "Raises the Spanish rendering of 'without any discrimination' in the amendment to draft article 24 (equality before the law)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Wording 'without any discrimination' in equality amendment."
+  },
+  "third": null
+ },
+ "a_c.3_sr.1185-0003": {
+  "opus": {
+   "correct": true,
+   "note": "The ILO links article 3 of the ICESCR to its conventions on women workers."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "ILO comment on equal rights of men and women article."
+  },
+  "third": null
+ },
+ "a_c.3_sr.310-0018": {
+  "opus": {
+   "correct": true,
+   "note": "Iraq supports the joint self-determination amendment."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Supports self-determination joint amendment."
+  },
+  "third": null
+ },
+ "a_c.3_sr.856-0016": {
+  "opus": {
+   "correct": true,
+   "note": "The Secretariat refers to the record on the meaning of 'servitude' in article 8."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Interpretation of 'servitude' in art. 8."
+  },
+  "third": null
+ },
+ "a_c.3_sr.1019-0016": {
+  "opus": {
+   "correct": true,
+   "note": "Proposes how the word 'family' from the Indian amendment to article 17 could be voted on."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Amendment adding 'family' to art. 17."
+  },
+  "third": null
+ },
+ "a_c.3_sr.725-0040": {
+  "opus": {
+   "correct": true,
+   "note": "Asks for a separate vote on words in the amendment to article 8."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Separate vote on words in art. 8 amendment."
+  },
+  "third": null
+ },
+ "a_c.3_sr.310-0015": {
+  "opus": {
+   "correct": true,
+   "note": "Poland supports the joint self-determination amendment."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Supports self-determination amendment."
+  },
+  "third": null
+ },
+ "a_c.3_sr.855-0010": {
+  "opus": {
+   "correct": true,
+   "note": "Mexico withdraws its reintroduced amendment to article 7."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Withdraws amendment to torture article."
+  },
+  "third": null
+ },
+ "a_c.3_sr.1259-0039": {
+  "opus": {
+   "correct": true,
+   "note": "Asks that the report record the agreed reading of 'distinction' in article 2."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Report note on special measures under art. 2."
+  },
+  "third": null
+ },
+ "e_cn.4_sr.154-0045": {
+  "opus": {
+   "correct": true,
+   "note": "Reserves the UK's position on paragraph 1 of draft article 9."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Reserves changes to para. 1 of art. 9."
+  },
+  "third": null
+ },
+ "a_c.3_sr.1262-0029": {
+  "opus": {
+   "correct": true,
+   "note": "Japan comments on the proposed new article on the rights of the child."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Positions on new child-rights article."
+  },
+  "third": null
+ },
+ "a_c.3_sr.292-0013": {
+  "opus": {
+   "correct": true,
+   "note": "Pakistan argues against the federal clause (draft article 43)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Federal clause debate."
+  },
+  "third": null
+ },
+ "e_cn.4_ac.1_sr.29-0027": {
+  "opus": {
+   "correct": true,
+   "note": "Asks that the report note the suggested exceptions to the right-to-life article."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Exceptions to the right-to-life article in report."
+  },
+  "third": null
+ },
+ "a_c.3_sr.882-0028": {
+  "opus": {
+   "correct": true,
+   "note": "Asks whether 'purpose' or 'aim' will stand in the amendment to article 10."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Wording of amendment to art. 10 ('aim' vs 'purpose')."
+  },
+  "third": null
+ },
+ "a_c.3_sr.1178-0003": {
+  "opus": {
+   "correct": true,
+   "note": "Nigeria objects to the Polish-Yugoslav proposal on the rights of children, the precursor of article 24."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Objection to child/illegitimacy-rights proposal."
+  },
+  "third": null
+ },
+ "e_cn.4_sr.281-0006": {
+  "opus": {
+   "correct": true,
+   "note": "UK explains its opposition to a non-discrimination clause in draft article 21 (conditions of work)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Non-discrimination/equal-remuneration clause in work-conditions article."
+  },
+  "third": null
+ },
+ "a_c.3_sr.799-0018": {
+  "opus": {
+   "correct": true,
+   "note": "Supports the Costa Rican-Uruguayan amendment to draft article 16 (cultural life) and suggests an informal suspension."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Supports amendment to cultural-life article."
+  },
+  "third": null
+ },
+ "a_c.3_sr.710-0016": {
+  "opus": {
+   "correct": true,
+   "note": "Uruguay opposes the UK amendment to paragraph 2 of article 6."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Opposes UK amendment to right-to-work article."
+  },
+  "third": null
+ },
+ "a_c.3_sr.856-0021": {
+  "opus": {
+   "correct": true,
+   "note": "UK argues for keeping the original text of article 8."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Defends original text of art. 8."
+  },
+  "third": null
+ },
+ "a_c.3_sr.1183-0004": {
+  "opus": {
+   "correct": true,
+   "note": "Ukraine argues for keeping paragraph 2 of article 2."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Opposes deleting art. 2 para. 2."
+  },
+  "third": null
+ }
+}

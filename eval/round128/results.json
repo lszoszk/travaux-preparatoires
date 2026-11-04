@@ -1,0 +1,951 @@
+{
+  "summary": "Two blind judges (opus, sonnet) say who speaks or presides in 40 segments whose attribution rounds 123-124 changed; a third (opus) on splits",
+  "agentCount": 11,
+  "logs": [],
+  "result": [
+    {
+      "file": "/Users/lszoszk/Desktop/AI/travaux/eval/round128/batch1.json",
+      "opus": [
+        {
+          "item": 1,
+          "id": "a_c.3_sr.1426-0026",
+          "surname": "ABDEL-RAHMAN",
+          "delegation": "International Labour Organisation",
+          "certainty": "sure",
+          "reason": "Turn opens 'Mr. ABDEL-RAHMAN (International Labour Organisation) said...'."
+        },
+        {
+          "item": 2,
+          "id": "a_c.3_sr.1136-0004",
+          "surname": "KASLIWAL",
+          "delegation": "India",
+          "certainty": "sure",
+          "reason": "Masthead names Chairman Nemi Chandra Kasliwal (India); no note of anyone else taking the chair."
+        },
+        {
+          "item": 3,
+          "id": "a_c.3_sr.575-0003",
+          "surname": "NOSEK",
+          "delegation": "Czechoslovakia",
+          "certainty": "sure",
+          "reason": "Masthead names Chairman Jiri Nosek (Czechoslovakia); no change of chair noted."
+        },
+        {
+          "item": 4,
+          "id": "e_cn.4_sr.234-0029",
+          "surname": null,
+          "delegation": null,
+          "certainty": "guess",
+          "reason": "Masthead lists no officers and no chair notes; chairman is male (not Roosevelt), but the file never names him."
+        },
+        {
+          "item": 5,
+          "id": "a_c.3_sr.820-0025",
+          "surname": "Lopez",
+          "delegation": "Philippines",
+          "certainty": "sure",
+          "reason": "Masthead: in the Chairman's absence Mr. López (Philippines), Vice-Chairman, took the Chair (OCR 'Lépez')."
+        },
+        {
+          "item": 6,
+          "id": "a_c.3_sr.956-0014",
+          "surname": "RUDA",
+          "delegation": "Argentina",
+          "certainty": "probable",
+          "reason": "Segment is a continuation without a speaker opening; it discusses Argentine law, continuing Ruda's (Argentina) paras. 27-28."
+        },
+        {
+          "item": 7,
+          "id": "e_cn.4_sr.185-0007",
+          "surname": "ROOSEVELT",
+          "delegation": "United States of America",
+          "certainty": "sure",
+          "reason": "Masthead: 'Chairman Mrs. ROOSEVELT United States of America' (OCR-garbled); no note of a change of chair."
+        },
+        {
+          "item": 8,
+          "id": "e_cn.4_sr.294-0026",
+          "surname": "VERGARA",
+          "delegation": "Catholic International Union for Social Service",
+          "certainty": "sure",
+          "reason": "Turn opens 'Mrs. VERGARA (Catholic International Union for Social Service) stated...'."
+        },
+        {
+          "item": 9,
+          "id": "a_c.3_sr.906-0025",
+          "surname": "CISELET",
+          "delegation": "Belgium",
+          "certainty": "sure",
+          "reason": "Masthead names Chairman Mrs. Georgette Ciselet (Belgium); no change of chair noted."
+        },
+        {
+          "item": 10,
+          "id": "e_cn.4_sr.145-0035",
+          "surname": "WHITLAM",
+          "delegation": "Australia",
+          "certainty": "sure",
+          "reason": "Turn opens '37. Mr. WHITLAM (Australia) said...'."
+        }
+      ],
+      "sonnet": [
+        {
+          "item": 1,
+          "id": "a_c.3_sr.1426-0026",
+          "surname": "Abdel-Rahman",
+          "delegation": "International Labour Organisation",
+          "certainty": "sure",
+          "reason": "Turn opens 'Mr. ABDEL-RAHMAN (International Labour Organisation)'."
+        },
+        {
+          "item": 2,
+          "id": "a_c.3_sr.1136-0004",
+          "surname": "Kasliwal",
+          "delegation": "India",
+          "certainty": "sure",
+          "reason": "Masthead names Mr. Nemi Chandra Kasliwal (India) as Chairman; segment 0003 shows him thanking those who elected him; no change of chair noted."
+        },
+        {
+          "item": 3,
+          "id": "a_c.3_sr.575-0003",
+          "surname": "Nosek",
+          "delegation": "Czechoslovakia",
+          "certainty": "sure",
+          "reason": "Masthead gives Mr. Jiri Nosek (Czechoslovakia) as Chairman; no note of another officer taking the chair."
+        },
+        {
+          "item": 4,
+          "id": "e_cn.4_sr.234-0029",
+          "surname": null,
+          "delegation": null,
+          "certainty": "guess",
+          "reason": "Masthead is truncated and lists no Chairman; Mehta and Roosevelt speak as members, so neither is likely presiding. The file does not name the chair."
+        },
+        {
+          "item": 5,
+          "id": "a_c.3_sr.820-0025",
+          "surname": "López",
+          "delegation": "Philippines",
+          "certainty": "sure",
+          "reason": "Masthead: in the absence of Chairman Lionaes, Vice-Chairman Mr. López (Philippines) took the Chair."
+        },
+        {
+          "item": 6,
+          "id": "a_c.3_sr.956-0014",
+          "surname": "Ruda",
+          "delegation": "Argentina",
+          "certainty": "sure",
+          "reason": "Continues Ruda's turn (paras 27-28 in 0013, para 29 missing); mentions Argentine law and public order; next paragraph 30 is Fujita."
+        },
+        {
+          "item": 7,
+          "id": "e_cn.4_sr.185-0007",
+          "surname": "Roosevelt",
+          "delegation": "United States of America",
+          "certainty": "sure",
+          "reason": "Masthead lists Chairman Mrs. Roosevelt (United States of America); no note of another member taking the chair."
+        },
+        {
+          "item": 8,
+          "id": "e_cn.4_sr.294-0026",
+          "surname": "Vergara",
+          "delegation": "Catholic International Union for Social Service",
+          "certainty": "sure",
+          "reason": "Turn opens 'Mrs. VERGARA (Catholic International Union for Social Service)'."
+        },
+        {
+          "item": 9,
+          "id": "a_c.3_sr.906-0025",
+          "surname": "Ciselet",
+          "delegation": "Belgium",
+          "certainty": "sure",
+          "reason": "Masthead names Mrs. Georgette Ciselet (Belgium) as Chairman; no note of another presiding member."
+        },
+        {
+          "item": 10,
+          "id": "e_cn.4_sr.145-0035",
+          "surname": "Whitlam",
+          "delegation": "Australia",
+          "certainty": "sure",
+          "reason": "Turn opens 'Mr. WHITLAM (Australia)'; the member list also places Whitlam for Australia."
+        }
+      ],
+      "third": [
+        {
+          "item": 5,
+          "id": "a_c.3_sr.820-0025",
+          "surname": "López",
+          "delegation": "Philippines",
+          "certainty": "sure",
+          "reason": "Masthead: in the Chairman's absence Mr. López (OCR 'Lépez'), Philippines, Vice-Chairman, took the Chair; no later resumption noted."
+        }
+      ]
+    },
+    {
+      "file": "/Users/lszoszk/Desktop/AI/travaux/eval/round128/batch2.json",
+      "opus": [
+        {
+          "item": 11,
+          "id": "e_cn.4_sr.183-0028",
+          "surname": "Kyrou",
+          "delegation": "Greece",
+          "certainty": "sure",
+          "reason": "Turn opens '26. Mr. KYROU (Greece) stated...'."
+        },
+        {
+          "item": 12,
+          "id": "a_pv.1496-0061",
+          "surname": "Quarles van Ufford",
+          "delegation": "Netherlands",
+          "certainty": "sure",
+          "reason": "Turn opens '161. Mr. Quarles van UFPORD (Netherlands)'; OCR garble of Ufford corrected."
+        },
+        {
+          "item": 13,
+          "id": "a_c.3_sr.374-0004",
+          "surname": "van Heuven Goedhart",
+          "delegation": "United Nations High Commissioner for Refugees",
+          "certainty": "sure",
+          "reason": "Turn opens 'Mr. VAN HEUVEN GOEDHART (United Nations High Commissioner for Refugees) replied'."
+        },
+        {
+          "item": 14,
+          "id": "e_cn.4_ac.2_sr.2-0052",
+          "surname": "Roosevelt",
+          "delegation": "United States of America",
+          "certainty": "sure",
+          "reason": "Masthead lists Chairman first: Mrs. Franklin D. Roosevelt (USA); no note of anyone else taking the chair."
+        },
+        {
+          "item": 15,
+          "id": "e_cn.4_sub.1_sr.28-0031",
+          "surname": "van Heuven Goedhart",
+          "delegation": "Netherlands",
+          "certainty": "sure",
+          "reason": "Masthead: 'Chairman: Mr. G.J. van Heuven GOEDRART (Netherlands)' (OCR garble); no chair change noted."
+        },
+        {
+          "item": 16,
+          "id": "a_c.3_sr.311-0025",
+          "surname": "van Heuven Goedhart",
+          "delegation": "Netherlands",
+          "certainty": "sure",
+          "reason": "Masthead: 'Chairman: Mr. G. J. van Heuven GorpHarr (Netherlands)', OCR garble; no chair change noted."
+        },
+        {
+          "item": 17,
+          "id": "e_cn.4_sr.150-0030",
+          "surname": "Roosevelt",
+          "delegation": "United States of America",
+          "certainty": "sure",
+          "reason": "Masthead Chairman Mrs. Roosevelt (USA); segment itself says Chairman spoke as US representative."
+        },
+        {
+          "item": 18,
+          "id": "e_sr.202-0051",
+          "surname": "Smouar",
+          "delegation": "Byelorussian Soviet Socialist Republic",
+          "certainty": "probable",
+          "reason": "Turn opens 'Mr. Smouar (Byelorussian Soviet Socialist Republic)'; name likely OCR-garbled, not corrected without certainty."
+        },
+        {
+          "item": 19,
+          "id": "e_cn.4_sr.242-0011",
+          "surname": "Whitlam",
+          "delegation": "Australia",
+          "certainty": "sure",
+          "reason": "Turn opens 'Mr. WHITLAM (Australia) submitted...'."
+        },
+        {
+          "item": 20,
+          "id": "e_cn.4_ac.2_sr.9-0027",
+          "surname": "Roosevelt",
+          "delegation": "United States of America",
+          "certainty": "sure",
+          "reason": "Masthead Chairman Mrs. F.D. Roosevelt (United States); segment states the US position, consistent."
+        }
+      ],
+      "sonnet": [
+        {
+          "item": 11,
+          "id": "e_cn.4_sr.183-0028",
+          "surname": "Kyrou",
+          "delegation": "Greece",
+          "certainty": "sure",
+          "reason": "Segment opens 'Mr. KYROU (Greece)'."
+        },
+        {
+          "item": 12,
+          "id": "a_pv.1496-0061",
+          "surname": "Quarles van Ufford",
+          "delegation": "Netherlands",
+          "certainty": "sure",
+          "reason": "Opens 'Mr. Quarles van UFPORD (Netherlands)', OCR-garbled Ufford; text speaks of the Kingdom of the Netherlands."
+        },
+        {
+          "item": 13,
+          "id": "a_c.3_sr.374-0004",
+          "surname": "Van Heuven Goedhart",
+          "delegation": "United Nations High Commissioner for Refugees",
+          "certainty": "sure",
+          "reason": "Opens 'Mr. VAN HEUVEN GOEDHART (United Nations High Commissioner for Refugees)'."
+        },
+        {
+          "item": 14,
+          "id": "e_cn.4_ac.2_sr.2-0052",
+          "surname": "Roosevelt",
+          "delegation": "United States of America",
+          "certainty": "sure",
+          "reason": "Masthead lists Mrs. Franklin D. Roosevelt (United States) as Chairman; no change of chair noted."
+        },
+        {
+          "item": 15,
+          "id": "e_cn.4_sub.1_sr.28-0031",
+          "surname": "van Heuven Goedhart",
+          "delegation": "Netherlands",
+          "certainty": "sure",
+          "reason": "Masthead names Mr. G.J. van Heuven Goedhart (Netherlands) as Chairman; no change of chair noted."
+        },
+        {
+          "item": 16,
+          "id": "a_c.3_sr.311-0025",
+          "surname": "van Heuven Goedhart",
+          "delegation": "Netherlands",
+          "certainty": "sure",
+          "reason": "Masthead names Mr. G. J. van Heuven Goedhart (Netherlands) as Chairman; no note of another chair."
+        },
+        {
+          "item": 17,
+          "id": "e_cn.4_sr.150-0030",
+          "surname": "Roosevelt",
+          "delegation": "United States of America",
+          "certainty": "sure",
+          "reason": "Segment says 'speaking as the representative of the United States'; masthead Chairman Mrs. Roosevelt, United States."
+        },
+        {
+          "item": 18,
+          "id": "e_sr.202-0051",
+          "surname": "Smouar",
+          "delegation": "Byelorussian Soviet Socialist Republic",
+          "certainty": "probable",
+          "reason": "Opens 'Mr. Smouar (Byelorussian Soviet Socialist Republic)'; spelling likely OCR-garbled but not certain from the file."
+        },
+        {
+          "item": 19,
+          "id": "e_cn.4_sr.242-0011",
+          "surname": "Whitlam",
+          "delegation": "Australia",
+          "certainty": "sure",
+          "reason": "Opens 'Mr. WHITLAM (Australia)'."
+        },
+        {
+          "item": 20,
+          "id": "e_cn.4_ac.2_sr.9-0027",
+          "surname": "Roosevelt",
+          "delegation": "United States of America",
+          "certainty": "sure",
+          "reason": "Masthead names Mrs. F.D. Roosevelt (United States) as Chairman; the turn refers to 'the position of the United States'."
+        }
+      ],
+      "third": []
+    },
+    {
+      "file": "/Users/lszoszk/Desktop/AI/travaux/eval/round128/batch3.json",
+      "opus": [
+        {
+          "item": 21,
+          "id": "e_cn.4_sr.31-0008",
+          "surname": "Ekstrand",
+          "delegation": "Sweden (Chairman of the Sub-Commission on the Prevention of Discrimination and Protection of Minorities)",
+          "certainty": "sure",
+          "reason": "Turn opens 'Mr. EKSTRAND stated'; the chair had just asked him to comment, and segment 0003 identifies him as Sweden, Sub-Commission Chairman."
+        },
+        {
+          "item": 22,
+          "id": "e_cn.4_sr.230-0061",
+          "surname": "Malik",
+          "delegation": "Lebanon",
+          "certainty": "probable",
+          "reason": "Masthead names no chairman. Segment 0056 says the Chairman spoke as Lebanon's representative. Item 28 (same session) lists Malik (Lebanon) as chairman."
+        },
+        {
+          "item": 23,
+          "id": "a_c.3_sr.474-0014",
+          "surname": "Ali",
+          "delegation": "Pakistan",
+          "certainty": "sure",
+          "reason": "Masthead: 'Chairman: Mr. S. Amjad ALI (Pakistan)'; no notes of a change in the chair."
+        },
+        {
+          "item": 24,
+          "id": "a_c.3_sr.1259-0033",
+          "surname": null,
+          "delegation": null,
+          "certainty": "sure",
+          "reason": "The masthead excerpt names no Chairman, and the segments and notes do not identify who presides."
+        },
+        {
+          "item": 25,
+          "id": "a_c.3_sr.1452-0007",
+          "surname": "Embarek Warzazi",
+          "delegation": "Morocco",
+          "certainty": "sure",
+          "reason": "Masthead: 'Chairman: Mrs. Halima EMBAREK WARZAZI (Morocco)'; no change of chair noted."
+        },
+        {
+          "item": 26,
+          "id": "e_ac.7_sr.39-0063",
+          "surname": "van der Mandele",
+          "delegation": "Netherlands",
+          "certainty": "sure",
+          "reason": "Printed 'Mr. van der MANDELLE (Netherlands)', an OCR variant of van der MANDELE, who speaks earlier in the record."
+        },
+        {
+          "item": 27,
+          "id": "e_sr.157-0034",
+          "surname": "Malik",
+          "delegation": "Lebanon",
+          "certainty": "sure",
+          "reason": "Masthead: 'President: Mr. Charles MALIK (Lebanon)'; no note of anyone else presiding."
+        },
+        {
+          "item": 28,
+          "id": "e_cn.4_sr.243-0021",
+          "surname": "Malik",
+          "delegation": "Lebanon",
+          "certainty": "probable",
+          "reason": "Garbled masthead lists 'Er, EALIK (Lebanon)' first, at the chairman position. The OCR is too poor to be certain."
+        },
+        {
+          "item": 29,
+          "id": "a_pv.7-0019",
+          "surname": "Spaak",
+          "delegation": "Belgium",
+          "certainty": "sure",
+          "reason": "Masthead: 'President: M. P.-H. Spaak (Belgium)'; President speaks in French translation throughout; no change noted."
+        },
+        {
+          "item": 30,
+          "id": "a_c.3_sr.784-0004",
+          "surname": "López",
+          "delegation": "Philippines",
+          "certainty": "sure",
+          "reason": "Masthead: in the Chairman's absence, Vice-Chairman Mr. López (Philippines) took the Chair. Segment also says Chairman of the Working Party."
+        }
+      ],
+      "sonnet": [
+        {
+          "item": 21,
+          "id": "e_cn.4_sr.31-0008",
+          "surname": "Ekstrand",
+          "delegation": "Sweden",
+          "certainty": "sure",
+          "reason": "Chair asks Mr. Ekstrand to comment; segment opens 'Mr. EKSTRAND'; he is introduced as (Sweden), Chairman of the Sub-Commission."
+        },
+        {
+          "item": 22,
+          "id": "e_cn.4_sr.230-0061",
+          "surname": "Malik",
+          "delegation": "Lebanon",
+          "certainty": "probable",
+          "reason": "Segment 0056 shows the Chairman speaking as representative of Lebanon; the Seventh Session masthead of SR.243 lists Malik (Lebanon) first. No note of a change."
+        },
+        {
+          "item": 23,
+          "id": "a_c.3_sr.474-0014",
+          "surname": "Amjad Ali",
+          "delegation": "Pakistan",
+          "certainty": "sure",
+          "reason": "Masthead: Chairman Mr. S. Amjad ALI (Pakistan); no note of anyone else taking the chair."
+        },
+        {
+          "item": 24,
+          "id": "a_c.3_sr.1259-0033",
+          "surname": null,
+          "delegation": null,
+          "certainty": "sure",
+          "reason": "Masthead is garbled and names no Chairman; no note about the chair, so the file does not tell who presides."
+        },
+        {
+          "item": 25,
+          "id": "a_c.3_sr.1452-0007",
+          "surname": "Embarek Warzazi",
+          "delegation": "Morocco",
+          "certainty": "sure",
+          "reason": "Masthead: Chairman Mrs. Halima EMBAREK WARZAZI (Morocco); no note of replacement."
+        },
+        {
+          "item": 26,
+          "id": "e_ac.7_sr.39-0063",
+          "surname": "van der Mandele",
+          "delegation": "Netherlands",
+          "certainty": "sure",
+          "reason": "Printed 'van der MANDELLE (Netherlands)', an OCR variant of Mr. van der MANDELE (Netherlands) in the masthead and earlier segment 0061."
+        },
+        {
+          "item": 27,
+          "id": "e_sr.157-0034",
+          "surname": "Malik",
+          "delegation": "Lebanon",
+          "certainty": "sure",
+          "reason": "Masthead: President Mr. Charles MALIK (Lebanon); no note of anyone else taking the chair."
+        },
+        {
+          "item": 28,
+          "id": "e_cn.4_sr.243-0021",
+          "surname": "Malik",
+          "delegation": "Lebanon",
+          "certainty": "probable",
+          "reason": "Masthead is garbled, but the first listed name after the Chairman heading reads 'Dr. MALIK (Lebanon)' (garbled 'EALIK'). No note of a change in the chair."
+        },
+        {
+          "item": 29,
+          "id": "a_pv.7-0019",
+          "surname": "Spaak",
+          "delegation": "Belgium",
+          "certainty": "sure",
+          "reason": "Masthead: President M. P.-H. Spaak (Belgium); no note of another person taking the chair."
+        },
+        {
+          "item": 30,
+          "id": "a_c.3_sr.784-0004",
+          "surname": "López",
+          "delegation": "Philippines",
+          "certainty": "probable",
+          "reason": "Masthead: in the absence of Chairman Lionaes, Vice-Chairman Mr. López (Philippines) took the Chair; the turn is by the presiding officer, also Working Party chairman."
+        }
+      ],
+      "third": [
+        {
+          "item": 23,
+          "id": "a_c.3_sr.474-0014",
+          "surname": "Ali",
+          "delegation": "Pakistan",
+          "certainty": "sure",
+          "reason": "Masthead lists Chairman Mr. S. Amjad ALI (Pakistan); no notes of anyone else taking the chair before this segment."
+        }
+      ]
+    },
+    {
+      "file": "/Users/lszoszk/Desktop/AI/travaux/eval/round128/batch4.json",
+      "opus": [
+        {
+          "item": 31,
+          "id": "e_cn.4_sr.160-0013",
+          "surname": "Roosevelt",
+          "delegation": "United States of America",
+          "certainty": "probable",
+          "reason": "Attendance list puts Mrs. Roosevelt first, before 'Members' (Chairman line); chair is 'she'; Chang takes the Chair only after this segment."
+        },
+        {
+          "item": 32,
+          "id": "e_cn.4_sr.222-0023",
+          "surname": "VALENZUELA",
+          "delegation": "Uruguay",
+          "certainty": "probable",
+          "reason": "Turn printed 'Mr. VALENZUELA (Uruguay)'; but Valenzuela speaks for Chile earlier (0011), so the bracket is likely a record error for Chile."
+        },
+        {
+          "item": 33,
+          "id": "e_sr.128-0005",
+          "surname": "ROOSEVELT",
+          "delegation": "Chairman of the Commission on Human Rights",
+          "certainty": "sure",
+          "reason": "President invites Mrs. Roosevelt, Chairman of the Commission, to present the report; turn opens 'Mrs. ROOSEVELT said'."
+        },
+        {
+          "item": 34,
+          "id": "e_cn.4_sr.189-0010",
+          "surname": "NISOT",
+          "delegation": "Belgium",
+          "certainty": "sure",
+          "reason": "Turn opens '5. Mr. NISOT (Belgium) thought'."
+        },
+        {
+          "item": 35,
+          "id": "e_cn.4_sub.2_sr.8-0109",
+          "surname": "HUMPHREY",
+          "delegation": "Secretariat",
+          "certainty": "sure",
+          "reason": "Turn opens 'Professor HUMPHREY read the minutes'; masthead lists Prof. J.P. Humphrey under Secretariat."
+        },
+        {
+          "item": 36,
+          "id": "e_cn.4_sr.236-0066",
+          "surname": "MOROSOV",
+          "delegation": "Union of Soviet Socialist Republics",
+          "certainty": "sure",
+          "reason": "Turn opens 'Mr. MOROSOV (Union of Soviet Socialist Republics) said'."
+        },
+        {
+          "item": 37,
+          "id": "a_c.3_sr.1435-0047",
+          "surname": "Warzazi",
+          "delegation": "Morocco",
+          "certainty": "sure",
+          "reason": "Masthead names Chairman Mrs. Halima Embarek Warzazi (Morocco); no note of anyone else taking the chair; chair is 'she'."
+        },
+        {
+          "item": 38,
+          "id": "e_cn.4_sr.315-0009",
+          "surname": "AZMI",
+          "delegation": "Egypt",
+          "certainty": "sure",
+          "reason": "Turn opens 'AZMI Bey (Egypt) objected'."
+        },
+        {
+          "item": 39,
+          "id": "e_cn.4_sr.136-0048",
+          "surname": "Roosevelt",
+          "delegation": "United States of America",
+          "certainty": "sure",
+          "reason": "Notes: Laugier took the Chair, then Mrs. Roosevelt (USA) resumed it; masthead names her Chairman; nothing later changes this."
+        },
+        {
+          "item": 40,
+          "id": "e_cn.4_sr.18-0009",
+          "surname": "SENDER",
+          "delegation": "American Federation of Labor",
+          "certainty": "sure",
+          "reason": "Turn opens 'Miss SENDER (American Federation of Labor) stated'."
+        }
+      ],
+      "sonnet": [
+        {
+          "item": 31,
+          "id": "e_cn.4_sr.160-0013",
+          "surname": "Roosevelt",
+          "delegation": "United States of America",
+          "certainty": "sure",
+          "reason": "Masthead lists Mrs. Roosevelt before 'Members:' as chair; chair is 'she'; Mr. Chang takes the Chair only later, after this segment."
+        },
+        {
+          "item": 32,
+          "id": "e_cn.4_sr.222-0023",
+          "surname": "Valenzuela",
+          "delegation": "Uruguay",
+          "certainty": "probable",
+          "reason": "Record prints 'Mr. VALENZUELA (Uruguay)'; Valenzuela is elsewhere Chile (and Ciasullo is Uruguay), but the printed form is given since a misprint is not certain."
+        },
+        {
+          "item": 33,
+          "id": "e_sr.128-0005",
+          "surname": "Roosevelt",
+          "delegation": "Commission on Human Rights",
+          "certainty": "sure",
+          "reason": "President welcomes Mrs. Roosevelt, Chairman of the Commission on Human Rights, and asks her to present the report; she speaks next."
+        },
+        {
+          "item": 34,
+          "id": "e_cn.4_sr.189-0010",
+          "surname": "Nisot",
+          "delegation": "Belgium",
+          "certainty": "sure",
+          "reason": "Segment opens 'Mr. NISOT (Belgium)'; masthead lists Mr. Nisot of Belgium."
+        },
+        {
+          "item": 35,
+          "id": "e_cn.4_sub.2_sr.8-0109",
+          "surname": "Humphrey",
+          "delegation": "Secretariat",
+          "certainty": "sure",
+          "reason": "Segment opens 'Professor HUMPHREY'; masthead lists Prof. J.P. Humphrey under Secretariat."
+        },
+        {
+          "item": 36,
+          "id": "e_cn.4_sr.236-0066",
+          "surname": "Morosov",
+          "delegation": "Union of Soviet Socialist Republics",
+          "certainty": "sure",
+          "reason": "Segment opens 'Mr. MOROSOV (Union of Soviet Socialist Republics)' replying to the Chairman's ruling on his point of order."
+        },
+        {
+          "item": 37,
+          "id": "a_c.3_sr.1435-0047",
+          "surname": "Embarek Warzazi",
+          "delegation": "Morocco",
+          "certainty": "sure",
+          "reason": "Masthead names Mrs. Halima Embarek Warzazi (Morocco) as Chairman; no note of anyone else taking the chair; later text uses 'she'."
+        },
+        {
+          "item": 38,
+          "id": "e_cn.4_sr.315-0009",
+          "surname": "Azmi",
+          "delegation": "Egypt",
+          "certainty": "sure",
+          "reason": "Segment opens 'AZMI Bey (Egypt)'; masthead lists Azmi Bey, Egypt."
+        },
+        {
+          "item": 39,
+          "id": "e_cn.4_sr.136-0048",
+          "surname": "Roosevelt",
+          "delegation": "United States of America",
+          "certainty": "sure",
+          "reason": "Masthead Chairman is Mrs. Roosevelt; notes show Laugier took the Chair, then Mrs. Roosevelt resumed it, before this segment."
+        },
+        {
+          "item": 40,
+          "id": "e_cn.4_sr.18-0009",
+          "surname": "Sender",
+          "delegation": "American Federation of Labor",
+          "certainty": "sure",
+          "reason": "Segment opens 'Miss SENDER (American Federation of Labor)'; masthead lists her as non-governmental consultant."
+        }
+      ],
+      "third": [
+        {
+          "item": 37,
+          "id": "a_c.3_sr.1435-0047",
+          "surname": "Embarek Warzazi",
+          "delegation": "Morocco",
+          "certainty": "sure",
+          "reason": "Masthead names Mrs. Halima Embarek Warzazi (Morocco) as Chairman; no notes of another member taking the chair; para 45 'she' matches."
+        }
+      ]
+    }
+  ],
+  "workflowProgress": [
+    {
+      "type": "workflow_phase",
+      "index": 1,
+      "title": "Judge"
+    },
+    {
+      "type": "workflow_phase",
+      "index": 2,
+      "title": "Third"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 1,
+      "label": "opus:batch1.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "ad0961ddbf3590ca5",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1793633502003,
+      "queuedAt": 1793633501972,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent checker of speaker attribution in UN meeting records (OCR text, 1946-66). Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round128/batch1.json: \"items\", each with one record's masthead (which often lists the officers: Chairman, Vice-Chairmen, Rapporteur), the record's earlier notes on who takes or resumes the chair, and a stretch of the record's segments in order…",
+      "promptFramed": true,
+      "lastProgressAt": 1793633537218,
+      "tokens": 71042,
+      "toolCalls": 5,
+      "durationMs": 35214,
+      "resultPreview": "{\"answers\":[{\"item\":1,\"id\":\"a_c.3_sr.1426-0026\",\"surname\":\"ABDEL-RAHMAN\",\"delegation\":\"International Labour Organisation\",\"certainty\":\"sure\",\"reason\":\"Turn opens 'Mr. ABDEL-RAHMAN (International Labour Organisation) said...'.\"},{\"item\":2,\"id\":\"a_c.3_sr.1136-0004\",\"surname\":\"KASLIWAL\",\"delegation\":\"India\",\"certainty\":\"sure\",\"reason\":\"Masthead names Chairman Nemi Chandra Kasliwal (India); no note of…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 2,
+      "label": "sonnet:batch1.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "ab1c2f84f38d2e26a",
+      "model": "claude-sonnet-5-5",
+      "state": "done",
+      "startedAt": 1793633502003,
+      "queuedAt": 1793633501972,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent checker of speaker attribution in UN meeting records (OCR text, 1946-66). Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round128/batch1.json: \"items\", each with one record's masthead (which often lists the officers: Chairman, Vice-Chairmen, Rapporteur), the record's earlier notes on who takes or resumes the chair, and a stretch of the record's segments in order…",
+      "promptFramed": true,
+      "lastProgressAt": 1793633536690,
+      "tokens": 87388,
+      "toolCalls": 3,
+      "durationMs": 34683,
+      "resultPreview": "{\"answers\":[{\"item\":1,\"id\":\"a_c.3_sr.1426-0026\",\"surname\":\"Abdel-Rahman\",\"delegation\":\"International Labour Organisation\",\"certainty\":\"sure\",\"reason\":\"Turn opens 'Mr. ABDEL-RAHMAN (International Labour Organisation)'.\"},{\"item\":2,\"id\":\"a_c.3_sr.1136-0004\",\"surname\":\"Kasliwal\",\"delegation\":\"India\",\"certainty\":\"sure\",\"reason\":\"Masthead names Mr. Nemi Chandra Kasliwal (India) as Chairman; segment 000…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 3,
+      "label": "opus:batch2.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "ab458558fb1baa1ea",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1793633502046,
+      "queuedAt": 1793633502038,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent checker of speaker attribution in UN meeting records (OCR text, 1946-66). Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round128/batch2.json: \"items\", each with one record's masthead (which often lists the officers: Chairman, Vice-Chairmen, Rapporteur), the record's earlier notes on who takes or resumes the chair, and a stretch of the record's segments in order…",
+      "promptFramed": true,
+      "lastProgressAt": 1793633539313,
+      "tokens": 67367,
+      "toolCalls": 4,
+      "durationMs": 32265,
+      "resultPreview": "{\"answers\":[{\"item\":11,\"id\":\"e_cn.4_sr.183-0028\",\"surname\":\"Kyrou\",\"delegation\":\"Greece\",\"certainty\":\"sure\",\"reason\":\"Turn opens '26. Mr. KYROU (Greece) stated...'.\"},{\"item\":12,\"id\":\"a_pv.1496-0061\",\"surname\":\"Quarles van Ufford\",\"delegation\":\"Netherlands\",\"certainty\":\"sure\",\"reason\":\"Turn opens '161. Mr. Quarles van UFPORD (Netherlands)'; OCR garble of Ufford corrected.\"},{\"item\":13,\"id\":\"a_c.3_…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 4,
+      "label": "sonnet:batch2.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "ae470ac21cf01bba4",
+      "model": "claude-sonnet-5-5",
+      "state": "done",
+      "startedAt": 1793633502046,
+      "queuedAt": 1793633502038,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent checker of speaker attribution in UN meeting records (OCR text, 1946-66). Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round128/batch2.json: \"items\", each with one record's masthead (which often lists the officers: Chairman, Vice-Chairmen, Rapporteur), the record's earlier notes on who takes or resumes the chair, and a stretch of the record's segments in order…",
+      "promptFramed": true,
+      "lastProgressAt": 1793633529617,
+      "tokens": 87693,
+      "toolCalls": 3,
+      "durationMs": 22547,
+      "resultPreview": "{\"answers\":[{\"item\":11,\"id\":\"e_cn.4_sr.183-0028\",\"surname\":\"Kyrou\",\"delegation\":\"Greece\",\"certainty\":\"sure\",\"reason\":\"Segment opens 'Mr. KYROU (Greece)'.\"},{\"item\":12,\"id\":\"a_pv.1496-0061\",\"surname\":\"Quarles van Ufford\",\"delegation\":\"Netherlands\",\"certainty\":\"sure\",\"reason\":\"Opens 'Mr. Quarles van UFPORD (Netherlands)', OCR-garbled Ufford; text speaks of the Kingdom of the Netherlands.\"},{\"item\":1…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 5,
+      "label": "opus:batch3.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "accfff1e157b1f1b5",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1793633502054,
+      "queuedAt": 1793633502047,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent checker of speaker attribution in UN meeting records (OCR text, 1946-66). Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round128/batch3.json: \"items\", each with one record's masthead (which often lists the officers: Chairman, Vice-Chairmen, Rapporteur), the record's earlier notes on who takes or resumes the chair, and a stretch of the record's segments in order…",
+      "promptFramed": true,
+      "lastProgressAt": 1793633541919,
+      "tokens": 68679,
+      "toolCalls": 6,
+      "durationMs": 34830,
+      "resultPreview": "{\"answers\":[{\"item\":21,\"id\":\"e_cn.4_sr.31-0008\",\"surname\":\"Ekstrand\",\"delegation\":\"Sweden (Chairman of the Sub-Commission on the Prevention of Discrimination and Protection of Minorities)\",\"certainty\":\"sure\",\"reason\":\"Turn opens 'Mr. EKSTRAND stated'; the chair had just asked him to comment, and segment 0003 identifies him as Sweden, Sub-Commission Chairman.\"},{\"item\":22,\"id\":\"e_cn.4_sr.230-0061\",…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 6,
+      "label": "sonnet:batch3.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a1a2de2ada8bcb538",
+      "model": "claude-sonnet-5-5",
+      "state": "done",
+      "startedAt": 1793633502054,
+      "queuedAt": 1793633502047,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent checker of speaker attribution in UN meeting records (OCR text, 1946-66). Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round128/batch3.json: \"items\", each with one record's masthead (which often lists the officers: Chairman, Vice-Chairmen, Rapporteur), the record's earlier notes on who takes or resumes the chair, and a stretch of the record's segments in order…",
+      "promptFramed": true,
+      "lastProgressAt": 1793633536786,
+      "tokens": 83050,
+      "toolCalls": 3,
+      "durationMs": 29682,
+      "resultPreview": "{\"answers\":[{\"item\":21,\"id\":\"e_cn.4_sr.31-0008\",\"surname\":\"Ekstrand\",\"delegation\":\"Sweden\",\"certainty\":\"sure\",\"reason\":\"Chair asks Mr. Ekstrand to comment; segment opens 'Mr. EKSTRAND'; he is introduced as (Sweden), Chairman of the Sub-Commission.\"},{\"item\":22,\"id\":\"e_cn.4_sr.230-0061\",\"surname\":\"Malik\",\"delegation\":\"Lebanon\",\"certainty\":\"probable\",\"reason\":\"Segment 0056 shows the Chairman speakin…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 7,
+      "label": "opus:batch4.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a70fdf33da7a7b5e0",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1793633502061,
+      "queuedAt": 1793633502055,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent checker of speaker attribution in UN meeting records (OCR text, 1946-66). Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round128/batch4.json: \"items\", each with one record's masthead (which often lists the officers: Chairman, Vice-Chairmen, Rapporteur), the record's earlier notes on who takes or resumes the chair, and a stretch of the record's segments in order…",
+      "promptFramed": true,
+      "lastProgressAt": 1793633538260,
+      "tokens": 72934,
+      "toolCalls": 5,
+      "durationMs": 31123,
+      "resultPreview": "{\"answers\":[{\"item\":31,\"id\":\"e_cn.4_sr.160-0013\",\"surname\":\"Roosevelt\",\"delegation\":\"United States of America\",\"certainty\":\"probable\",\"reason\":\"Attendance list puts Mrs. Roosevelt first, before 'Members' (Chairman line); chair is 'she'; Chang takes the Chair only after this segment.\"},{\"item\":32,\"id\":\"e_cn.4_sr.222-0023\",\"surname\":\"VALENZUELA\",\"delegation\":\"Uruguay\",\"certainty\":\"probable\",\"reason\"…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 8,
+      "label": "sonnet:batch4.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a68331b8c074839aa",
+      "model": "claude-sonnet-5-5",
+      "state": "done",
+      "startedAt": 1793633502062,
+      "queuedAt": 1793633502055,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent checker of speaker attribution in UN meeting records (OCR text, 1946-66). Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round128/batch4.json: \"items\", each with one record's masthead (which often lists the officers: Chairman, Vice-Chairmen, Rapporteur), the record's earlier notes on who takes or resumes the chair, and a stretch of the record's segments in order…",
+      "promptFramed": true,
+      "lastProgressAt": 1793633540303,
+      "tokens": 85170,
+      "toolCalls": 3,
+      "durationMs": 33155,
+      "resultPreview": "{\"answers\":[{\"item\":31,\"id\":\"e_cn.4_sr.160-0013\",\"surname\":\"Roosevelt\",\"delegation\":\"United States of America\",\"certainty\":\"sure\",\"reason\":\"Masthead lists Mrs. Roosevelt before 'Members:' as chair; chair is 'she'; Mr. Chang takes the Chair only later, after this segment.\"},{\"item\":32,\"id\":\"e_cn.4_sr.222-0023\",\"surname\":\"Valenzuela\",\"delegation\":\"Uruguay\",\"certainty\":\"probable\",\"reason\":\"Record pri…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 9,
+      "label": "third:batch1.json",
+      "phaseIndex": 2,
+      "phaseTitle": "Third",
+      "agentId": "ae7248c4167321c49",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1793633539762,
+      "queuedAt": 1793633539758,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent checker of speaker attribution in UN meeting records (OCR text, 1946-66). Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round128/batch1.json: \"items\", each with one record's masthead (which often lists the officers: Chairman, Vice-Chairmen, Rapporteur), the record's earlier notes on who takes or resumes the chair, and a stretch of the record's segments in order…",
+      "promptFramed": true,
+      "lastProgressAt": 1793633545868,
+      "tokens": 53649,
+      "toolCalls": 2,
+      "durationMs": 6106,
+      "resultPreview": "{\"answers\":[{\"item\":5,\"id\":\"a_c.3_sr.820-0025\",\"surname\":\"López\",\"delegation\":\"Philippines\",\"certainty\":\"sure\",\"reason\":\"Masthead: in the Chairman's absence Mr. López (OCR 'Lépez'), Philippines, Vice-Chairman, took the Chair; no later resumption noted.\"}]}"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 10,
+      "label": "third:batch4.json",
+      "phaseIndex": 2,
+      "phaseTitle": "Third",
+      "agentId": "abbe95be819e530fd",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1793633542602,
+      "queuedAt": 1793633542598,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent checker of speaker attribution in UN meeting records (OCR text, 1946-66). Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round128/batch4.json: \"items\", each with one record's masthead (which often lists the officers: Chairman, Vice-Chairmen, Rapporteur), the record's earlier notes on who takes or resumes the chair, and a stretch of the record's segments in order…",
+      "promptFramed": true,
+      "lastProgressAt": 1793633549523,
+      "tokens": 53217,
+      "toolCalls": 2,
+      "durationMs": 6921,
+      "resultPreview": "{\"answers\":[{\"item\":37,\"id\":\"a_c.3_sr.1435-0047\",\"surname\":\"Embarek Warzazi\",\"delegation\":\"Morocco\",\"certainty\":\"sure\",\"reason\":\"Masthead names Mrs. Halima Embarek Warzazi (Morocco) as Chairman; no notes of another member taking the chair; para 45 'she' matches.\"}]}"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 11,
+      "label": "third:batch3.json",
+      "phaseIndex": 2,
+      "phaseTitle": "Third",
+      "agentId": "aaabd462de95665a3",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1793633547494,
+      "queuedAt": 1793633547489,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent checker of speaker attribution in UN meeting records (OCR text, 1946-66). Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round128/batch3.json: \"items\", each with one record's masthead (which often lists the officers: Chairman, Vice-Chairmen, Rapporteur), the record's earlier notes on who takes or resumes the chair, and a stretch of the record's segments in order…",
+      "promptFramed": true,
+      "lastProgressAt": 1793633552030,
+      "tokens": 55500,
+      "toolCalls": 2,
+      "durationMs": 4536,
+      "resultPreview": "{\"answers\":[{\"item\":23,\"id\":\"a_c.3_sr.474-0014\",\"surname\":\"Ali\",\"delegation\":\"Pakistan\",\"certainty\":\"sure\",\"reason\":\"Masthead lists Chairman Mr. S. Amjad ALI (Pakistan); no notes of anyone else taking the chair before this segment.\"}]}"
+    }
+  ],
+  "totalTokens": 785689,
+  "totalToolCalls": 38
+}

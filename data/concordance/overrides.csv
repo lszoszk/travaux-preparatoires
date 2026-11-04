@@ -1,0 +1,49 @@
+instrument,stage,draft_article,final_article,note
+UDHR,chr_3,4,4,"E/800 art. 4 holds slavery (para. 1) and torture (para. 2), split by the Third Committee into final arts. 4 and 5; its debate is tagged 4"
+UDHR,drafting_committee_2,2,29,E/CN.4/95 art. 2 reads 'In the exercise of his rights everyone is limited by the rights of others and by the just requirements of the democratic State' = final art. 29(2); its heading is lost in the OCR
+UDHR,geneva_draft,2,29,"E/600 art. 2, the limitations clause (same text as E/CN.4/95 art. 2) = final art. 29(2)"
+UDHR,drafting_committee_2,3.2,7,"E/CN.4/95 art. 3, para. 2 ('All are equal before the law') = final art. 7; para. 1 (non-discrimination) = final art. 2"
+UDHR,geneva_draft,3.2,7,"E/600 art. 3, para. 2 (equality before the law) = final art. 7"
+UDHR,chr_3,4.2,5,"E/800 art. 4, para. 2 (torture) = final art. 5"
+UDHR,drafting_committee_2,6,9,"E/CN.4/95 art. 6 (formerly art. 5), 'No one shall be deprived of his personal liberty or kept in custody except...' = final art. 9 (text similarity had put it at art. 3)"
+UDHR,geneva_draft,5,9,"E/600 art. 5, personal liberty and arrest = final art. 9 (stated in E/CN.4/95: art. 6, formerly art. 5)"
+UDHR,drafting_committee_2,18,19,"E/CN.4/95 'Articles 17 and 18': one text, the Conference on Freedom of Information's (freedom of thought and expression) = final art. 19; the text match had put 18 at art. 20"
+UDHR,drafting_committee_2,19,20,E/CN.4/95 art. 19 (Geneva text): peaceful assembly and associations = final art. 20; heading lost in the OCR
+UDHR,drafting_committee_2,21,21,E/CN.4/95 'Articles 21 and 22' (Geneva text): taking part in government; public employment = final art. 21
+UDHR,drafting_committee_2,22,21,E/CN.4/95 'Articles 21 and 22' (Geneva text): taking part in government; public employment = final art. 21
+UDHR,drafting_committee_2,23,23,E/CN.4/95 art. 23 (Geneva text): the right to work = final art. 23
+UDHR,drafting_committee_2,25,25,"E/CN.4/95 art. 25 (Geneva text): preservation of health through food, clothing, housing and medical care = final art. 25"
+UDHR,drafting_committee_2,26,22,E/CN.4/95 art. 26 (Geneva text): social security = final art. 22; the text match had put it at art. 25
+UDHR,drafting_committee_2,28,26,E/CN.4/95 art. 28 (Geneva text): the aims of education = final art. 26(2)
+UDHR,chr_3,7,9,E/800 art. 7 'No one shall be subjected to arbitrary arrest or detention' = final art. 9; its heading is lost in the OCR ('Article_2')
+UDHR,a777,1,1,A/777 art. 1 = final art. 1
+UDHR,a777,2,2,A/777 art. 2 = final art. 2
+UDHR,a777,3,2,"A/777 art. 3 (the rights apply to the inhabitants of Trust and Non-Self-Governing Territories), deleted in the plenary on 10 December 1948; its substance became final art. 2, second paragraph"
+UDHR,a777,4,3,A/777 art. 4 = final art. 3 (renumbered after the deletion of art. 3)
+UDHR,a777,5,4,A/777 art. 5 = final art. 4 (renumbered after the deletion of art. 3)
+UDHR,a777,6,5,A/777 art. 6 = final art. 5 (renumbered after the deletion of art. 3)
+UDHR,a777,7,6,A/777 art. 7 = final art. 6 (renumbered after the deletion of art. 3)
+UDHR,a777,8,7,A/777 art. 8 = final art. 7 (renumbered after the deletion of art. 3)
+UDHR,a777,9,8,A/777 art. 9 = final art. 8 (renumbered after the deletion of art. 3)
+UDHR,a777,10,9,A/777 art. 10 = final art. 9 (renumbered after the deletion of art. 3)
+UDHR,a777,11,10,A/777 art. 11 = final art. 10 (renumbered after the deletion of art. 3)
+UDHR,a777,12,11,A/777 art. 12 = final art. 11 (renumbered after the deletion of art. 3)
+UDHR,a777,13,12,A/777 art. 13 = final art. 12 (renumbered after the deletion of art. 3)
+UDHR,a777,14,13,A/777 art. 14 = final art. 13 (renumbered after the deletion of art. 3)
+UDHR,a777,15,14,A/777 art. 15 = final art. 14 (renumbered after the deletion of art. 3)
+UDHR,a777,16,15,A/777 art. 16 = final art. 15 (renumbered after the deletion of art. 3)
+UDHR,a777,17,16,A/777 art. 17 = final art. 16 (renumbered after the deletion of art. 3)
+UDHR,a777,18,17,A/777 art. 18 = final art. 17 (renumbered after the deletion of art. 3)
+UDHR,a777,19,18,A/777 art. 19 = final art. 18 (renumbered after the deletion of art. 3)
+UDHR,a777,20,19,A/777 art. 20 = final art. 19 (renumbered after the deletion of art. 3)
+UDHR,a777,21,20,A/777 art. 21 = final art. 20 (renumbered after the deletion of art. 3)
+UDHR,a777,22,21,A/777 art. 22 = final art. 21 (renumbered after the deletion of art. 3)
+UDHR,a777,23,22,A/777 art. 23 = final art. 22 (renumbered after the deletion of art. 3)
+UDHR,a777,24,23,A/777 art. 24 = final art. 23 (renumbered after the deletion of art. 3)
+UDHR,a777,25,24,A/777 art. 25 = final art. 24 (renumbered after the deletion of art. 3)
+UDHR,a777,26,25,A/777 art. 26 = final art. 25 (renumbered after the deletion of art. 3)
+UDHR,a777,27,26,A/777 art. 27 = final art. 26 (renumbered after the deletion of art. 3)
+UDHR,a777,28,27,A/777 art. 28 = final art. 27 (renumbered after the deletion of art. 3)
+UDHR,a777,29,28,A/777 art. 29 = final art. 28 (renumbered after the deletion of art. 3)
+UDHR,a777,30,29,A/777 art. 30 = final art. 29 (renumbered after the deletion of art. 3)
+UDHR,a777,31,30,A/777 art. 31 = final art. 30 (renumbered after the deletion of art. 3)

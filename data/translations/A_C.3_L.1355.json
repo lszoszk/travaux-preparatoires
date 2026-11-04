@@ -1,0 +1,176 @@
+{
+ "symbol": "A/C.3/L.1355",
+ "source_language": "fr",
+ "source_file": "A_C.3_L.1355-FR.pdf",
+ "translation_model": "claude-fable-5-1",
+ "check_model": "claude-sonnet-5-5",
+ "translation_date": "2026-10-21",
+ "title": "Netherlands: amendments to the draft Covenant on Civil and Political Rights (A/6342, annex II, B, part IV)",
+ "date": "1966-10-17",
+ "stated_original_language": "English",
+ "pages": [
+  {
+   "page": 1,
+   "text": "UNITED NATIONS\nGENERAL ASSEMBLY\n\nDistr.\nLIMITED\nA/C.3/L.1355\n17 October 1966\nFRENCH\nORIGINAL: ENGLISH\n\nTwenty-first session\nTHIRD COMMITTEE\nAgenda item 62\n\nDRAFT INTERNATIONAL COVENANTS ON HUMAN RIGHTS\n\nNetherlands: amendments to the draft Covenant on Civil and Political Rights\n(A/6342, annex II, B, part IV)\n\n1. Article 32: In paragraph 1, insert, after the words \"temporary character\", the following phrase: \"or to fulfil the conditions required to be a member of the Committee\".\n\n2. Article 41: Replace the article by the following text: \"The Committee may deal with [connaître de] a matter submitted to it only if all domestic remedies have been used and exhausted, in accordance with the general principles of international law, and if not more than six months have elapsed since the time when the domestic authorities took the final decision\".\n\n3. New article to be placed after article 43.\nAfter article 43, insert a new article reading as follows:\n\"1. The Committee may be seized of [être saisi de] petitions from persons or groups of persons who claim to be victims of a violation by a State Party of the rights set forth in the present Covenant, provided that the State Party concerned [mis en cause] recognizes the competence of the Committee to receive such petitions.\n2. The declaration of a State Party referred to in the preceding paragraph may be general or specific, or may relate to a specified period, and shall be deposited with the Secretary-General, who shall transmit a copy thereof to the other States Parties.\n\n66-25394                                                          /..."
+  },
+  {
+   "page": 2,
+   "text": "A/C.3/L.1355\nFrench\nPage 2\n\n3. The Committee shall declare inadmissible any petition submitted under the present article:\n(a) Which is anonymous;\n(b) Which is substantially the same as an application [requête] previously examined by the Committee or already submitted to another international body [instance] of investigation or settlement, and which contains no new facts;\n(c) Which is considered incompatible with the provisions of the present Covenant, manifestly ill-founded or abusive.\n4. The Committee shall reject any petition submitted to it if it considers it inadmissible under article 41.\"\n\n-----"
+  }
+ ],
+ "uncertain": [
+  {
+   "page": 1,
+   "french": "après les mots \"caractère temporaire\"",
+   "translation": "after the words \"temporary character\"",
+   "why": "The quoted words locate the insertion point in the English text of draft article 32, paragraph 1. They are translated from the French rendering; the exact wording of the English draft (e.g. 'temporary character' vs. 'temporary nature') is not reconstructed."
+  },
+  {
+   "page": 1,
+   "french": "Le Comité ne peut connaître d'une affaire qui lui est soumise que si",
+   "translation": "The Committee may deal with [connaître de] a matter submitted to it only if",
+   "why": "'Connaître de' is a jurisdictional term ('take cognizance of', 'hear', 'deal with'); the choice affects whether the clause reads as a bar to jurisdiction or as a condition of consideration. French kept in brackets."
+  },
+  {
+   "page": 1,
+   "french": "Le Comité peut être saisi de pétitions émanant de personnes ou de groupes de personnes",
+   "translation": "The Committee may be seized of [être saisi de] petitions from persons or groups of persons",
+   "why": "'Être saisi de' could equally be rendered 'may receive petitions from' or 'petitions may be submitted to the Committee by'; 'persons' rather than 'individuals' follows the French. The word 'petitions' (pétitions), not 'communications', is kept as printed."
+  },
+  {
+   "page": 1,
+   "french": "l'Etat partie mis en cause",
+   "translation": "the State Party concerned [mis en cause]",
+   "why": "'Mis en cause' means the State implicated by the allegation, i.e. the respondent State; 'concerned' is the usual UN English but is broader. French kept in brackets."
+  },
+  {
+   "page": 2,
+   "french": "essentiellement la même qu'une requête précédemment examinée par le Comité ou déjà soumise à une autre instance internationale d'enquête ou de règlement",
+   "translation": "substantially the same as an application [requête] previously examined by the Committee or already submitted to another international body [instance] of investigation or settlement",
+   "why": "The French switches from 'pétition' to 'requête' (rendered 'application' so the shift stays visible; the English original's word is unknown). 'Instance' can mean either a body/authority or a proceeding; 'body' follows the French as it stands, 'procedure' would follow the Covenant's English. Both French terms kept in brackets."
+  },
+  {
+   "page": 2,
+   "french": "manifestement mal fondée ou abusive",
+   "translation": "manifestly ill-founded or abusive",
+   "why": "'Abusive' is translated literally; the English original may have read 'an abuse of the right of petition'. Not reconstructed."
+  }
+ ],
+ "check": {
+  "verdict": "has_issues",
+  "issues": [
+   {
+    "page": 1,
+    "severity": "error",
+    "french": "tous les recours internes ont été utilisés et épuisés",
+    "translation": "all domestic remedies have been invoked and exhausted",
+    "suggestion": "Render 'utilisés' as 'used' (or 'availed of'): 'all domestic remedies have been used and exhausted'. 'Invoked' is the wording of the official English Covenant (art. 41(1)(c)), not what the French says; 'invoked' (relied on) and 'used' differ for a remedies-exhaustion rule.",
+    "kind": "term"
+   },
+   {
+    "page": 2,
+    "severity": "error",
+    "french": "déjà soumise à une autre instance internationale d'enquête ou de règlement",
+    "translation": "already submitted to another international procedure [instance] of investigation or settlement",
+    "suggestion": "'Instance' here, qualified as 'internationale d'enquête ou de règlement' and the thing to which a matter is 'soumise', most naturally means a body or authority: 'another international body of investigation or settlement'. 'Procedure' is the official English Covenant/Optional Protocol wording, not the French as it stands, and shifts the sense from a body to a process. If 'procedure' is kept, flag it as an uncertain choice (the bracket does show the French term).",
+    "kind": "term"
+   },
+   {
+    "page": 1,
+    "severity": "minor",
+    "french": "est déposée auprès du Secrétaire général qui en communique copie aux autres Etats parties",
+    "translation": "shall be deposited with the Secretary-General, who shall transmit copies thereof to the other States Parties",
+    "suggestion": "The French uses the present indicative ('est déposée', 'communique'), not a modal; 'is deposited ... who transmits a copy' is the literal rendering. 'Shall' is the usual drafting convention, so the meaning is kept, but it adds modal force the text does not state. Also 'copie' is singular ('a copy').",
+    "kind": "term"
+   },
+   {
+    "page": 2,
+    "severity": "minor",
+    "french": "Le Comité déclare irrecevable toute pétition ... / Le Comité rejette toute pétition qui lui est soumise",
+    "translation": "The Committee shall declare inadmissible any petition ... / The Committee shall reject any petition submitted to it",
+    "suggestion": "Present indicative in the French ('déclare', 'rejette'); literal 'declares inadmissible' / 'rejects'. 'Shall' is the conventional equivalent and keeps the sense, but is added modal wording. Keep consistent with the choice made for paragraph 2.",
+    "kind": "term"
+   },
+   {
+    "page": 2,
+    "severity": "minor",
+    "french": "une requête précédemment examinée par le Comité",
+    "translation": "a petition [requête] previously examined by the Committee",
+    "suggestion": "The French changes from 'pétition' to 'requête' within the same sub-paragraph. Rendering both as 'petition' hides that; use 'application' or 'request' for 'requête' (bracket kept) so the shift stays visible.",
+    "kind": "term"
+   },
+   {
+    "page": 1,
+    "severity": "minor",
+    "french": "l'Etat partie mis en cause",
+    "translation": "the State Party against which the complaint is made [mis en cause]",
+    "suggestion": "'Complaint' is not in the French (the text speaks of 'pétitions'); 'the State Party concerned' / 'implicated' / 'in question' is closer to 'mis en cause'.",
+    "kind": "addition"
+   },
+   {
+    "page": 1,
+    "severity": "minor",
+    "french": "ou de remplir les conditions requises pour être membre du Comité",
+    "translation": "or to fulfil the conditions required for membership of the Committee",
+    "suggestion": "Literal: 'to be a member of the Committee' (conditions required to be a member). 'For membership of' is a nominalisation with the same sense.",
+    "kind": "other"
+   }
+  ],
+  "summary": "The translation follows the French closely: nothing is omitted, and the numbers, articles (32, 41, 43), paragraph references, dates and A/6342 reference all match. Two legal terms follow the official Covenant English rather than the French ('utilisés' as 'invoked', 'instance' as 'procedure'), and there are five minor points (added 'shall' and 'complaint', 'requête' as 'petition', singular 'copie', 'for membership').",
+  "resolved_by_translator": true,
+  "settled": [
+   {
+    "page": 1,
+    "french": "tous les recours internes ont été utilisés et épuisés",
+    "decision": "accepted",
+    "why": "Scan reads 'utilisés et épuisés'. 'Used and exhausted' renders the French as it stands; 'invoked' was the Covenant's official English, not the French. Changed."
+   },
+   {
+    "page": 2,
+    "french": "déjà soumise à une autre instance internationale d'enquête ou de règlement",
+    "decision": "accepted",
+    "why": "Scan reads 'instance internationale'. A matter 'soumise à une instance' is submitted to a body or authority; 'procedure' followed the Covenant/Optional Protocol English. Changed to 'another international body [instance] of investigation or settlement'; the bracket and an 'uncertain' entry keep the ambiguity visible."
+   },
+   {
+    "page": 1,
+    "french": "est déposée auprès du Secrétaire général qui en communique copie aux autres Etats parties",
+    "decision": "kept",
+    "why": "'Shall' kept: the French normative present indicative ('est déposée', 'communique') is the mood French treaty drafting uses for an obligation, and 'shall' is its standard English equivalent in UN translation, not wording borrowed from the Covenant; 'is deposited ... transmits' would read as a statement of fact. The incidental point is taken: 'copie' is singular, so 'copies thereof' corrected to 'a copy thereof'."
+   },
+   {
+    "page": 2,
+    "french": "Le Comité déclare irrecevable toute pétition ... / Le Comité rejette toute pétition qui lui est soumise",
+    "decision": "kept",
+    "why": "Same reasoning as for paragraph 2: 'déclare' and 'rejette' are the normative present, rendered 'shall declare' / 'shall reject' for consistency with the modal used throughout the translation."
+   },
+   {
+    "page": 2,
+    "french": "une requête précédemment examinée par le Comité",
+    "decision": "accepted",
+    "why": "Scan reads 'requête', not 'pétition'. Rendered 'an application [requête]' so the change of word within the sub-paragraph stays visible; French kept in brackets."
+   },
+   {
+    "page": 1,
+    "french": "l'Etat partie mis en cause",
+    "decision": "accepted",
+    "why": "'Complaint' is not in the French, which speaks only of 'pétitions'. Changed to 'the State Party concerned [mis en cause]', with the French in brackets and an 'uncertain' entry noting that 'mis en cause' is narrower (the respondent State)."
+   },
+   {
+    "page": 1,
+    "french": "ou de remplir les conditions requises pour être membre du Comité",
+    "decision": "accepted",
+    "why": "Scan reads 'pour être membre du Comité'. The literal 'to be a member of the Committee' is adopted in place of the nominalisation 'for membership of'."
+   }
+  ],
+  "first_pass": [
+   {
+    "page": 1,
+    "text": "UNITED NATIONS\nGENERAL ASSEMBLY\n\nDistr.\nLIMITED\nA/C.3/L.1355\n17 October 1966\nFRENCH\nORIGINAL: ENGLISH\n\nTwenty-first session\nTHIRD COMMITTEE\nAgenda item 62\n\nDRAFT INTERNATIONAL COVENANTS ON HUMAN RIGHTS\n\nNetherlands: amendments to the draft Covenant on Civil and Political Rights\n(A/6342, annex II, B, part IV)\n\n1. Article 32: In paragraph 1, insert, after the words \"temporary character\", the following phrase: \"or to fulfil the conditions required for membership of the Committee\".\n\n2. Article 41: Replace the article by the following text: \"The Committee may deal with [connaître de] a matter submitted to it only if all domestic remedies have been invoked and exhausted, in accordance with the general principles of international law, and if not more than six months have elapsed since the time when the domestic authorities took the final decision\".\n\n3. New article to be placed after article 43.\nAfter article 43, insert a new article reading as follows:\n\"1. The Committee may be seized of [être saisi de] petitions from persons or groups of persons who claim to be victims of a violation by a State Party of the rights set forth in the present Covenant, provided that the State Party against which the complaint is made [mis en cause] recognizes the competence of the Committee to receive such petitions.\n2. The declaration of a State Party referred to in the preceding paragraph may be general or specific, or may relate to a specified period, and shall be deposited with the Secretary-General, who shall transmit copies thereof to the other States Parties.\n\n66-25394                                                          /..."
+   },
+   {
+    "page": 2,
+    "text": "A/C.3/L.1355\nFrench\nPage 2\n\n3. The Committee shall declare inadmissible any petition submitted under the present article:\n(a) Which is anonymous;\n(b) Which is substantially the same as a petition [requête] previously examined by the Committee or already submitted to another international procedure [instance] of investigation or settlement, and which contains no new facts;\n(c) Which is considered incompatible with the provisions of the present Covenant, manifestly ill-founded or abusive.\n4. The Committee shall reject any petition submitted to it if it considers it inadmissible under article 41.\"\n\n-----"
+   }
+  ]
+ }
+}

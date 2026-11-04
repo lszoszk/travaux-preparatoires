@@ -1,0 +1,1743 @@
+{
+ "description": "UDHR drafting documents listed in a published compilation's table of documents but not linked from the UN Library guide (symbols only)",
+ "count": 193,
+ "documents": [
+  {
+   "symbol": "A/101",
+   "doc_type": "document",
+   "series": "A/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/118",
+   "doc_type": "document",
+   "series": "A/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/125",
+   "doc_type": "document",
+   "series": "A/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/140",
+   "doc_type": "document",
+   "series": "A/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/148",
+   "doc_type": "document",
+   "series": "A/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/234",
+   "doc_type": "document",
+   "series": "A/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/3",
+   "doc_type": "document",
+   "series": "A/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/374",
+   "doc_type": "document",
+   "series": "A/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/625",
+   "doc_type": "document",
+   "series": "A/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/65",
+   "doc_type": "document",
+   "series": "A/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/785",
+   "doc_type": "document",
+   "series": "A/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/785/Rev.1",
+   "doc_type": "document",
+   "series": "A/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/785/Rev.2",
+   "doc_type": "document",
+   "series": "A/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/BUR/40",
+   "doc_type": "document",
+   "series": "A/BUR/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/BUR/6",
+   "doc_type": "document",
+   "series": "A/BUR/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/C.1/38",
+   "doc_type": "document",
+   "series": "A/C.1/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/C.1/SR.41",
+   "doc_type": "summary_record",
+   "series": "A/C.1/SR.",
+   "meeting_no": 41,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/C.3/126",
+   "doc_type": "document",
+   "series": "A/C.3/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/C.3/135",
+   "doc_type": "document",
+   "series": "A/C.3/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/C.3/166",
+   "doc_type": "document",
+   "series": "A/C.3/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/C.3/167",
+   "doc_type": "document",
+   "series": "A/C.3/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/C.3/170",
+   "doc_type": "document",
+   "series": "A/C.3/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/C.3/171",
+   "doc_type": "document",
+   "series": "A/C.3/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/C.3/172",
+   "doc_type": "document",
+   "series": "A/C.3/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/C.3/175",
+   "doc_type": "document",
+   "series": "A/C.3/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/C.3/176",
+   "doc_type": "document",
+   "series": "A/C.3/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid_text",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/C.3/177",
+   "doc_type": "document",
+   "series": "A/C.3/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid_text",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/C.3/179",
+   "doc_type": "document",
+   "series": "A/C.3/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid_text",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/C.3/181",
+   "doc_type": "document",
+   "series": "A/C.3/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid_text",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/C.3/183",
+   "doc_type": "document",
+   "series": "A/C.3/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid_text",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/C.3/184",
+   "doc_type": "document",
+   "series": "A/C.3/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid_text",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/C.3/184/Rev.1",
+   "doc_type": "document",
+   "series": "A/C.3/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid_text",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/C.3/186",
+   "doc_type": "document",
+   "series": "A/C.3/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid_text",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/C.3/187",
+   "doc_type": "document",
+   "series": "A/C.3/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid_text",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/C.3/267/Corr.1",
+   "doc_type": "document",
+   "series": "A/C.3/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/C.3/342",
+   "doc_type": "document",
+   "series": "A/C.3/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/C.3/SR.33",
+   "doc_type": "summary_record",
+   "series": "A/C.3/SR.",
+   "meeting_no": 33,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/C.3/SR.42",
+   "doc_type": "summary_record",
+   "series": "A/C.3/SR.",
+   "meeting_no": 42,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/C.3/SR.45",
+   "doc_type": "summary_record",
+   "series": "A/C.3/SR.",
+   "meeting_no": 45,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/C.3/W.13",
+   "doc_type": "working_paper",
+   "series": "A/C.3/W.",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid_text",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/C.3/W.2",
+   "doc_type": "working_paper",
+   "series": "A/C.3/W.",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid_text",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/CN.4/W.18",
+   "doc_type": "working_paper",
+   "series": "A/CN.4/W.",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid_text",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/PV.139",
+   "doc_type": "verbatim_record",
+   "series": "A/PV.",
+   "meeting_no": 139,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/PV.144",
+   "doc_type": "verbatim_record",
+   "series": "A/PV.",
+   "meeting_no": 144,
+   "discovery_basis": "finding_aid_text",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/PV.145",
+   "doc_type": "verbatim_record",
+   "series": "A/PV.",
+   "meeting_no": 145,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/PV.147",
+   "doc_type": "verbatim_record",
+   "series": "A/PV.",
+   "meeting_no": 147,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/PV.148",
+   "doc_type": "verbatim_record",
+   "series": "A/PV.",
+   "meeting_no": 148,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/PV.46",
+   "doc_type": "verbatim_record",
+   "series": "A/PV.",
+   "meeting_no": 46,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/PV.55",
+   "doc_type": "verbatim_record",
+   "series": "A/PV.",
+   "meeting_no": 55,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/PV.7",
+   "doc_type": "verbatim_record",
+   "series": "A/PV.",
+   "meeting_no": 7,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/RES/128(II)",
+   "doc_type": "resolution",
+   "series": "A/RES/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "A/RES/43(I)",
+   "doc_type": "resolution",
+   "series": "A/RES/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/1009",
+   "doc_type": "document",
+   "series": "E/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/20",
+   "doc_type": "document",
+   "series": "E/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/248",
+   "doc_type": "document",
+   "series": "E/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/27",
+   "doc_type": "document",
+   "series": "E/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/281",
+   "doc_type": "document",
+   "series": "E/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/353",
+   "doc_type": "document",
+   "series": "E/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/386",
+   "doc_type": "document",
+   "series": "E/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/386/Add.1",
+   "doc_type": "document",
+   "series": "E/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/422",
+   "doc_type": "document",
+   "series": "E/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/439",
+   "doc_type": "document",
+   "series": "E/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/533",
+   "doc_type": "document",
+   "series": "E/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/7",
+   "doc_type": "document",
+   "series": "E/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/704",
+   "doc_type": "document",
+   "series": "E/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid_text",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/737",
+   "doc_type": "document",
+   "series": "E/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/738",
+   "doc_type": "document",
+   "series": "E/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/965",
+   "doc_type": "document",
+   "series": "E/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/AC.7/13",
+   "doc_type": "document",
+   "series": "E/AC.7/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/AC.7/18",
+   "doc_type": "document",
+   "series": "E/AC.7/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/AC.7/19",
+   "doc_type": "document",
+   "series": "E/AC.7/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/AC.7/20",
+   "doc_type": "document",
+   "series": "E/AC.7/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/AC.7/8",
+   "doc_type": "document",
+   "series": "E/AC.7/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/AC.7/SR.33",
+   "doc_type": "summary_record",
+   "series": "E/AC.7/SR.",
+   "meeting_no": 33,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/C.2/28",
+   "doc_type": "document",
+   "series": "E/C.2/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/C.2/32",
+   "doc_type": "document",
+   "series": "E/C.2/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/100",
+   "doc_type": "document",
+   "series": "E/CN.4/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/147",
+   "doc_type": "document",
+   "series": "E/CN.4/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid_text",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/148",
+   "doc_type": "document",
+   "series": "E/CN.4/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid_text",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/148/Add.1",
+   "doc_type": "document",
+   "series": "E/CN.4/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid_text",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/150",
+   "doc_type": "document",
+   "series": "E/CN.4/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid_text",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/40",
+   "doc_type": "document",
+   "series": "E/CN.4/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/41",
+   "doc_type": "document",
+   "series": "E/CN.4/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/43",
+   "doc_type": "document",
+   "series": "E/CN.4/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/46",
+   "doc_type": "document",
+   "series": "E/CN.4/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/51",
+   "doc_type": "document",
+   "series": "E/CN.4/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/52",
+   "doc_type": "document",
+   "series": "E/CN.4/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/68",
+   "doc_type": "document",
+   "series": "E/CN.4/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/80",
+   "doc_type": "document",
+   "series": "E/CN.4/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/83",
+   "doc_type": "document",
+   "series": "E/CN.4/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/89",
+   "doc_type": "document",
+   "series": "E/CN.4/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/AC.1/10",
+   "doc_type": "document",
+   "series": "E/CN.4/AC.1/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/AC.1/12",
+   "doc_type": "document",
+   "series": "E/CN.4/AC.1/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/AC.1/13",
+   "doc_type": "document",
+   "series": "E/CN.4/AC.1/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/AC.1/15",
+   "doc_type": "document",
+   "series": "E/CN.4/AC.1/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/AC.1/6",
+   "doc_type": "document",
+   "series": "E/CN.4/AC.1/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/AC.1/6/Add.1",
+   "doc_type": "document",
+   "series": "E/CN.4/AC.1/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/AC.1/7",
+   "doc_type": "document",
+   "series": "E/CN.4/AC.1/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/AC.1/9",
+   "doc_type": "document",
+   "series": "E/CN.4/AC.1/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/AC.1/W.2",
+   "doc_type": "working_paper",
+   "series": "E/CN.4/AC.1/W.",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/AC.1/W.2/Rev.1",
+   "doc_type": "working_paper",
+   "series": "E/CN.4/AC.1/W.",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/AC.2/SR.1",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/AC.2/SR.",
+   "meeting_no": 1,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/AC.2/SR.2",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/AC.2/SR.",
+   "meeting_no": 2,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/AC.2/SR.3",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/AC.2/SR.",
+   "meeting_no": 3,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/AC.2/SR.4",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/AC.2/SR.",
+   "meeting_no": 4,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/AC.2/SR.5",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/AC.2/SR.",
+   "meeting_no": 5,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/AC.2/SR.6",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/AC.2/SR.",
+   "meeting_no": 6,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/AC.2/SR.7",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/AC.2/SR.",
+   "meeting_no": 7,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/AC.2/SR.8",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/AC.2/SR.",
+   "meeting_no": 8,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/AC.2/SR.9",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/AC.2/SR.",
+   "meeting_no": 9,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SR.15",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/SR.",
+   "meeting_no": 15,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SR.16",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/SR.",
+   "meeting_no": 16,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SR.17",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/SR.",
+   "meeting_no": 17,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SR.18",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/SR.",
+   "meeting_no": 18,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SR.20",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/SR.",
+   "meeting_no": 20,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.1/36",
+   "doc_type": "document",
+   "series": "E/CN.4/SUB.1/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.1/43",
+   "doc_type": "document",
+   "series": "E/CN.4/SUB.1/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.1/45",
+   "doc_type": "document",
+   "series": "E/CN.4/SUB.1/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.1/48",
+   "doc_type": "document",
+   "series": "E/CN.4/SUB.1/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.1/56",
+   "doc_type": "document",
+   "series": "E/CN.4/SUB.1/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.1/60",
+   "doc_type": "document",
+   "series": "E/CN.4/SUB.1/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.1/SR.24",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/SUB.1/SR.",
+   "meeting_no": 24,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.1/SR.25",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/SUB.1/SR.",
+   "meeting_no": 25,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.1/SR.27",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/SUB.1/SR.",
+   "meeting_no": 27,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.1/SR.28",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/SUB.1/SR.",
+   "meeting_no": 28,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.1/SR.45",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/SUB.1/SR.",
+   "meeting_no": 45,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.2/16",
+   "doc_type": "document",
+   "series": "E/CN.4/SUB.2/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.2/21",
+   "doc_type": "document",
+   "series": "E/CN.4/SUB.2/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.2/22",
+   "doc_type": "document",
+   "series": "E/CN.4/SUB.2/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.2/26",
+   "doc_type": "document",
+   "series": "E/CN.4/SUB.2/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.2/29",
+   "doc_type": "document",
+   "series": "E/CN.4/SUB.2/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.2/38",
+   "doc_type": "document",
+   "series": "E/CN.4/SUB.2/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.2/5",
+   "doc_type": "document",
+   "series": "E/CN.4/SUB.2/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.2/SR.1",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/SUB.2/SR.",
+   "meeting_no": 1,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.2/SR.10",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/SUB.2/SR.",
+   "meeting_no": 10,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.2/SR.11",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/SUB.2/SR.",
+   "meeting_no": 11,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.2/SR.17",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/SUB.2/SR.",
+   "meeting_no": 17,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.2/SR.18",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/SUB.2/SR.",
+   "meeting_no": 18,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.2/SR.3",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/SUB.2/SR.",
+   "meeting_no": 3,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.2/SR.4",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/SUB.2/SR.",
+   "meeting_no": 4,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.2/SR.5",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/SUB.2/SR.",
+   "meeting_no": 5,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.2/SR.6",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/SUB.2/SR.",
+   "meeting_no": 6,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.2/SR.7",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/SUB.2/SR.",
+   "meeting_no": 7,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.2/SR.8",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/SUB.2/SR.",
+   "meeting_no": 8,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/SUB.2/SR.9",
+   "doc_type": "summary_record",
+   "series": "E/CN.4/SUB.2/SR.",
+   "meeting_no": 9,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/W.16",
+   "doc_type": "working_paper",
+   "series": "E/CN.4/W.",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid_text",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/W.4",
+   "doc_type": "working_paper",
+   "series": "E/CN.4/W.",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid_text",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/W.4/Add.1",
+   "doc_type": "working_paper",
+   "series": "E/CN.4/W.",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid_text",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.4/W.8",
+   "doc_type": "working_paper",
+   "series": "E/CN.4/W.",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid_text",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.6/69",
+   "doc_type": "document",
+   "series": "E/CN.6/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.6/74",
+   "doc_type": "document",
+   "series": "E/CN.6/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.6/SR.12",
+   "doc_type": "summary_record",
+   "series": "E/CN.6/SR.",
+   "meeting_no": 12,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.6/SR.28",
+   "doc_type": "summary_record",
+   "series": "E/CN.6/SR.",
+   "meeting_no": 28,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.6/SR.29",
+   "doc_type": "summary_record",
+   "series": "E/CN.6/SR.",
+   "meeting_no": 29,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CN.6/SR.36/Corr.1",
+   "doc_type": "summary_record",
+   "series": "E/CN.6/SR.",
+   "meeting_no": 36,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CONF.6/17",
+   "doc_type": "document",
+   "series": "E/CONF.6/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CONF.6/65",
+   "doc_type": "document",
+   "series": "E/CONF.6/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CONF.6/69",
+   "doc_type": "document",
+   "series": "E/CONF.6/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CONF.6/74",
+   "doc_type": "document",
+   "series": "E/CONF.6/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CONF.6/C.4/1",
+   "doc_type": "document",
+   "series": "E/CONF.6/C.4/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CONF.6/C.4/1/Rev.1",
+   "doc_type": "document",
+   "series": "E/CONF.6/C.4/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CONF.6/C.4/10",
+   "doc_type": "document",
+   "series": "E/CONF.6/C.4/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CONF.6/C.4/3",
+   "doc_type": "document",
+   "series": "E/CONF.6/C.4/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CONF.6/C.4/71",
+   "doc_type": "document",
+   "series": "E/CONF.6/C.4/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CONF.6/C.4/8",
+   "doc_type": "document",
+   "series": "E/CONF.6/C.4/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CONF.6/C.4/9",
+   "doc_type": "document",
+   "series": "E/CONF.6/C.4/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CONF.6/C.4/SR.10",
+   "doc_type": "summary_record",
+   "series": "E/CONF.6/C.4/SR.",
+   "meeting_no": 10,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CONF.6/C.4/SR.24",
+   "doc_type": "summary_record",
+   "series": "E/CONF.6/C.4/SR.",
+   "meeting_no": 24,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CONF.6/C.4/SR.4",
+   "doc_type": "summary_record",
+   "series": "E/CONF.6/C.4/SR.",
+   "meeting_no": 4,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CONF.6/C.4/SR.5",
+   "doc_type": "summary_record",
+   "series": "E/CONF.6/C.4/SR.",
+   "meeting_no": 5,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CONF.6/C.4/SR.6",
+   "doc_type": "summary_record",
+   "series": "E/CONF.6/C.4/SR.",
+   "meeting_no": 6,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CONF.6/SR.10",
+   "doc_type": "summary_record",
+   "series": "E/CONF.6/SR.",
+   "meeting_no": 10,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/CT.2/2",
+   "doc_type": "document",
+   "series": "E/CT.2/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/ORG/1",
+   "doc_type": "document",
+   "series": "E/ORG/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/ORG/2",
+   "doc_type": "document",
+   "series": "E/ORG/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/ORG/3",
+   "doc_type": "document",
+   "series": "E/ORG/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/RES/118(VI)B",
+   "doc_type": "resolution",
+   "series": "E/RES/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/RES/120(VI)C",
+   "doc_type": "resolution",
+   "series": "E/RES/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/RES/5(I)",
+   "doc_type": "resolution",
+   "series": "E/RES/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/RES/84(V)",
+   "doc_type": "resolution",
+   "series": "E/RES/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/SR.108",
+   "doc_type": "summary_record",
+   "series": "E/SR.",
+   "meeting_no": 108,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/SR.109",
+   "doc_type": "summary_record",
+   "series": "E/SR.",
+   "meeting_no": 109,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/SR.128",
+   "doc_type": "summary_record",
+   "series": "E/SR.",
+   "meeting_no": 128,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/SR.157",
+   "doc_type": "summary_record",
+   "series": "E/SR.",
+   "meeting_no": 157,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/SR.18",
+   "doc_type": "summary_record",
+   "series": "E/SR.",
+   "meeting_no": 18,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/SR.19",
+   "doc_type": "summary_record",
+   "series": "E/SR.",
+   "meeting_no": 19,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/SR.20",
+   "doc_type": "summary_record",
+   "series": "E/SR.",
+   "meeting_no": 20,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/SR.202",
+   "doc_type": "summary_record",
+   "series": "E/SR.",
+   "meeting_no": 202,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/SR.29",
+   "doc_type": "summary_record",
+   "series": "E/SR.",
+   "meeting_no": 29,
+   "discovery_basis": "finding_aid_text",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/SR.79",
+   "doc_type": "summary_record",
+   "series": "E/SR.",
+   "meeting_no": 79,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "E/SR.84",
+   "doc_type": "summary_record",
+   "series": "E/SR.",
+   "meeting_no": 84,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "PC/20",
+   "doc_type": "document",
+   "series": "PC/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  },
+  {
+   "symbol": "PC/EX/113/Rev.1",
+   "doc_type": "document",
+   "series": "PC/EX/",
+   "meeting_no": null,
+   "discovery_basis": "finding_aid",
+   "meeting_date": null,
+   "mentions": []
+  }
+ ]
+}

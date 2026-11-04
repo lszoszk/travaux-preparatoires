@@ -1,0 +1,5102 @@
+{
+ "T001": {
+  "opus": {
+   "correct": true,
+   "note": "Ecuador on defining human rights in a charter/declaration as a whole, non-restrictive and open to later improvement."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Ecuador on the declaration/charter of human rights as a whole, its non-restrictive character, and the history of rights."
+  }
+ },
+ "T002": {
+  "opus": {
+   "correct": true,
+   "note": "Liberia: a declaration is not enough; action to give effect to the rights, with sanctions for non-compliance, must be considered (implementation)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Liberia: how to give effect to the declaration, with member States obliged to conform or be excluded (enforcement/implementation)."
+  }
+ },
+ "T003": {
+  "opus": {
+   "correct": false,
+   "note": "Ceylon on the Argentine amendment to article 15 (nullum crimen; 'national or international law'), a particular article."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Argentine amendments to article 15 (nullum crimen, international law) - one article's text."
+  }
+ },
+ "T004": {
+  "opus": {
+   "correct": true,
+   "note": "Chang on the draft declaration as a whole: its conciseness and logical structure."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "China on the draft declaration as a whole: its brevity, structure and logic."
+  }
+ },
+ "T005": {
+  "opus": {
+   "correct": true,
+   "note": "Belgium on the legal significance and binding force of the declaration as a whole."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Belgium on the legal significance/binding force of the declaration; closer to the form of the Bill (declaration vs convention) than to a general debate - borderline."
+  }
+ },
+ "T006": {
+  "opus": {
+   "correct": false,
+   "note": "Colombia briefly says it will vote for the articles under consideration (general provisions); about those articles, not the covenants as a whole; uncertain."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Colombia: general support for the covenant articles and for accelerating implementation, no single question dominating (vague)."
+  }
+ },
+ "T007": {
+  "opus": {
+   "correct": true,
+   "note": "Indonesia on the Cyprus draft resolution seeking governments' views on the covenants' implementation provisions; procedural but about the implementation question."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Indonesia on a draft resolution to inform new Members and solicit views on the implementation provisions; procedural flavour but subject is implementation measures."
+  }
+ },
+ "T008": {
+  "opus": {
+   "correct": true,
+   "note": "China on the Cyprus resolution to update the Annotations on measures of implementation, mentioning the Human Rights Committee."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "China on the Cyprus resolution about the Annotations on implementation, incl. the Human Rights Committee design; mixed with wording of the resolution."
+  }
+ },
+ "T009": {
+  "opus": {
+   "correct": true,
+   "note": "Venezuela on the wording of the Cyprus resolution on implementation (Annotations update); mostly drafting of that resolution, but within the implementation question."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Venezuela on the wording, structure and cost of the Cyprus draft resolution and Chilean amendments - procedure."
+  }
+ },
+ "T010": {
+  "opus": {
+   "correct": false,
+   "note": "USSR on the implementation question, using the split into two covenants and indivisibility as argument; implementation seems to dominate; uncertain (text cut)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "USSR: the division of one covenant into two over implementation, illogical because rights are indivisible - one-or-two covenants."
+  }
+ },
+ "T011": {
+  "opus": {
+   "correct": true,
+   "note": "New Zealand on the implementation provisions of both covenants (reports, State complaints, comparison with ILO and European system)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "New Zealand on the implementation provisions drafted by the Commission, differing for the two categories of rights."
+  }
+ },
+ "T012": {
+  "opus": {
+   "correct": false,
+   "note": "Romania reviews the adopted articles briefly then turns to the implementation articles (part IV), which appear to dominate; uncertain (text cut)."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Romania begins with a general review of the covenants but turns to the implementation articles of part IV; text truncated, implementation seems to dominate."
+  }
+ },
+ "T013": {
+  "opus": {
+   "correct": true,
+   "note": "Saudi Arabia proposes a plan for implementation of the covenants."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Saudi Arabia on how to ensure implementation of the Covenants."
+  }
+ },
+ "T014": {
+  "opus": {
+   "correct": true,
+   "note": "Israel amends the preamble of the resolution on the measures of implementation; procedural but on the implementation question."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Israel on the wording of a draft resolution about the proposed measures of implementation and their purpose (effectiveness); borderline procedural."
+  }
+ },
+ "T015": {
+  "opus": {
+   "correct": true,
+   "note": "Guatemala explains its vote on the resolution postponing the implementation clauses."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Guatemala explaining vote on postponing the implementation clauses, urging States to yield sovereignty to make the Covenants effective."
+  }
+ },
+ "T016": {
+  "opus": {
+   "correct": true,
+   "note": "Secretariat on whether the Committee could reverse the decision for two covenants and adopt a single one."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Secretariat on whether the Committee could replace the two covenants by a single one."
+  }
+ },
+ "T017": {
+  "opus": {
+   "correct": true,
+   "note": "Bulgaria argues for uniform implementation clauses for both covenants (reporting)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Bulgaria: no difference in nature between the two sets of rights, so implementation clauses should be uniform."
+  }
+ },
+ "T018": {
+  "opus": {
+   "correct": true,
+   "note": "Italy on whether methods of guaranteeing the two kinds of rights differ, for the implementation systems."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Italy: whether methods of guaranteeing the two kinds of rights differ (article 2), a question of implementation machinery."
+  }
+ },
+ "T019": {
+  "opus": {
+   "correct": true,
+   "note": "Czechoslovakia against different implementation measures for the two covenants."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Czechoslovakia against different implementation measures for the two Covenants."
+  }
+ },
+ "T020": {
+  "opus": {
+   "correct": true,
+   "note": "USA: two separate systems of implementation are needed."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "United States for two separate systems of implementation."
+  }
+ },
+ "T021": {
+  "opus": {
+   "correct": true,
+   "note": "Italy on setting up a body of States parties for implementation."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Italy proposing a body of States parties for implementation."
+  }
+ },
+ "T022": {
+  "opus": {
+   "correct": true,
+   "note": "Philippines welcomes UK withdrawal of its reservations amendment (art. 26 bis) for the ESC covenant; flexible ratification under existing law."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Philippines on the UK withdrawal and a flexible ratification system for the ESC covenant - the reservations proposal (inferred from context, fairly confident)."
+  }
+ },
+ "T023": {
+  "opus": {
+   "correct": true,
+   "note": "Iran on implementation systems (committee, reports) for the civil and political covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Iran on the measures of implementation of the civil/political Covenant (human rights committee), same or different systems."
+  }
+ },
+ "T024": {
+  "opus": {
+   "correct": true,
+   "note": "Lebanon on measures of implementation (reporting, communications), touching reservations in passing."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Lebanon on the measures of implementation (reports, communications, committee), with a passing note on reservations."
+  }
+ },
+ "T025": {
+  "opus": {
+   "correct": true,
+   "note": "Austria supports the right of individual petition in the implementation clauses."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Austria supporting the right of individual petition."
+  }
+ },
+ "T026": {
+  "opus": {
+   "correct": false,
+   "note": "Italy on the content of State reports under article 39 bis/49 (final art. 40 ICCPR), a particular article."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Italy on the content of State reports and the committee of experts in the implementation system."
+  }
+ },
+ "T027": {
+  "opus": {
+   "correct": false,
+   "note": "France on US and UK sub-amendments to article 39 bis (reports; final art. 40 ICCPR), a particular article."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "France on article 39 bis sub-amendments: reports, ECOSOC and specialized agencies."
+  }
+ },
+ "T028": {
+  "opus": {
+   "correct": false,
+   "note": "Norway on the reporting procedure of article 39 bis (final art. 40 ICCPR), a particular article."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Norway on the value of the reporting procedure in the implementation clauses."
+  }
+ },
+ "T029": {
+  "opus": {
+   "correct": true,
+   "note": "Bulgaria on ECOSOC requesting ICJ advisory opinions under draft article 44, an implementation provision not kept in the final text."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Bulgaria on whether ECOSOC may ask the ICJ for advisory opinions under the human rights committee scheme (implementation machinery)."
+  }
+ },
+ "T030": {
+  "opus": {
+   "correct": true,
+   "note": "Czechoslovakia on ECOSOC's role and advisory opinions (draft article 44), an implementation provision not kept."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Czechoslovakia on the limited role of ECOSOC in the implementation system and the advisory-opinion clause."
+  }
+ },
+ "T031": {
+  "opus": {
+   "correct": true,
+   "note": "UK insists on its reservations amendment to the final clauses; procedural but about reservations."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "UK maintaining its amendment on reservations as a matter of principle."
+  }
+ },
+ "T032": {
+  "opus": {
+   "correct": true,
+   "note": "Colombia supports article 41 bis on individual communications (became the Optional Protocol)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Colombia defending the optional individual communications article 41 bis."
+  }
+ },
+ "T033": {
+  "opus": {
+   "correct": true,
+   "note": "France supports article 41 bis and the individual right of petition."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "France supporting the individual right of petition in article 41 bis."
+  }
+ },
+ "T034": {
+  "opus": {
+   "correct": true,
+   "note": "Nordic states support the optional individual petition article 41 bis."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Sweden (for Nordic States) supporting article 41 bis on individual petition."
+  }
+ },
+ "T035": {
+  "opus": {
+   "correct": true,
+   "note": "Iraq objects to article 41 bis on individual complaints."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Iraq on article 41 bis, individual complaints to the human rights committee."
+  }
+ },
+ "T036": {
+  "opus": {
+   "correct": true,
+   "note": "Guatemala supports article 41 bis on individual petitions."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Guatemala supporting article 41 bis on individual petition."
+  }
+ },
+ "T037": {
+  "opus": {
+   "correct": true,
+   "note": "Tunisia criticises article 41 bis on individual communications."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Tunisia criticising article 41 bis on individual petition."
+  }
+ },
+ "T038": {
+  "opus": {
+   "correct": true,
+   "note": "Belgium votes for article 41 bis and against a separate protocol."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Belgium supporting 41 bis as an optional clause, against a separate protocol."
+  }
+ },
+ "T039": {
+  "opus": {
+   "correct": true,
+   "note": "Venezuela supports article 41 bis."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Venezuela supporting article 41 bis."
+  }
+ },
+ "T040": {
+  "opus": {
+   "correct": true,
+   "note": "Congo abstains on article 41 bis (individual petitions)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Congo (Leopoldville) abstaining on article 41 bis, individual petition."
+  }
+ },
+ "T041": {
+  "opus": {
+   "correct": true,
+   "note": "Lebanon proposes that article 41 bis become a separate protocol."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Lebanon proposing that the individual petition article become a separate protocol."
+  }
+ },
+ "T042": {
+  "opus": {
+   "correct": true,
+   "note": "Lebanon on the contents of the proposed protocol on individual petitions."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Lebanon on the contents of a separate protocol replacing article 41 bis (petition)."
+  }
+ },
+ "T043": {
+  "opus": {
+   "correct": true,
+   "note": "Pakistan explains abstention on the separate protocol for the right of petition."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Pakistan explaining abstention on the separate protocol for the right of petition."
+  }
+ },
+ "T044": {
+  "opus": {
+   "correct": true,
+   "note": "Hungary on the vote for a separate protocol on individual petitions."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Hungary on the vote on article 41 bis / separate protocol for individual petition."
+  }
+ },
+ "T045": {
+  "opus": {
+   "correct": true,
+   "note": "Bulgaria opposes further discussion of implementation (Jamaican proposal) at the next session."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Bulgaria against reopening discussion of implementation systems (Jamaican proposal)."
+  }
+ },
+ "T046": {
+  "opus": {
+   "correct": true,
+   "note": "Australia's explanation of vote on both covenants and the Protocol as a whole."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Australia's general statement on the Covenants and Protocol as a whole after voting, noting points needing study."
+  }
+ },
+ "T047": {
+  "opus": {
+   "correct": true,
+   "note": "Cameroon explains abstention on the Optional Protocol (individual complaints)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Cameroon abstaining on the Optional Protocol (individual complaints) because of young States' position."
+  }
+ },
+ "T048": {
+  "opus": {
+   "correct": true,
+   "note": "Secretariat congratulates the Committee on completing the covenants as a whole."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Secretariat congratulating the Committee on completing the Covenants as a whole."
+  }
+ },
+ "T049": {
+  "opus": {
+   "correct": true,
+   "note": "Belgium on the right of petition (Cuban amendment) in the declaration."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Belgium on the right of petition (Cuban amendment) and referral to the Commission."
+  }
+ },
+ "T050": {
+  "opus": {
+   "correct": true,
+   "note": "UK proposes referring the right of petition article back to the Commission."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "UK on the right of petition and referring the article back to the Commission."
+  }
+ },
+ "T051": {
+  "opus": {
+   "correct": true,
+   "note": "France on its amendment to study the right of petition for the declaration."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "France explaining his amendment to study the right of petition."
+  }
+ },
+ "T052": {
+  "opus": {
+   "correct": true,
+   "note": "Cuba amends the UK resolution on the right of petition; partly procedural."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Cuba amending the UK resolution to declare the right of petition essential."
+  }
+ },
+ "T053": {
+  "opus": {
+   "correct": true,
+   "note": "Syria on the Yugoslav article C applying the declaration to trust and non-self-governing territories."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Syria on the Yugoslav article C on the rights of dependent territories and Trust Territories."
+  }
+ },
+ "T054": {
+  "opus": {
+   "correct": false,
+   "note": "USSR on amendments to the preamble of the declaration, a particular text."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "USSR on various amendments to the preamble of the declaration - specific text, not a general debate."
+  }
+ },
+ "T055": {
+  "opus": {
+   "correct": true,
+   "note": "Secretariat introduces the draft covenant and the four policy questions as a whole."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Secretariat introducing the draft covenant as a whole and the questions put to the Committee."
+  }
+ },
+ "T056": {
+  "opus": {
+   "correct": true,
+   "note": "UK on the general adequacy of the first eighteen articles of the covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "UK on the general adequacy of the first eighteen articles and the binding nature of the covenant as a whole."
+  }
+ },
+ "T057": {
+  "opus": {
+   "correct": true,
+   "note": "Canada on the general adequacy of the first eighteen articles."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Canada on the general adequacy (scope and drafting) of the first eighteen articles."
+  }
+ },
+ "T058": {
+  "opus": {
+   "correct": true,
+   "note": "USSR on the general adequacy of the first eighteen articles."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "USSR on the general adequacy of the draft covenant, omitted rights."
+  }
+ },
+ "T059": {
+  "opus": {
+   "correct": true,
+   "note": "Poland on the general adequacy of the draft covenant and omitted rights."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Poland on general deficiencies of the draft covenant."
+  }
+ },
+ "T060": {
+  "opus": {
+   "correct": true,
+   "note": "Cuba on the inadequacy of the first eighteen articles."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Cuba on the general inadequacy of the first eighteen articles relative to the Declaration."
+  }
+ },
+ "T061": {
+  "opus": {
+   "correct": true,
+   "note": "USA on the Commission's plans for economic, social and cultural rights outside the first covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "US: ESC rights to be dealt with through further agreements, i.e. outside the first covenant (text truncated)."
+  }
+ },
+ "T062": {
+  "opus": {
+   "correct": true,
+   "note": "ILO on economic and social rights in the debate on including them in the covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "ILO on its interest in and the difficulties of economic and social rights in the covenant (truncated; moderately confident)."
+  }
+ },
+ "T063": {
+  "opus": {
+   "correct": true,
+   "note": "India on ESC rights awaiting a separate covenant, with a plea for a political participation article; uncertain mix."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "India: political participation article needed now, ESC rights to follow in a separate covenant."
+  }
+ },
+ "T064": {
+  "opus": {
+   "correct": true,
+   "note": "UNESCO on including cultural rights in the covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "UNESCO: the covenant would be incomplete without ESC rights."
+  }
+ },
+ "T065": {
+  "opus": {
+   "correct": true,
+   "note": "USA on implementation machinery and separate protocols for individual and group petitions; petitions dominate."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "US on individual and NGO petitions through separate protocols."
+  }
+ },
+ "T066": {
+  "opus": {
+   "correct": true,
+   "note": "USA rejects the Mexican amendment on including ESC rights (para 2(b))."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "US opposing the Mexican amendment on including ESC rights (paragraph 2(b)); very brief."
+  }
+ },
+ "T067": {
+  "opus": {
+   "correct": true,
+   "note": "Syria supports the Mexican amendment on ESC rights."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Syria supporting the Mexican amendment on ESC rights; very brief."
+  }
+ },
+ "T068": {
+  "opus": {
+   "correct": true,
+   "note": "USSR on para 2(b) and including ESC rights in the first covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "USSR: paragraph 2(b) must not be read as excluding ESC rights from the first covenant."
+  }
+ },
+ "T069": {
+  "opus": {
+   "correct": true,
+   "note": "France: not practicable to include all rights in a single covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "France: impracticable to put all Declaration rights into a single covenant."
+  }
+ },
+ "T070": {
+  "opus": {
+   "correct": true,
+   "note": "India on para 2(b) asking the Commission to include ESC rights."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "India on paragraph 2(b), extension of the covenant to further (ESC) rights."
+  }
+ },
+ "T071": {
+  "opus": {
+   "correct": true,
+   "note": "Brazil abstains on para 2(b) on ESC rights."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Brazil abstaining on paragraph 2(b) about including additional rights; very brief, moderately sure."
+  }
+ },
+ "T072": {
+  "opus": {
+   "correct": true,
+   "note": "Iraq against a federal clause."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Iraq against the federal clause."
+  }
+ },
+ "T073": {
+  "opus": {
+   "correct": true,
+   "note": "China on the wording referring to the federal State article."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "China remarking that no federal state article exists, in an amendment on the 'federal state article'; brief."
+  }
+ },
+ "T074": {
+  "opus": {
+   "correct": true,
+   "note": "USSR on self-determination of nationalities in the USSR."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "USSR rebutting the UK claim about self-determination of peoples in the USSR."
+  }
+ },
+ "T075": {
+  "opus": {
+   "correct": true,
+   "note": "Saudi Arabia on the Afghanistan-Saudi amendment on self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Saudi Arabia on the self-determination amendment, colonial powers' responsibilities and vote tactics."
+  }
+ },
+ "T076": {
+  "opus": {
+   "correct": true,
+   "note": "Byelorussia on the self-determination amendment."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Byelorussia supporting the self-determination amendment of Afghanistan and Saudi Arabia."
+  }
+ },
+ "T077": {
+  "opus": {
+   "correct": true,
+   "note": "New Zealand on para 2(e) and including ESC rights later."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "New Zealand on how many ESC rights to include in the draft covenant and timing."
+  }
+ },
+ "T078": {
+  "opus": {
+   "correct": true,
+   "note": "Argentina on the Yugoslav amendment on ESC rights."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Argentina preferring the Yugoslav general principle on ESC rights."
+  }
+ },
+ "T079": {
+  "opus": {
+   "correct": true,
+   "note": "New Zealand on its revised amendment on ESC rights in the covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "New Zealand on the amendment to include only the most essential ESC rights now, others in supplementary instruments."
+  }
+ },
+ "T080": {
+  "opus": {
+   "correct": true,
+   "note": "Lebanon on voting against inclusion of ESC rights now."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Lebanon explaining vote against including ESC rights in the covenant for now."
+  }
+ },
+ "T081": {
+  "opus": {
+   "correct": true,
+   "note": "Brazil on proposals on the measures of implementation."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Brazil's one-line support for the Mexican proposal and Israel amendment; subject unclear, possibly petition rather than general implementation - cannot tell."
+  }
+ },
+ "T082": {
+  "opus": {
+   "correct": true,
+   "note": "Guatemala against the USSR amendment on sovereignty and implementation machinery."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Guatemala against the USSR amendment on State sovereignty vs articles 19-41 (implementation machinery)."
+  }
+ },
+ "T083": {
+  "opus": {
+   "correct": true,
+   "note": "Lebanon against the USSR amendment deleting implementation articles."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Lebanon against the USSR amendment: international guarantee vs State, implementation machinery."
+  }
+ },
+ "T084": {
+  "opus": {
+   "correct": true,
+   "note": "USA concerned about including ESC rights in the first covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "US explaining vote, concerned about including ESC rights in the first covenant."
+  }
+ },
+ "T085": {
+  "opus": {
+   "correct": true,
+   "note": "Mexico explains vote on the resolution, objecting to part C on the federal clause."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Mexico opposing the federal clause (part C) while commenting on the resolution."
+  }
+ },
+ "T086": {
+  "opus": {
+   "correct": true,
+   "note": "Explanation of vote against the GA resolution giving directives on the draft covenant as a whole (impracticable scope, inconsistencies)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Explanation of vote on the General Assembly resolution of directives on the draft covenant as a whole (judgment call, partly procedural)."
+  }
+ },
+ "T087": {
+  "opus": {
+   "correct": true,
+   "note": "Urges the Third Committee to take up the covenant now, chiefly so that the right of peoples to self-determination is embodied in it."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Afghanistan presses for an article on the right of peoples to self-determination in the covenant despite the procedural dispute."
+  }
+ },
+ "T088": {
+  "opus": {
+   "correct": true,
+   "note": "Insists the Committee take up self-determination and embody an article on it in the covenant; Chilean resolution too vague."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Saudi Arabia wants the Committee to take up self-determination and embody it in a covenant article."
+  }
+ },
+ "T089": {
+  "opus": {
+   "correct": true,
+   "note": "UK general statement on the Declaration and the covenant as a whole: covenant must be precise and effective, not a dead letter."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "UK general statement on the Declaration and on a covenant that must be definite and effective, ranging over the instrument as a whole."
+  }
+ },
+ "T090": {
+  "opus": {
+   "correct": true,
+   "note": "Criticises the Commission and ECOSOC for reopening the decision to include ESC rights in a single covenant (also mentions the territorial clause)."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Egypt ranges over the Commission's work, the colonial clause and inclusion of economic rights, none dominating (truncated; could be read as two-covenants)."
+  }
+ },
+ "T091": {
+  "opus": {
+   "correct": true,
+   "note": "Resolution 421(V) not carried out; rebuts the objections to including both categories of rights in one instrument."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Czechoslovakia argues against the separation of civil/political and economic/social rights in one instrument (also lists other unfinished tasks)."
+  }
+ },
+ "T092": {
+  "opus": {
+   "correct": true,
+   "note": "Historical review of the directives (421/422(V)) leading into the question of including ESC rights / one covenant; truncated, somewhat uncertain."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Haiti reviews the history of the covenant and how the Assembly's directives were carried out, i.e. the covenant generally (text truncated, uncertain)."
+  }
+ },
+ "T093": {
+  "opus": {
+   "correct": true,
+   "note": "Reply to Czechoslovakia citing Soviet deportations as violations of the right of self-determination, in support of a self-determination article."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Yugoslavia replies on alleged violations of self-determination and the need for an article on it."
+  }
+ },
+ "T094": {
+  "opus": {
+   "correct": true,
+   "note": "Burma's general statement ranging over the Declaration, unrevised articles, federal clause, self-determination and one vs two covenants; uncertain as one covenant takes a large share."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Burma's first statement ranges over the Commission's unfinished work, federal clause, self-determination and types of rights; no single question dominates."
+  }
+ },
+ "T095": {
+  "opus": {
+   "correct": true,
+   "note": "Honduras argues for two separate covenants given differing economic development."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Honduras on whether to have a single covenant, tied to implementing the Declaration."
+  }
+ },
+ "T096": {
+  "opus": {
+   "correct": true,
+   "note": "Exchange on whether all rights can go in a single covenant: Roosevelt says further covenants beyond one or two will be needed."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Roosevelt on how many covenants are needed and that further separate covenants cannot be barred."
+  }
+ },
+ "T097": {
+  "opus": {
+   "correct": true,
+   "note": "Same exchange: premature to talk of further covenants before deciding what the covenant will contain."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Pavlov says talk of subsequent covenants is premature before deciding the content of this covenant."
+  }
+ },
+ "T098": {
+  "opus": {
+   "correct": true,
+   "note": "Philippines proposes a single covenant with different implementation measures for the two kinds of rights."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Philippines proposes one covenant with different implementation for the two kinds of rights."
+  }
+ },
+ "T099": {
+  "opus": {
+   "correct": true,
+   "note": "Explains vote against the resolution for two covenants, citing interdependence of rights."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Afghanistan explains his vote against the two-covenant resolution, citing indivisibility of rights."
+  }
+ },
+ "T100": {
+  "opus": {
+   "correct": true,
+   "note": "Iraq's sub-amendment on the draft resolution for a self-determination article in the covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Iraq supports an article on the right of peoples to self-determination against the US amendment."
+  }
+ },
+ "T101": {
+  "opus": {
+   "correct": true,
+   "note": "USSR: choice between a precise self-determination article and a vague US text."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "USSR on choosing between a resolution with a precise self-determination article and a vague reference to the principle."
+  }
+ },
+ "T102": {
+  "opus": {
+   "correct": false,
+   "note": "Mainly about the joint draft resolution on a self-determination article; the two-covenant decision is only the backdrop."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Iran regrets the decision for two covenants and insists on a self-determination article; about equally on both, leaning two-covenants."
+  }
+ },
+ "T103": {
+  "opus": {
+   "correct": true,
+   "note": "Canada accepts self-determination but opposes putting a self-determination article in the civil and political covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Canada accepts the principle of self-determination but doubts an article belongs in the covenant."
+  }
+ },
+ "T104": {
+  "opus": {
+   "correct": true,
+   "note": "China supports the idea of the self-determination resolution but wants the Commission to draft the article."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "China on how the Assembly should handle an article on self-determination."
+  }
+ },
+ "T105": {
+  "opus": {
+   "correct": true,
+   "note": "Greece on its amendment for implementing the right to self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Greece on its amendment on implementation of the right of self-determination."
+  }
+ },
+ "T106": {
+  "opus": {
+   "correct": true,
+   "note": "Ukrainian polemic with the UK on Soviet nationality policy in the self-determination debate."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Ukrainian SSR rebuts the UK on Soviet nationalities in the self-determination debate (polemic)."
+  }
+ },
+ "T107": {
+  "opus": {
+   "correct": true,
+   "note": "UK reply on Soviet autonomy, deportations and Stalin's views on self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "UK reply to Soviet bloc on autonomy of Soviet republics, within the self-determination debate (polemic)."
+  }
+ },
+ "T108": {
+  "opus": {
+   "correct": true,
+   "note": "Iraq on the Guatemalan draft resolution on reservations to the covenants."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Iraq on the Guatemalan draft resolution on reservation clauses in the covenants."
+  }
+ },
+ "T109": {
+  "opus": {
+   "correct": true,
+   "note": "Lebanon on the Guatemalan reservations resolution and the Netherlands amendment; alternative texts on admissibility of reservations."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Lebanon on the Guatemalan resolution instructing the Commission to draft reservation clauses."
+  }
+ },
+ "T110": {
+  "opus": {
+   "correct": true,
+   "note": "Lebanon proposes a clarifying amendment to the Guatemalan reservations resolution."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Lebanon asks Guatemala to accept an amendment to the reservations draft resolution."
+  }
+ },
+ "T111": {
+  "opus": {
+   "correct": true,
+   "note": "Ukraine: decision on reservation provisions should come later; votes against the Guatemalan resolution."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Ukrainian SSR says it is too early to decide on reservations clauses."
+  }
+ },
+ "T112": {
+  "opus": {
+   "correct": true,
+   "note": "Czechoslovakia: decide on reservations only once the draft covenant is ready."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Czechoslovakia says the reservations question should wait until the draft covenant exists."
+  }
+ },
+ "T113": {
+  "opus": {
+   "correct": true,
+   "note": "Yugoslavia's misgivings about the Guatemalan reservations resolution."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Yugoslavia on the Guatemalan draft resolution on admissibility of reservations."
+  }
+ },
+ "T114": {
+  "opus": {
+   "correct": true,
+   "note": "USSR explains its vote against the Guatemalan reservations resolution (also insists on one covenant)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "USSR opposes the Guatemalan draft resolution on reservations."
+  }
+ },
+ "T115": {
+  "opus": {
+   "correct": true,
+   "note": "Uruguay: the Committee must study and direct the measures of implementation rather than refer them back."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Uruguay insists the Committee must study measures of implementation and instruct the Commission."
+  }
+ },
+ "T116": {
+  "opus": {
+   "correct": true,
+   "note": "Haiti: the Committee should study implementation and guide the Commission, not refer it back."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Haiti opposes referring implementation proposals back and forth; the Committee should guide the Commission."
+  }
+ },
+ "T117": {
+  "opus": {
+   "correct": true,
+   "note": "Guatemala supports the right of petition of individuals and groups; criticises State-only complaints in article 52."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Guatemala argues for a right of petition for States, groups and individuals against draft article 52."
+  }
+ },
+ "T118": {
+  "opus": {
+   "correct": true,
+   "note": "Uruguay defends international implementation measures against the USSR sovereignty objection."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Uruguay defends consideration of the implementation proposals, including communications from individuals, against the sovereignty objection."
+  }
+ },
+ "T119": {
+  "opus": {
+   "correct": true,
+   "note": "Yugoslavia explains votes on the implementation resolution, regretting repeated postponement of implementation measures."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Yugoslavia explains votes on a procedural resolution but chiefly regrets postponement of measures of implementation (borderline procedural)."
+  }
+ },
+ "T120": {
+  "opus": {
+   "correct": true,
+   "note": "Denmark on the Syrian draft resolution on Non-Self-Governing and Trust Territories; low confidence, could be implementation in territories."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Denmark on the Syrian draft resolution on application to Trust and Non-Self-Governing Territories."
+  }
+ },
+ "T121": {
+  "opus": {
+   "correct": true,
+   "note": "USSR attacks the Lebanese reclassification of rights as undermining both the one- and two-covenant positions; ESC rights justiciable."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "USSR on the Lebanese resolution's classification of rights as justiciable or not, relevant to one covenant or two."
+  }
+ },
+ "T122": {
+  "opus": {
+   "correct": false,
+   "note": "Explanation of vote on a resolution reminding States of their Charter duty to observe human rights, not the covenants as a whole."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Iraq's explanation of vote on a joint resolution about States' duties under the Charter and general progress in human rights (general; uncertain)."
+  }
+ },
+ "T123": {
+  "opus": {
+   "correct": true,
+   "note": "Poland on colonialism and the right of peoples to self-determination (item 30)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Poland on colonialism and the right to self-determination."
+  }
+ },
+ "T124": {
+  "opus": {
+   "correct": true,
+   "note": "Belgium questions the meaning of 'slavery of peoples' and self-determination in draft resolution A."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Belgium critiques the wording of draft resolution A on self-determination."
+  }
+ },
+ "T125": {
+  "opus": {
+   "correct": true,
+   "note": "Mexico on decolonisation and self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Mexico on decolonization and the right of peoples to self-determination."
+  }
+ },
+ "T126": {
+  "opus": {
+   "correct": true,
+   "note": "Pakistan on nationalism in dependent territories and accelerating self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Pakistan on self-determination for peoples of Non-Self-Governing Territories."
+  }
+ },
+ "T127": {
+  "opus": {
+   "correct": true,
+   "note": "Guatemala supports the self-determination resolutions."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Guatemala on self-determination, opposing the Commission's recommendations."
+  }
+ },
+ "T128": {
+  "opus": {
+   "correct": true,
+   "note": "Honduras on sovereignty and self-determination; objects to 'slavery' in draft resolution A."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Honduras on freedom, sovereignty and the right to self-determination."
+  }
+ },
+ "T129": {
+  "opus": {
+   "correct": true,
+   "note": "Ethiopia on self-determination and the draft resolutions."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Ethiopia on self-determination and the draft resolutions."
+  }
+ },
+ "T130": {
+  "opus": {
+   "correct": true,
+   "note": "Greece on its history of self-determination and the UK's record."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Greece on its history of self-determination."
+  }
+ },
+ "T131": {
+  "opus": {
+   "correct": true,
+   "note": "Sweden on the self-determination recommendations and amendments."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Sweden on the self-determination recommendations and amendments."
+  }
+ },
+ "T132": {
+  "opus": {
+   "correct": true,
+   "note": "Guatemala on the five-Power amendment (plebiscites) on self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Guatemala on amendments to the self-determination resolution."
+  }
+ },
+ "T133": {
+  "opus": {
+   "correct": true,
+   "note": "Ethiopia proposes a compromise wording on ascertaining peoples' wishes for self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Ethiopia on the Indian amendment on self-determination."
+  }
+ },
+ "T134": {
+  "opus": {
+   "correct": true,
+   "note": "Greece on the amendments and its own wording on democratic means not impairing self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Greece on the amendments to the self-determination resolution."
+  }
+ },
+ "T135": {
+  "opus": {
+   "correct": true,
+   "note": "India clarifies 'recognized democratic means' in the self-determination resolution."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "India on 'recognized democratic means' in the self-determination amendments."
+  }
+ },
+ "T136": {
+  "opus": {
+   "correct": true,
+   "note": "Greece on manipulated democratic institutions in the self-determination text."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Greece on democratic means of ascertaining the wishes of peoples."
+  }
+ },
+ "T137": {
+  "opus": {
+   "correct": true,
+   "note": "Afghanistan suggests positive wording on self-determination and on the Syrian amendment."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Afghanistan on wording of amendments on self-determination."
+  }
+ },
+ "T138": {
+  "opus": {
+   "correct": true,
+   "note": "Afghanistan on 'ensure' vs 'promote' the right to self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Afghanistan on 'ensure' versus 'promote' self-determination."
+  }
+ },
+ "T139": {
+  "opus": {
+   "correct": true,
+   "note": "Venezuela on universality of self-determination, no secession, against the UK draft."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Venezuela on self-determination as a universal principle under the Charter."
+  }
+ },
+ "T140": {
+  "opus": {
+   "correct": true,
+   "note": "Pakistan accepts parts of the US amendments to the self-determination resolution."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Pakistan on the amendments to the self-determination resolution."
+  }
+ },
+ "T141": {
+  "opus": {
+   "correct": true,
+   "note": "Denmark on peaceful application of self-determination and the drafts before the Committee."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Denmark on peaceful application of self-determination and the amendments."
+  }
+ },
+ "T142": {
+  "opus": {
+   "correct": true,
+   "note": "Lebanon introduces its draft resolution on the universality of self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Lebanon introduces a draft on the universality of the right to self-determination."
+  }
+ },
+ "T143": {
+  "opus": {
+   "correct": true,
+   "note": "New Zealand opposes stating self-determination as a universal right before its limits are defined."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "New Zealand cautions against stating self-determination as a universal right."
+  }
+ },
+ "T144": {
+  "opus": {
+   "correct": true,
+   "note": "Yugoslavia on 'particular circumstances' wording and UN auspices for self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Yugoslavia on the Indian amendment's qualification of self-determination."
+  }
+ },
+ "T145": {
+  "opus": {
+   "correct": true,
+   "note": "India ranges over the three deadlocked questions: federal clause, right of petition and reservations."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "India on the deadlock over federal clause, petition and reservations; several questions with none dominating."
+  }
+ },
+ "T146": {
+  "opus": {
+   "correct": true,
+   "note": "Costa Rica briefly on the covenants then mainly on international respect for self-determination and its draft resolution."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Costa Rica stresses the right of peoples to self-determination and co-sponsors a draft on it (also remarks on the covenants generally)."
+  }
+ },
+ "T147": {
+  "opus": {
+   "correct": true,
+   "note": "Chile: the federal clause should be left to the Commission; votes against both draft resolutions."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Chile on the federal clause draft resolutions, leaving it to the Commission."
+  }
+ },
+ "T148": {
+  "opus": {
+   "correct": true,
+   "note": "Canada on the federal clause versus reservations as an alternative; Egyptian draft would shut out federal States."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Canada on the federal clause versus a reservations clause."
+  }
+ },
+ "T149": {
+  "opus": {
+   "correct": true,
+   "note": "Saudi Arabia introduces the compromise text transmitting the federal clause proposals to the Commission."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Saudi Arabia on the compromise on the federal clause draft resolutions."
+  }
+ },
+ "T150": {
+  "opus": {
+   "correct": true,
+   "note": "Saudi Arabia on the federal clause compromise and its own position on the clause."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Saudi Arabia on the federal clause and the USSR's silence."
+  }
+ },
+ "T151": {
+  "opus": {
+   "correct": true,
+   "note": "USSR on its attitude to the federal clause and the Saudi draft resolution."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "USSR on its position on the federal clause and the Saudi draft."
+  }
+ },
+ "T152": {
+  "opus": {
+   "correct": true,
+   "note": "India: the federal clause is political, not for the ICJ."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "India on the federal clause being political, not legal."
+  }
+ },
+ "T153": {
+  "opus": {
+   "correct": true,
+   "note": "Philippines supports including the right of individual petition in the covenants."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Philippines argues for an international right of petition in the covenants."
+  }
+ },
+ "T154": {
+  "opus": {
+   "correct": true,
+   "note": "Brazil on the nature of rights and how the right of petition should be approached."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Brazil on the right of petition and collective rights."
+  }
+ },
+ "T155": {
+  "opus": {
+   "correct": true,
+   "note": "Denmark on the draft resolution on the right of petition (natural persons, groups)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Denmark on the draft resolution on petitions by individuals and groups."
+  }
+ },
+ "T156": {
+  "opus": {
+   "correct": true,
+   "note": "Afghanistan urges action now on the right of petition."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Afghanistan supports action on the right of petition."
+  }
+ },
+ "T157": {
+  "opus": {
+   "correct": true,
+   "note": "Cuba supports the draft resolution asking priority for self-determination recommendations."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Cuba supports the draft resolution on priority for self-determination."
+  }
+ },
+ "T158": {
+  "opus": {
+   "correct": true,
+   "note": "Mexico supports the self-determination priority resolution."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Mexico supports the draft resolution on self-determination."
+  }
+ },
+ "T159": {
+  "opus": {
+   "correct": true,
+   "note": "Yemen supports priority for self-determination recommendations."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Yemen on self-determination of subjugated peoples."
+  }
+ },
+ "T160": {
+  "opus": {
+   "correct": true,
+   "note": "Uruguay on self-determination and the joint draft resolution."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Uruguay on the principle of self-determination and the draft resolution."
+  }
+ },
+ "T161": {
+  "opus": {
+   "correct": true,
+   "note": "Greece urges implementation of the right to self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Greece on implementing the right to self-determination."
+  }
+ },
+ "T162": {
+  "opus": {
+   "correct": true,
+   "note": "Bolivia on the right of peoples to self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Bolivia on the right of peoples to self-determination."
+  }
+ },
+ "T163": {
+  "opus": {
+   "correct": true,
+   "note": "USSR supports the self-determination resolution; Argentine amendment."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "USSR states its support for self-determination in explaining its position."
+  }
+ },
+ "T164": {
+  "opus": {
+   "correct": true,
+   "note": "Iraq: the self-determination resolution is substantive; right is absolute."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Iraq says the self-determination draft is substantive."
+  }
+ },
+ "T165": {
+  "opus": {
+   "correct": true,
+   "note": "Dominican Republic supports self-determination resolution."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Dominican Republic supports the self-determination draft."
+  }
+ },
+ "T166": {
+  "opus": {
+   "correct": false,
+   "note": "Belgium explains vote against the self-determination resolution (Belgian thesis on all indigenous peoples), not the covenants' territorial clause."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Belgium explains a vote against the self-determination resolution; this is not the territorial application clause of the covenants."
+  }
+ },
+ "T167": {
+  "opus": {
+   "correct": false,
+   "note": "Mainly about the three US proposals (reports, studies, advisory services) as a separate programme, only related to covenant implementation; somewhat uncertain."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Yugoslavia on the three US proposals on measures of implementation."
+  }
+ },
+ "T168": {
+  "opus": {
+   "correct": false,
+   "note": "Opposes the Egypt-Philippines resolution on the US proposals; indivisibility of rights is only the reasoning."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Czechoslovakia on the inseparability of economic/social and civil/political rights, opposing the US proposals."
+  }
+ },
+ "T169": {
+  "opus": {
+   "correct": true,
+   "note": "Appeal that the Third Committee itself complete and adopt the covenants rather than postpone; covenants as a whole, though largely about how to proceed (uncertain)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Haiti urges the Committee to finalize the covenants now rather than postpone, after a history of the work (general/procedural; uncertain)."
+  }
+ },
+ "T170": {
+  "opus": {
+   "correct": false,
+   "note": "Costa Rica's general-debate statement: nature of rights, spirit of debate, regret at the separation but no reconsideration, then property; one/two covenants does not dominate."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Costa Rica ranges over the tone of the debate, protest at separating the two kinds of rights, and the right of property; none dominates."
+  }
+ },
+ "T171": {
+  "opus": {
+   "correct": true,
+   "note": "Argentina's general statement on the covenants and its justicialist philosophy of human rights, the covenants as a whole."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Argentine general statement on the State, justice and human rights; no single question dominates."
+  }
+ },
+ "T172": {
+  "opus": {
+   "correct": true,
+   "note": "Poland surveys many provisions of both draft covenants (work, health, education, articles 19, 24-26, article 1), the covenants as a whole."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Poland welcomes and comments on many provisions of both covenants; ranges over several questions."
+  }
+ },
+ "T173": {
+  "opus": {
+   "correct": false,
+   "note": "Ukraine comments on several contested provisions (self-determination, then non-discrimination and others); self-determination is one point among several, not clearly dominant (uncertain, text truncated)."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Ukrainian reply to objections: self-determination is half, the rest is non-discrimination and other provisions; not mainly the question (borderline)."
+  }
+ },
+ "T174": {
+  "opus": {
+   "correct": true,
+   "note": "Honduras ranges over one covenant or two, individual petitions and reservations, none dominating."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Honduras ranges over single vs two covenants, individual petition and reservations, none dominating."
+  }
+ },
+ "T175": {
+  "opus": {
+   "correct": true,
+   "note": "Iraq asks whether the transmitting resolution still lets Governments propose combining the two covenants; a short question but its subject is one covenant or two (borderline procedural)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Asks whether governments favouring combining the two covenants can still propose it; one covenant or two."
+  }
+ },
+ "T176": {
+  "opus": {
+   "correct": true,
+   "note": "Bolivia wants the arguments for keeping article 1 (self-determination) in the operative part of both covenants put on record."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Bolivia wants article 1 on self-determination kept in the operative part of both covenants."
+  }
+ },
+ "T177": {
+  "opus": {
+   "correct": false,
+   "note": "Brazil explains its vote on paragraph 1(c) of the resolution referring to Non-Self-Governing Territories (consulting them on the drafts) and on its self-determination proposals; not the territorial application clause."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Brazil explains a vote on a draft resolution mentioning Non-Self-Governing Territories and self-determination proposals; procedural/mixed, not the territorial clause."
+  }
+ },
+ "T178": {
+  "opus": {
+   "correct": false,
+   "note": "Iraq explains her vote on paragraph 1(c) so that peoples of Non-Self-Governing Territories may voice opinions on the drafts; a resolution on consultation, not the territorial application clause."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Iraq: peoples of Non-Self-Governing and Trust Territories should be heard on the covenants for their universality (borderline, about a resolution not a clause)."
+  }
+ },
+ "T179": {
+  "opus": {
+   "correct": false,
+   "note": "Saudi Arabia explains his vote on paragraph 1(c) on publicizing UN human rights work in dependent territories; not the territorial application clause."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Saudi Arabia on involving peoples of dependent territories in the covenants' work via paragraph 1(c); loosely the territories' relation to the covenants (borderline)."
+  }
+ },
+ "T180": {
+  "opus": {
+   "correct": true,
+   "note": "Saudi Arabia on the recommendations for international respect for self-determination and colonial peoples' natural wealth."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Saudi Arabia on ECOSOC's disregard of the Assembly and measures to implement the right of self-determination."
+  }
+ },
+ "T181": {
+  "opus": {
+   "correct": true,
+   "note": "Turkey reviews the history of the recommendations on self-determination in commenting on the Afghan draft resolution."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Turkey on the draft resolution on international respect for the right of self-determination."
+  }
+ },
+ "T182": {
+  "opus": {
+   "correct": true,
+   "note": "USSR supports the Afghan draft resolution on self-determination and the sixteen-Power amendment."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "USSR supports the Afghan draft resolution and amendments on respect for self-determination."
+  }
+ },
+ "T183": {
+  "opus": {
+   "correct": true,
+   "note": "Saudi Arabia on the three-Power sub-amendment and sovereignty over natural resources in the self-determination resolution."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Saudi Arabia on the amendment about sovereignty over resources and nationalization within the self-determination resolution."
+  }
+ },
+ "T184": {
+  "opus": {
+   "correct": true,
+   "note": "Uruguay opposes limits on sovereignty in the three-Power amendment to the self-determination resolution."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Uruguay objects to limits on sovereignty/self-determination in the three-Power amendment."
+  }
+ },
+ "T185": {
+  "opus": {
+   "correct": true,
+   "note": "Greece supports self-determination and permanent sovereignty over natural resources and accepts amendments to the resolution."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Greece supports self-determination and permanent sovereignty over resources and the sixteen-Power amendment."
+  }
+ },
+ "T186": {
+  "opus": {
+   "correct": true,
+   "note": "Haiti will not vote for the three-Power amendment to the self-determination resolution."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Haiti on the three-Power amendment to the self-determination resolution."
+  }
+ },
+ "T187": {
+  "opus": {
+   "correct": true,
+   "note": "Yugoslavia explains abstention on the three-Power amendment (economic principles) to the self-determination resolution."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Yugoslavia on the principles in the amendment to the self-determination resolution (economic co-operation, sovereignty)."
+  }
+ },
+ "T188": {
+  "opus": {
+   "correct": true,
+   "note": "Bolivia on the two parts of the three-Power amendment and the link between economic co-operation and self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Bolivia links economic co-operation and self-determination in voting on the amendment to the self-determination resolution."
+  }
+ },
+ "T189": {
+  "opus": {
+   "correct": true,
+   "note": "United States says the joint amendment places no restriction on permanent sovereignty over natural resources."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "US explains that the amendment places no restriction on permanent sovereignty over natural resources."
+  }
+ },
+ "T190": {
+  "opus": {
+   "correct": true,
+   "note": "Egypt (and Brazil) on voting by parts on the joint amendment to the self-determination resolution and sovereignty over resources."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Egypt, Brazil on the joint amendment to the self-determination draft resolution."
+  }
+ },
+ "T191": {
+  "opus": {
+   "correct": true,
+   "note": "Greece opposes the three-Power amendment limiting recommendations on self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Greece on the Afghan self-determination resolution and why the amendment is out of place."
+  }
+ },
+ "T192": {
+  "opus": {
+   "correct": false,
+   "note": "Costa Rica on the procedure for considering the draft covenants under resolution 833 (IX) (article-by-article discussion, speed); order of work."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Costa Rica on the importance and method of the Committee's work on the covenants and resolution 833 (IX); procedure/order of work."
+  }
+ },
+ "T193": {
+  "opus": {
+   "correct": true,
+   "note": "El Salvador on whether the preamble should refer to self-determination and discussing article 1 questions with it (borderline: preamble text)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "El Salvador on whether self-determination should be mentioned in the preamble and its relation to article 1."
+  }
+ },
+ "T194": {
+  "opus": {
+   "correct": true,
+   "note": "Costa Rica on the draft resolutions about including an article on self-determination, opposing the Danish draft as delaying that decision."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Costa Rica on voting among draft resolutions on including a self-determination article, opposing the Danish delay (procedural but about the article)."
+  }
+ },
+ "T195": {
+  "opus": {
+   "correct": false,
+   "note": "USSR opposes a territorial clause in a separate convention (Belgian and UK amendments); another agenda item, covenants cited only by analogy."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "USSR on a territorial clause in another convention (not the covenants), another agenda item, though it cites the covenants' precedent."
+  }
+ },
+ "T196": {
+  "opus": {
+   "correct": false,
+   "note": "United Kingdom on adjourning the debate and a compromise territorial clause in another convention; procedure on another agenda item."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "UK on timing of an amendment and a territorial clause in the Supplementary Slavery Convention; another agenda item and procedure."
+  }
+ },
+ "T197": {
+  "opus": {
+   "correct": false,
+   "note": "Syria protests France's reading of delegations' stance on the Committee's order of work; procedural, article 1 mentioned in passing."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Syria protests France's characterization in a procedural dispute; self-determination article only in passing."
+  }
+ },
+ "T198": {
+  "opus": {
+   "correct": false,
+   "note": "Tunisia opposes postponing the self-determination item; mainly the order of work, though argued from the importance of the right (uncertain)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Tunisia opposes postponing the self-determination item; individual rights are illusory unless peoples are free."
+  }
+ },
+ "T199": {
+  "opus": {
+   "correct": false,
+   "note": "Afghanistan urges adoption of his motion to postpone the self-determination item; order of work."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Afghanistan urges the Committee not to postpone the self-determination item (procedural, but about the question)."
+  }
+ },
+ "T200": {
+  "opus": {
+   "correct": false,
+   "note": "Tunisia against deferring the self-determination item and asks for priority next session; order of work."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Tunisia against deferring the self-determination discussion."
+  }
+ },
+ "T201": {
+  "opus": {
+   "correct": false,
+   "note": "Iraq explains abstention on the motion to postpone the self-determination item; procedural."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Iraq: discussion of the right of self-determination cannot prejudice article 1."
+  }
+ },
+ "T202": {
+  "opus": {
+   "correct": false,
+   "note": "Uruguay explains his vote against postponing the self-determination item; order of work (uncertain)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Uruguay against postponing consideration of self-determination."
+  }
+ },
+ "T203": {
+  "opus": {
+   "correct": false,
+   "note": "Spain questions the Greek proposal for a committee to examine inter-State complaints of human rights violations pending the Covenants; another agenda item, not the covenants' implementation."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Spain questions the Greek proposal for a committee on State complaints of violations: implementation machinery (it is interim, not the covenants, borderline)."
+  }
+ },
+ "T204": {
+  "opus": {
+   "correct": false,
+   "note": "Uruguay on the Greek draft resolution on interim machinery for violations, State sovereignty and the individual; another agenda item."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Uruguay on international machinery to apply human rights and State sovereignty (Greek proposal on violations)."
+  }
+ },
+ "T205": {
+  "opus": {
+   "correct": false,
+   "note": "Saudi Arabia asks for elucidation of the Greek proposal on inter-State complaints; another agenda item, not the covenants' measures of implementation."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Saudi Arabia on the Greek proposal for inter-State complaints and the Commission's role; implementation machinery."
+  }
+ },
+ "T206": {
+  "opus": {
+   "correct": false,
+   "note": "India doubts the Greek interim complaints proposal, noting the Covenants' own implementation clauses; another agenda item."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "India on the Greek proposal's machinery versus the covenants' implementation clauses."
+  }
+ },
+ "T207": {
+  "opus": {
+   "correct": false,
+   "note": "Indonesia criticizes the Greek draft resolution on interim machinery and favours expediting the Covenants; another agenda item."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Indonesia on machinery for violations, the Greek draft, and the covenants' implementation machinery."
+  }
+ },
+ "T208": {
+  "opus": {
+   "correct": true,
+   "note": "Netherlands defends the colonial Powers' argument that they must consult Non-Self-Governing Territories before deciding for them, the rationale of the territorial clause (uncertain context)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Netherlands on colonial powers' having to consult populations of Non-Self-Governing Territories (context a plan article of the covenant); cannot tell with confidence."
+  }
+ },
+ "T209": {
+  "opus": {
+   "correct": true,
+   "note": "Saudi Arabia on the three draft resolutions on self-determination and the proposed ad hoc commission."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Saudi Arabia on the ECOSOC draft resolutions and ad hoc commission on self-determination."
+  }
+ },
+ "T210": {
+  "opus": {
+   "correct": true,
+   "note": "China on the aspects of self-determination, colonialism and sovereignty over natural resources."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "China on the aspects of the right of self-determination and colonialism."
+  }
+ },
+ "T211": {
+  "opus": {
+   "correct": true,
+   "note": "Saudi Arabia on self-determination as a humanitarian question and its exercise by dependent peoples."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Saudi Arabia on self-determination as a human right and the role of the UN."
+  }
+ },
+ "T212": {
+  "opus": {
+   "correct": true,
+   "note": "Bulgaria on the right of peoples to self-determination and the recommendations."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Bulgaria on the right of peoples to self-determination."
+  }
+ },
+ "T213": {
+  "opus": {
+   "correct": true,
+   "note": "Ukraine on liberation of colonial peoples and the right of self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Ukrainian SSR on self-determination and liberation of colonial peoples."
+  }
+ },
+ "T214": {
+  "opus": {
+   "correct": true,
+   "note": "France on the ambiguities of the principle of self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "France on the ambiguities of the principle of self-determination."
+  }
+ },
+ "T215": {
+  "opus": {
+   "correct": true,
+   "note": "USSR on national liberation and the principle of self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "USSR on self-determination and colonialism."
+  }
+ },
+ "T216": {
+  "opus": {
+   "correct": true,
+   "note": "Yemen on the right of self-determination and nationalist movements."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Yemen on self-determination and implementation machinery for it."
+  }
+ },
+ "T217": {
+  "opus": {
+   "correct": true,
+   "note": "Byelorussia on international respect for the right of self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Byelorussian SSR on measures to secure respect for self-determination."
+  }
+ },
+ "T218": {
+  "opus": {
+   "correct": true,
+   "note": "Hungary on defining the scope of the right of self-determination and the ad hoc commission."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Hungary on defining the scope of self-determination and the draft resolutions."
+  }
+ },
+ "T219": {
+  "opus": {
+   "correct": true,
+   "note": "Czechoslovakia on the Commission's recommendations on self-determination and economic independence."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Czechoslovakia on self-determination, economic independence and the Commission's recommendations."
+  }
+ },
+ "T220": {
+  "opus": {
+   "correct": true,
+   "note": "Albania on self-determination as a right of colonial and dependent peoples."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Albania on self-determination of colonial peoples and UN measures."
+  }
+ },
+ "T221": {
+  "opus": {
+   "correct": true,
+   "note": "Ghana on self-determination as an inalienable right applying first to colonial and trust peoples."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Ghana on the meaning and scope of the right of self-determination."
+  }
+ },
+ "T222": {
+  "opus": {
+   "correct": true,
+   "note": "New Zealand on the five-Power draft resolution on self-determination and the scope of article 1."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "New Zealand on the five-Power draft resolution and the substance of self-determination."
+  }
+ },
+ "T223": {
+  "opus": {
+   "correct": true,
+   "note": "Ecuador on the political and economic meaning of self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Ecuador on the meaning of self-determination and the five-Power draft resolution."
+  }
+ },
+ "T224": {
+  "opus": {
+   "correct": true,
+   "note": "Australia restates its opposition to article 1 and its approach to self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Australia on its opposition to article 1 and the scope of self-determination."
+  }
+ },
+ "T225": {
+  "opus": {
+   "correct": true,
+   "note": "Greece on defining self-determination and excluding separatist movements."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Greece on the definition of self-determination (separatism, political freedom)."
+  }
+ },
+ "T226": {
+  "opus": {
+   "correct": false,
+   "note": "Morocco on harmonizing article 8 (forced labour) with ILO Convention 105 and the order of the implementation clauses; mainly one article's relation to another instrument (uncertain)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Morocco: implementation clauses should be settled first and apply to ILO Convention 105 matters; measures of implementation."
+  }
+ },
+ "T227": {
+  "opus": {
+   "correct": true,
+   "note": "Afghanistan, briefly, wants opposing views on self-determination presented in the debate."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Afghanistan wants opponents to present their views on self-determination (short but on the question)."
+  }
+ },
+ "T228": {
+  "opus": {
+   "correct": true,
+   "note": "Greece reviews resolution 637 (VII) and the three recommendations on self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Greece on Assembly resolution 637 (VII) and the Commission's recommendations on self-determination."
+  }
+ },
+ "T229": {
+  "opus": {
+   "correct": true,
+   "note": "Philippines on the draft resolutions on self-determination as a right under article 1."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Philippines on article 1 (right, not principle) and the three draft resolutions on self-determination."
+  }
+ },
+ "T230": {
+  "opus": {
+   "correct": true,
+   "note": "Saudi Arabia on the priority of the Commission's drafts and the right versus principle of self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Saudi Arabia on right versus principle of self-determination and the Council's draft."
+  }
+ },
+ "T231": {
+  "opus": {
+   "correct": true,
+   "note": "Mrs Roosevelt presents the draft declaration as a whole and its place before a covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Roosevelt presents the draft declaration as a whole and the follow-up covenant."
+  }
+ },
+ "T232": {
+  "opus": {
+   "correct": true,
+   "note": "Argentina on the declaration as a whole, its moral force and social rights and duties."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Argentina on the draft declaration as a whole, its social rights, duties and later binding document."
+  }
+ },
+ "T233": {
+  "opus": {
+   "correct": true,
+   "note": "USSR on the importance of the right of self-determination and colonialism."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "USSR on self-determination and colonialism."
+  }
+ },
+ "T234": {
+  "opus": {
+   "correct": true,
+   "note": "Czechoslovakia on self-determination including permanent sovereignty over natural resources."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Czechoslovakia on self-determination and permanent sovereignty; Commission's draft resolutions."
+  }
+ },
+ "T235": {
+  "opus": {
+   "correct": true,
+   "note": "United Arab Republic on the right of self-determination, Africa and Asia."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "UAR on the right of peoples to self-determination."
+  }
+ },
+ "T236": {
+  "opus": {
+   "correct": true,
+   "note": "Ukraine on the urgency of the right of self-determination and the recommendations."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Ukrainian SSR on self-determination and the Commission's recommendations."
+  }
+ },
+ "T237": {
+  "opus": {
+   "correct": true,
+   "note": "Albania on the content of the right of self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Albania on self-determination and colonial powers."
+  }
+ },
+ "T238": {
+  "opus": {
+   "correct": true,
+   "note": "Pakistan on independence and the draft resolution on permanent sovereignty over natural resources."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Pakistan on independence and the draft resolution on permanent sovereignty over resources."
+  }
+ },
+ "T239": {
+  "opus": {
+   "correct": true,
+   "note": "Israel on self-determination through statehood and independence."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Israel on the nature and scope of self-determination."
+  }
+ },
+ "T240": {
+  "opus": {
+   "correct": true,
+   "note": "Yugoslavia on recommendations for self-determination and sovereignty over resources."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Yugoslavia on self-determination as a rule of international law and the Commission's draft resolutions."
+  }
+ },
+ "T241": {
+  "opus": {
+   "correct": true,
+   "note": "Liberia on the right of dependent peoples to self-determination and UN machinery."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Liberia on the need for machinery to give effect to self-determination."
+  }
+ },
+ "T242": {
+  "opus": {
+   "correct": true,
+   "note": "Tunisia on the right of self-determination and colonialism."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Tunisia on self-determination and colonialism."
+  }
+ },
+ "T243": {
+  "opus": {
+   "correct": true,
+   "note": "Dominican Republic on self-determination as a right and draft resolution I on natural resources."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Dominican Republic supports draft resolution I on peoples' sovereignty over natural resources/self-determination."
+  }
+ },
+ "T244": {
+  "opus": {
+   "correct": true,
+   "note": "Romania on the self-determination debate and sovereignty over natural resources."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Romania on self-determination and sovereignty over natural resources."
+  }
+ },
+ "T245": {
+  "opus": {
+   "correct": true,
+   "note": "Greece on respect for self-determination as the foundation of peace."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Greece on self-determination as the foundation of peace and the UN's role."
+  }
+ },
+ "T246": {
+  "opus": {
+   "correct": true,
+   "note": "Canada on self-determination and its doubts about the Commission's drafts and the covenants' article."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Canada on self-determination and the three draft resolutions."
+  }
+ },
+ "T247": {
+  "opus": {
+   "correct": true,
+   "note": "Mexico on the draft declaration as a whole and its non-binding value."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Mexico on the draft declaration as a whole and its non-binding value."
+  }
+ },
+ "T248": {
+  "opus": {
+   "correct": true,
+   "note": "Philippines on the need for the declaration as a whole, rights and duties."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Philippines on the need for a declaration, rights and duties, implementation; the declaration as a whole."
+  }
+ },
+ "T249": {
+  "opus": {
+   "correct": true,
+   "note": "Egypt urges care with a complete bill and adoption of the declaration first, before the covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Egypt: declaration first, covenant and implementation later; form of the bill."
+  }
+ },
+ "T250": {
+  "opus": {
+   "correct": true,
+   "note": "Egypt urges care with a complete bill and adoption of the declaration first, before the covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Egypt: declaration first, covenant and implementation later; form of the bill."
+  }
+ },
+ "T251": {
+  "opus": {
+   "correct": true,
+   "note": "Turkey supports the draft declaration as a whole, with remarks on education and duties."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Turkey supports the draft declaration as a whole, with remarks on education and duties."
+  }
+ },
+ "T252": {
+  "opus": {
+   "correct": true,
+   "note": "Turkey supports the draft declaration as a whole, with remarks on education and duties."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Turkey supports the draft declaration as a whole, with remarks on education and duties."
+  }
+ },
+ "T253": {
+  "opus": {
+   "correct": true,
+   "note": "Haiti argues the declaration, covenant and implementation should be adopted together, not the declaration alone."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Haiti: declaration, covenant and implementation should be considered and adopted together; form of the bill."
+  }
+ },
+ "T254": {
+  "opus": {
+   "correct": false,
+   "note": "USSR wants the preamble taken first (order of work), motivated by its plan to extend the declaration to Non-Self-Governing Territories (uncertain)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "USSR wants the preamble to settle that the declaration applies to Non-Self-Governing Territories as well (mixed with order of work, borderline)."
+  }
+ },
+ "T255": {
+  "opus": {
+   "correct": true,
+   "note": "United States explains its votes on both Covenants and the Protocol as a whole."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "US on the adoption of the covenants and optional protocol as a whole, with its position on parts."
+  }
+ },
+ "T256": {
+  "opus": {
+   "correct": true,
+   "note": "Cassin's plenary statement on the declaration as a whole: its historic significance and foundations."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Cassin's general statement on the declaration of human rights as a whole."
+  }
+ },
+ "T257": {
+  "opus": {
+   "correct": true,
+   "note": "Netherlands on the declaration as a whole, its moral force and the need for a covenant to follow."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Netherlands general statement on the declaration and the bill of rights as a whole."
+  }
+ },
+ "T258": {
+  "opus": {
+   "correct": true,
+   "note": "Malik argues against deferring the convention, on the relation between drafting a declaration and a convention (1947)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Malik on drafting a convention alongside the declaration and not deferring it."
+  }
+ },
+ "T259": {
+  "opus": {
+   "correct": true,
+   "note": "Malik insists the Committee draft the convention too, the decision to draft two documents standing; borderline as it is partly about the order of work."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Malik on time for drafting the convention versus the declaration; two documents."
+  }
+ },
+ "T260": {
+  "opus": {
+   "correct": true,
+   "note": "Harry: the primary task is a convention, the declaration an addition; how to divide time between the two."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Harry on the Bill as a convention and declaration, time for each."
+  }
+ },
+ "T261": {
+  "opus": {
+   "correct": true,
+   "note": "Wilson on the unexplored range of enforcement methods between publication and expulsion, and the Commission's terms of reference."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Wilson on the field of implementation between the extremes, petitions and the Commission's terms of reference."
+  }
+ },
+ "T262": {
+  "opus": {
+   "correct": true,
+   "note": "Harry proposes report wording on dividing the articles between a declaration and a convention; borderline, it is report drafting."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Wording of the working group's task: dividing the articles between a declaration and a convention."
+  }
+ },
+ "T263": {
+  "opus": {
+   "correct": true,
+   "note": "Koretsky accepts the wording on dividing articles between declaration and convention, wanting it conditional; borderline report drafting."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Koretsky accepts the proposal on dividing substance between declaration and convention (borderline wording point)."
+  }
+ },
+ "T264": {
+  "opus": {
+   "correct": true,
+   "note": "Harry proposes the report paragraph on how the Committee treated implementation/enforcement."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Wording of the report paragraph on the Committee's work on enforcement and implementation (borderline drafting of the report)."
+  }
+ },
+ "T265": {
+  "opus": {
+   "correct": true,
+   "note": "Koretsky on the wording of the report's paragraph on implementation; minor report drafting."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Report wording on implementation, objecting to using existing UN organs (borderline drafting)."
+  }
+ },
+ "T266": {
+  "opus": {
+   "correct": true,
+   "note": "Chang on the report's implementation paragraph, noting no consensus on the principles; minor drafting, borderline."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Report wording on implementation paragraphs 20 (borderline drafting)."
+  }
+ },
+ "T267": {
+  "opus": {
+   "correct": true,
+   "note": "AFL on several matters at once: implementation, a concise declaration, a general limitation clause, drafting and the declaration-covenant fit."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "American Federation of Labor on the declaration as a whole: concise, limitation clause, relation to covenant, drafting."
+  }
+ },
+ "T268": {
+  "opus": {
+   "correct": true,
+   "note": "Wu wants the federal clause (art. 24) kept separate from the colonial clause and retained."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Wu on federal-state article 24, separation from colonial article 25."
+  }
+ },
+ "T269": {
+  "opus": {
+   "correct": true,
+   "note": "Wilson on approving the federal clause (art. 24) in principle and redrafting it with art. 25."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Wilson on wording and joint handling of articles 24 and 25 (federal and territorial together), mainly drafting procedure."
+  }
+ },
+ "T270": {
+  "opus": {
+   "correct": true,
+   "note": "Azkoul on the relation between the covenant and the declaration (declaration wider than covenant)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Azkoul on the relation between the Covenant and the Declaration; declaration wider than covenant."
+  }
+ },
+ "T271": {
+  "opus": {
+   "correct": true,
+   "note": "Cassin raises the need for separate texts for a declaration and a convention, in discussing the discrimination article; borderline."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Cassin on alternate texts for a declaration and for a convention."
+  }
+ },
+ "T272": {
+  "opus": {
+   "correct": true,
+   "note": "Wu on the petition article: the UN should not invite petitions it cannot act on; reserve until implementation."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Wu on the UN receiving petitions and being able to act on them."
+  }
+ },
+ "T273": {
+  "opus": {
+   "correct": true,
+   "note": "Wilson explains the redrafted colonial application article 25."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Wilson on the territorial application article 25 drafted by the Sub-Committee."
+  }
+ },
+ "T274": {
+  "opus": {
+   "correct": true,
+   "note": "Pavlov opposes the territorial clause text leaving application to non-self-governing territories to the administering power."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Pavlov against the territorial clause leaving applicability to administering authority."
+  }
+ },
+ "T275": {
+  "opus": {
+   "correct": true,
+   "note": "Cassin on the two tasks, a short declaration and conventions, and on UN competence to deal with human rights."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Cassin on the two tasks, declaration and conventions, and international interference."
+  }
+ },
+ "T276": {
+  "opus": {
+   "correct": true,
+   "note": "Cassin on placing the right of petition among political rights in the declaration and grouping articles; borderline (arrangement of the petition article)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Cassin on the right of petition as a political right in the declaration."
+  }
+ },
+ "T277": {
+  "opus": {
+   "correct": true,
+   "note": "Cassin on the length and structure of the declaration as a whole."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Cassin on the length and general opening articles of the Declaration as a whole."
+  }
+ },
+ "T278": {
+  "opus": {
+   "correct": false,
+   "note": "Cassin on the ILO forced labour convention and its provisions for non-self-governing territories, i.e. the forced labour article, not the territorial clause."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Cassin on the ILO forced labour convention in non-self-governing territories, not the territorial clause."
+  }
+ },
+ "T279": {
+  "opus": {
+   "correct": true,
+   "note": "Hansa Mehta on national sovereignty versus UN intervention in the implementation debate."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Mehta on national sovereignty and UN intervention for enforcement of human rights."
+  }
+ },
+ "T280": {
+  "opus": {
+   "correct": false,
+   "note": "NGO memorandum on complaint commissions, but most of the speech argues for the right of individual petition; petitions dominate (uncertain)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Moskowitz on implementation commissions and complaints procedures (general implementation)."
+  }
+ },
+ "T281": {
+  "opus": {
+   "correct": true,
+   "note": "Bowie on including implementation measures in the covenant and on non-signatory States."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Bowie on measures of implementation in the Covenant and non-signatory States."
+  }
+ },
+ "T282": {
+  "opus": {
+   "correct": true,
+   "note": "Sorensen suggests a chapter on ad hoc committees of inquiry in the implementation outline."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Soerensen on ad hoc committees of inquiry in the implementation part."
+  }
+ },
+ "T283": {
+  "opus": {
+   "correct": true,
+   "note": "Pavlov asks what a separate protocol on implementation would mean."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Pavlov on what a separate protocol on implementation means."
+  }
+ },
+ "T284": {
+  "opus": {
+   "correct": true,
+   "note": "Pavlov opposes complaints machinery as interference in domestic affairs, in deciding the principle of complaints under the covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Pavlov against deciding on complaints procedure and international intervention."
+  }
+ },
+ "T285": {
+  "opus": {
+   "correct": true,
+   "note": "Chang asks what a vote on the petitions resolution would mean for individual and group petitions."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Chang on including the right of petition of individuals and organizations in the Covenant."
+  }
+ },
+ "T286": {
+  "opus": {
+   "correct": true,
+   "note": "Hood on the French proposal separating the principle of individual petition from its implementation."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Hood on the French proposal on the principle of individual petition."
+  }
+ },
+ "T287": {
+  "opus": {
+   "correct": true,
+   "note": "Malik urges a decision now on extending petitions to groups and individuals."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Malik on extending complaints and petitions to groups and individuals."
+  }
+ },
+ "T288": {
+  "opus": {
+   "correct": true,
+   "note": "Vilfan argues economic and social rights should be included in the covenant now."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Vilfan on whether economic and social rights belong in the covenant."
+  }
+ },
+ "T289": {
+  "opus": {
+   "correct": true,
+   "note": "Kovalenko supports including economic and social rights (right to work) in the covenant; leans on the right to work but the issue is inclusion."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Kovalenko on including economic and social rights, right to work."
+  }
+ },
+ "T290": {
+  "opus": {
+   "correct": true,
+   "note": "Bowie: the draft resolution would prejudge whether petitions are receivable."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Bowie on a draft resolution on petitions being receivable and prejudging."
+  }
+ },
+ "T291": {
+  "opus": {
+   "correct": true,
+   "note": "Ingles defends a study of individual petitions and juridical personality before UN organs."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Ingles on a study of the individual's right of petition and juridical personality."
+  }
+ },
+ "T292": {
+  "opus": {
+   "correct": true,
+   "note": "Bowie on deferring study of petitions until the receivability document is discussed."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Bowie on Secretariat study of petitions, comments from governments."
+  }
+ },
+ "T293": {
+  "opus": {
+   "correct": true,
+   "note": "Pavlov would vote for the petitions resolution if 'individuals' and 'groups' were deleted."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Pavlov on amendment about petitions by individuals, groups and organizations."
+  }
+ },
+ "T294": {
+  "opus": {
+   "correct": true,
+   "note": "Pavlov on the questionnaire on implementation, proposing a preliminary question and deferral."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Pavlov on the questionnaire on international measures of implementation."
+  }
+ },
+ "T295": {
+  "opus": {
+   "correct": true,
+   "note": "Garcia Bauer asks that the report mention his right-of-petition proposal."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Garcia Bauer asks the report to mention his right-of-petition proposal (borderline report point)."
+  }
+ },
+ "T296": {
+  "opus": {
+   "correct": true,
+   "note": "Rapporteur explains that Annex III contains the implementation documents and questionnaire; procedural, borderline."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Malik as Rapporteur on the contents of Annex III of the report, procedural."
+  }
+ },
+ "T297": {
+  "opus": {
+   "correct": true,
+   "note": "Cassin on the covenant and report as a whole, its value and gaps, voting for the report."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Cassin on the Covenant and the Commission's report as a whole."
+  }
+ },
+ "T298": {
+  "opus": {
+   "correct": false,
+   "note": "Ramadan on the article on States' general legal obligation (wording of the Australian/French text), only touching supervision."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Ramadan on States' legal obligation and means of supervision of the covenant."
+  }
+ },
+ "T299": {
+  "opus": {
+   "correct": true,
+   "note": "Ebeid on the bill as a whole: duties of the individual and defining rights in general terms."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Ebeid on the duties of the individual and the Commission defining rights generally; ranges broadly."
+  }
+ },
+ "T300": {
+  "opus": {
+   "correct": true,
+   "note": "Hodgson on the general principle of the individual's rights relative to the community, for the bill as a whole."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Hodgson drawing the general conclusion that individual rights are subordinate to the community."
+  }
+ },
+ "T301": {
+  "opus": {
+   "correct": true,
+   "note": "Malik on the human person and the State as the guiding principle of the Bill of Rights."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Malik on the human person and the State, general philosophy of the Bill of Rights."
+  }
+ },
+ "T302": {
+  "opus": {
+   "correct": true,
+   "note": "Mehta: a mere declaration is not enough; an Act of the General Assembly with implementation is needed."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Mehta on a declaration not sufficing; an Act of the Assembly with implementation."
+  }
+ },
+ "T303": {
+  "opus": {
+   "correct": true,
+   "note": "Chang: draw up a Bill of Rights incorporated in a draft resolution (form of the bill)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Chang on drawing up a Bill of Rights incorporated in a draft resolution."
+  }
+ },
+ "T304": {
+  "opus": {
+   "correct": true,
+   "note": "ILO on the role of the specialized agencies in implementing the bill."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "ILO on possible action of specialized agencies in implementing the Bill."
+  }
+ },
+ "T305": {
+  "opus": {
+   "correct": true,
+   "note": "Tepliakov: planning implementation is premature; no implementation mandate for the Drafting Committee."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Tepliakov on premature implementation planning."
+  }
+ },
+ "T306": {
+  "opus": {
+   "correct": true,
+   "note": "Dukes on implementation and domestic jurisdiction (Art. 2(7))."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Dukes on implementation and domestic jurisdiction."
+  }
+ },
+ "T307": {
+  "opus": {
+   "correct": true,
+   "note": "Hodgson presents the Australian proposal for an international court of human rights."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Hodgson on implementation machinery and an international court of human rights."
+  }
+ },
+ "T308": {
+  "opus": {
+   "correct": true,
+   "note": "Kyrou: the covenant must not be silent on enforcement measures."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Kyrou on enforcement measures in the covenant."
+  }
+ },
+ "T309": {
+  "opus": {
+   "correct": true,
+   "note": "Bowie on the US-UK implementation proposal: non-permanent fact-finding body, State complaints only."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Bowie on the complaints procedure and a permanent or non-permanent body."
+  }
+ },
+ "T310": {
+  "opus": {
+   "correct": true,
+   "note": "Bowie defends the joint implementation proposal and the effect of public opinion."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Bowie on the joint implementation proposal and respect by States."
+  }
+ },
+ "T311": {
+  "opus": {
+   "correct": true,
+   "note": "Oribe on the general question of implementation and Charter obligations."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Oribe on implementation obligations under the Charter."
+  }
+ },
+ "T312": {
+  "opus": {
+   "correct": true,
+   "note": "Ramadan's general statement on implementation measures, touching petitions and placing measures in the covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Ramadan on implementation measures, petition limited to States, in the covenant."
+  }
+ },
+ "T313": {
+  "opus": {
+   "correct": true,
+   "note": "Azkoul maintains his amendment giving national NGOs the right to complain."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Azkoul on complaints by NGOs and the right of petition amendment."
+  }
+ },
+ "T314": {
+  "opus": {
+   "correct": true,
+   "note": "Cassin on individual and group petitions being left to a protocol."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Cassin on petitions by organizations and private persons, protocol."
+  }
+ },
+ "T315": {
+  "opus": {
+   "correct": false,
+   "note": "Mehta on whether a Sub-Commission invitation extends to non-self-governing territories, another agenda item, not the covenant's territorial clause."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Mehta on an invitation applying to non-self-governing territories under a resolution on discrimination, only passing."
+  }
+ },
+ "T316": {
+  "opus": {
+   "correct": true,
+   "note": "Jevremovic opposes deferring the economic and social rights articles; a covenant without them is meaningless."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Jevremovic on including economic and social rights in the covenant."
+  }
+ },
+ "T317": {
+  "opus": {
+   "correct": true,
+   "note": "Valenzuela: economic and social rights must be included in the covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Valenzuela on including economic and social rights in the Covenant."
+  }
+ },
+ "T318": {
+  "opus": {
+   "correct": true,
+   "note": "Nisot on Art. 2(7) domestic jurisdiction limiting covenant implementation."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Belgium on Article 2(7) and domestic jurisdiction limiting implementation."
+  }
+ },
+ "T319": {
+  "opus": {
+   "correct": true,
+   "note": "Simsarian: no time to discuss economic and social rights, supports deferring them; partly about the order of work."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Simsarian on postponing economic and social rights from the covenant for lack of time."
+  }
+ },
+ "T320": {
+  "opus": {
+   "correct": true,
+   "note": "Mehta: economic and social rights perhaps in a subsequent covenant; supports the Lebanese resolution."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Mehta on whether economic and social rights go in the first or a later covenant."
+  }
+ },
+ "T321": {
+  "opus": {
+   "correct": true,
+   "note": "Jevremovic against postponing economic and social rights in the covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Jevremovic on economic and social rights and postponing them."
+  }
+ },
+ "T322": {
+  "opus": {
+   "correct": true,
+   "note": "Ramadan favours economic and social rights in a new covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Ramadan in favour of a covenant with economic and social rights."
+  }
+ },
+ "T323": {
+  "opus": {
+   "correct": true,
+   "note": "Jevremovic on the earlier resolution to include economic and social rights in the covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Jevremovic on the earlier resolution to include economic and social rights."
+  }
+ },
+ "T324": {
+  "opus": {
+   "correct": true,
+   "note": "Jevremovic on the contradiction between that resolution and the new drafts deferring economic and social rights."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Jevremovic on the Commission's undertaking to include economic and social rights."
+  }
+ },
+ "T325": {
+  "opus": {
+   "correct": false,
+   "note": "Malik on whether the Secretary-General may consult specialized agencies (for the work on economic and social rights) without Council authorization; procedure, not implementation."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Malik on whether the Secretary-General may consult agencies without Council authorisation, procedure."
+  }
+ },
+ "T326": {
+  "opus": {
+   "correct": false,
+   "note": "Nisot on the wording 'Requests'/'Instructs' in the same procedural resolution."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Nisot on the wording 'Instructs' in a resolution, procedural wording."
+  }
+ },
+ "T327": {
+  "opus": {
+   "correct": true,
+   "note": "Cassin on how the human rights committee should be elected (by the ICJ or States parties)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Cassin on how the implementation committee should be elected."
+  }
+ },
+ "T328": {
+  "opus": {
+   "correct": true,
+   "note": "Mehta proposes that the human rights committee supervise States' compliance."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Mehta on the standing committee supervising and inquiring."
+  }
+ },
+ "T329": {
+  "opus": {
+   "correct": true,
+   "note": "Bowie on the committee requesting ICJ advisory opinions."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Bowie on the human rights committee requesting advisory opinions."
+  }
+ },
+ "T330": {
+  "opus": {
+   "correct": true,
+   "note": "Ramadan on the UK proposal on advisory opinions for the committee."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Ramadan on the UK proposal and punishment of infringements by the committee."
+  }
+ },
+ "T331": {
+  "opus": {
+   "correct": true,
+   "note": "Chang finds ICJ advisory opinions for the committee superfluous."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Chang on the committee seeking advisory opinions."
+  }
+ },
+ "T332": {
+  "opus": {
+   "correct": true,
+   "note": "Bowie amends her proposal on advisory opinions for the committee."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Bowie amending the proposal on the committee requesting advisory opinions."
+  }
+ },
+ "T333": {
+  "opus": {
+   "correct": true,
+   "note": "Sender: the committee should be a proper UN organ."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Sender on the committee as a UN organ."
+  }
+ },
+ "T334": {
+  "opus": {
+   "correct": true,
+   "note": "Kyrou on the two UK proposals on advisory opinions for the committee."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Kyrou on the UK proposals concerning the committee."
+  }
+ },
+ "T335": {
+  "opus": {
+   "correct": true,
+   "note": "Chang on the committee's character (statesmen, not a juridical organ)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Chang on the committee's character and the UK proposals."
+  }
+ },
+ "T336": {
+  "opus": {
+   "correct": true,
+   "note": "Nisot asks about the Secretary-General's report on the advisory-opinion proposal."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Nisot on the report proposed concerning the committee (borderline)."
+  }
+ },
+ "T337": {
+  "opus": {
+   "correct": true,
+   "note": "Cassin on consulting the International Law Commission on an international court for implementation."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Cassin on asking the International Law Commission about implementation by international jurisdictions."
+  }
+ },
+ "T338": {
+  "opus": {
+   "correct": true,
+   "note": "Cassin on the UK reservations article."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Cassin on the United Kingdom article on reservations."
+  }
+ },
+ "T339": {
+  "opus": {
+   "correct": false,
+   "note": "Bowie on a separate draft resolution about information from States (Yearbook), apparently not covenant implementation; uncertain."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Bowie on a resolution asking States for information; Yearbook sufficient (borderline, implementation reporting)."
+  }
+ },
+ "T340": {
+  "opus": {
+   "correct": true,
+   "note": "Jevremovic on the omission of economic and social rights from the covenant, against submitting it incomplete."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Jevremovic on economic and social rights and the gap between declaration and covenant."
+  }
+ },
+ "T341": {
+  "opus": {
+   "correct": true,
+   "note": "Cassin judges the draft covenant as a whole unready (implementation, relation to the UN) and asks whether to submit it to the Assembly."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Cassin assesses the draft covenant as a whole (improvised, ill-balanced, too little time on implementation) before sending it to the Assembly."
+  }
+ },
+ "T342": {
+  "opus": {
+   "correct": true,
+   "note": "UK explains its changed attitude to the draft covenant and implementation and to the covenant's value as a whole."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Bowie explains the UK's changed attitude to the draft covenant and its implementation system as a whole, amid the general debate on its fate."
+  }
+ },
+ "T343": {
+  "opus": {
+   "correct": true,
+   "note": "Supports the French resolution on annual State reports on human rights progress to be examined by the Commission (reporting as implementation; borderline, not strictly covenant machinery)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Supports annual State reports on human rights to the Commission and its power to make recommendations."
+  }
+ },
+ "T344": {
+  "opus": {
+   "correct": true,
+   "note": "Chile on the French annual-reports resolution: criticism of reporting States and sovereignty under Article 2(7) (reporting/supervision; borderline)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Worries that State reports would expose democracies to criticism and that follow-up would breach Charter art. 2(7)."
+  }
+ },
+ "T345": {
+  "opus": {
+   "correct": true,
+   "note": "Philippines opposes the Commission controlling governments by examining annual reports (supervision; borderline)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Opposes the Commission exercising control over governments by examining how they ensure rights."
+  }
+ },
+ "T346": {
+  "opus": {
+   "correct": true,
+   "note": "Danish amendment to a resolution paragraph on further measures of implementation to be submitted beyond the covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Danish amendment on which measures of implementation go to a separate protocol rather than the covenant."
+  }
+ },
+ "T347": {
+  "opus": {
+   "correct": true,
+   "note": "USSR welcomes the Assembly's decision to include economic, social and cultural rights in the covenant and urges defining them."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Soviet delegate on the inclusion of economic, social and cultural rights in the covenant."
+  }
+ },
+ "T348": {
+  "opus": {
+   "correct": true,
+   "note": "Cassin on the method of including economic, social and cultural rights in the covenant and their different character."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Cassin on method for including ESC rights, which differ in character from civil rights and have specialized agencies."
+  }
+ },
+ "T349": {
+  "opus": {
+   "correct": true,
+   "note": "US proposes a middle course on including economic, social and cultural rights in the covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Roosevelt on conditions for including basic ESC statements in the covenant (resources, treaty form, agencies)."
+  }
+ },
+ "T350": {
+  "opus": {
+   "correct": true,
+   "note": "ILO Governing Body's view on including economic, social and cultural rights in the covenant and how they differ from civil rights."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "ILO says ESC rights differ from civil rights in nature, implementation and resources, bearing on their inclusion."
+  }
+ },
+ "T351": {
+  "opus": {
+   "correct": true,
+   "note": "Yugoslavia insists on including economic, social and cultural rights in the covenant per GA resolution 421(V)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Yugoslav delegate insists the Assembly has settled inclusion of ESC rights."
+  }
+ },
+ "T352": {
+  "opus": {
+   "correct": true,
+   "note": "Denmark opposes including economic, social and cultural rights and asks whether the Commission is bound by the Assembly's decision."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Denmark opposes inclusion of ESC rights in the covenant and asks whether the Assembly's policy binds the Commission."
+  }
+ },
+ "T353": {
+  "opus": {
+   "correct": true,
+   "note": "Yugoslavia on including economic, social and cultural rights in the covenant and its proposals for them."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Yugoslavia on including ESC rights in the covenant and how to carry out the instructions."
+  }
+ },
+ "T354": {
+  "opus": {
+   "correct": true,
+   "note": "India will cooperate in drafting economic, social and cultural articles but reserves the right to oppose their inclusion."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "India will cooperate on ESC texts while reserving the right to oppose their inclusion (brief)."
+  }
+ },
+ "T355": {
+  "opus": {
+   "correct": true,
+   "note": "UK accepts the Chair's ruling but had hoped the Commission would recommend not including economic, social and cultural rights."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "UK had hoped to recommend not including ESC rights; notes others favour inclusion."
+  }
+ },
+ "T356": {
+  "opus": {
+   "correct": true,
+   "note": "Christian trade unions welcome including economic, social and cultural rights in the covenant, stressing the family (borderline: much on the family)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Christian trade unions urge that ESC rights be defined in the covenant."
+  }
+ },
+ "T357": {
+  "opus": {
+   "correct": false,
+   "note": "ICFTU on which economic, social and cultural rights to include and whether they are enforceable (the inclusion of ESC rights debate), not implementation machinery."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Union representative mainly argues about including a selection of enforceable ESC rights and the Danish proposal; implementation is secondary, so it fits the one-or-two covenants question better."
+  }
+ },
+ "T358": {
+  "opus": {
+   "correct": false,
+   "note": "China on drafting economic, social and cultural rights carefully, notably the right to work; the ESC-rights question dominates rather than the covenant as a whole."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Chinese delegate discusses the pace of drafting ESC articles and above all the right to work, not the covenant as a whole; borderline."
+  }
+ },
+ "T359": {
+  "opus": {
+   "correct": true,
+   "note": "WJC on the slow inter-State complaint procedure of the Human Rights Committee (draft articles 33-41) in urgent cases."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "NGO representative on procedure of the Human Rights Committee and the limits of arts. 38-41."
+  }
+ },
+ "T360": {
+  "opus": {
+   "correct": true,
+   "note": "Yugoslavia proposes the implementation provisions form a separate instrument."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Yugoslavia proposes that the implementation provisions form a separate instrument."
+  }
+ },
+ "T361": {
+  "opus": {
+   "correct": true,
+   "note": "CCJO argues for the right of petition of individuals and groups against State-only complaints."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Argues for the right of petition of individuals and groups against limiting it to States."
+  }
+ },
+ "T362": {
+  "opus": {
+   "correct": true,
+   "note": "Sweden supports individual petitions in the covenant and discusses screening."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Sweden supports individual petition and its screening by the Committee."
+  }
+ },
+ "T363": {
+  "opus": {
+   "correct": true,
+   "note": "Denmark on ensuring the independence of a proposed high commissioner (implementation machinery)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Danish reply on how an independent high commissioner would be chosen (implementation machinery)."
+  }
+ },
+ "T364": {
+  "opus": {
+   "correct": true,
+   "note": "France asks how a proposed high commissioner would be chosen to be independent (implementation machinery)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "France asks how the Assembly would choose an independent high commissioner."
+  }
+ },
+ "T365": {
+  "opus": {
+   "correct": true,
+   "note": "Yugoslavia clarifies its proposal for a separate protocol on measures of implementation."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Yugoslavia clarifies the proposal of implementation measures in a separate protocol."
+  }
+ },
+ "T366": {
+  "opus": {
+   "correct": true,
+   "note": "UK rebuts the Soviet view on Article 2(7) and implementation, pointing to States' obligations in article 1."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "UK replies to the Soviet position on art. 2(7) and implementation articles 19-41."
+  }
+ },
+ "T367": {
+  "opus": {
+   "correct": true,
+   "note": "Cassin on the role of the Commission and UN in ensuring observance of human rights and forms of implementation."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Cassin on the Commission's role and the United Nations' task in ensuring observance, and implementation machinery."
+  }
+ },
+ "T368": {
+  "opus": {
+   "correct": true,
+   "note": "Chile on the US petitions protocol, separate protocols for NGOs and individuals, and petitions from non-self-governing territories."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Chile on the US proposal for a protocol on petitions, incl. its territorial scope."
+  }
+ },
+ "T369": {
+  "opus": {
+   "correct": true,
+   "note": "Greece on the US protocol on petitions (aliens, entry into force)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Greece on the US petitions protocol: wording, entry into force."
+  }
+ },
+ "T370": {
+  "opus": {
+   "correct": true,
+   "note": "India distinguishes the Soviet resolution to drop implementation clauses from the Yugoslav separate-instrument proposal."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "India contrasts the Soviet and Yugoslav drafts on whether implementation clauses are excluded or separate."
+  }
+ },
+ "T371": {
+  "opus": {
+   "correct": true,
+   "note": "China opposes the Soviet resolution, arguing implementation clauses do not infringe sovereignty."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "China opposes the Soviet draft resolution to exclude implementation clauses, on sovereignty grounds."
+  }
+ },
+ "T372": {
+  "opus": {
+   "correct": true,
+   "note": "Denmark on deferring the Yugoslav proposal for a separate implementation instrument."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Denmark on how to decide the Yugoslav resolution on separate implementation instrument."
+  }
+ },
+ "T373": {
+  "opus": {
+   "correct": true,
+   "note": "Yugoslavia: its separate-instrument proposal on implementation does not touch substance."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Yugoslavia explains its separate-instrument proposal for implementation clauses."
+  }
+ },
+ "T374": {
+  "opus": {
+   "correct": true,
+   "note": "Australia on the Yugoslav separate-instrument proposal and the US amendment to it."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Australia on the US proposal and the separate instrument for implementation clauses."
+  }
+ },
+ "T375": {
+  "opus": {
+   "correct": true,
+   "note": "Denmark on election of Human Rights Committee members by the International Court of Justice."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Denmark on electing the Human Rights Committee through the International Court."
+  }
+ },
+ "T376": {
+  "opus": {
+   "correct": true,
+   "note": "India on alternatives if the ICJ declines to elect the Committee, and its status and financing."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "India on the Court's role in setting up the Human Rights Committee and its funding."
+  }
+ },
+ "T377": {
+  "opus": {
+   "correct": false,
+   "note": "Chile on whether to draft a general undertaking clause or specific undertakings per economic, social and cultural right, and the order of discussion (article 2-type obligations, not supervision)."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Chile moves to discuss forthwith whether State undertakings are general or per right, a procedural/drafting point rather than supervision; borderline."
+  }
+ },
+ "T378": {
+  "opus": {
+   "correct": false,
+   "note": "Guatemala on the order of discussing undertaking clauses for the right to work (procedure/specific clause)."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Procedural exchange on whether to discuss undertaking clauses for the right to work now."
+  }
+ },
+ "T379": {
+  "opus": {
+   "correct": false,
+   "note": "UNESCO representative merely offers to give the Director-General's opinion; no substance (procedural)."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "UNESCO representative merely offers to state its view on a pending proposal; procedural."
+  }
+ },
+ "T380": {
+  "opus": {
+   "correct": false,
+   "note": "USSR attacks the UNESCO education proposal as legalizing poor education in colonies; about the education article, not the territorial clause."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Soviet delegate attacks the UNESCO proposal on education and colonial/aboriginal peoples; about the education article, not the territorial clause itself."
+  }
+ },
+ "T381": {
+  "opus": {
+   "correct": true,
+   "note": "ILO opening statement on the implementation of economic, social and cultural rights provisions (mostly about its representation; borderline)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "ILO observer on implementation of the ESC rights provisions."
+  }
+ },
+ "T382": {
+  "opus": {
+   "correct": true,
+   "note": "US comments on ILO and Lebanese proposals on reporting on implementation of economic, social and cultural rights."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Roosevelt on ILO and Lebanese proposals: technical assistance, State reports, specialized agencies."
+  }
+ },
+ "T383": {
+  "opus": {
+   "correct": true,
+   "note": "Pakistan offers to sponsor the ILO implementation suggestion."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Pakistan sponsors the ILO suggestion on implementation of ESC rights (brief)."
+  }
+ },
+ "T384": {
+  "opus": {
+   "correct": false,
+   "note": "Roosevelt argues that drafting a covenant implies surrendering some sovereignty, a reply in the implementation debate (article 39), not the covenant as a whole (uncertain)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Roosevelt on States' surrender of sovereignty in drafting the covenant; judged general though tied to the art. 39 debate (uncertain)."
+  }
+ },
+ "T385": {
+  "opus": {
+   "correct": true,
+   "note": "Greece on sovereignty and implementation, suggesting the Rome Convention system."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Greece on implementation, sovereignty and art. 2(7), and a gradual system."
+  }
+ },
+ "T386": {
+  "opus": {
+   "correct": true,
+   "note": "Yugoslavia: the Human Rights Committee must supervise economic, social and cultural rights too."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Yugoslavia: ESC rights must fall under the Human Rights Committee's supervision."
+  }
+ },
+ "T387": {
+  "opus": {
+   "correct": true,
+   "note": "UK on the role of specialized agencies in implementation of economic, social and cultural rights."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "UK on the role of specialized agencies in implementation of ESC rights."
+  }
+ },
+ "T388": {
+  "opus": {
+   "correct": true,
+   "note": "China: no new supervisory organ for economic, social and cultural rights; drafting group."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "China notes opposition to a new supervisory organ for implementation."
+  }
+ },
+ "T389": {
+  "opus": {
+   "correct": true,
+   "note": "Egypt asks whether reports go to specialized agencies only or also to the Secretary-General (implementation article C)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Egypt asks whether reports go to specialized agencies only or also to the Secretary-General."
+  }
+ },
+ "T390": {
+  "opus": {
+   "correct": true,
+   "note": "UK doubts implementation articles F-I belong in the covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "UK doubts articles F, G, I, H on implementation belong in the covenant."
+  }
+ },
+ "T391": {
+  "opus": {
+   "correct": true,
+   "note": "Egypt on implementation articles A and C: reports first to the Secretary-General."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Egypt wants reports routed first to the Secretary-General; ties between UN and specialized agencies."
+  }
+ },
+ "T392": {
+  "opus": {
+   "correct": true,
+   "note": "WJC: the right of petition is the core of implementation and must not be denied."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "World Jewish Congress on the right of petition of individuals and NGOs."
+  }
+ },
+ "T393": {
+  "opus": {
+   "correct": true,
+   "note": "Chile compares the texts on individual and NGO petitions."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Chile on the competing texts on individual petition and covenant vs protocol."
+  }
+ },
+ "T394": {
+  "opus": {
+   "correct": true,
+   "note": "Guatemala: right of individual petition should be in the covenant, not a protocol."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Guatemala on writing individual petition into the covenant."
+  }
+ },
+ "T395": {
+  "opus": {
+   "correct": true,
+   "note": "US on the Danish amendment to the petitions protocol reference (short)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Roosevelt on the Danish amendment referring to a petitions Protocol."
+  }
+ },
+ "T396": {
+  "opus": {
+   "correct": true,
+   "note": "Guatemala: enquiries on petitions only in States party to the protocol."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Guatemala clarifies its amendment on Committee enquiries under the petitions protocol."
+  }
+ },
+ "T397": {
+  "opus": {
+   "correct": true,
+   "note": "UK opposes Egyptian amendment on routing State reports via the Secretary-General."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "UK opposes the Egyptian amendment on routing State reports."
+  }
+ },
+ "T398": {
+  "opus": {
+   "correct": true,
+   "note": "Egypt on reports to specialized agencies and the Secretary-General (article C)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Egypt defends its amendment on reports going to both agencies and the Secretary-General."
+  }
+ },
+ "T399": {
+  "opus": {
+   "correct": true,
+   "note": "ILO: specialized agencies already may take part in Council deliberations on reports."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "ILO on specialized agencies' participation in the Council's deliberations."
+  }
+ },
+ "T400": {
+  "opus": {
+   "correct": true,
+   "note": "Guatemala opposes the Indian proposal that economic, social and cultural rights are not justiciable (separate treatment)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Guatemala objects that the Indian proposal calls ESC rights non-justiciable; about the nature of ESC rights vs civil rights."
+  }
+ },
+ "T401": {
+  "opus": {
+   "correct": true,
+   "note": "Egypt suggests adding 'groups' to those who may petition in article 38 bis."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Egypt proposes wording on 'groups' and NGOs in the petition article."
+  }
+ },
+ "T402": {
+  "opus": {
+   "correct": true,
+   "note": "UK on the report's wording about obligation to implement the covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "UK objects to report wording implying States have no obligation to implement the covenant domestically."
+  }
+ },
+ "T403": {
+  "opus": {
+   "correct": true,
+   "note": "Egypt's closing remarks on the draft report and hoping the covenant will be complete (covenant as a whole)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Egypt on the draft report and hopes the covenant will contain all rights; general closing remark."
+  }
+ },
+ "T404": {
+  "opus": {
+   "correct": true,
+   "note": "China's closing remarks on the report and the covenant as a whole."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "China on the draft report and the covenant as a whole (proportion of articles)."
+  }
+ },
+ "T405": {
+  "opus": {
+   "correct": true,
+   "note": "Greece on the article on self-determination of peoples to be inserted in the covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Greece on the form of the self-determination article and whether it contains recommendations."
+  }
+ },
+ "T406": {
+  "opus": {
+   "correct": true,
+   "note": "France on the Chilean resolution on peoples' natural resources (self-determination)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Cassin on technical assistance and national resources in the self-determination resolution."
+  }
+ },
+ "T407": {
+  "opus": {
+   "correct": true,
+   "note": "Belgium on wording of the US amendment to the USSR self-determination resolution."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Belgium asks about the word 'another' before 'people' in the self-determination amendment."
+  }
+ },
+ "T408": {
+  "opus": {
+   "correct": true,
+   "note": "France on a common self-determination statement in both covenants and a recommendation."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Cassin on a common statement of the right of peoples in both covenants."
+  }
+ },
+ "T409": {
+  "opus": {
+   "correct": true,
+   "note": "Greece: plebiscites as means of implementing self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Greece: plebiscites as the way to implement self-determination."
+  }
+ },
+ "T410": {
+  "opus": {
+   "correct": true,
+   "note": "Egypt's amendments on UN-supervised plebiscites for self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Egypt's amendments on elections held under UN auspices for self-determination."
+  }
+ },
+ "T411": {
+  "opus": {
+   "correct": true,
+   "note": "France defends its self-determination draft resolution."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "France explains its self-determination draft (democratic means, plebiscites)."
+  }
+ },
+ "T412": {
+  "opus": {
+   "correct": true,
+   "note": "India on the French self-determination resolution preamble."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "India on the self-determination study and the French draft."
+  }
+ },
+ "T413": {
+  "opus": {
+   "correct": true,
+   "note": "Australia: further study of the right of self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Australia explains vote on further study of the right of self-determination."
+  }
+ },
+ "T414": {
+  "opus": {
+   "correct": true,
+   "note": "Cassin: declaration first, but declaration, convention and implementation form one entity."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Cassin on declaration versus convention and the order of work of the Bill of Rights."
+  }
+ },
+ "T415": {
+  "opus": {
+   "correct": true,
+   "note": "Ukraine: start with a declaration, set aside a convention."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Ukraine proposes starting with a Declaration and laying aside a convention."
+  }
+ },
+ "T416": {
+  "opus": {
+   "correct": true,
+   "note": "Panama: declaration plus conventions; a mere declaration would be a monstrosity."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Panama: a mere Declaration without conventions and implementation would be a legal monstrosity."
+  }
+ },
+ "T417": {
+  "opus": {
+   "correct": true,
+   "note": "Panama won't vote if 'Declaration' becomes 'Bill or Convention'."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Panama on the wording 'Declaration' versus 'Bill or Convention' in the Belgian proposal."
+  }
+ },
+ "T418": {
+  "opus": {
+   "correct": false,
+   "note": "Chile on mentioning civil and political rights in the preamble of the ESC covenant; a preamble drafting point, not one covenant or two."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Chile wants the ESC covenant's preamble to link it to civil and political rights despite two covenants."
+  }
+ },
+ "T419": {
+  "opus": {
+   "correct": false,
+   "note": "France supports that preamble wording and common provisions; preamble drafting."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "France backs linking the two covenants and common provisions."
+  }
+ },
+ "T420": {
+  "opus": {
+   "correct": false,
+   "note": "AFL objects to singling out one NGO's petition/communication for priority (handling of communications/NGO categories), not the right of petition."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "American Federation of Labor protests the naming of one NGO category in a text; about NGO consultative categories, not petitions."
+  }
+ },
+ "T421": {
+  "opus": {
+   "correct": false,
+   "note": "USSR mixes reconsideration of one covenant with opposing the language-concordance resolution and the work plan; no single question dominates (uncertain)."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Soviet delegate mixes reopening the single-covenant question with objections to Secretariat concordance and session-planning resolutions; no one question dominates and procedure prevails."
+  }
+ },
+ "T422": {
+  "opus": {
+   "correct": true,
+   "note": "USSR amends report paragraph on self-determination in the covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Soviet amendment to the report text on self-determination and colonial liberation."
+  }
+ },
+ "T423": {
+  "opus": {
+   "correct": true,
+   "note": "USSR on 'colonial enslavement' wording in self-determination report."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Wording of the report sentence on self-determination."
+  }
+ },
+ "T424": {
+  "opus": {
+   "correct": true,
+   "note": "USSR objects to UK change of the self-determination report sentence."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Soviet objection to hedging wording on colonial enslavement in the self-determination report paragraph."
+  }
+ },
+ "T425": {
+  "opus": {
+   "correct": true,
+   "note": "USSR proposes self-determination sentence for the report."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Soviet amendment to the report paragraph on the significance of self-determination."
+  }
+ },
+ "T426": {
+  "opus": {
+   "correct": false,
+   "note": "Roosevelt objects to repeated references to Non-Self-Governing Territories in the draft report during adoption of report paragraphs on education; report drafting, not the territorial clause."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Roosevelt objects to repeated references to Non-Self-Governing Territories in the education section of a report; no territorial application clause."
+  }
+ },
+ "T427": {
+  "opus": {
+   "correct": true,
+   "note": "Morozov asks where the territorial application article adopted at the seventh session will be reproduced in the report's annexes (procedural in form, but solely about the territorial article; uncertain)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Morozov asks where the territorial-application article will be reproduced in the annexes (largely procedural, but about that article)."
+  }
+ },
+ "T428": {
+  "opus": {
+   "correct": true,
+   "note": "Lord's opening statement on US support for the Commission's work, the Charter, the Declaration and the covenants as a whole."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Opening statement on US support for the Commission, the Declaration and the covenants as a whole."
+  }
+ },
+ "T429": {
+  "opus": {
+   "correct": true,
+   "note": "Hoare on whether the draft covenants as a whole can command universal acceptance, ranging over their vagueness and several issues."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Hoare on whether the draft covenants as a whole will command universal acceptance, ranging over several points."
+  }
+ },
+ "T430": {
+  "opus": {
+   "correct": true,
+   "note": "Whitlam's general statement on the US non-ratification announcement and features of the draft covenants as a whole."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Whitlam's general statement on the draft covenants as a whole and US non-ratification."
+  }
+ },
+ "T431": {
+  "opus": {
+   "correct": true,
+   "note": "Ingles' general statement on the US non-ratification announcement and the need to complete the covenants."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Ingles's general reaction to US announcement on the covenants, urging completion of the covenants."
+  }
+ },
+ "T432": {
+  "opus": {
+   "correct": true,
+   "note": "Abdel-Ghani on the General Assembly's proposals as a guide and possible proposals on self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Egypt accepts that GA resolution proposals on self-determination guide the Commission."
+  }
+ },
+ "T433": {
+  "opus": {
+   "correct": true,
+   "note": "Cheng Paonan says the Commission must act on the ECOSOC resolution transmitting the Assembly resolution on self-determination (agenda point, but about self-determination)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "China says the Commission must act on ECOSOC's transmission of the GA self-determination resolution."
+  }
+ },
+ "T434": {
+  "opus": {
+   "correct": true,
+   "note": "NGO speaker on effective measures of implementation: complaints, petitions, the Committee acting on its own initiative."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "NGO speaker on effective implementation, Human Rights Committee powers and access (including petition); mainly implementation."
+  }
+ },
+ "T435": {
+  "opus": {
+   "correct": true,
+   "note": "Lord on applying the implementation machinery to the civil and political covenant only and a reporting provision."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "US view on which measures of implementation apply to which covenant, plus reports."
+  }
+ },
+ "T436": {
+  "opus": {
+   "correct": true,
+   "note": "Morozov's general statement on the importance and nature of measures of implementation of the covenants."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Morozov on the importance of effective implementation measures; also ranges over covenant content (lean implementation)."
+  }
+ },
+ "T437": {
+  "opus": {
+   "correct": true,
+   "note": "Abdur Rahman opposes complaints by individuals and NGOs against States: the right of petition."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Pakistan opposes individual and NGO complaints/right of petition against States."
+  }
+ },
+ "T438": {
+  "opus": {
+   "correct": true,
+   "note": "Morozov rejects separate implementation machinery for the two kinds of rights, arguing their indivisibility (one covenant or two in substance)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Morozov argues rights are indivisible and implementation should be uniform, against separate machinery for the two kinds of rights; borderline with implementation."
+  }
+ },
+ "T439": {
+  "opus": {
+   "correct": true,
+   "note": "Amado asks for a vote on the document's title, declaration versus convention: form of the bill."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Panama asks for a vote on the title of the document (Declaration/Convention/Bill)."
+  }
+ },
+ "T440": {
+  "opus": {
+   "correct": true,
+   "note": "Dehousse asks that the vote also cover 'Covenant' instead of 'Convention': form of the bill."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Belgium's proposal to call it Covenant rather than Convention, vote on the document's title."
+  }
+ },
+ "T441": {
+  "opus": {
+   "correct": true,
+   "note": "Victorica on the relationship between Declaration and Convention and examining the Declaration first."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Uruguay on relation between Declaration and Convention and order of examination."
+  }
+ },
+ "T442": {
+  "opus": {
+   "correct": true,
+   "note": "Hodgson asks whether the Commission will approve the Working Group's general plan for implementation."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Australia on the Working Group's general implementation plan being approved; implementation."
+  }
+ },
+ "T443": {
+  "opus": {
+   "correct": false,
+   "note": "Juvigny introduces French drafting amendments to the text of article 53 (later art. 44 ICCPR); one particular article."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "French amendments to article 53 on the Human Rights Committee's competence (implementation machinery)."
+  }
+ },
+ "T444": {
+  "opus": {
+   "correct": false,
+   "note": "Melovski on the Yugoslav amendment to article 53 and the Committee's competence; one particular article."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Yugoslavia on the Human Rights Committee's competence."
+  }
+ },
+ "T445": {
+  "opus": {
+   "correct": false,
+   "note": "Cheng Paonan on the restrictive character of article 53 and the amendments to it; one particular article."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "China on restrictions on the Human Rights Committee in article 53."
+  }
+ },
+ "T446": {
+  "opus": {
+   "correct": true,
+   "note": "Hoare on the joint amendment giving the Human Rights Committee power to conduct enquiries in States: the Committee's functions in principle (somewhat uncertain, an amendment)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "UK on the Committee's own-initiative enquiries in States territory; implementation."
+  }
+ },
+ "T447": {
+  "opus": {
+   "correct": true,
+   "note": "Dehousse on national sovereignty and the need for international machinery to supervise human rights (1947 implementation report)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Belgium on sovereignty and international control; implementation machinery in general."
+  }
+ },
+ "T448": {
+  "opus": {
+   "correct": true,
+   "note": "Bogomolov argues the Working Group on Implementation wrongly sought international control; implementation should be national."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "USSR objects to the Working Group's international control and inspection organ; implementation."
+  }
+ },
+ "T449": {
+  "opus": {
+   "correct": true,
+   "note": "Cassin on the Philippine new article for appeal to the International Court of Justice from the Committee's report: implementation machinery (never a final article)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "France on right of appeal to the ICJ after Committee report in State complaints; implementation."
+  }
+ },
+ "T450": {
+  "opus": {
+   "correct": true,
+   "note": "Kaeckenbeeck on recourse to the International Court of Justice after the Committee's conciliation: implementation machinery."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Belgium on recourse to ICJ after Committee conciliation; implementation."
+  }
+ },
+ "T451": {
+  "opus": {
+   "correct": true,
+   "note": "Ingles on restricting the right of appeal to the ICJ to the State complained against: implementation machinery."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Philippines on appeal to ICJ for the State complained against; implementation."
+  }
+ },
+ "T452": {
+  "opus": {
+   "correct": true,
+   "note": "Morozov on a point of order on the absence of a colonial clause and its inclusion in both covenants."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Morozov on point of order about the absence of a colonial clause in the covenant."
+  }
+ },
+ "T453": {
+  "opus": {
+   "correct": true,
+   "note": "Druto supports the Egyptian-Indian article on reporting on self-determination and rebuts objections about peoples' readiness."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Poland supports self-determination and answers critics of the Egyptian-Indian article on implementing it."
+  }
+ },
+ "T454": {
+  "opus": {
+   "correct": true,
+   "note": "Chattopadhyay on the Committee's role in enabling peoples to determine their status (plebiscites): self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "India defends the joint proposal giving the Committee a role in peoples' self-determination."
+  }
+ },
+ "T455": {
+  "opus": {
+   "correct": true,
+   "note": "Rossel explains her votes on the self-determination article, which she thinks does not belong in the covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Sweden explains votes on the self-determination article."
+  }
+ },
+ "T456": {
+  "opus": {
+   "correct": true,
+   "note": "Diaz Casanueva on reports going to the General Assembly and broadening the Human Rights Committee's functions."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Chile on the Human Rights Committee's functions and which organ receives reports; implementation."
+  }
+ },
+ "T457": {
+  "opus": {
+   "correct": false,
+   "note": "Cassin on the US draft resolution on annual reports (another agenda item) applying to all territories; not the covenants' territorial clause."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Cassin on duties of administering powers toward non-self-governing territories and the application of UDHR article 2 to all territories."
+  }
+ },
+ "T458": {
+  "opus": {
+   "correct": false,
+   "note": "Whitlam on the US draft resolutions on annual reports and the Egyptian-Indian amendment: the programme of action, another agenda item, not covenant implementation."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Whitlam on States' annual reports system and the US proposals; reporting/supervision (borderline, not strictly the covenants)."
+  }
+ },
+ "T459": {
+  "opus": {
+   "correct": false,
+   "note": "Abdel-Ghani on the draft resolution on handling communications about human rights violations generally (another agenda item), contrasted with covenant petitions (uncertain)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Egypt on communications/complaints on violations versus petitions under part IV."
+  }
+ },
+ "T460": {
+  "opus": {
+   "correct": false,
+   "note": "Diaz Casanueva on the Commission handling communications under the draft resolution (another agenda item), though touching the right of petition (uncertain)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Chile on handling communications and the right of petition."
+  }
+ },
+ "T461": {
+  "opus": {
+   "correct": true,
+   "note": "Malik proposes that the Drafting Committee make the Declaration as short as possible: the Declaration as a whole."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Malik proposes shortening the Draft Declaration as a whole (largely drafting procedure, but about the Declaration generally)."
+  }
+ },
+ "T462": {
+  "opus": {
+   "correct": true,
+   "note": "Romulo on simplicity versus length of the Declaration as a whole."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Romulo on length versus simplicity of the Declaration as a whole."
+  }
+ },
+ "T463": {
+  "opus": {
+   "correct": true,
+   "note": "Cassin's amendment to show the connection between the Declaration and the Convention (and that more conventions may follow)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Cassin's amendment showing the link between Declaration and Convention."
+  }
+ },
+ "T464": {
+  "opus": {
+   "correct": true,
+   "note": "NGO speaker on the covenants as a whole: their urgency, petitions as their basis and transmission to the Assembly."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "NGO general statement on covenants, right of petition, delay, US proposals; ranges across several questions."
+  }
+ },
+ "T465": {
+  "opus": {
+   "correct": true,
+   "note": "Wu on using 'Bill' for the triptych of Convention, Declaration and Implementation: form of the bill."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Wu on using Bill to cover Convention, Declaration and Implementation together."
+  }
+ },
+ "T466": {
+  "opus": {
+   "correct": true,
+   "note": "Cassin on naming the instruments Declaration and Convention/Covenant rather than 'Bill': form of the bill."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Cassin on the names Convention, Declaration, Bill, Covenant for the instruments."
+  }
+ },
+ "T467": {
+  "opus": {
+   "correct": false,
+   "note": "Nisot's brief remark comparing ILO conventions with the covenants in the debate on article 62 (specialized agencies' reports); one particular article."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Belgium says ILO conventions cannot be compared with covenants, in debate on implementation article 62."
+  }
+ },
+ "T468": {
+  "opus": {
+   "correct": true,
+   "note": "Montero Bustamante introduces the Uruguayan article on communications from individuals under the economic covenant: the right of petition."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Uruguay on the new article on individual communications and individuals as subjects of international law."
+  }
+ },
+ "T469": {
+  "opus": {
+   "correct": true,
+   "note": "Juvigny praises Uruguay's consistency in promoting the right of petition on withdrawal of its proposal."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "France pays tribute to Uruguay for promoting the right of petition."
+  }
+ },
+ "T470": {
+  "opus": {
+   "correct": true,
+   "note": "ICFTU regrets withdrawal of the Uruguayan article on communications from individuals, groups and NGOs."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "ICFTU regrets withdrawal of article on communications from individuals and NGOs."
+  }
+ },
+ "T471": {
+  "opus": {
+   "correct": true,
+   "note": "Ingles on applying periodic reports and the committee procedure across the two covenants: implementation."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Philippines on applying periodic reports and committee procedures across the two covenants; implementation."
+  }
+ },
+ "T472": {
+  "opus": {
+   "correct": false,
+   "note": "ILO representative on the proposed article 49 and retaining article 69 in the civil and political covenant; particular articles."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "ILO on its role in implementation articles of the covenant on civil and political rights."
+  }
+ },
+ "T473": {
+  "opus": {
+   "correct": true,
+   "note": "Nisot on the joint draft article to accept the Committee's jurisdiction for economic, social and cultural rights (never a final article)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Belgium on the joint article on accepting the Human Rights Committee's jurisdiction; implementation."
+  }
+ },
+ "T474": {
+  "opus": {
+   "correct": true,
+   "note": "Cheng Paonan criticises the joint draft article on applying the Committee procedure, comparing articles 63 and 65."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "China on the joint draft article and implementation articles 63 and 65."
+  }
+ },
+ "T475": {
+  "opus": {
+   "correct": true,
+   "note": "Juvigny on reciprocity and quorum in the Chile-Uruguay article extending the Committee procedure to the economic covenant."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "France on adapting Human Rights Committee procedures to the ESC covenant (reciprocity); implementation."
+  }
+ },
+ "T476": {
+  "opus": {
+   "correct": true,
+   "note": "Lord opposes applying complaint procedures to economic, social and cultural rights because they are progressive: implementation."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "US opposes extending committee complaint procedure to ESC rights; implementation."
+  }
+ },
+ "T477": {
+  "opus": {
+   "correct": false,
+   "note": "Whitlam on the order of work, that the federal clause be discussed as such: procedure."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Australia says the federal State clause should be discussed on its own."
+  }
+ },
+ "T478": {
+  "opus": {
+   "correct": true,
+   "note": "Montero Bustamante on the right of petition for individuals, groups and NGOs."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Uruguay on the right of petition and international protection."
+  }
+ },
+ "T479": {
+  "opus": {
+   "correct": true,
+   "note": "Nisot criticises the French proposal for a special instrument on individual petitions."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Belgium criticises French proposal for a special instrument for individual petitions."
+  }
+ },
+ "T480": {
+  "opus": {
+   "correct": true,
+   "note": "Nisot on the inconsistency of the French proposal on individual complaints."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Belgium criticises French petition proposal's effect on States parties."
+  }
+ },
+ "T481": {
+  "opus": {
+   "correct": false,
+   "note": "Hoare merely offers to make preliminary comments on the UK reservations article: procedure, no substance."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Hoare offers preliminary comments on UK draft reservations article (purely procedural, but about reservations)."
+  }
+ },
+ "T482": {
+  "opus": {
+   "correct": true,
+   "note": "Nisot asks whether the UK reservations proposal applies only to the civil covenant and why only to part III."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Belgium asks about scope of UK reservations proposal."
+  }
+ },
+ "T483": {
+  "opus": {
+   "correct": true,
+   "note": "Rizk on the Belgian draft article that would nullify the territorial article 72."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Lebanon on Belgian proposal that would defeat the territorial article; supports Pakistan amendment."
+  }
+ },
+ "T484": {
+  "opus": {
+   "correct": true,
+   "note": "Ingles on the Belgian proposal attacking the territorial article adopted by the Assembly."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Philippines on Belgian proposal against the Assembly's territorial article."
+  }
+ },
+ "T485": {
+  "opus": {
+   "correct": true,
+   "note": "Asiroglu on the joint proposals on recommendations on self-determination and the need for time."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Turkey on caution about joint self-determination proposals."
+  }
+ },
+ "T486": {
+  "opus": {
+   "correct": true,
+   "note": "Hoare on self-determination as a political principle, method and timing."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "UK on self-determination proposals and non-self-governing territories."
+  }
+ },
+ "T487": {
+  "opus": {
+   "correct": true,
+   "note": "Ingles supports the draft resolutions on international respect for self-determination."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Philippines supports self-determination draft resolutions."
+  }
+ },
+ "T488": {
+  "opus": {
+   "correct": true,
+   "note": "Dayal defends the draft resolutions on self-determination as a prerequisite to human rights."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "India defends self-determination as fundamental right and the draft resolutions."
+  }
+ },
+ "T489": {
+  "opus": {
+   "correct": true,
+   "note": "Ortega urges recommendations on self-determination at the session."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Chile urges the Commission to adopt self-determination recommendations."
+  }
+ },
+ "T490": {
+  "opus": {
+   "correct": true,
+   "note": "Birecki on Poland's support for self-determination and its work on the recommendations."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Poland on self-determination and its role in drafting the covenant article."
+  }
+ },
+ "T491": {
+  "opus": {
+   "correct": true,
+   "note": "Morozov explains his vote on the report as a whole, ranging over territorial application, self-determination, implementation and the Sub-Commission."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Morozov's explanation of vote on the whole report, ranging over territorial clause, education, self-determination, implementation."
+  }
+ },
+ "T492": {
+  "opus": {
+   "correct": true,
+   "note": "Cassin on the philosophy and preamble of the future Bill as a whole (1947 general discussion; somewhat preamble-focused)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Cassin on the preamble and philosophy of the International Bill as a whole."
+  }
+ },
+ "T493": {
+  "opus": {
+   "correct": false,
+   "note": "Romulo's remark on what the preamble should contain: the preamble specifically (uncertain)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Romulo on universal standards for the preamble of the Bill as a whole."
+  }
+ },
+ "T494": {
+  "opus": {
+   "correct": false,
+   "note": "Vilfan declines to help with the Preamble of the Declaration because of its conception: the preamble's text."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Vilfan objects to the conception underlying the Preamble as a whole."
+  }
+ },
+ "T495": {
+  "opus": {
+   "correct": true,
+   "note": "Wilson opposes the USSR addition specifically naming trust and non-self-governing territories in the Declaration's proclamation."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "UK objects to USSR text singling out trust and non-self-governing territories in the Declaration."
+  }
+ },
+ "T496": {
+  "opus": {
+   "correct": true,
+   "note": "Pavlov on wording of the proclamation and the mention of territories under trusteeship and non-self-governing (mixed; uncertain)."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "USSR on wording stressing equality of colonial and trust populations in the Declaration."
+  }
+ },
+ "T497": {
+  "opus": {
+   "correct": false,
+   "note": "Ribnikar on the philosophy of the Bill (individual and community); its form only at the end: general rather than form."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Yugoslav on philosophy of the Bill (individual versus community), not on its form (declaration/convention)."
+  }
+ },
+ "T498": {
+  "opus": {
+   "correct": true,
+   "note": "Cassin on the Bill as a whole: classification of rights, a counterpart of national declarations rather than a code."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Cassin on the character, preamble and classification of rights in the Bill as a whole, ranging over several points."
+  }
+ },
+ "T499": {
+  "opus": {
+   "correct": true,
+   "note": "Sender replies on individual liberty versus community interests as the basis of the bill."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "AF of L reply on individual liberty and community in the Bill as a whole."
+  }
+ },
+ "T500": {
+  "opus": {
+   "correct": true,
+   "note": "Malik on the history of implementation and drafting implementation articles next session."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Malik on the history of implementation work and drafting implementation articles (procedural but about implementation)."
+  }
+ },
+ "T501": {
+  "opus": {
+   "correct": true,
+   "note": "Pavlov objects to discussing implementation and to international organs interfering in domestic affairs."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "USSR argues implementation and international organs are premature; objections of principle on implementation."
+  }
+ },
+ "T502": {
+  "opus": {
+   "correct": true,
+   "note": "Bienenfeld on implementation measures applying also to violations of the Charter."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "World Jewish Congress on implementation measures applying also to Charter violations."
+  }
+ },
+ "T503": {
+  "opus": {
+   "correct": true,
+   "note": "Malik's draft resolution to start work on implementation at the fourth session."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Malik's draft resolution to start drafting implementation articles (procedural, about implementation)."
+  }
+ },
+ "T504": {
+  "opus": {
+   "correct": true,
+   "note": "Fontaina defends the plan of work and speaks on the covenant as a whole."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Uruguay defends the Commission's plan of work and general philosophy of the bill of rights."
+  }
+ },
+ "T505": {
+  "opus": {
+   "correct": true,
+   "note": "Kovalenko on what the covenant as a whole should contain: peace, self-determination, colonial extension."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Ukraine's general remarks on the draft covenant (war, peace, equality, self-determination, exceptions)."
+  }
+ },
+ "T506": {
+  "opus": {
+   "correct": true,
+   "note": "Romulo on the international bill of rights as a whole."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Romulo's general statement on the international bill of rights."
+  }
+ },
+ "T507": {
+  "opus": {
+   "correct": true,
+   "note": "Lebeau on the basis of the bill of rights as the human person."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Belgium's general views on the basis of a bill of rights and dangers to the person."
+  }
+ },
+ "T508": {
+  "opus": {
+   "correct": false,
+   "note": "Borisov rejects the Sub-Commission's report on discrimination and minorities: another agenda item, not the declaration as a whole."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "USSR on the Sub-Commission report on discrimination and minorities, another agenda item."
+  }
+ },
+ "T509": {
+  "opus": {
+   "correct": false,
+   "note": "Borisov says a proposal on forms of discrimination is premature since the form is unknown; mainly about that proposal (uncertain)."
+  },
+  "sonnet": {
+   "correct": false,
+   "note": "Borisov calls a proposal listing forms of discrimination premature; mainly about the discrimination convention proposal, only passing note on form (uncertain)."
+  }
+ },
+ "T510": {
+  "opus": {
+   "correct": true,
+   "note": "Dehousse at ECOSOC on supervision and implementation of human rights under the Charter and the bill."
+  },
+  "sonnet": {
+   "correct": true,
+   "note": "Dehousse on League versus Charter and the need for supervision/implementation organs."
+  }
+ }
+}

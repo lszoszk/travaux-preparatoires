@@ -1,0 +1,32 @@
+# UN Travaux Préparatoires
+
+> The UN's records of the drafting of the Universal Declaration of Human Rights (1946–48) and the two International Covenants, the ICCPR and the ICESCR (1949–66): 2,160 UN documents split into 29,689 speeches, each with its speaker, delegation, date, the article under discussion (in the final numbering) and the page or paragraph of the UN record, plus 6,768 decisions and votes (302 roll-calls) and 2,716 indexed amendments. Built at Adam Mickiewicz University, Poznań (Łukasz Szoszkiewicz). An independent research resource, not an official UN product: the UN document, linked from every passage, is the authority.
+
+## What is in it
+
+- Summary records of the Commission on Human Rights (with its Drafting Committee and working groups), the Economic and Social Council and the General Assembly's Third Committee, and the General Assembly's plenary records, with the reports, drafts and amendments the debates refer to.
+- Summary records paraphrase the delegates in the third person; plenary records (A/PV, E/PV) and draft texts are verbatim.
+- The text is machine-read (OCR) from scans of 1946–66: check the page of the UN copy before quoting.
+- Article tags give the final article (UDHR, ICCPR or ICESCR), mapped from each session's draft numbering; they are made by machine and checked on samples (about 95% right; about 84% of the speeches about one article carry its tag).
+- Eleven documents exist only in French; their machine translations are marked and are not UN text.
+
+## How to link
+
+- A search: {{SITE_URL}}#view=search&q=<terms>, e.g. {{SITE_URL}}#view=search&q=%22freedom%20of%20thought%22
+- Operators: "exact phrase", AND, OR, NOT, prefix* ; in the box: speaker:cassin, delegation:Lebanon, art:18, instrument:ICCPR, doc:E/CN.4/SR.60, topic:federal_clause
+- A record, at a passage: {{SITE_URL}}#view=search&open=E/CN.4/SR.60
+- An article through the drafting: {{SITE_URL}}#view=article&i=UDHR&n=18 (i = UDHR, ICCPR or ICESCR)
+- A question in plain words (Ask, search by meaning; the question is sent to Voyage AI): {{SITE_URL}}#view=ask&qa=<question>
+
+## How to cite
+
+Cite the UN document by symbol and pinpoint, as given with each passage: E/CN.4/SR.60, p. 10 (Malik, Lebanon); A/C.3/SR.290, paras. 7–15 (Hoffmeister, Czechoslovakia). The database itself: Szoszkiewicz, Ł. (2026). UN Travaux Préparatoires [Database]. Adam Mickiewicz University. {{SITE_URL}}
+
+## For AI assistants
+
+Use the MCP server: the site's data endpoints are for people reading the site, and refuse scripting clients, crawlers and cloud servers. The MCP server (tools search_travaux, lookup_travaux, article_history_travaux, delegation_travaux, decisions_travaux, amendments_travaux) and a Claude skill: {{SITE_URL}}#view=about&part=mcp
+
+## More
+
+- How it was made and how far to trust it: {{SITE_URL}}#view=about and {{SITE_URL}}#view=about&part=methods
+- Licence: the database's additions (division into speeches, speakers, delegations, article tags, decisions, translations) CC BY-NC 4.0; the code MIT; the UN documents stay under the UN's terms.

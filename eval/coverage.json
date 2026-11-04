@@ -1,0 +1,172 @@
+{
+ "generated": "2026-10-31",
+ "records": {
+  "expected": 1291,
+  "held": 1283,
+  "pct": 99.4
+ },
+ "documents": {
+  "expected": 650,
+  "held": 595,
+  "pct": 91.5
+ },
+ "tiers": [
+  {
+   "corpus": "UDHR: the UN Library's drafting guide",
+   "kind": "records",
+   "expected": 235,
+   "held": 235,
+   "pct": 100.0,
+   "missing": {},
+   "left_out_not_about_the_instruments": 0
+  },
+  {
+   "corpus": "UDHR: the UN Library's drafting guide",
+   "kind": "documents",
+   "expected": 494,
+   "held": 492,
+   "pct": 99.6,
+   "missing": {
+    "not on the UN's document server (ODS)": 2
+   },
+   "left_out_not_about_the_instruments": 0
+  },
+  {
+   "corpus": "UDHR: further documents named in the finding aids",
+   "kind": "records",
+   "expected": 65,
+   "held": 58,
+   "pct": 89.2,
+   "missing": {
+    "not on the UN's document server (ODS)": 7
+   },
+   "left_out_not_about_the_instruments": 0
+  },
+  {
+   "corpus": "UDHR: further documents named in the finding aids",
+   "kind": "documents",
+   "expected": 128,
+   "held": 77,
+   "pct": 60.2,
+   "missing": {
+    "not on the UN's document server (ODS)": 51
+   },
+   "left_out_not_about_the_instruments": 0
+  },
+  {
+   "corpus": "ICCPR and ICESCR: the meeting series and known documents",
+   "kind": "records",
+   "expected": 991,
+   "held": 990,
+   "pct": 99.9,
+   "missing": {
+    "not on the UN's document server (ODS)": 1
+   },
+   "left_out_not_about_the_instruments": 582
+  },
+  {
+   "corpus": "ICCPR and ICESCR: the meeting series and known documents",
+   "kind": "documents",
+   "expected": 28,
+   "held": 26,
+   "pct": 92.9,
+   "missing": {
+    "other": 2
+   },
+   "left_out_not_about_the_instruments": 0
+  }
+ ],
+ "cited": {
+  "families": [
+   {
+    "family": "Third Committee drafts and amendments (A/C.3/L.n)",
+    "distinct": 1221,
+    "held": 113,
+    "pct": 9,
+    "citations": 11585,
+    "citations_to_held": 1617,
+    "citations_pct": 14
+   },
+   {
+    "family": "Commission documents (E/CN.4/n)",
+    "distinct": 1031,
+    "held": 134,
+    "pct": 13,
+    "citations": 5437,
+    "citations_to_held": 993,
+    "citations_pct": 18
+   },
+   {
+    "family": "Council documents (E/n)",
+    "distinct": 565,
+    "held": 23,
+    "pct": 4,
+    "citations": 3654,
+    "citations_to_held": 2516,
+    "citations_pct": 69
+   },
+   {
+    "family": "Commission drafts and amendments (E/CN.4/L.n)",
+    "distinct": 554,
+    "held": 152,
+    "pct": 27,
+    "citations": 4375,
+    "citations_to_held": 1852,
+    "citations_pct": 42
+   },
+   {
+    "family": "other bodies' documents",
+    "distinct": 483,
+    "held": 34,
+    "pct": 7,
+    "citations": 1013,
+    "citations_to_held": 188,
+    "citations_pct": 19
+   },
+   {
+    "family": "Assembly documents (A/n)",
+    "distinct": 367,
+    "held": 28,
+    "pct": 8,
+    "citations": 3444,
+    "citations_to_held": 990,
+    "citations_pct": 29
+   },
+   {
+    "family": "Commission meeting records",
+    "distinct": 303,
+    "held": 268,
+    "pct": 88,
+    "citations": 812,
+    "citations_to_held": 755,
+    "citations_pct": 93
+   },
+   {
+    "family": "Third Committee documents (A/C.3/n)",
+    "distinct": 288,
+    "held": 177,
+    "pct": 61,
+    "citations": 1466,
+    "citations_to_held": 1069,
+    "citations_pct": 73
+   },
+   {
+    "family": "Third Committee meeting records",
+    "distinct": 39,
+    "held": 35,
+    "pct": 90,
+    "citations": 55,
+    "citations_to_held": 51,
+    "citations_pct": 93
+   }
+  ],
+  "distinct": 4851,
+  "held": 964,
+  "pct": 20,
+  "citations": 31841,
+  "citations_to_held": 10031,
+  "citations_pct": 32
+ },
+ "records_left_out": 582,
+ "held_in_database": 2160
+}

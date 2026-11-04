@@ -1,0 +1,70 @@
+{
+ "seed": 7,
+ "drawn": "2026-10-16",
+ "note": "development set for the local arm and the reader's prompt: pages of documents with a Schabas reference; these documents are excluded from the preregistered sample",
+ "documents": [
+  {
+   "kind": "record",
+   "symbol": "E/CN.4/SR.61",
+   "pages": [
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "kind": "record",
+   "symbol": "E/CN.4/AC.2/SR.7",
+   "pages": [
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "kind": "record",
+   "symbol": "E/CN.4/SR.80",
+   "pages": [
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "kind": "document",
+   "symbol": "E/CN.4/AC.1/9",
+   "pages": [
+    1,
+    2
+   ]
+  },
+  {
+   "kind": "document",
+   "symbol": "A/C.3/214",
+   "pages": [
+    1,
+    2
+   ]
+  },
+  {
+   "kind": "printed",
+   "symbol": "A/C.3/SR.110",
+   "pages": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "kind": "record",
+   "symbol": "E/CN.4/SR.1",
+   "pages": [
+    2
+   ],
+   "note": "installation test, 16 Oct 2026"
+  }
+ ]
+}

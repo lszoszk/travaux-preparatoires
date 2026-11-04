@@ -1,0 +1,163 @@
+{
+ "pages_file": "eval/vlm_pilot/dev_set.json",
+ "min_found": 88,
+ "summary": {
+  "1947-48 typed documents/reports": {
+   "pages": 4,
+   "chars": 1139,
+   "cer": {
+    "vote": 0.021071115013169446,
+    "chandra": 0.007023705004389816,
+    "chandra-gpu": 0.007023705004389816
+   }
+  },
+  "1947-48 typed summary records": {
+   "pages": 13,
+   "chars": 20577,
+   "cer": {
+    "vote": 0.025125139719103854,
+    "chandra": 0.004082227729989794,
+    "chandra-gpu": 0.00413082567915634
+   }
+  },
+  "1948 printed (GAOR, EN/FR columns)": {
+   "pages": 3,
+   "chars": 7930,
+   "cer": {
+    "vote": 0.027364438839848675,
+    "chandra": 0.009331651954602775,
+    "chandra-gpu": 0.009331651954602775
+   }
+  },
+  "ALL": {
+   "pages": 20,
+   "chars": 29646,
+   "cer": {
+    "vote": 0.025568373473655804,
+    "chandra": 0.005599406328003778,
+    "chandra-gpu": 0.005633137691425487
+   }
+  }
+ },
+ "documents": [
+  {
+   "symbol": "E/CN.4/SR.61",
+   "group": "1947-48 typed summary records",
+   "pages": 4,
+   "segments": 37,
+   "chars": 5777,
+   "errors": {
+    "vote": 148,
+    "chandra": 23,
+    "chandra-gpu": 23
+   },
+   "cer": {
+    "vote": 0.025618833304483297,
+    "chandra": 0.003981305175696728,
+    "chandra-gpu": 0.003981305175696728
+   }
+  },
+  {
+   "symbol": "E/CN.4/AC.2/SR.7",
+   "group": "1947-48 typed summary records",
+   "pages": 4,
+   "segments": 43,
+   "chars": 5536,
+   "errors": {
+    "vote": 147,
+    "chandra": 47,
+    "chandra-gpu": 48
+   },
+   "cer": {
+    "vote": 0.026553468208092484,
+    "chandra": 0.008489884393063583,
+    "chandra-gpu": 0.008670520231213872
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.80",
+   "group": "1947-48 typed summary records",
+   "pages": 4,
+   "segments": 52,
+   "chars": 7429,
+   "errors": {
+    "vote": 198,
+    "chandra": 13,
+    "chandra-gpu": 13
+   },
+   "cer": {
+    "vote": 0.02665230852066227,
+    "chandra": 0.0017498990442859066,
+    "chandra-gpu": 0.0017498990442859066
+   }
+  },
+  {
+   "symbol": "E/CN.4/AC.1/9",
+   "group": "1947-48 typed documents/reports",
+   "pages": 2,
+   "segments": 4,
+   "chars": 949,
+   "errors": {
+    "vote": 22,
+    "chandra": 7,
+    "chandra-gpu": 7
+   },
+   "cer": {
+    "vote": 0.023182297154899896,
+    "chandra": 0.007376185458377239,
+    "chandra-gpu": 0.007376185458377239
+   }
+  },
+  {
+   "symbol": "A/C.3/214",
+   "group": "1947-48 typed documents/reports",
+   "pages": 2,
+   "segments": 1,
+   "chars": 190,
+   "errors": {
+    "vote": 2,
+    "chandra": 1,
+    "chandra-gpu": 1
+   },
+   "cer": {
+    "vote": 0.010526315789473684,
+    "chandra": 0.005263157894736842,
+    "chandra-gpu": 0.005263157894736842
+   }
+  },
+  {
+   "symbol": "A/C.3/SR.110",
+   "group": "1948 printed (GAOR, EN/FR columns)",
+   "pages": 3,
+   "segments": 62,
+   "chars": 7930,
+   "errors": {
+    "vote": 217,
+    "chandra": 74,
+    "chandra-gpu": 74
+   },
+   "cer": {
+    "vote": 0.027364438839848675,
+    "chandra": 0.009331651954602775,
+    "chandra-gpu": 0.009331651954602775
+   }
+  },
+  {
+   "symbol": "E/CN.4/SR.1",
+   "group": "1947-48 typed summary records",
+   "pages": 1,
+   "segments": 8,
+   "chars": 1835,
+   "errors": {
+    "vote": 24,
+    "chandra": 1,
+    "chandra-gpu": 1
+   },
+   "cer": {
+    "vote": 0.013079019073569483,
+    "chandra": 0.0005449591280653951,
+    "chandra-gpu": 0.0005449591280653951
+   }
+  }
+ ]
+}

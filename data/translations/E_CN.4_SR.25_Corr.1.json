@@ -1,0 +1,25 @@
+{
+ "symbol": "E/CN.4/SR.25/Corr.1",
+ "source_language": "fr",
+ "source_file": "E_CN.4_SR.25_Corr.1-FR.pdf",
+ "translation_model": "claude-fable-5-1",
+ "check_model": "claude-sonnet-5-5",
+ "translation_date": "2026-09-29",
+ "title": "SUMMARY RECORD OF THE TWENTY-FIFTH MEETING (corrigendum)",
+ "date": "1947-12-02",
+ "stated_original_language": "not stated (marked \"FRENCH ONLY\")",
+ "pages": [
+  {
+   "page": 1,
+   "text": "UNITED NATIONS / NATIONS UNIES\nECONOMIC AND SOCIAL COUNCIL / CONSEIL ECONOMIQUE ET SOCIAL\n\nUNRESTRICTED\nE/CN.4/SR 25.Corr.1\n2 December 1947\nFRENCH ONLY\n\nCOMMISSION ON HUMAN RIGHTS\nSECOND SESSION\n\nSUMMARY RECORD OF THE TWENTY-FIFTH MEETING\n\nheld at the Palais des Nations, Geneva,\non Tuesday, 2 December 1947, at 3.55 p.m.\n\nIn the footnote at the bottom of page 1, read:\n\n\"Twenty-sixth meeting\" instead of\n\"Twenty-fifth meeting\"."
+  }
+ ],
+ "uncertain": [],
+ "check": {
+  "verdict": "faithful",
+  "issues": [],
+  "resolved_by_translator": false,
+  "first_pass": null,
+  "summary": "checked against the scan by claude-sonnet-5-5: no discrepancy found"
+ }
+}

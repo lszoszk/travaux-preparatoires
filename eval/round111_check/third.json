@@ -1,0 +1,1 @@
+[{"item": 5, "verdict": "wrong", "reason": "The removed masthead is furniture, but 'meet- @' plus 'ing' is not rejoined; nothing replaces it, so 'meet- @ ing' stays garbled."}, {"item": 40, "verdict": "wrong", "reason": "'20 May 1949' is the issue date inside the masthead segment, not a running head; removing it drops the record's own date."}]

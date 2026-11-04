@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0">
+	<app>
+		<rdg wit="#DC2">the drafting committee did not have the time to consider this article</rdg>
+		<rdg wit="#WG57">ail</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #Cassin #DC1 #DC2 #Geneva">all</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3">human beings</rdg>
+		<rdg wit="#Cassin #DC1 #DC2 #Geneva #WG57">men</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #DC1 #DC2 #Geneva #WG57">are</rdg>
+		<rdg wit="#Cassin">ere</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #DC2 #Geneva #WG57">born free</rdg>
+		<rdg wit="#Cassin #DC1">brothers being endowed with reason</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #Geneva #WG57">and</rdg>
+		<rdg wit="#DC2">end</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #DC2 #Geneva #WG57">equal in dignity</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #DC1 #DC2 #Geneva #WG57">and</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #DC2 #Geneva #WG57">rights</rdg>
+		<rdg wit="#DC1">conscience</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #DC1 #DC2 #Geneva #WG57">they are</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin #DC1">members of one family they are free</rdg>
+		<rdg wit="#Geneva">_</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #DC2 #Geneva #WG57">endowed</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#CHR3 #DC2 #Geneva #WG57">by nature</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #DC2 #Geneva #WG57">with reason and conscience</rdg>
+	</app>
+	 
+	and
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #DC2 #Geneva #WG57">should act towards one another</rdg>
+		<rdg wit="#Cassin #DC1">possess equal dignity and rights</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#DC2 #Geneva #WG57">like brothers</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#DC2">the drafting committee did not have time to consider this article</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #DC2">in</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3">a</rdg>
+		<rdg wit="#DC2">the exercise of his rights everyone is limited by the rights of others and by the just requirements of the democratic state the individual owes duties to society through which he is enabled to develop his</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #DC2">spirit</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3">of brotherhood</rdg>
+		<rdg wit="#DC2">mind and body in wider freedom</rdg>
+	</app>
+</cx:apparatus>
+

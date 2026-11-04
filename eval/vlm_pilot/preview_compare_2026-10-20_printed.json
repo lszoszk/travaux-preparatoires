@@ -1,0 +1,472 @@
+{
+ "all records": {
+  "old": {
+   "segments": 85313,
+   "by_kind": {
+    "paragraph": 31631,
+    "speech": 28560,
+    "heading": 8661,
+    "chair": 7308,
+    "vote": 3331,
+    "masthead": 2092,
+    "footnote": 1533,
+    "procedural": 1104,
+    "closing": 1093
+   },
+   "speeches": 28560,
+   "with_speaker": 28444,
+   "with_delegation": 28462,
+   "unresolved": 116,
+   "with_article": 11332,
+   "methods": {
+    "vote_joint": 23496,
+    "text_name": 2592,
+    "roster_match": 2047,
+    "text_org": 173,
+    "unresolved": 116,
+    "sole_delegate": 65,
+    "roster_token": 33,
+    "rapporteur (masthead)": 31,
+    "checked on the page image": 7
+   }
+  },
+  "new": {
+   "segments": 87828,
+   "by_kind": {
+    "paragraph": 31591,
+    "speech": 29558,
+    "heading": 8931,
+    "chair": 7842,
+    "vote": 3936,
+    "masthead": 2096,
+    "footnote": 1531,
+    "closing": 1176,
+    "procedural": 1167
+   },
+   "speeches": 29558,
+   "with_speaker": 29462,
+   "with_delegation": 29435,
+   "unresolved": 96,
+   "with_article": 11647,
+   "methods": {
+    "printed_known": 25722,
+    "vote_joint": 1840,
+    "text_name": 1209,
+    "roster_match": 395,
+    "text_org": 205,
+    "unresolved": 96,
+    "rapporteur (masthead)": 61,
+    "sole_delegate": 14,
+    "roster_token": 9,
+    "checked on the page image": 7
+   }
+  },
+  "dates_changed": [
+   "E/CN.4/AC.2/SR.1",
+   "E/CN.4/SR.104/Corr.1",
+   "E/CN.4/SR.131/Corr.1",
+   "E/CN.4/SR.154",
+   "E/CN.4/SR.173",
+   "E/CN.4/SR.232",
+   "E/CN.4/SR.312",
+   "E/CN.4/SR.53"
+  ],
+  "most_changed": [
+   [
+    "E/CN.4/SR.409",
+    25
+   ],
+   [
+    "E/CN.4/SR.188",
+    23
+   ],
+   [
+    "E/CN.4/SR.215",
+    22
+   ],
+   [
+    "E/CN.4/SR.197",
+    20
+   ],
+   [
+    "E/CN.4/SR.190",
+    19
+   ],
+   [
+    "E/CN.4/SR.199",
+    18
+   ],
+   [
+    "E/CN.4/SR.195",
+    17
+   ],
+   [
+    "E/CN.4/SR.239",
+    17
+   ],
+   [
+    "E/CN.4/SR.2/Corr.1",
+    16
+   ],
+   [
+    "E/CN.4/SR.249",
+    15
+   ],
+   [
+    "E/CN.4/SR.240",
+    14
+   ],
+   [
+    "E/CN.4/SR.156",
+    14
+   ],
+   [
+    "E/CN.4/SR.159",
+    14
+   ],
+   [
+    "E/CN.4/SR.242",
+    14
+   ],
+   [
+    "E/CN.4/SR.191",
+    14
+   ],
+   [
+    "E/CN.4/SR.233",
+    14
+   ],
+   [
+    "E/AC.7/SR.39",
+    12
+   ],
+   [
+    "E/CN.4/SR.189",
+    12
+   ],
+   [
+    "E/CN.4/SR.179",
+    12
+   ],
+   [
+    "E/CN.4/SR.145",
+    12
+   ],
+   [
+    "E/CN.4/SR.187",
+    12
+   ],
+   [
+    "E/CN.4/SR.338",
+    12
+   ],
+   [
+    "E/CN.4/SR.210",
+    11
+   ],
+   [
+    "E/CN.4/SR.243",
+    10
+   ],
+   [
+    "E/CN.4/SR.218",
+    10
+   ],
+   [
+    "E/CN.4/SR.200",
+    10
+   ],
+   [
+    "E/CN.4/SR.183",
+    9
+   ],
+   [
+    "E/CN.4/SR.165",
+    9
+   ],
+   [
+    "E/CN.4/SR.234",
+    9
+   ],
+   [
+    "E/CN.4/SR.155",
+    8
+   ],
+   [
+    "E/CN.4/SR.202",
+    8
+   ],
+   [
+    "E/CN.4/SR.333",
+    8
+   ],
+   [
+    "E/CN.4/SR.247",
+    8
+   ],
+   [
+    "E/CN.4/SR.235",
+    8
+   ],
+   [
+    "E/CN.4/SR.252",
+    7
+   ],
+   [
+    "E/CN.4/SR.194",
+    7
+   ],
+   [
+    "E/CN.4/SR.141",
+    7
+   ],
+   [
+    "E/CN.4/SR.182",
+    7
+   ],
+   [
+    "E/CN.4/SR.157",
+    7
+   ],
+   [
+    "E/CN.4/SR.237",
+    7
+   ]
+  ]
+ },
+ "records with vision-reader pages (599)": {
+  "old": {
+   "segments": 33975,
+   "by_kind": {
+    "speech": 14724,
+    "paragraph": 7625,
+    "chair": 4522,
+    "heading": 3257,
+    "vote": 1826,
+    "procedural": 631,
+    "masthead": 565,
+    "footnote": 429,
+    "closing": 396
+   },
+   "speeches": 14724,
+   "with_speaker": 14655,
+   "with_delegation": 14658,
+   "unresolved": 69,
+   "with_article": 6492,
+   "methods": {
+    "vote_joint": 12288,
+    "roster_match": 1617,
+    "text_name": 548,
+    "text_org": 86,
+    "unresolved": 69,
+    "sole_delegate": 61,
+    "rapporteur (masthead)": 31,
+    "roster_token": 23,
+    "checked on the page image": 1
+   }
+  },
+  "new": {
+   "segments": 36487,
+   "by_kind": {
+    "speech": 15722,
+    "paragraph": 7584,
+    "chair": 5056,
+    "heading": 3525,
+    "vote": 2431,
+    "procedural": 694,
+    "masthead": 569,
+    "closing": 479,
+    "footnote": 427
+   },
+   "speeches": 15722,
+   "with_speaker": 15675,
+   "with_delegation": 15636,
+   "unresolved": 47,
+   "with_article": 6807,
+   "methods": {
+    "printed_known": 14279,
+    "vote_joint": 706,
+    "roster_match": 271,
+    "text_name": 222,
+    "text_org": 114,
+    "rapporteur (masthead)": 61,
+    "unresolved": 47,
+    "sole_delegate": 12,
+    "roster_token": 9,
+    "checked on the page image": 1
+   }
+  },
+  "dates_changed": [
+   "E/CN.4/AC.2/SR.1",
+   "E/CN.4/SR.104/Corr.1",
+   "E/CN.4/SR.131/Corr.1",
+   "E/CN.4/SR.154",
+   "E/CN.4/SR.173",
+   "E/CN.4/SR.232",
+   "E/CN.4/SR.312",
+   "E/CN.4/SR.53"
+  ],
+  "most_changed": [
+   [
+    "E/CN.4/SR.409",
+    25
+   ],
+   [
+    "E/CN.4/SR.188",
+    23
+   ],
+   [
+    "E/CN.4/SR.215",
+    22
+   ],
+   [
+    "E/CN.4/SR.197",
+    20
+   ],
+   [
+    "E/CN.4/SR.190",
+    19
+   ],
+   [
+    "E/CN.4/SR.199",
+    18
+   ],
+   [
+    "E/CN.4/SR.239",
+    17
+   ],
+   [
+    "E/CN.4/SR.195",
+    17
+   ],
+   [
+    "E/CN.4/SR.2/Corr.1",
+    16
+   ],
+   [
+    "E/CN.4/SR.249",
+    15
+   ],
+   [
+    "E/CN.4/SR.191",
+    14
+   ],
+   [
+    "E/CN.4/SR.233",
+    14
+   ],
+   [
+    "E/CN.4/SR.159",
+    14
+   ],
+   [
+    "E/CN.4/SR.240",
+    14
+   ],
+   [
+    "E/CN.4/SR.242",
+    14
+   ],
+   [
+    "E/CN.4/SR.156",
+    14
+   ],
+   [
+    "E/AC.7/SR.39",
+    12
+   ],
+   [
+    "E/CN.4/SR.187",
+    12
+   ],
+   [
+    "E/CN.4/SR.189",
+    12
+   ],
+   [
+    "E/CN.4/SR.145",
+    12
+   ],
+   [
+    "E/CN.4/SR.338",
+    12
+   ],
+   [
+    "E/CN.4/SR.179",
+    12
+   ],
+   [
+    "E/CN.4/SR.210",
+    11
+   ],
+   [
+    "E/CN.4/SR.243",
+    10
+   ],
+   [
+    "E/CN.4/SR.218",
+    10
+   ],
+   [
+    "E/CN.4/SR.200",
+    10
+   ],
+   [
+    "E/CN.4/SR.165",
+    9
+   ],
+   [
+    "E/CN.4/SR.183",
+    9
+   ],
+   [
+    "E/CN.4/SR.234",
+    9
+   ],
+   [
+    "E/CN.4/SR.235",
+    8
+   ],
+   [
+    "E/CN.4/SR.202",
+    8
+   ],
+   [
+    "E/CN.4/SR.333",
+    8
+   ],
+   [
+    "E/CN.4/SR.247",
+    8
+   ],
+   [
+    "E/CN.4/SR.155",
+    8
+   ],
+   [
+    "E/CN.4/SR.141",
+    7
+   ],
+   [
+    "E/CN.4/SR.182",
+    7
+   ],
+   [
+    "E/CN.4/SR.324",
+    7
+   ],
+   [
+    "E/CN.4/SR.252",
+    7
+   ],
+   [
+    "E/CN.4/SR.157",
+    7
+   ],
+   [
+    "E/CN.4/SR.237",
+    7
+   ]
+  ]
+ }
+}

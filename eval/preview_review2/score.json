@@ -1,0 +1,52 @@
+{
+ "answered": 34,
+ "items": 34,
+ "by_kind": {
+  "speaker": {
+   "both good": 1,
+   "preview better": 21,
+   "current better": 7,
+   "both wrong": 1,
+   "preview share of decided": 0.75
+  }
+ },
+ "repeats": {
+  "pairs": 4,
+  "same": 4,
+  "differ": []
+ },
+ "notes": [
+  {
+   "id": "010",
+   "kind": "speaker",
+   "symbol": "E/CN.4/AC.1/SR.39",
+   "page": 1,
+   "verdict": "both wrong",
+   "note": "to nie jest wypowiedz. u góry mamy skład osobowy a any corrections do dopisek redakcyjne y"
+  },
+  {
+   "id": "011",
+   "kind": "speaker",
+   "symbol": "E/CN.4/SR.246",
+   "page": 7,
+   "verdict": "current better",
+   "note": "Santa Cruz"
+  },
+  {
+   "id": "022",
+   "kind": "speaker",
+   "symbol": "A/C.3/SR.92",
+   "page": 7,
+   "verdict": "preview better",
+   "note": "Badawi Bey"
+  },
+  {
+   "id": "030",
+   "kind": "speaker",
+   "symbol": "E/CN.4/AC.1/SR.28",
+   "page": 7,
+   "verdict": "preview better",
+   "note": "Cox"
+  }
+ ]
+}

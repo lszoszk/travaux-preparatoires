@@ -1,0 +1,37 @@
+{
+ "description": "The 22 documents taken from the UVA travaux collection's public S3 copy (pdf_url uvallsc.s3.amazonaws.com), checked on 4 Nov 2026: the document named and the date printed on page 1 of the OCR (data/ocr/*/best/page-001.txt; Chandra's reading and the scan where the best text is garbled) against the documents row. Meeting records are named on page 1 by the meeting number in words; the dates are checked with the weekday printed beside them.",
+ "how_fetched": {
+  "harvest_covenants.json (25 Sep, 21 files)": "s3fs-public/ file named after the symbol (E-CN_4-SR_202.pdf), found by HEAD checks",
+  "harvest_uva_extra.json (30 Sep, 1 file)": "the file link on the item's UVA node page (eval/uva_nodes.py -> uva_extra.json uva_file -> pipeline/uva_fetch.py)"
+ },
+ "documents": [
+  {"symbol": "E/1681", "db_date": "1950-05-19", "page1": "Commission on Human Rights, Report of the sixth session (27 March - 19 May 1950), ESCOR 11th session, Suppl. No. 5", "verdict": "match"},
+  {"symbol": "E/CN.4/SR.202", "db_date": "1951-04-16", "page1": "202nd meeting, Monday 16 April 1951", "verdict": "match"},
+  {"symbol": "E/CN.4/SR.203", "db_date": "1951-04-16", "page1": "203rd meeting, Monday 16 April 1951, 3 p.m.", "verdict": "match"},
+  {"symbol": "E/CN.4/SR.210", "db_date": "1951-04-20", "page1": "210th meeting, Friday 20 April 1951 (best text reads '2 April'; Chandra 20 April)", "verdict": "match"},
+  {"symbol": "E/CN.4/SR.215", "db_date": "1951-04-25", "page1": "215th meeting, Wednesday 25 April 1951", "verdict": "match"},
+  {"symbol": "E/CN.4/SR.231", "db_date": "1951-05-08", "page1": "231st meeting, Tuesday 8 May 1951 (best text '4 May'; Chandra 8 May)", "verdict": "match"},
+  {"symbol": "E/CN.4/SR.232", "db_date": "1951-05-08", "page1": "232nd meeting, Tuesday 8 May 1951 (best text '4 May'; Chandra 8 May)", "verdict": "match"},
+  {"symbol": "E/CN.4/SR.233", "db_date": "1951-05-09", "page1": "233rd meeting, Wednesday 9 May 1951", "verdict": "match"},
+  {"symbol": "E/CN.4/SR.234", "db_date": "1951-05-09", "page1": "234th meeting, Wednesday 9 May 1951 (best text '7 May'; Chandra 9 May)", "verdict": "match"},
+  {"symbol": "E/CN.4/SR.235", "db_date": "1951-05-10", "page1": "235th meeting, Thursday 10 May 1951", "verdict": "match"},
+  {"symbol": "E/CN.4/SR.237", "db_date": "1951-05-11", "page1": "237th meeting, Friday 11 May 1951", "verdict": "match"},
+  {"symbol": "E/CN.4/SR.239", "db_date": "1951-05-11", "page1": "239th meeting, Friday 11 May 1951, 8.30 p.m.", "verdict": "match"},
+  {"symbol": "E/CN.4/SR.240", "db_date": "1951-05-12", "page1": "240th meeting, Saturday 12 May 1951", "verdict": "match"},
+  {"symbol": "E/CN.4/SR.241", "db_date": "1951-05-14", "page1": "241st meeting, Monday 14 May 1951", "verdict": "match"},
+  {"symbol": "E/CN.4/SR.242", "db_date": "1951-05-14", "page1": "242nd meeting, Monday 14 May 1951", "verdict": "match"},
+  {"symbol": "E/CN.4/SR.243", "db_date": "1951-05-16", "page1": "243rd meeting, Wednesday 16 May 1951", "verdict": "match"},
+  {"symbol": "E/CN.4/SR.245", "db_date": "1951-05-16", "page1": "245th meeting, Wednesday 16 May 1951, 4.45 p.m.", "verdict": "match"},
+  {"symbol": "E/CN.4/SR.246", "db_date": "1951-05-17", "page1": "246th meeting, Thursday 17 May 1951", "verdict": "match"},
+  {"symbol": "E/CN.4/SR.247", "db_date": "1951-05-17", "page1": "247th meeting, Thursday 17 May 1951, 3 p.m.", "verdict": "match"},
+  {"symbol": "E/CN.4/SR.249", "db_date": "1951-05-18", "page1": "249th meeting, 'Friday, 1? May 1951' (both readers 10; the scan's second digit is blurred; 10 May 1951 was a Thursday, and SR.247 is 17 May, SR.250 19 May)", "verdict": "match"},
+  {"symbol": "E/CN.4/SR.250", "db_date": "1951-05-19", "page1": "250th meeting, Saturday 19 May 1951", "verdict": "match"},
+  {"symbol": "E/CN.4/SR.98/Corr.1", "db_date": "1950-10-19", "page1": "General Assembly, fifth session, Third Committee, 289th meeting, Thursday 19 October 1950 (= A/C.3/SR.289, held from ODS)", "verdict": "mismatch",
+   "uva_file": "http://uvallsc.s3.amazonaws.com/travaux/A-C_3-SR_289.pdf",
+   "cause": "UVA's own item page /node/1779 (symbol E/CN.4/SR.98/Corr.1, session 5th, '5 p.') has a single file link, to A-C_3-SR_289.pdf; the file named E-CN_4-SR_98-Corr_1.pdf is linked from /node/1720 (E/CN.4/SR.153, '1 p.'). The page count shown follows the file, not the item.",
+   "candidate": "https://uvallsc.s3.amazonaws.com/travaux/E-CN_4-SR_98-Corr_1.pdf (HEAD 4 Nov: 200, application/pdf, 40,585 bytes)",
+   "fix": "4 Nov, with the user's approval: the candidate downloaded (1 page, sha256 b4f53c5f...); page 1 reads 'E/CN.4/SR 98/Corr.1, 15 June 1949', Commission on Human Rights, fifth session, corrigendum to the summary record of the ninety-eighth meeting (Tuesday, 24 May 1949, 2.30 p.m.), a substitute text for page 8 lines 1-8. OCR'd (layer, tess6, tess3, vision, vote) and segmented (1 procedural segment, as E/CN.4/SR.98/Corr.2); the database rebuilt: documents row now 5th session (1949), 1949-05-24, 1 page, the new URL; 11 old segments, 7 references and 4 topics gone, 1 segment added, no other row of any table changed."}
+ ],
+ "uva_item_list": "Of UVA's 469 Covenant items with a symbol and a file link (data/private/uva/items.json), the file's name is the item's own symbol for 12; for 384 of the other 457 the file named after the item's symbol is linked from another item. UVA's file names held for all 21 files fetched by name; its item-to-file links do not.",
+ "result": "21 of 22 match; E/CN.4/SR.98/Corr.1 held A/C.3/SR.289 (11 segments, 5 speeches and a chair's turn duplicated, one tagged ICCPR 18) and now holds its own file."
+}

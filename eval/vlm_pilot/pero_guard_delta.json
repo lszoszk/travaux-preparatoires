@@ -1,0 +1,1036 @@
+{
+ "pages": 558,
+ "names": 2076,
+ "changed": [
+  {
+   "symbol": "E/AC.7/SR.39",
+   "page": 7,
+   "line": 3,
+   "read": "KURAT",
+   "delegation": "Turkey",
+   "before": "unverified",
+   "after": "replaced by KURAL (engines (1))",
+   "pero_names_on_page": [
+    "MAYHEW",
+    "STINEBOWER",
+    "KURAL",
+    "SUTCH",
+    "STINEBOWER"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/AC.1/SR.24",
+   "page": 2,
+   "line": 1,
+   "read": "JENKS",
+   "delegation": "International Labour Organization",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "JENKS"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.111",
+   "page": 5,
+   "line": 0,
+   "read": "SCHWELB",
+   "delegation": "Secretariat",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "SCHWELB",
+    "GARCLA BAUER",
+    "PAVLOV",
+    "MORA",
+    "Charles MALIK"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.112",
+   "page": 2,
+   "line": 30,
+   "read": "LCUTFI",
+   "delegation": "Egypt",
+   "before": "replaced by LOUTFI (session roster (83))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "LCUTFI",
+    "CASSIN"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.115",
+   "page": 9,
+   "line": 2,
+   "read": "LOUIFI",
+   "delegation": "Egypt",
+   "before": "replaced by LOUTFI (session roster (83))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "LOUIFI",
+    "CHANG"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.122",
+   "page": 8,
+   "line": 4,
+   "read": "SOERENSEN",
+   "delegation": "Denmark",
+   "before": "replaced by SORENSEN (session roster (94))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "Charles MALIK",
+    "SOERENSEN",
+    "CASSIN"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.123",
+   "page": 6,
+   "line": 0,
+   "read": "SOERENSEN",
+   "delegation": "Denmark",
+   "before": "replaced by SORENSEN (session roster (94))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "SOERENSEN",
+    "CASSIN",
+    "SIMSARIAN",
+    "MORA",
+    "PAVLOV"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.142",
+   "page": 20,
+   "line": 0,
+   "read": "RAMANDAN",
+   "delegation": "Egypt",
+   "before": "replaced by RAMADAN (session roster (93))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "RAMANDAN",
+    "HOARE",
+    "LEROY-BEAULLEU",
+    "MALIK"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.149",
+   "page": 6,
+   "line": 16,
+   "read": "SCHWELB",
+   "delegation": "Secretariat",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "MALIK",
+    "SORENSEN",
+    "SCHWELB"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.154",
+   "page": 8,
+   "line": 5,
+   "read": "SORENSON",
+   "delegation": "Denmark",
+   "before": "replaced by SORENSEN (session roster (88))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "MEHTA",
+    "SORENSON"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.156",
+   "page": 6,
+   "line": 3,
+   "read": "WEITLAM",
+   "delegation": "Australia",
+   "before": "replaced by WHITLAM (session roster (86))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "CHANG",
+    "LEROY-BEAULIEU",
+    "WEITLAM",
+    "MENDEZ"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.157",
+   "page": 6,
+   "line": 2,
+   "read": "SORENSON",
+   "delegation": "Denmark",
+   "before": "replaced by SORENSEN (session roster (88))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "MALIK",
+    "SORENSON",
+    "MALIK",
+    "SORENSON",
+    "MENDEZ"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.161",
+   "page": 8,
+   "line": 0,
+   "read": "SORENSON",
+   "delegation": "Denmark",
+   "before": "replaced by SORENSEN (session roster (88))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "SORENSON",
+    "MALIK"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.171",
+   "page": 6,
+   "line": 6,
+   "read": "WHITIAM",
+   "delegation": "Australia",
+   "before": "replaced by WHITLAM (session roster (86))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "WHITIAM"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.176",
+   "page": 5,
+   "line": 3,
+   "read": "debate",
+   "delegation": "continued",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "KYROU",
+    "debate",
+    "CASSIN"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.18",
+   "page": 6,
+   "line": 4,
+   "read": "MEETA",
+   "delegation": "India",
+   "before": "replaced by MEHTA (session roster (80))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "TEPLLANOV",
+    "CHANG",
+    "MEETA",
+    "CASSIN",
+    "MOORE"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.188",
+   "page": 22,
+   "line": 1,
+   "read": "SORENSON",
+   "delegation": "Denmark",
+   "before": "replaced by SORENSEN (session roster (88))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "SORENSON"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.191",
+   "page": 11,
+   "line": 2,
+   "read": "MENTHA",
+   "delegation": "India",
+   "before": "unverified",
+   "after": "replaced by MEHTA (engines (1))",
+   "pero_names_on_page": [
+    "MENDEZ",
+    "MEHTA",
+    "ORIBE",
+    "MALIK"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.197",
+   "page": 14,
+   "line": 3,
+   "read": "SCHACHTER",
+   "delegation": "Secretariat",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "MEHTA",
+    "CASSIN",
+    "ORIBE",
+    "SCHACHTER",
+    "BONIE"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.197",
+   "page": 21,
+   "line": 4,
+   "read": "MALEE",
+   "delegation": "Lebanon",
+   "before": "unverified",
+   "after": "replaced by MALIK (engines (1))",
+   "pero_names_on_page": [
+    "BOWIE",
+    "MHHTA",
+    "SCHMELD",
+    "MALIK",
+    "CLANG"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.197",
+   "page": 22,
+   "line": 5,
+   "read": "SCHACHTER",
+   "delegation": "Secretariat",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "ORIBE",
+    "NISOT",
+    "VALENZUELA",
+    "SCHACHTER",
+    "RYROU",
+    "BONIE"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.200",
+   "page": 14,
+   "line": 0,
+   "read": "SCHACHTER",
+   "delegation": "Secretariat",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "SCHACHTER",
+    "ORIBE",
+    "MENDEZ",
+    "HOARE",
+    "MALIK",
+    "HOARE"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.217",
+   "page": 13,
+   "line": 2,
+   "read": "MUTHA",
+   "delegation": "India",
+   "before": "unverified",
+   "after": "replaced by MEHTA (engines (1))",
+   "pero_names_on_page": [
+    "MEHTA",
+    "LOROSOV"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.273",
+   "page": 3,
+   "line": 37,
+   "read": "clause",
+   "delegation": "continued",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "clause",
+    "KYROU"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.285",
+   "page": 4,
+   "line": 1,
+   "read": "ECARE",
+   "delegation": "United Kingdom",
+   "before": "unverified",
+   "after": "replaced by HOARE (engines (1))",
+   "pero_names_on_page": [
+    "HOARE"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.334",
+   "page": 5,
+   "line": 3,
+   "read": "MARSHALL",
+   "delegation": "Australia",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "MARSHALL",
+    "MEHTA"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.338",
+   "page": 11,
+   "line": 3,
+   "read": "EDARE",
+   "delegation": "United Kingdom",
+   "before": "replaced by HOARE (engines (1))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "LOAIE",
+    "EDARE",
+    "AZMI"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.360",
+   "page": 15,
+   "line": 5,
+   "read": "DIAZ-CASANEUVA",
+   "delegation": "Chile",
+   "before": "replaced by DIAZ CASANUEVA (session roster (93))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "KAECKENBEECK",
+    "ABDEL-GHANI",
+    "DIAZ-CASANEUVA"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.57",
+   "page": 8,
+   "line": 3,
+   "read": "QUIJNO",
+   "delegation": "Panama",
+   "before": "replaced by DE QUIJANO (session roster (75))",
+   "after": "replaced by QUIJANO (engines (1))",
+   "pero_names_on_page": [
+    "LOPEZ",
+    "QUIJANO"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.8",
+   "page": 3,
+   "line": 2,
+   "read": "GUARDIA",
+   "delegation": "Panama",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "EBEID",
+    "GUARDIA",
+    "MORA",
+    "MEHTA",
+    "HUTCHINSON"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.91",
+   "page": 16,
+   "line": 2,
+   "read": "SOERENSEN",
+   "delegation": "Denmark",
+   "before": "replaced by SORENSEN (engines (1))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "SOERENSEN",
+    "SOERENSEN",
+    "LEVIN"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SUB.1/SR.27",
+   "page": 3,
+   "line": 3,
+   "read": "MAHEU",
+   "delegation": "UNESCO",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "CHAFEE",
+    "MAHEU",
+    "FERGUSON",
+    "ILLUECA"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SUB.1/SR.27",
+   "page": 4,
+   "line": 2,
+   "read": "MAHEU",
+   "delegation": "UNESCO",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "MAHEU",
+    "FERGUSON",
+    "LOMAKIN",
+    "CHAFEE",
+    "MACKENZIE"
+   ]
+  },
+  {
+   "symbol": "E/CN.6/SR.12",
+   "page": 7,
+   "line": 8,
+   "read": "NEW",
+   "delegation": "China",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "LEFAUCHEUX",
+    "STREET",
+    "NEW",
+    "HUMPEREY"
+   ]
+  },
+  {
+   "symbol": "E/CONF.6/SR.10",
+   "page": 6,
+   "line": 0,
+   "read": "BOLDISZAR",
+   "delegation": "Hungary",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "BOLDISZAR",
+    "ROSCHIN"
+   ]
+  },
+  {
+   "symbol": "E/CONF.6/SR.10",
+   "page": 10,
+   "line": 1,
+   "read": "Ramaswami MUDALIAR",
+   "delegation": "India",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "Ramaswami MUDALIAR"
+   ]
+  }
+ ],
+ "sample": [
+  {
+   "symbol": "E/CN.4/SR.142",
+   "page": 20,
+   "line": 0,
+   "read": "RAMANDAN",
+   "delegation": "Egypt",
+   "before": "replaced by RAMADAN (session roster (93))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "RAMANDAN",
+    "HOARE",
+    "LEROY-BEAULLEU",
+    "MALIK"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.197",
+   "page": 22,
+   "line": 5,
+   "read": "SCHACHTER",
+   "delegation": "Secretariat",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "ORIBE",
+    "NISOT",
+    "VALENZUELA",
+    "SCHACHTER",
+    "RYROU",
+    "BONIE"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SUB.1/SR.27",
+   "page": 4,
+   "line": 2,
+   "read": "MAHEU",
+   "delegation": "UNESCO",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "MAHEU",
+    "FERGUSON",
+    "LOMAKIN",
+    "CHAFEE",
+    "MACKENZIE"
+   ]
+  },
+  {
+   "symbol": "E/CN.6/SR.12",
+   "page": 7,
+   "line": 8,
+   "read": "NEW",
+   "delegation": "China",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "LEFAUCHEUX",
+    "STREET",
+    "NEW",
+    "HUMPEREY"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.123",
+   "page": 6,
+   "line": 0,
+   "read": "SOERENSEN",
+   "delegation": "Denmark",
+   "before": "replaced by SORENSEN (session roster (94))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "SOERENSEN",
+    "CASSIN",
+    "SIMSARIAN",
+    "MORA",
+    "PAVLOV"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.57",
+   "page": 8,
+   "line": 3,
+   "read": "QUIJNO",
+   "delegation": "Panama",
+   "before": "replaced by DE QUIJANO (session roster (75))",
+   "after": "replaced by QUIJANO (engines (1))",
+   "pero_names_on_page": [
+    "LOPEZ",
+    "QUIJANO"
+   ]
+  },
+  {
+   "symbol": "E/CONF.6/SR.10",
+   "page": 10,
+   "line": 1,
+   "read": "Ramaswami MUDALIAR",
+   "delegation": "India",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "Ramaswami MUDALIAR"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.91",
+   "page": 16,
+   "line": 2,
+   "read": "SOERENSEN",
+   "delegation": "Denmark",
+   "before": "replaced by SORENSEN (engines (1))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "SOERENSEN",
+    "SOERENSEN",
+    "LEVIN"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.197",
+   "page": 21,
+   "line": 4,
+   "read": "MALEE",
+   "delegation": "Lebanon",
+   "before": "unverified",
+   "after": "replaced by MALIK (engines (1))",
+   "pero_names_on_page": [
+    "BOWIE",
+    "MHHTA",
+    "SCHMELD",
+    "MALIK",
+    "CLANG"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.360",
+   "page": 15,
+   "line": 5,
+   "read": "DIAZ-CASANEUVA",
+   "delegation": "Chile",
+   "before": "replaced by DIAZ CASANUEVA (session roster (93))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "KAECKENBEECK",
+    "ABDEL-GHANI",
+    "DIAZ-CASANEUVA"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.191",
+   "page": 11,
+   "line": 2,
+   "read": "MENTHA",
+   "delegation": "India",
+   "before": "unverified",
+   "after": "replaced by MEHTA (engines (1))",
+   "pero_names_on_page": [
+    "MENDEZ",
+    "MEHTA",
+    "ORIBE",
+    "MALIK"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.171",
+   "page": 6,
+   "line": 6,
+   "read": "WHITIAM",
+   "delegation": "Australia",
+   "before": "replaced by WHITLAM (session roster (86))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "WHITIAM"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.197",
+   "page": 14,
+   "line": 3,
+   "read": "SCHACHTER",
+   "delegation": "Secretariat",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "MEHTA",
+    "CASSIN",
+    "ORIBE",
+    "SCHACHTER",
+    "BONIE"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.334",
+   "page": 5,
+   "line": 3,
+   "read": "MARSHALL",
+   "delegation": "Australia",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "MARSHALL",
+    "MEHTA"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.18",
+   "page": 6,
+   "line": 4,
+   "read": "MEETA",
+   "delegation": "India",
+   "before": "replaced by MEHTA (session roster (80))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "TEPLLANOV",
+    "CHANG",
+    "MEETA",
+    "CASSIN",
+    "MOORE"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.273",
+   "page": 3,
+   "line": 37,
+   "read": "clause",
+   "delegation": "continued",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "clause",
+    "KYROU"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.176",
+   "page": 5,
+   "line": 3,
+   "read": "debate",
+   "delegation": "continued",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "KYROU",
+    "debate",
+    "CASSIN"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.8",
+   "page": 3,
+   "line": 2,
+   "read": "GUARDIA",
+   "delegation": "Panama",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "EBEID",
+    "GUARDIA",
+    "MORA",
+    "MEHTA",
+    "HUTCHINSON"
+   ]
+  },
+  {
+   "symbol": "E/AC.7/SR.39",
+   "page": 7,
+   "line": 3,
+   "read": "KURAT",
+   "delegation": "Turkey",
+   "before": "unverified",
+   "after": "replaced by KURAL (engines (1))",
+   "pero_names_on_page": [
+    "MAYHEW",
+    "STINEBOWER",
+    "KURAL",
+    "SUTCH",
+    "STINEBOWER"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.111",
+   "page": 5,
+   "line": 0,
+   "read": "SCHWELB",
+   "delegation": "Secretariat",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "SCHWELB",
+    "GARCLA BAUER",
+    "PAVLOV",
+    "MORA",
+    "Charles MALIK"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.112",
+   "page": 2,
+   "line": 30,
+   "read": "LCUTFI",
+   "delegation": "Egypt",
+   "before": "replaced by LOUTFI (session roster (83))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "LCUTFI",
+    "CASSIN"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.115",
+   "page": 9,
+   "line": 2,
+   "read": "LOUIFI",
+   "delegation": "Egypt",
+   "before": "replaced by LOUTFI (session roster (83))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "LOUIFI",
+    "CHANG"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.285",
+   "page": 4,
+   "line": 1,
+   "read": "ECARE",
+   "delegation": "United Kingdom",
+   "before": "unverified",
+   "after": "replaced by HOARE (engines (1))",
+   "pero_names_on_page": [
+    "HOARE"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/AC.1/SR.24",
+   "page": 2,
+   "line": 1,
+   "read": "JENKS",
+   "delegation": "International Labour Organization",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "JENKS"
+   ]
+  },
+  {
+   "symbol": "E/CONF.6/SR.10",
+   "page": 6,
+   "line": 0,
+   "read": "BOLDISZAR",
+   "delegation": "Hungary",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "BOLDISZAR",
+    "ROSCHIN"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.217",
+   "page": 13,
+   "line": 2,
+   "read": "MUTHA",
+   "delegation": "India",
+   "before": "unverified",
+   "after": "replaced by MEHTA (engines (1))",
+   "pero_names_on_page": [
+    "MEHTA",
+    "LOROSOV"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.157",
+   "page": 6,
+   "line": 2,
+   "read": "SORENSON",
+   "delegation": "Denmark",
+   "before": "replaced by SORENSEN (session roster (88))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "MALIK",
+    "SORENSON",
+    "MALIK",
+    "SORENSON",
+    "MENDEZ"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.122",
+   "page": 8,
+   "line": 4,
+   "read": "SOERENSEN",
+   "delegation": "Denmark",
+   "before": "replaced by SORENSEN (session roster (94))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "Charles MALIK",
+    "SOERENSEN",
+    "CASSIN"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.200",
+   "page": 14,
+   "line": 0,
+   "read": "SCHACHTER",
+   "delegation": "Secretariat",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "SCHACHTER",
+    "ORIBE",
+    "MENDEZ",
+    "HOARE",
+    "MALIK",
+    "HOARE"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.154",
+   "page": 8,
+   "line": 5,
+   "read": "SORENSON",
+   "delegation": "Denmark",
+   "before": "replaced by SORENSEN (session roster (88))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "MEHTA",
+    "SORENSON"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.188",
+   "page": 22,
+   "line": 1,
+   "read": "SORENSON",
+   "delegation": "Denmark",
+   "before": "replaced by SORENSEN (session roster (88))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "SORENSON"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.149",
+   "page": 6,
+   "line": 16,
+   "read": "SCHWELB",
+   "delegation": "Secretariat",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "MALIK",
+    "SORENSEN",
+    "SCHWELB"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.338",
+   "page": 11,
+   "line": 3,
+   "read": "EDARE",
+   "delegation": "United Kingdom",
+   "before": "replaced by HOARE (engines (1))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "LOAIE",
+    "EDARE",
+    "AZMI"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.161",
+   "page": 8,
+   "line": 0,
+   "read": "SORENSON",
+   "delegation": "Denmark",
+   "before": "replaced by SORENSEN (session roster (88))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "SORENSON",
+    "MALIK"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.156",
+   "page": 6,
+   "line": 3,
+   "read": "WEITLAM",
+   "delegation": "Australia",
+   "before": "replaced by WHITLAM (session roster (86))",
+   "after": "kept",
+   "pero_names_on_page": [
+    "CHANG",
+    "LEROY-BEAULIEU",
+    "WEITLAM",
+    "MENDEZ"
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SUB.1/SR.27",
+   "page": 3,
+   "line": 3,
+   "read": "MAHEU",
+   "delegation": "UNESCO",
+   "before": "unverified",
+   "after": "kept",
+   "pero_names_on_page": [
+    "CHAFEE",
+    "MAHEU",
+    "FERGUSON",
+    "ILLUECA"
+   ]
+  }
+ ]
+}

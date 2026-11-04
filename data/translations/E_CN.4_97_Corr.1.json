@@ -1,0 +1,25 @@
+{
+ "symbol": "E/CN.4/97/Corr.1",
+ "source_language": "fr",
+ "source_file": "E_CN.4_97_Corr.1-FR.pdf",
+ "translation_model": "claude-fable-5-1",
+ "check_model": "claude-sonnet-5-5",
+ "translation_date": "2026-09-29",
+ "title": "DECLARATION — French amendment to the draft International Declaration of Human Rights (corrigendum)",
+ "date": "1948-06-08",
+ "stated_original_language": "not stated (marked \"FRENCH ONLY\")",
+ "pages": [
+  {
+   "page": 1,
+   "text": "United Nations\nECONOMIC AND SOCIAL COUNCIL\n\nNations Unies\nCONSEIL ECONOMIQUE ET SOCIAL\n\nUNRESTRICTED\nE/CN.4/97/Corr.1\n8 June 1948\n\nFRENCH ONLY\n\nCOMMISSION ON HUMAN RIGHTS\nThird session\n\n- - - - - - - - - - - - - - - -\n\nD E C L A R A T I O N\n\n———\n\nFrench amendment to the draft\nInternational Declaration of Human Rights\n\n———\n\nFor Article II, read Article XI.\n\n- - - - -"
+  }
+ ],
+ "uncertain": [],
+ "check": {
+  "verdict": "faithful",
+  "issues": [],
+  "resolved_by_translator": false,
+  "first_pass": null,
+  "summary": "checked against the scan by claude-sonnet-5-5: no discrepancy found"
+ }
+}

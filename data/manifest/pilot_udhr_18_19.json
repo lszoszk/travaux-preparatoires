@@ -1,0 +1,367 @@
+{
+ "pilot": "UDHR articles 18-19",
+ "count": 28,
+ "documents": [
+  {
+   "symbol": "E/CN.4/SR.1",
+   "basis": [
+    "ocr_control"
+   ],
+   "articles_hint": [],
+   "control_note": "1947 mimeographed summary record, noisy existing OCR",
+   "in_guide": true,
+   "doc_type": "summary_record",
+   "meeting_date": "1947-01-27",
+   "body": "Commission on Human Rights"
+  },
+  {
+   "symbol": "E/CN.4/AC.1/SR.1",
+   "basis": [
+    "ocr_control"
+   ],
+   "articles_hint": [],
+   "control_note": "1947 Drafting Committee record, two-column attendance list",
+   "in_guide": true,
+   "doc_type": "summary_record",
+   "meeting_date": "1947-06-09",
+   "body": "CHR Drafting Committee"
+  },
+  {
+   "symbol": "E/CN.4/AC.1/SR.31",
+   "basis": [
+    "verified_seed"
+   ],
+   "articles_hint": [],
+   "seed_note": "p 6: first paragraph divided to separate inner belief from practice",
+   "in_guide": true,
+   "doc_type": "summary_record",
+   "meeting_date": "1948-05-13",
+   "body": "CHR Drafting Committee"
+  },
+  {
+   "symbol": "E/CN.4/AC.1/SR.40",
+   "basis": [
+    "finding_aid"
+   ],
+   "articles_hint": [
+    18
+   ],
+   "in_guide": true,
+   "doc_type": "summary_record",
+   "meeting_date": "1948-05-19",
+   "body": "CHR Drafting Committee"
+  },
+  {
+   "symbol": "E/CN.4/SR.60",
+   "basis": [
+    "finding_aid",
+    "verified_seed"
+   ],
+   "articles_hint": [
+    18
+   ],
+   "seed_note": "p 10: Cassin distinguishes thought from expression; pp 12-13",
+   "in_guide": true,
+   "doc_type": "summary_record",
+   "meeting_date": "1948-06-04",
+   "body": "Commission on Human Rights"
+  },
+  {
+   "symbol": "E/CN.4/SR.61",
+   "basis": [
+    "finding_aid"
+   ],
+   "articles_hint": [
+    18
+   ],
+   "in_guide": true,
+   "doc_type": "summary_record",
+   "meeting_date": "1948-06-07",
+   "body": "Commission on Human Rights"
+  },
+  {
+   "symbol": "E/CN.4/SR.62",
+   "basis": [
+    "finding_aid"
+   ],
+   "articles_hint": [
+    19
+   ],
+   "in_guide": true,
+   "doc_type": "summary_record",
+   "meeting_date": "1948-06-07",
+   "body": "Commission on Human Rights"
+  },
+  {
+   "symbol": "E/CN.4/SR.63",
+   "basis": [
+    "finding_aid"
+   ],
+   "articles_hint": [
+    19
+   ],
+   "in_guide": true,
+   "doc_type": "summary_record",
+   "meeting_date": "1948-06-08",
+   "body": "Commission on Human Rights"
+  },
+  {
+   "symbol": "E/CN.4/SR.64",
+   "basis": [
+    "finding_aid"
+   ],
+   "articles_hint": [
+    19
+   ],
+   "in_guide": true,
+   "doc_type": "summary_record",
+   "meeting_date": "1948-06-08",
+   "body": "Commission on Human Rights"
+  },
+  {
+   "symbol": "A/C.3/SR.89",
+   "basis": [
+    "ocr_control"
+   ],
+   "articles_hint": [],
+   "control_note": "1948 printed GAOR volume, English/French parallel columns, meeting overlap",
+   "in_guide": true,
+   "doc_type": "summary_record",
+   "meeting_date": "1948-09-30",
+   "body": "General Assembly Third Committee"
+  },
+  {
+   "symbol": "A/C.3/SR.127",
+   "basis": [
+    "finding_aid"
+   ],
+   "articles_hint": [
+    18
+   ],
+   "in_guide": true,
+   "doc_type": "summary_record",
+   "meeting_date": "1948-11-09",
+   "body": "General Assembly Third Committee"
+  },
+  {
+   "symbol": "A/C.3/SR.128",
+   "basis": [
+    "finding_aid"
+   ],
+   "articles_hint": [
+    18,
+    19
+   ],
+   "in_guide": true,
+   "doc_type": "summary_record",
+   "meeting_date": "1948-11-09",
+   "body": "General Assembly Third Committee"
+  },
+  {
+   "symbol": "A/C.3/SR.129",
+   "basis": [
+    "finding_aid"
+   ],
+   "articles_hint": [
+    19
+   ],
+   "in_guide": true,
+   "doc_type": "summary_record",
+   "meeting_date": "1948-11-10",
+   "body": "General Assembly Third Committee"
+  },
+  {
+   "symbol": "A/C.3/SR.130",
+   "basis": [
+    "finding_aid"
+   ],
+   "articles_hint": [
+    19
+   ],
+   "in_guide": true,
+   "doc_type": "summary_record",
+   "meeting_date": "1948-11-10",
+   "body": "General Assembly Third Committee"
+  },
+  {
+   "symbol": "A/C.3/SR.178",
+   "basis": [
+    "finding_aid"
+   ],
+   "articles_hint": [
+    18,
+    19
+   ],
+   "in_guide": true,
+   "doc_type": "summary_record",
+   "meeting_date": "1948-12-06",
+   "body": "General Assembly Third Committee"
+  },
+  {
+   "symbol": "E/600",
+   "basis": [
+    "finding_aid"
+   ],
+   "articles_hint": [
+    19
+   ],
+   "in_guide": true,
+   "doc_type": "document",
+   "meeting_date": null,
+   "body": "Commission on Human Rights"
+  },
+  {
+   "symbol": "E/800",
+   "basis": [
+    "ocr_control"
+   ],
+   "articles_hint": [],
+   "control_note": "1948 CHR report with the draft Declaration",
+   "in_guide": true,
+   "doc_type": "document",
+   "meeting_date": null,
+   "body": "Commission on Human Rights"
+  },
+  {
+   "symbol": "E/CN.4/112",
+   "basis": [
+    "finding_aid"
+   ],
+   "articles_hint": [
+    18
+   ],
+   "in_guide": true,
+   "doc_type": "document",
+   "meeting_date": null,
+   "body": "Commission on Human Rights"
+  },
+  {
+   "symbol": "E/CN.4/21",
+   "basis": [
+    "ocr_control"
+   ],
+   "articles_hint": [],
+   "control_note": "1947 Drafting Committee report",
+   "in_guide": true,
+   "doc_type": "document",
+   "meeting_date": null,
+   "body": "CHR Drafting Committee"
+  },
+  {
+   "symbol": "E/CN.4/82",
+   "basis": [
+    "finding_aid"
+   ],
+   "articles_hint": [
+    19
+   ],
+   "in_guide": true,
+   "doc_type": "document",
+   "meeting_date": null,
+   "body": "CHR Drafting Committee"
+  },
+  {
+   "symbol": "E/CN.4/82/Add.1",
+   "basis": [
+    "finding_aid"
+   ],
+   "articles_hint": [
+    19
+   ],
+   "in_guide": true,
+   "doc_type": "document",
+   "meeting_date": null,
+   "body": "CHR Drafting Committee"
+  },
+  {
+   "symbol": "E/CN.4/82/Add.3",
+   "basis": [
+    "finding_aid"
+   ],
+   "articles_hint": [
+    19
+   ],
+   "in_guide": true,
+   "doc_type": "document",
+   "meeting_date": null,
+   "body": "CHR Drafting Committee"
+  },
+  {
+   "symbol": "E/CN.4/84",
+   "basis": [
+    "finding_aid"
+   ],
+   "articles_hint": [
+    19
+   ],
+   "in_guide": true,
+   "doc_type": "document",
+   "meeting_date": null,
+   "body": "CHR Drafting Committee"
+  },
+  {
+   "symbol": "E/CN.4/85",
+   "basis": [
+    "finding_aid"
+   ],
+   "articles_hint": [
+    19
+   ],
+   "in_guide": true,
+   "doc_type": "document",
+   "meeting_date": null,
+   "body": "Commission on Human Rights"
+  },
+  {
+   "symbol": "E/CN.4/AC.1/11",
+   "basis": [
+    "finding_aid"
+   ],
+   "articles_hint": [
+    19
+   ],
+   "in_guide": true,
+   "doc_type": "document",
+   "meeting_date": null,
+   "body": "CHR Drafting Committee"
+  },
+  {
+   "symbol": "E/CN.4/AC.1/16",
+   "basis": [
+    "finding_aid"
+   ],
+   "articles_hint": [
+    19
+   ],
+   "in_guide": true,
+   "doc_type": "document",
+   "meeting_date": null,
+   "body": "CHR Drafting Committee"
+  },
+  {
+   "symbol": "E/CN.4/AC.1/3/Add.1",
+   "basis": [
+    "finding_aid"
+   ],
+   "articles_hint": [
+    18
+   ],
+   "in_guide": true,
+   "doc_type": "document",
+   "meeting_date": null,
+   "body": "CHR Drafting Committee"
+  },
+  {
+   "symbol": "E/CN.4/SR.164",
+   "basis": [
+    "verified_seed"
+   ],
+   "articles_hint": [],
+   "seed_note": "p 4: expression as continuation of freedom of thought (1950, Covenant)",
+   "in_guide": false,
+   "doc_type": null,
+   "meeting_date": null,
+   "body": null
+  }
+ ]
+}

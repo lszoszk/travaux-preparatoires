@@ -1,0 +1,2053 @@
+{
+ "options": 46,
+ "rows": [
+  {
+   "key": [
+    "E/CN.4/SR.60",
+    2,
+    0
+   ],
+   "raw": "CASSIN",
+   "country_raw": "France",
+   "rule": "CASSIN",
+   "rule_method": "roster_match",
+   "jev": "CASSIN (France)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CASSIN (France)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.60",
+    2,
+    1
+   ],
+   "raw": "WILSON",
+   "country_raw": "United Kingdom",
+   "rule": "WILSON",
+   "rule_method": "roster_match",
+   "jev": "WILSON (United Kingdom)",
+   "prob": 1.0,
+   "confidence": 0.99,
+   "jev_correct": true,
+   "gold": "WILSON (United Kingdom)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.60",
+    3,
+    0
+   ],
+   "raw": "PAVLOV",
+   "country_raw": "Union of Soviet Socialist Republics",
+   "rule": "PAVLOV",
+   "rule_method": "roster_match",
+   "jev": "PAVLOV (Union of Soviet Socialist Republics)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "PAVLOV (Union of Soviet Socialist Republics)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.60",
+    3,
+    1
+   ],
+   "raw": "MALIK",
+   "country_raw": "Lebanon",
+   "rule": "MALIK",
+   "rule_method": "roster_match",
+   "jev": "MALIK (Lebanon)",
+   "prob": 1.0,
+   "confidence": 0.99,
+   "jev_correct": true,
+   "gold": "MALIK (Lebanon)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.60",
+    4,
+    0
+   ],
+   "raw": "CASSin",
+   "country_raw": "France",
+   "rule": "CASSIN",
+   "rule_method": "roster_match",
+   "jev": "CASSIN (France)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CASSIN (France)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.60",
+    5,
+    0
+   ],
+   "raw": "PAVLOV",
+   "country_raw": "Union of Soviet Socialist Republics",
+   "rule": "PAVLOV",
+   "rule_method": "roster_match",
+   "jev": "PAVLOV (Union of Soviet Socialist Republics)",
+   "prob": 1.0,
+   "confidence": 0.99,
+   "jev_correct": true,
+   "gold": "PAVLOV (Union of Soviet Socialist Republics)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.60",
+    5,
+    1
+   ],
+   "raw": "LEWIN",
+   "country_raw": "Agudas Israel World Organization",
+   "rule": "LEWIN",
+   "rule_method": "roster_match",
+   "jev": "LEWIN (Agudas Israel World Organization)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "LEWIN (Agudas Israel World Organization)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.60",
+    6,
+    0
+   ],
+   "raw": "CHAHS",
+   "country_raw": "China",
+   "rule": "CHANG",
+   "rule_method": "sole_delegate",
+   "jev": "CHANG (China)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CHANG (China)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.60",
+    6,
+    1
+   ],
+   "raw": "PAVLOV",
+   "country_raw": "Union of Soviet Socialist Republics",
+   "rule": "PAVLOV",
+   "rule_method": "roster_match",
+   "jev": "PAVLOV (Union of Soviet Socialist Republics)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "PAVLOV (Union of Soviet Socialist Republics)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.60",
+    7,
+    0
+   ],
+   "raw": "LOUTFI",
+   "country_raw": "Egypt",
+   "rule": "LOUTFI",
+   "rule_method": "roster_match",
+   "jev": "LOUTFI (Egypt)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "LOUTFI (Egypt)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.60",
+    7,
+    1
+   ],
+   "raw": "MALIK",
+   "country_raw": "Lebanon",
+   "rule": "MALIK",
+   "rule_method": "roster_match",
+   "jev": "MALIK (Lebanon)",
+   "prob": 0.99,
+   "confidence": 0.99,
+   "jev_correct": true,
+   "gold": "MALIK (Lebanon)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.60",
+    9,
+    0
+   ],
+   "raw": "CASSIN",
+   "country_raw": "France",
+   "rule": "CASSIN",
+   "rule_method": "roster_match",
+   "jev": "CASSIN (France)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CASSIN (France)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.60",
+    9,
+    1
+   ],
+   "raw": "PAVLOV",
+   "country_raw": "Union of Soviet Socialist Republics",
+   "rule": "PAVLOV",
+   "rule_method": "roster_match",
+   "jev": "PAVLOV (Union of Soviet Socialist Republics)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "PAVLOV (Union of Soviet Socialist Republics)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.60",
+    9,
+    2
+   ],
+   "raw": "MALIK",
+   "country_raw": "Lebanon",
+   "rule": "MALIK",
+   "rule_method": "roster_match",
+   "jev": "MALIK (Lebanon)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "MALIK (Lebanon)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.60",
+    10,
+    0
+   ],
+   "raw": "PAVLOV",
+   "country_raw": "Union of Soviet Socialist Republics",
+   "rule": "PAVLOV",
+   "rule_method": "roster_match",
+   "jev": "PAVLOV (Union of Soviet Socialist Republics)",
+   "prob": 1.0,
+   "confidence": 0.99,
+   "jev_correct": true,
+   "gold": "PAVLOV (Union of Soviet Socialist Republics)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.60",
+    10,
+    1
+   ],
+   "raw": "MALIK",
+   "country_raw": "Lebanon",
+   "rule": "MALIK",
+   "rule_method": "roster_match",
+   "jev": "MALIK (Lebanon)",
+   "prob": 0.97,
+   "confidence": 0.97,
+   "jev_correct": true,
+   "gold": "MALIK (Lebanon)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.60",
+    10,
+    2
+   ],
+   "raw": "CASSHJ",
+   "country_raw": "France",
+   "rule": "CASSIN",
+   "rule_method": "sole_delegate",
+   "jev": "CASSIN (France)",
+   "prob": 0.98,
+   "confidence": 0.98,
+   "jev_correct": true,
+   "gold": "CASSIN (France)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.60",
+    11,
+    0
+   ],
+   "raw": "FGHTAUJA",
+   "country_raw": "Uruguay",
+   "rule": "FONTAINA",
+   "rule_method": "sole_delegate",
+   "jev": "FONTAINA (Uruguay)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "FONTAINA (Uruguay)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.60",
+    11,
+    1
+   ],
+   "raw": "CHANG",
+   "country_raw": "China",
+   "rule": "CHANG",
+   "rule_method": "roster_match",
+   "jev": "CHANG (China)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CHANG (China)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.60",
+    12,
+    0
+   ],
+   "raw": "MALIK",
+   "country_raw": "leban-on",
+   "rule": "MALIK",
+   "rule_method": "roster_match",
+   "jev": "MALIK (Lebanon)",
+   "prob": 0.99,
+   "confidence": 0.99,
+   "jev_correct": true,
+   "gold": "MALIK (Lebanon)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.60",
+    12,
+    1
+   ],
+   "raw": "WILSOK",
+   "country_raw": "United Kingdom",
+   "rule": "WILSON",
+   "rule_method": "roster_match",
+   "jev": "WILSON (United Kingdom)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "WILSON (United Kingdom)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.60",
+    12,
+    2
+   ],
+   "raw": "PAVLOV",
+   "country_raw": "Union of Soviet Socialist Republics",
+   "rule": "PAVLOV",
+   "rule_method": "roster_match",
+   "jev": "PAVLOV (Union of Soviet Socialist Republics)",
+   "prob": 1.0,
+   "confidence": 0.99,
+   "jev_correct": true,
+   "gold": "PAVLOV (Union of Soviet Socialist Republics)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.60",
+    12,
+    3
+   ],
+   "raw": "FOHTAIKA",
+   "country_raw": "Uruguay",
+   "rule": "FONTAINA",
+   "rule_method": "roster_match",
+   "jev": "FONTAINA (Uruguay)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "FONTAINA (Uruguay)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.60",
+    13,
+    0
+   ],
+   "raw": "CASSIN",
+   "country_raw": "France",
+   "rule": "CASSIN",
+   "rule_method": "roster_match",
+   "jev": "CASSIN (France)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CASSIN (France)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.60",
+    13,
+    1
+   ],
+   "raw": "CHANG",
+   "country_raw": "China",
+   "rule": "CHANG",
+   "rule_method": "roster_match",
+   "jev": "CHANG (China)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CHANG (China)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.60",
+    14,
+    0
+   ],
+   "raw": "VHSOB",
+   "country_raw": "United Kingdom",
+   "rule": "WILSON",
+   "rule_method": "sole_delegate",
+   "jev": "WILSON (United Kingdom)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "WILSON (United Kingdom)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    3,
+    0
+   ],
+   "raw": "WILSON",
+   "country_raw": "United Kingdom",
+   "rule": "WILSON",
+   "rule_method": "roster_match",
+   "jev": "WILSON (United Kingdom)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "WILSON (United Kingdom)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    3,
+    1
+   ],
+   "raw": "CASSIN",
+   "country_raw": "Franco",
+   "rule": "CASSIN",
+   "rule_method": "roster_match",
+   "jev": "CASSIN (France)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CASSIN (France)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    4,
+    0
+   ],
+   "raw": "CASSIN",
+   "country_raw": "France",
+   "rule": "CASSIN",
+   "rule_method": "roster_match",
+   "jev": "CASSIN (France)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CASSIN (France)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    4,
+    1
+   ],
+   "raw": "PAVLOV",
+   "country_raw": "Union of Soviet Socialist Republics",
+   "rule": "PAVLOV",
+   "rule_method": "roster_match",
+   "jev": "PAVLOV (Union of Soviet Socialist Republics)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "PAVLOV (Union of Soviet Socialist Republics)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    5,
+    0
+   ],
+   "raw": "STEÏAERT",
+   "country_raw": "Belgium",
+   "rule": "STEYAERT",
+   "rule_method": "roster_match",
+   "jev": "STEYAERT (Belgium)",
+   "prob": 0.99,
+   "confidence": 0.98,
+   "jev_correct": true,
+   "gold": "STEYAERT (Belgium)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    5,
+    1
+   ],
+   "raw": "STEPAKEKKO",
+   "country_raw": "Byelorussia Soviet Socialist Republic",
+   "rule": "STEPANENKO",
+   "rule_method": "roster_match",
+   "jev": "STEPANENKO (Byelorussian Soviet Socialist Republic)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "STEPANENKO (Byelorussian Soviet Socialist Republic)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    6,
+    0
+   ],
+   "raw": "de QUIJAHO",
+   "country_raw": "Panama",
+   "rule": "de QUIJANO",
+   "rule_method": "roster_match",
+   "jev": "de QUIJANO (Panama)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "de QUIJANO (Panama)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    8,
+    0
+   ],
+   "raw": "CASGIH",
+   "country_raw": "France",
+   "rule": "CASSIN",
+   "rule_method": "sole_delegate",
+   "jev": "CASSIN (France)",
+   "prob": 0.9400000000000001,
+   "confidence": 0.93,
+   "jev_correct": true,
+   "gold": "CASSIN (France)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    8,
+    1
+   ],
+   "raw": "CHAHG-",
+   "country_raw": "China",
+   "rule": "CHANG",
+   "rule_method": "roster_match",
+   "jev": "CHANG (China)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CHANG (China)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    9,
+    0
+   ],
+   "raw": "LOPEZ",
+   "country_raw": "Philippines",
+   "rule": "LOPEZ",
+   "rule_method": "roster_match",
+   "jev": "LOPEZ (Philippines)",
+   "prob": 1.0,
+   "confidence": 0.99,
+   "jev_correct": true,
+   "gold": "LOPEZ (Philippines)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    9,
+    1
+   ],
+   "raw": "MEEECA",
+   "country_raw": "India",
+   "rule": "MEHTA",
+   "rule_method": "sole_delegate",
+   "jev": "MEHTA (India)",
+   "prob": 0.98,
+   "confidence": 0.98,
+   "jev_correct": true,
+   "gold": "MEHTA (India)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    10,
+    0
+   ],
+   "raw": "SENDER",
+   "country_raw": "American Federation of Labor",
+   "rule": "SENDER",
+   "rule_method": "roster_match",
+   "jev": "SENDER (American Federation of Labor)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "SENDER (American Federation of Labor)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    10,
+    1
+   ],
+   "raw": "VANISTEKDAEL",
+   "country_raw": "World Federation of Christian Trade Unions",
+   "rule": "VANISTENDAEL",
+   "rule_method": "roster_match",
+   "jev": "VANISTENDAEL (International Federation of Christian: Trade Unions)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "VANISTENDAEL (International Federation of Christian: Trade Unions)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    10,
+    2
+   ],
+   "raw": "STEYAERT",
+   "country_raw": "Belgium",
+   "rule": "STEYAERT",
+   "rule_method": "roster_match",
+   "jev": "STEYAERT (Belgium)",
+   "prob": 1.0,
+   "confidence": 0.99,
+   "jev_correct": true,
+   "gold": "STEYAERT (Belgium)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    11,
+    0
+   ],
+   "raw": "HOOD",
+   "country_raw": "Australia",
+   "rule": "HOOD",
+   "rule_method": "roster_match",
+   "jev": "HOOD (Australia)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "HOOD (Australia)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    11,
+    1
+   ],
+   "raw": "WILSON",
+   "country_raw": "United Kingdom",
+   "rule": "WILSON",
+   "rule_method": "roster_match",
+   "jev": "WILSON (United Kingdom)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "WILSON (United Kingdom)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    11,
+    2
+   ],
+   "raw": "LOPEZ",
+   "country_raw": "Philippines",
+   "rule": "LOPEZ",
+   "rule_method": "roster_match",
+   "jev": "LOPEZ (Philippines)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "LOPEZ (Philippines)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    12,
+    0
+   ],
+   "raw": "CHANG",
+   "country_raw": "China",
+   "rule": "CHANG",
+   "rule_method": "roster_match",
+   "jev": "CHANG (China)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CHANG (China)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    13,
+    0
+   ],
+   "raw": "PAVLOV",
+   "country_raw": "Union of Soviet Socialist Republics",
+   "rule": "PAVLOV",
+   "rule_method": "roster_match",
+   "jev": "PAVLOV (Union of Soviet Socialist Republics)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "PAVLOV (Union of Soviet Socialist Republics)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    14,
+    0
+   ],
+   "raw": "WILSON",
+   "country_raw": "United Kingdom",
+   "rule": "WILSON",
+   "rule_method": "roster_match",
+   "jev": "WILSON (United Kingdom)",
+   "prob": 0.99,
+   "confidence": 0.99,
+   "jev_correct": true,
+   "gold": "WILSON (United Kingdom)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    14,
+    1
+   ],
+   "raw": "PAVLOV",
+   "country_raw": "Union of Soviet Socialist Republics",
+   "rule": "PAVLOV",
+   "rule_method": "roster_match",
+   "jev": "PAVLOV (Union of Soviet Socialist Republics)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "PAVLOV (Union of Soviet Socialist Republics)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    14,
+    2
+   ],
+   "raw": "WILSON",
+   "country_raw": "United Kingdom",
+   "rule": "WILSON",
+   "rule_method": "roster_match",
+   "jev": "WILSON (United Kingdom)",
+   "prob": 0.97,
+   "confidence": 0.97,
+   "jev_correct": true,
+   "gold": "WILSON (United Kingdom)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    15,
+    0
+   ],
+   "raw": "ÏAVLOV",
+   "country_raw": "Union of Soviet Socialist Republics",
+   "rule": "PAVLOV",
+   "rule_method": "roster_match",
+   "jev": "PAVLOV (Union of Soviet Socialist Republics)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "PAVLOV (Union of Soviet Socialist Republics)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    15,
+    1
+   ],
+   "raw": "CASSOT",
+   "country_raw": "France",
+   "rule": "CASSIN",
+   "rule_method": "sole_delegate",
+   "jev": "CASSIN (France)",
+   "prob": 1.0,
+   "confidence": 0.99,
+   "jev_correct": true,
+   "gold": "CASSIN (France)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    16,
+    0
+   ],
+   "raw": "WILSON",
+   "country_raw": "United Kingdom",
+   "rule": "WILSON",
+   "rule_method": "roster_match",
+   "jev": "WILSON (United Kingdom)",
+   "prob": 0.94,
+   "confidence": 0.94,
+   "jev_correct": true,
+   "gold": "WILSON (United Kingdom)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    16,
+    1
+   ],
+   "raw": "STEPAMENKD",
+   "country_raw": "Byelorussian Soviet Socialist Republic",
+   "rule": "STEPANENKO",
+   "rule_method": "roster_match",
+   "jev": "STEPANENKO (Byelorussian Soviet Socialist Republic)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "STEPANENKO (Byelorussian Soviet Socialist Republic)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    17,
+    0
+   ],
+   "raw": "MALIK",
+   "country_raw": "Lebanon",
+   "rule": "MALIK",
+   "rule_method": "roster_match",
+   "jev": "MALIK (Lebanon)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "MALIK (Lebanon)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    18,
+    0
+   ],
+   "raw": "CASSIN",
+   "country_raw": "France",
+   "rule": "CASSIN",
+   "rule_method": "roster_match",
+   "jev": "CASSIN (France)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CASSIN (France)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    18,
+    1
+   ],
+   "raw": "WILSON",
+   "country_raw": "United Kingdom",
+   "rule": "WILSON",
+   "rule_method": "roster_match",
+   "jev": "WILSON (United Kingdom)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "WILSON (United Kingdom)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.61",
+    18,
+    2
+   ],
+   "raw": "CHANG",
+   "country_raw": "china",
+   "rule": "CHANG",
+   "rule_method": "roster_match",
+   "jev": "CHANG (China)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CHANG (China)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.62",
+    2,
+    0
+   ],
+   "raw": "WILSON",
+   "country_raw": "United Kingdom",
+   "rule": "WILSON",
+   "rule_method": "roster_match",
+   "jev": "WILSON (United Kingdom)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "WILSON (United Kingdom)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.62",
+    3,
+    0
+   ],
+   "raw": "CASSIN",
+   "country_raw": "France",
+   "rule": "CASSIN",
+   "rule_method": "roster_match",
+   "jev": "CASSIN (France)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CASSIN (France)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.62",
+    3,
+    1
+   ],
+   "raw": "WILSON",
+   "country_raw": "United Kingdom",
+   "rule": "WILSON",
+   "rule_method": "roster_match",
+   "jev": "WILSON (United Kingdom)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "WILSON (United Kingdom)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.62",
+    4,
+    0
+   ],
+   "raw": "STEPANENKO",
+   "country_raw": "Byelorussian Soviet Socialist Republic",
+   "rule": "STEPANENKO",
+   "rule_method": "roster_match",
+   "jev": "STEPANENKO (Byelorussian Soviet Socialist Republic)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "STEPANENKO (Byelorussian Soviet Socialist Republic)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.62",
+    5,
+    0
+   ],
+   "raw": "CASSIN",
+   "country_raw": "France",
+   "rule": "CASSIN",
+   "rule_method": "roster_match",
+   "jev": "CASSIN (France)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CASSIN (France)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.62",
+    5,
+    1
+   ],
+   "raw": "CHANG",
+   "country_raw": "China",
+   "rule": "CHANG",
+   "rule_method": "roster_match",
+   "jev": "CHANG (China)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CHANG (China)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.62",
+    6,
+    0
+   ],
+   "raw": "HOOD",
+   "country_raw": "Australia",
+   "rule": "HOOD",
+   "rule_method": "roster_match",
+   "jev": "HOOD (Australia)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "HOOD (Australia)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.62",
+    6,
+    1
+   ],
+   "raw": "CASJIN",
+   "country_raw": "France",
+   "rule": "CASSIN",
+   "rule_method": "roster_match",
+   "jev": "CASSIN (France)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CASSIN (France)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.62",
+    6,
+    2
+   ],
+   "raw": "FONTAINA",
+   "country_raw": "Uruguay",
+   "rule": "FONTAINA",
+   "rule_method": "roster_match",
+   "jev": "FONTAINA (Uruguay)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "FONTAINA (Uruguay)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.62",
+    7,
+    0
+   ],
+   "raw": "PAVLOV",
+   "country_raw": "Union of Soviet Socialist Republics",
+   "rule": "PAVLOV",
+   "rule_method": "roster_match",
+   "jev": "PAVLOV (Union of Soviet Socialist Republics)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "PAVLOV (Union of Soviet Socialist Republics)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.62",
+    7,
+    1
+   ],
+   "raw": "WILSON",
+   "country_raw": "United Kingdom",
+   "rule": "WILSON",
+   "rule_method": "roster_match",
+   "jev": "WILSON (United Kingdom)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "WILSON (United Kingdom)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.62",
+    8,
+    0
+   ],
+   "raw": "MALIK",
+   "country_raw": "Lebanon",
+   "rule": "MALIK",
+   "rule_method": "roster_match",
+   "jev": "MALIK (Lebanon)",
+   "prob": 0.99,
+   "confidence": 0.99,
+   "jev_correct": true,
+   "gold": "MALIK (Lebanon)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.62",
+    8,
+    1
+   ],
+   "raw": "WILSON",
+   "country_raw": "United Kingdom",
+   "rule": "WILSON",
+   "rule_method": "roster_match",
+   "jev": "WILSON (United Kingdom)",
+   "prob": 0.9400000000000001,
+   "confidence": 0.93,
+   "jev_correct": true,
+   "gold": "WILSON (United Kingdom)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.62",
+    8,
+    2
+   ],
+   "raw": "CASSIM",
+   "country_raw": "France",
+   "rule": "CASSIN",
+   "rule_method": "roster_match",
+   "jev": "CASSIN (France)",
+   "prob": 0.99,
+   "confidence": 0.99,
+   "jev_correct": true,
+   "gold": "CASSIN (France)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.62",
+    8,
+    3
+   ],
+   "raw": "WILSON",
+   "country_raw": "United Kingdom",
+   "rule": "WILSON",
+   "rule_method": "roster_match",
+   "jev": "WILSON (United Kingdom)",
+   "prob": 1.0,
+   "confidence": 0.99,
+   "jev_correct": true,
+   "gold": "WILSON (United Kingdom)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.62",
+    9,
+    0
+   ],
+   "raw": "FOHTAIHA",
+   "country_raw": "Uruguay",
+   "rule": "FONTAINA",
+   "rule_method": "roster_match",
+   "jev": "FONTAINA (Uruguay)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "FONTAINA (Uruguay)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.62",
+    9,
+    1
+   ],
+   "raw": "MEHTA",
+   "country_raw": "India",
+   "rule": "MEHTA",
+   "rule_method": "roster_match",
+   "jev": "MEHTA (India)",
+   "prob": 1.0,
+   "confidence": 0.99,
+   "jev_correct": true,
+   "gold": "MEHTA (India)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.62",
+    9,
+    2
+   ],
+   "raw": "MALIK",
+   "country_raw": "Lebanon",
+   "rule": "MALIK",
+   "rule_method": "roster_match",
+   "jev": "MALIK (Lebanon)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "MALIK (Lebanon)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.62",
+    9,
+    3
+   ],
+   "raw": "VILSOH",
+   "country_raw": "United Kingdom",
+   "rule": "WILSON",
+   "rule_method": "sole_delegate",
+   "jev": "WILSON (United Kingdom)",
+   "prob": 0.99,
+   "confidence": 0.98,
+   "jev_correct": true,
+   "gold": "WILSON (United Kingdom)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.62",
+    9,
+    4
+   ],
+   "raw": "PAVLOV",
+   "country_raw": "Union of Soviet Socialist Republics",
+   "rule": "PAVLOV",
+   "rule_method": "roster_match",
+   "jev": "PAVLOV (Union of Soviet Socialist Republics)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "PAVLOV (Union of Soviet Socialist Republics)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.62",
+    10,
+    0
+   ],
+   "raw": "CASSIN",
+   "country_raw": "France",
+   "rule": "CASSIN",
+   "rule_method": "roster_match",
+   "jev": "CASSIN (France)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CASSIN (France)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.62",
+    11,
+    0
+   ],
+   "raw": "PAVLOV",
+   "country_raw": "Union cf Soviet Socialist Republics",
+   "rule": "PAVLOV",
+   "rule_method": "roster_match",
+   "jev": "PAVLOV (Union of Soviet Socialist Republics)",
+   "prob": 0.99,
+   "confidence": 0.99,
+   "jev_correct": true,
+   "gold": "PAVLOV (Union of Soviet Socialist Republics)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.62",
+    11,
+    1
+   ],
+   "raw": "CASSIB",
+   "country_raw": "France",
+   "rule": "CASSIN",
+   "rule_method": "roster_match",
+   "jev": "CASSIN (France)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CASSIN (France)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.62",
+    12,
+    0
+   ],
+   "raw": "WILSON",
+   "country_raw": "United Kingdom",
+   "rule": "WILSON",
+   "rule_method": "roster_match",
+   "jev": "WILSON (United Kingdom)",
+   "prob": 0.96,
+   "confidence": 0.95,
+   "jev_correct": true,
+   "gold": "WILSON (United Kingdom)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.62",
+    12,
+    1
+   ],
+   "raw": "MALIK",
+   "country_raw": "Lebanon",
+   "rule": "MALIK",
+   "rule_method": "roster_match",
+   "jev": "MALIK (Lebanon)",
+   "prob": 0.99,
+   "confidence": 0.98,
+   "jev_correct": true,
+   "gold": "MALIK (Lebanon)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.62",
+    12,
+    2
+   ],
+   "raw": "CASSIN",
+   "country_raw": "France",
+   "rule": "CASSIN",
+   "rule_method": "roster_match",
+   "jev": "CASSIN (France)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CASSIN (France)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.63",
+    2,
+    0
+   ],
+   "raw": "PAVLOV",
+   "country_raw": "Union jof Soviet Socialist Bepublics",
+   "rule": "PAVLOV",
+   "rule_method": "roster_match",
+   "jev": "PAVLOV (Union of Soviet Socialist Republics)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "PAVLOV (Union of Soviet Socialist Republics)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.63",
+    4,
+    0
+   ],
+   "raw": "QUIJANO",
+   "country_raw": "Panama",
+   "rule": "de QUIJANO",
+   "rule_method": "roster_match",
+   "jev": "de QUIJANO (Panama)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "de QUIJANO (Panama)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.63",
+    4,
+    1
+   ],
+   "raw": "CASSIN",
+   "country_raw": "France",
+   "rule": "CASSIN",
+   "rule_method": "roster_match",
+   "jev": "CASSIN (France)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CASSIN (France)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.63",
+    5,
+    0
+   ],
+   "raw": "CEAUG-",
+   "country_raw": "Chim",
+   "rule": null,
+   "rule_method": "unresolved",
+   "jev": "CHANG (China)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CHANG (China)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.63",
+    5,
+    1
+   ],
+   "raw": "MAUK",
+   "country_raw": "Lebanon",
+   "rule": "MALIK",
+   "rule_method": "sole_delegate",
+   "jev": "MALIK (Lebanon)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "MALIK (Lebanon)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.63",
+    6,
+    0
+   ],
+   "raw": "LKBEAU",
+   "country_raw": "Belgium",
+   "rule": "LEBEAU",
+   "rule_method": "roster_match",
+   "jev": "LEBEAU (Belgium)",
+   "prob": 0.77,
+   "confidence": 0.76,
+   "jev_correct": true,
+   "gold": "LEBEAU (Belgium)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.63",
+    6,
+    1
+   ],
+   "raw": "MEHTA",
+   "country_raw": "India",
+   "rule": "MEHTA",
+   "rule_method": "roster_match",
+   "jev": "MEHTA (India)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "MEHTA (India)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.63",
+    6,
+    2
+   ],
+   "raw": "VTJXSOK",
+   "country_raw": "United Kingdom",
+   "rule": "WILSON",
+   "rule_method": "sole_delegate",
+   "jev": "WILSON (United Kingdom)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "WILSON (United Kingdom)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.63",
+    6,
+    3
+   ],
+   "raw": "HOCD",
+   "country_raw": "Auutralia",
+   "rule": "HOOD",
+   "rule_method": "roster_match",
+   "jev": "HOOD (Australia)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "HOOD (Australia)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.63",
+    7,
+    0
+   ],
+   "raw": "LARRAIK",
+   "country_raw": "Chile",
+   "rule": "LARRAIN",
+   "rule_method": "roster_match",
+   "jev": "LARRAIN (Chile)",
+   "prob": 1.0,
+   "confidence": 0.99,
+   "jev_correct": true,
+   "gold": "LARRAIN (Chile)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.63",
+    7,
+    1
+   ],
+   "raw": "LCUTFI",
+   "country_raw": "Egypt",
+   "rule": "LOUTFI",
+   "rule_method": "roster_match",
+   "jev": "LOUTFI (Egypt)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "LOUTFI (Egypt)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.63",
+    7,
+    2
+   ],
+   "raw": "XLËXDVKIH",
+   "country_raw": "Ukrainian Soviet Socialist Republic",
+   "rule": null,
+   "rule_method": "unresolved",
+   "jev": "KLEXDVKIN (Ukrainian Soviet Socialist Republic)",
+   "prob": 0.88,
+   "confidence": 0.86,
+   "jev_correct": false,
+   "gold": "KLEKOVKIN (Ukrainian Soviet Socialist Republic)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.63",
+    8,
+    0
+   ],
+   "raw": "FONTAINA",
+   "country_raw": "Uruguay",
+   "rule": "FONTAINA",
+   "rule_method": "roster_match",
+   "jev": "FONTAINA (Uruguay)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "FONTAINA (Uruguay)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.63",
+    8,
+    1
+   ],
+   "raw": "STEPANEHKO",
+   "country_raw": "Byelorussian Soviet Socialist Republic",
+   "rule": "STEPANENKO",
+   "rule_method": "roster_match",
+   "jev": "STEPANENKO (Byelorussian Soviet Socialist Republic)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "STEPANENKO (Byelorussian Soviet Socialist Republic)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.63",
+    9,
+    0
+   ],
+   "raw": "LOPEZ",
+   "country_raw": "Philippines",
+   "rule": "LOPEZ",
+   "rule_method": "roster_match",
+   "jev": "LOPEZ (Philippines)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "LOPEZ (Philippines)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.63",
+    10,
+    0
+   ],
+   "raw": "PAVLOV",
+   "country_raw": "Union of Soviet Socialist Republics",
+   "rule": "PAVLOV",
+   "rule_method": "roster_match",
+   "jev": "PAVLOV (Union of Soviet Socialist Republics)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "PAVLOV (Union of Soviet Socialist Republics)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.63",
+    11,
+    0
+   ],
+   "raw": "WILSON",
+   "country_raw": "United Kingdom",
+   "rule": "WILSON",
+   "rule_method": "roster_match",
+   "jev": "WILSON (United Kingdom)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "WILSON (United Kingdom)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.63",
+    12,
+    0
+   ],
+   "raw": "CASSIN",
+   "country_raw": "Prance",
+   "rule": "CASSIN",
+   "rule_method": "roster_match",
+   "jev": "CASSIN (France)",
+   "prob": 0.98,
+   "confidence": 0.98,
+   "jev_correct": true,
+   "gold": "CASSIN (France)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.63",
+    12,
+    1
+   ],
+   "raw": "HOOD",
+   "country_raw": "Australia",
+   "rule": "HOOD",
+   "rule_method": "roster_match",
+   "jev": "HOOD (Australia)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "HOOD (Australia)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.63",
+    12,
+    2
+   ],
+   "raw": "CHABG",
+   "country_raw": "CMna",
+   "rule": "CHANG",
+   "rule_method": "roster_match",
+   "jev": "CHANG (China)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CHANG (China)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.63",
+    13,
+    0
+   ],
+   "raw": "MALIK",
+   "country_raw": "Lebanon",
+   "rule": "MALIK",
+   "rule_method": "roster_match",
+   "jev": "MALIK (Lebanon)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "MALIK (Lebanon)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.63",
+    13,
+    1
+   ],
+   "raw": "LOPEZ",
+   "country_raw": "Philippines",
+   "rule": "LOPEZ",
+   "rule_method": "roster_match",
+   "jev": "LOPEZ (Philippines)",
+   "prob": 0.99,
+   "confidence": 0.99,
+   "jev_correct": true,
+   "gold": "LOPEZ (Philippines)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.63",
+    13,
+    2
+   ],
+   "raw": "PAVLOV",
+   "country_raw": "Union of Soviet Socialist Republics",
+   "rule": "PAVLOV",
+   "rule_method": "roster_match",
+   "jev": "PAVLOV (Union of Soviet Socialist Republics)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "PAVLOV (Union of Soviet Socialist Republics)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.63",
+    14,
+    0
+   ],
+   "raw": "CHAflG",
+   "country_raw": "China",
+   "rule": "CHANG",
+   "rule_method": "sole_delegate",
+   "jev": "CHANG (China)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CHANG (China)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.64",
+    2,
+    0
+   ],
+   "raw": "CHANG",
+   "country_raw": "China",
+   "rule": "CHANG",
+   "rule_method": "roster_match",
+   "jev": "CHANG (China)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CHANG (China)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.64",
+    2,
+    1
+   ],
+   "raw": "PAVLOV",
+   "country_raw": "Union of Soviet Socialist Republics",
+   "rule": "PAVLOV",
+   "rule_method": "roster_match",
+   "jev": "PAVLOV (Union of Soviet Socialist Republics)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "PAVLOV (Union of Soviet Socialist Republics)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.64",
+    3,
+    0
+   ],
+   "raw": "CASSIN",
+   "country_raw": "France",
+   "rule": "CASSIN",
+   "rule_method": "roster_match",
+   "jev": "CASSIN (France)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CASSIN (France)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.64",
+    4,
+    0
+   ],
+   "raw": "LOUTFI",
+   "country_raw": "Egypt",
+   "rule": "LOUTFI",
+   "rule_method": "roster_match",
+   "jev": "LOUTFI (Egypt)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "LOUTFI (Egypt)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.64",
+    4,
+    1
+   ],
+   "raw": "CHANG-",
+   "country_raw": "China",
+   "rule": "CHANG",
+   "rule_method": "roster_match",
+   "jev": "CHANG (China)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CHANG (China)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.64",
+    4,
+    2
+   ],
+   "raw": "WILSON",
+   "country_raw": "United Kingdom",
+   "rule": "WILSON",
+   "rule_method": "roster_match",
+   "jev": "WILSON (United Kingdom)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "WILSON (United Kingdom)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.64",
+    4,
+    3
+   ],
+   "raw": "VTLFAN",
+   "country_raw": "Yugoslavia",
+   "rule": "VILFAN",
+   "rule_method": "roster_match",
+   "jev": "VILFAN (Yugoslavia)",
+   "prob": 1.0,
+   "confidence": 0.99,
+   "jev_correct": true,
+   "gold": "VILFAN (Yugoslavia)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.64",
+    5,
+    0
+   ],
+   "raw": "BOBB",
+   "country_raw": "Liaison Committee of International Women's Organizations",
+   "rule": "ROBB",
+   "rule_method": "roster_match",
+   "jev": "ROBB (Liaison Committee of Women's International Organizations)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "ROBB (Liaison Committee of Women's International Organizations)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.64",
+    6,
+    0
+   ],
+   "raw": "CHANG",
+   "country_raw": "China",
+   "rule": "CHANG",
+   "rule_method": "roster_match",
+   "jev": "CHANG (China)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CHANG (China)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.64",
+    6,
+    1
+   ],
+   "raw": "WIISON",
+   "country_raw": "United Kingdom",
+   "rule": "WILSON",
+   "rule_method": "roster_match",
+   "jev": "WILSON (United Kingdom)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "WILSON (United Kingdom)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.64",
+    7,
+    0
+   ],
+   "raw": "LEDON",
+   "country_raw": "Commission on the Statue of Women",
+   "rule": "LEDON",
+   "rule_method": "roster_match",
+   "jev": "LEDON (Commission on the Status of Women)",
+   "prob": 0.99,
+   "confidence": 0.99,
+   "jev_correct": true,
+   "gold": "LEDON (Commission on the Status of Women)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.64",
+    7,
+    1
+   ],
+   "raw": "SEULES",
+   "country_raw": "American Federation of Labor",
+   "rule": "SENDER",
+   "rule_method": "sole_delegate",
+   "jev": "SENDER (American Federation of Labor)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "SENDER (American Federation of Labor)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.64",
+    7,
+    2
+   ],
+   "raw": "CASSIN",
+   "country_raw": "France",
+   "rule": "CASSIN",
+   "rule_method": "roster_match",
+   "jev": "CASSIN (France)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "CASSIN (France)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.64",
+    8,
+    0
+   ],
+   "raw": "KLEKOVKIN",
+   "country_raw": "Ukrainian Soviet Socialist Republic",
+   "rule": "KLEKOVKIN",
+   "rule_method": "roster_match",
+   "jev": "KLEKOVKIN (Ukrainian Soviet Socialist Republic)",
+   "prob": 0.99,
+   "confidence": 0.99,
+   "jev_correct": true,
+   "gold": "KLEKOVKIN (Ukrainian Soviet Socialist Republic)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.64",
+    9,
+    0
+   ],
+   "raw": "HOOD",
+   "country_raw": "Australia",
+   "rule": "HOOD",
+   "rule_method": "roster_match",
+   "jev": "HOOD (Australia)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "HOOD (Australia)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.64",
+    10,
+    0
+   ],
+   "raw": "MEETA",
+   "country_raw": "India",
+   "rule": "MEHTA",
+   "rule_method": "roster_match",
+   "jev": "MEHTA (India)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "MEHTA (India)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.64",
+    11,
+    0
+   ],
+   "raw": "WUSOÏÏ",
+   "country_raw": "United Kingdom",
+   "rule": "WILSON",
+   "rule_method": "sole_delegate",
+   "jev": "WILSON (United Kingdom)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "WILSON (United Kingdom)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.64",
+    13,
+    0
+   ],
+   "raw": "LESEAU",
+   "country_raw": "Belgium",
+   "rule": "LEBEAU",
+   "rule_method": "roster_match",
+   "jev": "LEBEAU (Belgium)",
+   "prob": 0.72,
+   "confidence": 0.71,
+   "jev_correct": true,
+   "gold": "LEBEAU (Belgium)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.64",
+    14,
+    0
+   ],
+   "raw": "PAVLOV",
+   "country_raw": "Union of Soviet Socialist Republics",
+   "rule": "PAVLOV",
+   "rule_method": "roster_match",
+   "jev": "PAVLOV (Union of Soviet Socialist Republics)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "PAVLOV (Union of Soviet Socialist Republics)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.64",
+    15,
+    0
+   ],
+   "raw": "LOPEZ",
+   "country_raw": "Philippines",
+   "rule": "LOPEZ",
+   "rule_method": "roster_match",
+   "jev": "LOPEZ (Philippines)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "LOPEZ (Philippines)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.64",
+    17,
+    0
+   ],
+   "raw": "MALIK",
+   "country_raw": "Lebanon",
+   "rule": "MALIK",
+   "rule_method": "roster_match",
+   "jev": "MALIK (Lebanon)",
+   "prob": 1.0,
+   "confidence": 1.0,
+   "jev_correct": true,
+   "gold": "MALIK (Lebanon)"
+  },
+  {
+   "key": [
+    "E/CN.4/SR.64",
+    17,
+    1
+   ],
+   "raw": "LEBEAU",
+   "country_raw": "Belgium",
+   "rule": "LEBEAU",
+   "rule_method": "roster_match",
+   "jev": "LEBEAU (Belgium)",
+   "prob": 0.99,
+   "confidence": 0.98,
+   "jev_correct": true,
+   "gold": "LEBEAU (Belgium)"
+  }
+ ]
+}

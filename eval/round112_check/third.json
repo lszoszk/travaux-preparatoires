@@ -1,0 +1,5 @@
+[{"item": 10, "verdict": "wrong", "reason": "Removed only masthead date/time/place, but 'THIRD COMMITTEE, 1273rd MEETING \\ :' stays mid-sentence; joined text still garbled. No speech lost."},
+ {"item": 15, "verdict": "wrong", "reason": "Removed only masthead date/time/place, but 'Se THIRD COMMITTEE, 1398th MEETING Ny' stays between 'and' and 'it was'; garbled. No speech lost."},
+ {"item": 21, "verdict": "wrong", "reason": "Removed text is furniture, but 'arma-ments' not rejoined: leaves 'arma- 31 THIRD COMMITTER 769th ments'."},
+ {"item": 25, "verdict": "wrong", "reason": "Removed text is furniture, but 'repre-sentative' not rejoined: leaves 'repre- THIRD COMMITTER 789th sentative'."},
+ {"item": 35, "verdict": "wrong", "reason": "Removed text is furniture, but 'amend-ment' not rejoined; head kept, stray quote inserted: 'amend- THIRD COMMITTEE 863rd - MEETING ‘ ment'."}]

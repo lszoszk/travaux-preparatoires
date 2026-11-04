@@ -1,0 +1,554 @@
+{
+ "speaker-00": {
+  "speaker": "PAVLOV",
+  "delegation": "Union of Soviet Socialist Republics"
+ },
+ "speaker-01": {
+  "speaker": "PÉREZ CISNEROS",
+  "delegation": "Cuba"
+ },
+ "speaker-02": {
+  "speaker": "CASSIN",
+  "delegation": "France"
+ },
+ "speaker-03": {
+  "speaker": "PÉREZ CISNEROS",
+  "delegation": "Cuba"
+ },
+ "speaker-04": {
+  "speaker": "PAVLOV",
+  "delegation": "Union of Soviet Socialist Republics"
+ },
+ "speaker-05": {
+  "speaker": "CONTOUMAS",
+  "delegation": "Greece"
+ },
+ "speaker-06": {
+  "speaker": "CAMPOS ORTIZ",
+  "delegation": "Mexico"
+ },
+ "speaker-07": {
+  "speaker": "BEGTRUP",
+  "delegation": "Denmark"
+ },
+ "speaker-08": {
+  "speaker": "DEHOUSSE",
+  "delegation": "Belgium"
+ },
+ "speaker-09": {
+  "speaker": "HABIB",
+  "delegation": "India"
+ },
+ "speaker-10": {
+  "speaker": "PLAZA",
+  "delegation": "Venezuela"
+ },
+ "speaker-11": {
+  "speaker": "KAYALY",
+  "delegation": "Syria"
+ },
+ "speaker-12": {
+  "speaker": "CORBET",
+  "delegation": "United Kingdom"
+ },
+ "speaker-13": {
+  "speaker": "AZKOUL",
+  "delegation": "Lebanon"
+ },
+ "speaker-14": {
+  "speaker": "AZIZ",
+  "delegation": "Afghanistan"
+ },
+ "speaker-15": {
+  "speaker": "CAÑAS",
+  "delegation": "Costa Rica"
+ },
+ "speaker-16": {
+  "speaker": "PÉREZ CISNEROS",
+  "delegation": "Cuba"
+ },
+ "speaker-17": {
+  "speaker": "GRUMBACH",
+  "delegation": "France"
+ },
+ "speaker-18": {
+  "speaker": "PAVLOV",
+  "delegation": "Union of Soviet Socialist Republics"
+ },
+ "speaker-19": {
+  "speaker": "ROOSEVELT",
+  "delegation": "United States of America"
+ },
+ "speaker-20": {
+  "speaker": "KOVALENKO",
+  "delegation": "Ukrainian Soviet Socialist Republic"
+ },
+ "speaker-21": {
+  "speaker": "ALTMAN",
+  "delegation": "Poland"
+ },
+ "speaker-22": {
+  "speaker": "HOFFMEISTER",
+  "delegation": "Czechoslovakia"
+ },
+ "speaker-23": {
+  "speaker": "KAYSER",
+  "delegation": "France"
+ },
+ "speaker-24": {
+  "speaker": "CHANG",
+  "delegation": "China"
+ },
+ "speaker-25": {
+  "speaker": "CARTON DE WIART",
+  "delegation": "Belgium"
+ },
+ "speaker-26": {
+  "speaker": "PAVLOV",
+  "delegation": "Union of Soviet Socialist Republics"
+ },
+ "speaker-27": {
+  "speaker": "CORBET",
+  "delegation": "United Kingdom"
+ },
+ "speaker-28": {
+  "speaker": "HAMDI",
+  "delegation": "Egypt"
+ },
+ "vote-00": {
+  "outcome": "adopted",
+  "yes": 10,
+  "no": 4,
+  "abstentions": null
+ },
+ "vote-01": {
+  "outcome": "adopted",
+  "yes": 8,
+  "no": 7,
+  "abstentions": 3
+ },
+ "vote-02": {
+  "outcome": "adopted",
+  "yes": 6,
+  "no": 0,
+  "abstentions": 1
+ },
+ "vote-03": {
+  "outcome": "adopted",
+  "yes": 12,
+  "no": 0,
+  "abstentions": 6
+ },
+ "vote-04": {
+  "outcome": "adopted",
+  "yes": 9,
+  "no": 2,
+  "abstentions": 2
+ },
+ "vote-05": {
+  "outcome": "adopted",
+  "yes": 8,
+  "no": 2,
+  "abstentions": 5
+ },
+ "vote-06": {
+  "outcome": "rejected",
+  "yes": 7,
+  "no": 8,
+  "abstentions": 3
+ },
+ "vote-07": {
+  "outcome": "adopted",
+  "yes": 9,
+  "no": 4,
+  "abstentions": 5
+ },
+ "vote-08": {
+  "outcome": "adopted",
+  "yes": 10,
+  "no": null,
+  "abstentions": 1
+ },
+ "vote-09": {
+  "outcome": "adopted",
+  "yes": 13,
+  "no": 0,
+  "abstentions": 1
+ },
+ "vote-10": {
+  "outcome": "rejected",
+  "yes": 37,
+  "no": 42,
+  "abstentions": 15
+ },
+ "vote-11": {
+  "outcome": "adopted",
+  "yes": 8,
+  "no": 7,
+  "abstentions": 3
+ },
+ "vote-12": {
+  "outcome": "adopted",
+  "yes": 9,
+  "no": 2,
+  "abstentions": 2
+ },
+ "vote-13": {
+  "outcome": "adopted",
+  "yes": 15,
+  "no": 0,
+  "abstentions": 3
+ },
+ "vote-14": {
+  "outcome": "adopted",
+  "yes": 78,
+  "no": 0,
+  "abstentions": 2
+ },
+ "vote-15": {
+  "outcome": "adopted",
+  "yes": 67,
+  "no": 0,
+  "abstentions": 6
+ },
+ "vote-16": {
+  "outcome": "adopted",
+  "yes": 11,
+  "no": 4,
+  "abstentions": 3
+ },
+ "vote-17": {
+  "outcome": "rejected",
+  "yes": 6,
+  "no": 9,
+  "abstentions": 3
+ },
+ "vote-18": {
+  "outcome": "adopted",
+  "yes": 8,
+  "no": 1,
+  "abstentions": null
+ },
+ "vote-19": {
+  "outcome": "rejected",
+  "yes": 2,
+  "no": 2,
+  "abstentions": 2
+ },
+ "vote-20": {
+  "outcome": "rejected",
+  "yes": 2,
+  "no": 2,
+  "abstentions": 2
+ },
+ "vote-21": {
+  "outcome": "adopted",
+  "yes": 6,
+  "no": 3,
+  "abstentions": 9
+ },
+ "vote-22": {
+  "outcome": "rejected",
+  "yes": 5,
+  "no": 6,
+  "abstentions": 7
+ },
+ "vote-23": {
+  "outcome": "adopted",
+  "yes": 6,
+  "no": 5,
+  "abstentions": 7
+ },
+ "vote-24": {
+  "outcome": "rejected",
+  "yes": 2,
+  "no": 4,
+  "abstentions": 1
+ },
+ "vote-25": {
+  "outcome": "adopted",
+  "yes": 9,
+  "no": 2,
+  "abstentions": 1
+ },
+ "vote-26": {
+  "outcome": "adopted",
+  "yes": 11,
+  "no": 0,
+  "abstentions": 5
+ },
+ "sponsor-00": {
+  "proposers": [
+   "India"
+  ]
+ },
+ "sponsor-01": {
+  "proposers": [
+   "Denmark"
+  ]
+ },
+ "sponsor-02": {
+  "proposers": [
+   "Cuba"
+  ]
+ },
+ "sponsor-03": {
+  "proposers": [
+   "United States of America"
+  ]
+ },
+ "sponsor-04": {
+  "proposers": [
+   "Lebanon"
+  ]
+ },
+ "sponsor-05": {
+  "proposers": [
+   "United Kingdom"
+  ]
+ },
+ "sponsor-06": {
+  "proposers": [
+   "Greece"
+  ]
+ },
+ "sponsor-07": {
+  "proposers": [
+   "Ukrainian Soviet Socialist Republic"
+  ]
+ },
+ "sponsor-08": {
+  "proposers": [
+   "Australia"
+  ]
+ },
+ "sponsor-09": {
+  "proposers": [
+   "Denmark"
+  ]
+ },
+ "sponsor-10": {
+  "proposers": [
+   "Ecuador"
+  ]
+ },
+ "sponsor-11": {
+  "proposers": [
+   "India",
+   "United Kingdom"
+  ]
+ },
+ "sponsor-12": {
+  "proposers": [
+   "Belgium"
+  ]
+ },
+ "sponsor-13": {
+  "proposers": [
+   "Romania"
+  ]
+ },
+ "sponsor-14": {
+  "proposers": [
+   "Afghanistan",
+   "Philippines"
+  ]
+ },
+ "sponsor-15": {
+  "proposers": [
+   "Saudi Arabia"
+  ]
+ },
+ "sponsor-16": {
+  "proposers": [
+   "United States of America"
+  ]
+ },
+ "sponsor-17": {
+  "proposers": [
+   "Union of Soviet Socialist Republics"
+  ]
+ },
+ "sponsor-18": {
+  "proposers": [
+   "Ukrainian Soviet Socialist Republic"
+  ]
+ },
+ "sponsor-19": {
+  "proposers": [
+   "France"
+  ]
+ },
+ "sponsor-20": {
+  "proposers": [
+   "Lebanon",
+   "Pakistan"
+  ]
+ },
+ "sponsor-21": {
+  "proposers": [
+   "Greece",
+   "Uruguay"
+  ]
+ },
+ "sponsor-22": {
+  "proposers": [
+   "Union of Soviet Socialist Republics"
+  ]
+ },
+ "sponsor-23": {
+  "proposers": [
+   "Czechoslovakia"
+  ]
+ },
+ "sponsor-24": {
+  "proposers": [
+   "India"
+  ]
+ },
+ "sponsor-25": {
+  "proposers": [
+   "Australia"
+  ]
+ },
+ "sponsor-26": {
+  "proposers": [
+   "Norway"
+  ]
+ },
+ "sponsor-27": {
+  "proposers": [
+   "Uruguay"
+  ]
+ },
+ "sponsor-28": {
+  "proposers": [
+   "Afghanistan"
+  ]
+ },
+ "sponsor-29": {
+  "proposers": [
+   "United Kingdom"
+  ]
+ },
+ "tag-00": {
+  "about": true
+ },
+ "tag-01": {
+  "about": false
+ },
+ "tag-02": {
+  "about": false
+ },
+ "tag-03": {
+  "about": false
+ },
+ "tag-04": {
+  "about": true
+ },
+ "tag-05": {
+  "about": false
+ },
+ "tag-06": {
+  "about": true
+ },
+ "tag-07": {
+  "about": true
+ },
+ "tag-08": {
+  "about": true
+ },
+ "tag-09": {
+  "about": false
+ },
+ "tag-10": {
+  "about": false
+ },
+ "tag-11": {
+  "about": true
+ },
+ "tag-12": {
+  "about": true
+ },
+ "tag-13": {
+  "about": false
+ },
+ "tag-14": {
+  "about": false
+ },
+ "tag-15": {
+  "about": false
+ },
+ "tag-16": {
+  "about": true
+ },
+ "tag-17": {
+  "about": false
+ },
+ "tag-18": {
+  "about": true
+ },
+ "tag-19": {
+  "about": false
+ },
+ "tag-20": {
+  "about": true
+ },
+ "tag-21": {
+  "about": false
+ },
+ "tag-22": {
+  "about": false
+ },
+ "tag-23": {
+  "about": true
+ },
+ "tag-24": {
+  "about": true
+ },
+ "tag-25": {
+  "about": false
+ },
+ "tag-26": {
+  "about": false
+ },
+ "tag-27": {
+  "about": true
+ },
+ "tag-28": {
+  "about": true
+ },
+ "tag-29": {
+  "about": true
+ },
+ "tag-30": {
+  "about": true
+ },
+ "tag-31": {
+  "about": false
+ },
+ "tag-32": {
+  "about": false
+ },
+ "tag-33": {
+  "about": false
+ },
+ "tag-34": {
+  "about": false
+ },
+ "tag-35": {
+  "about": true
+ },
+ "tag-36": {
+  "about": false
+ },
+ "tag-37": {
+  "about": true
+ },
+ "tag-38": {
+  "about": true
+ },
+ "tag-39": {
+  "about": true
+ }
+}

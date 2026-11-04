@@ -1,0 +1,174 @@
+{
+ "article": 1,
+ "texts": {
+  "cassin_draft": "All men are brothers. Being endowed with reason, members of one family, they are free and possess equal dignity and rights.",
+  "drafting_committee_1": "All men are brothers. Being endowed with reason and conscience, they are members of one family. They are free, and possess equal dignity and rights. Articles",
+  "e_cn4_57": "All men are born free and equal in dignity and rights. They are endowed by nature with reason and conscience, and should act towards one another like brothers.\"",
+  "geneva_draft": "Article 1 All men are born free and equal in dignity and rights. They are endowed by nature with reason and conscience, and should act towards one another like brothers.",
+  "drafting_committee_2": "All men are born free and equal in dignity and rights. They are endowed by nature with reason and conscience, and should act towards one another like brothers",
+  "chr_3": "All human beings are born free and equal in dignity and rights. They are endowed by nature with reason and conscience, and should act towards one another in a spirit of brotherhood.",
+  "a777": "All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.",
+  "final": "All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood."
+ },
+ "sources": {
+  "cassin_draft": [
+   {
+    "symbol": "E/CN.4/AC.1/W.2/Rev.2",
+    "draft_article": 1,
+    "page": 1,
+    "text_from": "vision reader"
+   }
+  ],
+  "drafting_committee_1": [
+   {
+    "symbol": "E/CN.4/21",
+    "draft_article": 1,
+    "page": 73,
+    "text_from": "vision reader"
+   }
+  ],
+  "e_cn4_57": [
+   {
+    "symbol": "E/CN.4/57",
+    "draft_article": 1,
+    "page": 5,
+    "text_from": "vision reader"
+   }
+  ],
+  "geneva_draft": [
+   {
+    "symbol": "E/600",
+    "draft_article": 1,
+    "page": 17,
+    "text_from": "vision reader"
+   }
+  ],
+  "drafting_committee_2": [
+   {
+    "symbol": "E/CN.4/95",
+    "draft_article": 1,
+    "page": 5,
+    "text_from": "vision reader"
+   }
+  ],
+  "chr_3": [
+   {
+    "symbol": "E/800",
+    "draft_article": 1,
+    "page": 10,
+    "text_from": "vision reader"
+   }
+  ],
+  "a777": [
+   {
+    "symbol": "A/777",
+    "draft_article": 1,
+    "page": 3,
+    "text_from": "vision reader"
+   }
+  ],
+  "final": [
+   {
+    "symbol": "A/RES/217(III)",
+    "text_from": "un.org"
+   }
+  ]
+ },
+ "steps": [
+  {
+   "from": "cassin_draft",
+   "to": "drafting_committee_1",
+   "changes": [
+    {
+     "kind": "added",
+     "old": "",
+     "new": "and conscience they are",
+     "context": "being endowed with reason and conscience they are members of one family",
+     "n": "cassin_draft>drafting_committee_1#1"
+    }
+   ]
+  },
+  {
+   "from": "drafting_committee_1",
+   "to": "e_cn4_57",
+   "changes": [
+    {
+     "kind": "replaced",
+     "old": "brothers being",
+     "new": "born free and equal in dignity and rights they are",
+     "context": "all men are born free and equal in dignity and rights they are endowed by nature with",
+     "n": "drafting_committee_1>e_cn4_57#1"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "by nature",
+     "context": "rights they are endowed by nature with reason and conscience",
+     "n": "drafting_committee_1>e_cn4_57#2"
+    },
+    {
+     "kind": "replaced",
+     "old": "they are members of",
+     "new": "and should act towards",
+     "context": "with reason and conscience and should act towards one another like brothers",
+     "n": "drafting_committee_1>e_cn4_57#3"
+    },
+    {
+     "kind": "replaced",
+     "old": "family they are free and possess equal dignity and rights",
+     "new": "another like brothers",
+     "context": "should act towards one another like brothers",
+     "n": "drafting_committee_1>e_cn4_57#4"
+    }
+   ]
+  },
+  {
+   "from": "e_cn4_57",
+   "to": "geneva_draft",
+   "changes": []
+  },
+  {
+   "from": "geneva_draft",
+   "to": "drafting_committee_2",
+   "changes": []
+  },
+  {
+   "from": "drafting_committee_2",
+   "to": "chr_3",
+   "changes": [
+    {
+     "kind": "replaced",
+     "old": "men",
+     "new": "human beings",
+     "context": "all human beings are born free and",
+     "n": "drafting_committee_2>chr_3#1"
+    },
+    {
+     "kind": "replaced",
+     "old": "like brothers",
+     "new": "in a spirit of brotherhood",
+     "context": "act towards one another in a spirit of brotherhood",
+     "n": "drafting_committee_2>chr_3#2"
+    }
+   ]
+  },
+  {
+   "from": "chr_3",
+   "to": "a777",
+   "changes": [
+    {
+     "kind": "dropped",
+     "old": "by nature",
+     "new": "",
+     "context": "rights they are endowed by nature with reason and conscience",
+     "n": "chr_3>a777#1"
+    }
+   ]
+  },
+  {
+   "from": "a777",
+   "to": "final",
+   "changes": []
+  }
+ ]
+}

@@ -1,0 +1,967 @@
+[
+ {
+  "label": "s74-old",
+  "i": 0,
+  "page_ok": true,
+  "speeches_on_image": 2,
+  "errors": []
+ },
+ {
+  "label": "s74-old",
+  "i": 1,
+  "page_ok": false,
+  "speeches_on_image": 6,
+  "errors": [
+   {
+    "type": "missed_turn",
+    "segment_id": "e_cn.4_sub.2_sr.5-0016",
+    "detail": "Page has a separate turn 'Mr. DANIELS (United States of America) also supported their Motion.' after Shafaq's; the segment keeps both in one Shafaq speech."
+   },
+   {
+    "type": "other",
+    "segment_id": "e_cn.4_sub.2_sr.5-0019",
+    "detail": "Daniels' turn ends on this page with 'to general rights.' The segment then runs on with '\"Everyone is entitled to...' and ends with Wu's ending from the top of this page. It looks like this page's text repeated, maybe a duplicate page."
+   }
+  ]
+ },
+ {
+  "label": "s74-old",
+  "i": 2,
+  "page_ok": false,
+  "speeches_on_image": 5,
+  "errors": [
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "e_cn.4_ac.1_sr.40-0076",
+    "detail": "The ending of Cassin's speech, which runs over from p.17, contains the page 18 running header as OCR noise ('E/on.4 /ac, UR HO') before the quoted text 'These shall not prejudice...'."
+   }
+  ]
+ },
+ {
+  "label": "s74-old",
+  "i": 3,
+  "page_ok": false,
+  "speeches_on_image": 2,
+  "errors": [
+   {
+    "type": "missed_turn",
+    "segment_id": "e_cn.4_sr.229-0006",
+    "detail": "The top of the page continues Mr. Whitlam's (Australia) speech, which started on an earlier page. The segment has no split at his turn, so it is a chair segment (MALIK) that holds both the chair's turn and Whitlam's whole speech."
+   }
+  ]
+ },
+ {
+  "label": "s74-old",
+  "i": 4,
+  "page_ok": false,
+  "speeches_on_image": 3,
+  "errors": [
+   {
+    "type": "missed_turn",
+    "segment_id": "e_cn.4_sr.145-0023",
+    "detail": "Para 24 'Mr. SANTA CRUZ (Chile) feared that there might be some confusion...' (paras 24-26) starts a new turn, but the Ramadan (Egypt) segment runs on to Santa Cruz's 'readiness to accept the majority's decision'."
+   }
+  ]
+ },
+ {
+  "label": "s74-old",
+  "i": 5,
+  "page_ok": false,
+  "speeches_on_image": 5,
+  "errors": [
+   {
+    "type": "wrong_kind",
+    "segment_id": "e_cn.4_sr.103-0019",
+    "detail": "The underlined line 'A vote was taken by show of hands on the motion for closure proposed by the Belgian representative.' is left at the end of Lebeau's speech. It belongs with the vote segment."
+   },
+   {
+    "type": "missed_turn",
+    "segment_id": "e_cn.4_sr.103-0022",
+    "detail": "The Chairman's segment ends with Mrs. Mehta's text ('...should be heard when the Commission examined the question of trade union rights'). Mrs. MEHTA (India) begins her own turn on this page and has no segment of her own."
+   }
+  ]
+ },
+ {
+  "label": "s74-old",
+  "i": 6,
+  "page_ok": false,
+  "speeches_on_image": 7,
+  "errors": [
+   {
+    "type": "missed_turn",
+    "segment_id": "e_cn.4_sr.159-0048",
+    "detail": "Para 86 on this page is a new turn by Mr. ORIBE (Uruguay) on provisional laws and rent laws, but it is inside the Whitlam (Australia) segment from page 17 instead of having its own segment."
+   },
+   {
+    "type": "missed_turn",
+    "segment_id": "e_cn.4_sr.159-0052",
+    "detail": "Para 91, Mr. ORDONNEAU (France) saying he had no objection to the amendment, is merged into Mrs. Mehta's (India) para 90 segment."
+   },
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "e_cn.4_sr.159-0055",
+    "detail": "The opening contains the catchword '/93. The CHAIRMAN' and the 'Digitized by Dag Hammarskjöld Library' footer before the real turn text on page 19."
+   }
+  ]
+ },
+ {
+  "label": "s74-old",
+  "i": 7,
+  "page_ok": true,
+  "speeches_on_image": 2,
+  "errors": []
+ },
+ {
+  "label": "s74-old",
+  "i": 8,
+  "page_ok": false,
+  "speeches_on_image": 4,
+  "errors": [
+   {
+    "type": "missed_turn",
+    "segment_id": "e_cn.4_sr.143-0007",
+    "detail": "Para 19 'Mr. WHITLAM (Australia) stated...' (paras 19-21) begins a new turn, but it is inside the CHAIRMAN's segment, whose ending is Whitlam's 'he would vote in favour of the United Kingdom amendment'."
+   }
+  ]
+ },
+ {
+  "label": "s74-old",
+  "i": 9,
+  "page_ok": true,
+  "speeches_on_image": 1,
+  "errors": []
+ },
+ {
+  "label": "s74-old",
+  "i": 10,
+  "page_ok": false,
+  "speeches_on_image": 1,
+  "errors": [
+   {
+    "type": "wrong_speaker",
+    "segment_id": "e_cn.4_sr.212-0003",
+    "detail": "The text continuing at the top of the page is Mr. Cassin's ('He (Mr. Cassin) acknowledged...'), but the segment runs pp. 5-15 under Bentwich. Cassin's turn, which starts on an earlier page, seems to have been merged into Bentwich's segment."
+   }
+  ]
+ },
+ {
+  "label": "s74-old",
+  "i": 11,
+  "page_ok": false,
+  "speeches_on_image": 2,
+  "errors": [
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "e_cn.4_sr.172-0025",
+    "detail": "The segment ends with '@/ON.4/SR, 172', which is this page's running header (E/CN.4/SR.172, Page 11) left in the Nisot speech text."
+   },
+   {
+    "type": "wrong_kind",
+    "segment_id": "e_cn.4_sr.172-0026",
+    "detail": "Para 53 reads 'The CHAIRMAN, speaking as representative of the United States of America'. This is a delegate's speech, but the segment is kind chair with no delegation."
+   }
+  ]
+ },
+ {
+  "label": "s74-old",
+  "i": 12,
+  "page_ok": false,
+  "speeches_on_image": 1,
+  "errors": [
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "e_cn.4_sr.391-0012",
+    "detail": "Cassin's speech ends on the previous page, but its ending includes this page's running header 'E/CN,4/SR.391' and stray marks. Because of that header, the speech wrongly appears to run onto page 22."
+   }
+  ]
+ },
+ {
+  "label": "s74-old",
+  "i": 13,
+  "page_ok": true,
+  "speeches_on_image": 1,
+  "errors": []
+ },
+ {
+  "label": "s74-old",
+  "i": 14,
+  "page_ok": false,
+  "speeches_on_image": 1,
+  "errors": [
+   {
+    "type": "other",
+    "segment_id": "e_cn.4_sr.312-0009",
+    "detail": "Continuation text on this page is the Australian delegation's ('Subject to those reservations, the Australian delegation would support...'), but the segment is Simsarian (USA); an Australian turn probably starts on p.9 inside this segment (missed turn there)."
+   }
+  ]
+ },
+ {
+  "label": "s74-old",
+  "i": 15,
+  "page_ok": false,
+  "speeches_on_image": 7,
+  "errors": [
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "e_cn.4_ac.1_sr.10-0049",
+    "detail": "The chair segment carried over from page 10 ends with the page 11 running header symbol 'B/CN.4,/AC.1/SR.10', which was left in the text."
+   }
+  ]
+ },
+ {
+  "label": "s74-old",
+  "i": 16,
+  "page_ok": true,
+  "speeches_on_image": 1,
+  "errors": []
+ },
+ {
+  "label": "s74-old",
+  "i": 17,
+  "page_ok": false,
+  "speeches_on_image": 6,
+  "errors": [
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "e_cn.4_sr.226-0025",
+    "detail": "Vote result segment carried over from p.8 ends with page 9's running header 'B/N, 4,/SR.226 He.' (E/CN.4/SR.226 page 9), which is still in the text."
+   }
+  ]
+ },
+ {
+  "label": "s74-old",
+  "i": 18,
+  "page_ok": false,
+  "speeches_on_image": 8,
+  "errors": [
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "a_c.3_sr.1370-0009",
+    "detail": "Mommersteeg's speech ends with the page 5 running header '1370th meeting ~ 10 December 1965 479' attached to its last words."
+   }
+  ]
+ },
+ {
+  "label": "s74-old",
+  "i": 19,
+  "page_ok": false,
+  "speeches_on_image": 4,
+  "errors": [
+   {
+    "type": "wrong_delegation",
+    "segment_id": "a_c.3_sr.1378-0016",
+    "detail": "Page prints 'Mr. KOITE (Mali)' in para. 26. The segment's delegation is Malta, which is a different country (OCR read 'Mala')."
+   }
+  ]
+ },
+ {
+  "label": "s74-old",
+  "i": 20,
+  "page_ok": false,
+  "speeches_on_image": 2,
+  "errors": [
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "a_c.3_sr.794-0033",
+    "detail": "Afnan's speech, carried over from p.2, ends with this page's running header and page number: '794th meeting - 29 October 1957 167'."
+   }
+  ]
+ },
+ {
+  "label": "s74-old",
+  "i": 21,
+  "page_ok": false,
+  "speeches_on_image": 6,
+  "errors": [
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "a_c.3_sr.579-0011",
+    "detail": "Running header '579th meeting — 10 November 1954 187' from the top of page 3 is left in the Rodriguez Fabregat speech text, between 'para-' and 'graph 1 of the operative part'."
+   }
+  ]
+ },
+ {
+  "label": "s74-old",
+  "i": 22,
+  "page_ok": true,
+  "speeches_on_image": 8,
+  "errors": []
+ },
+ {
+  "label": "s74-old",
+  "i": 23,
+  "page_ok": true,
+  "speeches_on_image": 5,
+  "errors": []
+ },
+ {
+  "label": "s74-old",
+  "i": 24,
+  "page_ok": true,
+  "speeches_on_image": 3,
+  "errors": []
+ },
+ {
+  "label": "s74-old",
+  "i": 25,
+  "page_ok": false,
+  "speeches_on_image": 6,
+  "errors": [
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "a_c.3_sr.1456-0042",
+    "detail": "Hanablia's speech (continued from p.7) ends with the running header of p.8: '488 General Assembly ~ Twenty-first Session — Third Committee'."
+   },
+   {
+    "type": "wrong_kind",
+    "segment_id": "a_c.3_sr.1456-0047",
+    "detail": "The heading 'AGENDA ITEM 54 World social situation (continued)* (A/6303 ...)' and 'GENERAL DISCUSSION (continued)*' are left inside Sucharitkul's speech. They should be heading segments."
+   },
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "The footnote at the foot of the left column, '*Resumed from the 1453rd meeting.', has no footnote segment of its own. It may be buried in Quadri's speech text (0048)."
+   }
+  ]
+ },
+ {
+  "label": "s74-old",
+  "i": 26,
+  "page_ok": true,
+  "speeches_on_image": 6,
+  "errors": []
+ },
+ {
+  "label": "s74-old",
+  "i": 27,
+  "page_ok": false,
+  "speeches_on_image": 12,
+  "errors": [
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "a_c.3_sr.1451-0024",
+    "detail": "Page 3's running header and page number ('1451st meeting — 7 December 1966 451', OCR 'A51') are left at the end of Mohammed's speech, which continues from page 2."
+   }
+  ]
+ },
+ {
+  "label": "s74-old",
+  "i": 28,
+  "page_ok": false,
+  "speeches_on_image": 2,
+  "errors": [
+   {
+    "type": "missed_turn",
+    "segment_id": "a_c.3_sr.866-0005",
+    "detail": "Para 15 starts a new turn, 'The Marquis DE VALDEIGLESIAS (Spain)', which runs through para 22. The segment is attributed to Leflerova (Czechoslovakia) but continues to the end of para 22 ('likely to lead to abuses'), so the Spanish speech has no segment of its own."
+   }
+  ]
+ },
+ {
+  "label": "s74-old",
+  "i": 29,
+  "page_ok": true,
+  "speeches_on_image": 0,
+  "errors": []
+ },
+ {
+  "label": "s74-old",
+  "i": 30,
+  "page_ok": true,
+  "speeches_on_image": 1,
+  "errors": []
+ },
+ {
+  "label": "s74-old",
+  "i": 31,
+  "page_ok": false,
+  "speeches_on_image": 0,
+  "errors": [
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "a_pv.180-0013",
+    "detail": "The closing segment reads 'The meeting rose at 12.45 a. m. 9 December 1948'. '9 December 1948' comes from the running header at the top of the page. It is not part of the closing line."
+   }
+  ]
+ },
+ {
+  "label": "s74-old",
+  "i": 32,
+  "page_ok": false,
+  "speeches_on_image": 1,
+  "errors": [
+   {
+    "type": "other_column_or_page_text",
+    "segment_id": "a_pv.180-0007",
+    "detail": "Roosevelt opening has French column text 'votes affirmatifs, 3,73' inserted after 'declaration of human'; the English text continues 'rights, the product of...'."
+   },
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "a_pv.180-0007",
+    "detail": "Running header date '9 December 1948' is left inside Roosevelt's opening, between 'declaration of human' and 'rights'."
+   }
+  ]
+ },
+ {
+  "label": "s74-old",
+  "i": 33,
+  "page_ok": true,
+  "speeches_on_image": 1,
+  "errors": []
+ },
+ {
+  "label": "s74-old",
+  "i": 34,
+  "page_ok": false,
+  "speeches_on_image": 1,
+  "errors": [
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "a_pv.139-0019",
+    "detail": "Blanco's speech ending carries '23 September 1948', the running header of the next page, after 'pledged desires.'"
+   },
+   {
+    "type": "wrong_kind",
+    "segment_id": "a_pv.139-0017",
+    "detail": "The closing 'The meeting rose at 12.53 p.m.' also holds the 140th meeting's title, 'Held at the Palais de Chaillot' line and President line. These belong to the new meeting's header, not the closing."
+   }
+  ]
+ },
+ {
+  "label": "s74-old",
+  "i": 35,
+  "page_ok": false,
+  "speeches_on_image": 5,
+  "errors": [
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "a_pv.55-0011",
+    "detail": "The President's turn has the page number and running header '1123 Fifty-fifth Plenary Meeting' inside its text, in the middle of 'I can read it, ... if the Assembly wishes'."
+   },
+   {
+    "type": "wrong_kind",
+    "segment_id": "a_pv.55-0012",
+    "detail": "The vote segment holds the decision and also agenda heading '146. Pensions of the members of the International Court of Justice... (document A/217)'. On the page the heading stands apart and should be its own heading segment."
+   },
+   {
+    "type": "wrong_kind",
+    "segment_id": "a_pv.55-0014",
+    "detail": "The vote segment holds the decision and also agenda heading '147. Agreement between the United Nations and the Carnegie Foundation... (document A/219)'. That heading should be its own heading segment."
+   },
+   {
+    "type": "other",
+    "segment_id": "a_pv.55-0018",
+    "detail": "The decision reads 'Decision: The unanimously.' and is marked procedural. The words 'resolution was adopted' ended up in segment 0020. It is a vote result like the other decisions."
+   },
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "a_pv.55-0020",
+    "detail": "The opening has the running header '1124 11 December 1946' and the stray words 'resolution was adopted' from the decision above. The French column text 'Commnittee's' is also mixed into the President's turn."
+   }
+  ]
+ },
+ {
+  "label": "s74-old",
+  "i": 36,
+  "page_ok": true,
+  "speeches_on_image": 2,
+  "errors": []
+ },
+ {
+  "label": "s74-old",
+  "i": 37,
+  "page_ok": true,
+  "speeches_on_image": 1,
+  "errors": []
+ },
+ {
+  "label": "s74-old",
+  "i": 38,
+  "page_ok": true,
+  "speeches_on_image": 1,
+  "errors": []
+ },
+ {
+  "label": "s74-old",
+  "i": 39,
+  "page_ok": false,
+  "speeches_on_image": 5,
+  "errors": [
+   {
+    "type": "missed_turn",
+    "segment_id": "e_cn.6_sr.12-0049",
+    "detail": "Page shows 'Replying to a question by Mrs. LEFAUCHEUX (France), Miss KENYON (United States of America) pointed out...' as a new turn; Street's segment runs on and ends with Kenyon's words 'similar situation.'"
+   },
+   {
+    "type": "wrong_kind",
+    "segment_id": "e_cn.6_sr.12-0050",
+    "detail": "Lefaucheux's speech includes the procedural note 'After a brief discussion, the United Kingdom amendment ... was put to the vote.' and the 'DECISION: ... defeated by 7 votes to 3 (4 abstentions).' These should be separate segments."
+   }
+  ]
+ },
+ {
+  "label": "s74-new",
+  "i": 0,
+  "page_ok": true,
+  "speeches_on_image": 2,
+  "errors": []
+ },
+ {
+  "label": "s74-new",
+  "i": 1,
+  "page_ok": false,
+  "speeches_on_image": 6,
+  "errors": [
+   {
+    "type": "missed_turn",
+    "segment_id": "e_cn.4_sub.2_sr.5-0016",
+    "detail": "The page starts a new paragraph 'Mr. DANIELS (United States of America) also supported their Motion.' after Shafaq's turn. The segment keeps it inside Shafaq's speech."
+   },
+   {
+    "type": "other",
+    "segment_id": "e_cn.4_sub.2_sr.5-0019",
+    "detail": "Daniels' segment (pp. 4-5) ends with Wu's words from the top of page 4, word for word ('He was in sympathy with paragraph 2 ... Miss MONROE'). This looks like duplicated or other-page text. Page 5 was not checked."
+   }
+  ]
+ },
+ {
+  "label": "s74-new",
+  "i": 2,
+  "page_ok": true,
+  "speeches_on_image": 5,
+  "errors": []
+ },
+ {
+  "label": "s74-new",
+  "i": 3,
+  "page_ok": false,
+  "speeches_on_image": 2,
+  "errors": [
+   {
+    "type": "missed_turn",
+    "segment_id": "e_cn.4_sr.229-0006",
+    "detail": "The top of page 10 continues Mr. WHITLAM (Australia), ending 'might represent the maximum.' Segment 0006 is a chair (MALIK) segment that holds both the Chairman's remark and Whitlam's whole turn. Whitlam's turn starts on an earlier page."
+   }
+  ]
+ },
+ {
+  "label": "s74-new",
+  "i": 4,
+  "page_ok": false,
+  "speeches_on_image": 3,
+  "errors": [
+   {
+    "type": "missed_turn",
+    "segment_id": "e_cn.4_sr.145-0023",
+    "detail": "Para 24 starts a new turn, 'Mr. SANTA CRUZ (Chile) feared that...', which runs through paras 25-26. The Ramadan (Egypt) segment swallows it and ends with Santa Cruz's 'readiness to accept the majority's decision...'."
+   }
+  ]
+ },
+ {
+  "label": "s74-new",
+  "i": 5,
+  "page_ok": false,
+  "speeches_on_image": 5,
+  "errors": [
+   {
+    "type": "missed_turn",
+    "segment_id": "e_cn.4_sr.103-0022",
+    "detail": "Mrs. MEHTA (India) begins a new turn after the Chairman's announcement ('pointing out that the Commission had very little time left...'), but her text is the ending of the chair segment. No separate speech exists for her."
+   },
+   {
+    "type": "wrong_kind",
+    "segment_id": "e_cn.4_sr.103-0019",
+    "detail": "The underlined 'A vote was taken by show of hands on the motion for closure proposed by the Belgian representative.' is left at the end of Lebeau's speech. It belongs with the vote segment."
+   }
+  ]
+ },
+ {
+  "label": "s74-new",
+  "i": 6,
+  "page_ok": false,
+  "speeches_on_image": 7,
+  "errors": [
+   {
+    "type": "missed_turn",
+    "segment_id": "e_cn.4_sr.159-0048",
+    "detail": "Para 86, Mr. ORIBE (Uruguay), starts this page (provisional laws... rent laws... obsolete) but is inside Whitlam's (Australia) segment carried over from p.17; segment ends with Oribe's text."
+   },
+   {
+    "type": "missed_turn",
+    "segment_id": "e_cn.4_sr.159-0052",
+    "detail": "Para 91, Mr. ORDONNEAU (France) 'stated that he had no objection to that amendment...' is merged into Mrs. Mehta's (India) para 90 segment."
+   },
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "e_cn.4_sr.159-0055",
+    "detail": "Opening contains the catchword '93. The CHAIRMAN' and the 'Digitized by Dag Hammarskjöld Library' footer before the speech text from the next page."
+   }
+  ]
+ },
+ {
+  "label": "s74-new",
+  "i": 7,
+  "page_ok": true,
+  "speeches_on_image": 2,
+  "errors": []
+ },
+ {
+  "label": "s74-new",
+  "i": 8,
+  "page_ok": false,
+  "speeches_on_image": 4,
+  "errors": [
+   {
+    "type": "missed_turn",
+    "segment_id": "e_cn.4_sr.143-0007",
+    "detail": "Para 18 is the Chairman; paras 19-21 are a new turn by Mr. WHITLAM (Australia). The chair segment runs on to Whitlam's 'he would vote in favour of the United Kingdom amendment', so his speech is not a segment of its own."
+   }
+  ]
+ },
+ {
+  "label": "s74-new",
+  "i": 9,
+  "page_ok": true,
+  "speeches_on_image": 1,
+  "errors": []
+ },
+ {
+  "label": "s74-new",
+  "i": 10,
+  "page_ok": false,
+  "speeches_on_image": 1,
+  "errors": [
+   {
+    "type": "wrong_speaker",
+    "segment_id": "e_cn.4_sr.212-0003",
+    "detail": "The page continues a speech by Mr. Cassin ('He (Mr. Cassin) acknowledged...'), but the segment gives Bentwich for pages 5-15. Cassin's turn starts on an earlier page and was not split off there."
+   }
+  ]
+ },
+ {
+  "label": "s74-new",
+  "i": 11,
+  "page_ok": false,
+  "speeches_on_image": 2,
+  "errors": [
+   {
+    "type": "wrong_delegation",
+    "segment_id": "e_cn.4_sr.172-0026",
+    "detail": "Para 53: the Chairman speaks 'as representative of the United States of America' (paras 53-54 are the US delegation's view); the segment has kind chair with delegation null, not United States."
+   }
+  ]
+ },
+ {
+  "label": "s74-new",
+  "i": 12,
+  "page_ok": true,
+  "speeches_on_image": 1,
+  "errors": []
+ },
+ {
+  "label": "s74-new",
+  "i": 13,
+  "page_ok": true,
+  "speeches_on_image": 1,
+  "errors": []
+ },
+ {
+  "label": "s74-new",
+  "i": 14,
+  "page_ok": false,
+  "speeches_on_image": 1,
+  "errors": [
+   {
+    "type": "other",
+    "segment_id": "e_cn.4_sr.312-0009",
+    "detail": "Continuation at top of page says 'Subject to those reservations, the Australian delegation would support...', so it is an Australian speech, not Simsarian (USA). The Australian turn probably starts on page 9 and was missed there."
+   }
+  ]
+ },
+ {
+  "label": "s74-new",
+  "i": 15,
+  "page_ok": true,
+  "speeches_on_image": 7,
+  "errors": []
+ },
+ {
+  "label": "s74-new",
+  "i": 16,
+  "page_ok": true,
+  "speeches_on_image": 1,
+  "errors": []
+ },
+ {
+  "label": "s74-new",
+  "i": 17,
+  "page_ok": false,
+  "speeches_on_image": 6,
+  "errors": [
+   {
+    "type": "wrong_kind",
+    "segment_id": "e_cn.4_sr.226-0030",
+    "detail": "Underlined vote result 'The words \"of his choice\" were retained by 8 votes to 2 with 6 abstentions' is a vote result but is marked procedural; the similar result in 0032 is marked vote."
+   }
+  ]
+ },
+ {
+  "label": "s74-new",
+  "i": 18,
+  "page_ok": true,
+  "speeches_on_image": 8,
+  "errors": []
+ },
+ {
+  "label": "s74-new",
+  "i": 19,
+  "page_ok": false,
+  "speeches_on_image": 4,
+  "errors": [
+   {
+    "type": "wrong_delegation",
+    "segment_id": "a_c.3_sr.1378-0016",
+    "detail": "Para 26 is printed 'Mr. KOITÉ (Mali)'; the segment gives the delegation as Malta (the OCR read 'Mala'), which is a different country."
+   }
+  ]
+ },
+ {
+  "label": "s74-new",
+  "i": 20,
+  "page_ok": true,
+  "speeches_on_image": 2,
+  "errors": []
+ },
+ {
+  "label": "s74-new",
+  "i": 21,
+  "page_ok": false,
+  "speeches_on_image": 6,
+  "errors": [
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "a_c.3_sr.579-0011",
+    "detail": "The page number 187 from the running header is left inside the Uruguayan speech at the page break: 'in para- _ 187 graph 1 of the operative part'."
+   }
+  ]
+ },
+ {
+  "label": "s74-new",
+  "i": 22,
+  "page_ok": true,
+  "speeches_on_image": 8,
+  "errors": []
+ },
+ {
+  "label": "s74-new",
+  "i": 23,
+  "page_ok": true,
+  "speeches_on_image": 5,
+  "errors": []
+ },
+ {
+  "label": "s74-new",
+  "i": 24,
+  "page_ok": true,
+  "speeches_on_image": 3,
+  "errors": []
+ },
+ {
+  "label": "s74-new",
+  "i": 25,
+  "page_ok": false,
+  "speeches_on_image": 6,
+  "errors": [
+   {
+    "type": "wrong_kind",
+    "segment_id": "a_c.3_sr.1456-0047",
+    "detail": "Heading 'AGENDA ITEM 54 World social situation (continued)* (A/6303...)' and 'GENERAL DISCUSSION (continued)*' left at the end of Sucharitkul's speech instead of being their own heading segment."
+   },
+   {
+    "type": "text_missing",
+    "segment_id": null,
+    "detail": "Footnote '*Resumed from the 1453rd meeting.' at the foot of the left column has no footnote segment on this page."
+   }
+  ]
+ },
+ {
+  "label": "s74-new",
+  "i": 26,
+  "page_ok": true,
+  "speeches_on_image": 6,
+  "errors": []
+ },
+ {
+  "label": "s74-new",
+  "i": 27,
+  "page_ok": false,
+  "speeches_on_image": 12,
+  "errors": [
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "a_c.3_sr.1451-0024",
+    "detail": "Mohammed's speech (pp. 2-3) ends with 'accepted the proposed change, A51'. 'A51' is the OCR of page number 451 from this page's running header, left in the speech text."
+   }
+  ]
+ },
+ {
+  "label": "s74-new",
+  "i": 28,
+  "page_ok": false,
+  "speeches_on_image": 2,
+  "errors": [
+   {
+    "type": "missed_turn",
+    "segment_id": "a_c.3_sr.866-0005",
+    "detail": "Para 15 begins a new turn, 'The Marquis DE VALDEIGLESIAS (Spain)', which runs through para 22. The Czechoslovakia (Leflerova) segment absorbs it: that segment ends with para 22's 'administrative court ... likely to lead to abuses'."
+   }
+  ]
+ },
+ {
+  "label": "s74-new",
+  "i": 29,
+  "page_ok": true,
+  "speeches_on_image": 0,
+  "errors": []
+ },
+ {
+  "label": "s74-new",
+  "i": 30,
+  "page_ok": true,
+  "speeches_on_image": 1,
+  "errors": []
+ },
+ {
+  "label": "s74-new",
+  "i": 31,
+  "page_ok": false,
+  "speeches_on_image": 0,
+  "errors": [
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "a_pv.180-0013",
+    "detail": "The closing segment reads 'The meeting rose at 12.45 a. m. 9 December 1948'. The date '9 December 1948' comes from the running header (top right), not from the closing line."
+   }
+  ]
+ },
+ {
+  "label": "s74-new",
+  "i": 32,
+  "page_ok": false,
+  "speeches_on_image": 1,
+  "errors": [
+   {
+    "type": "other_column_or_page_text",
+    "segment_id": "a_pv.180-0007",
+    "detail": "Roosevelt opening, after 'declaration of human', contains 'yotes affirmatifs, 3,73', text from the French column. The English column runs straight on to 'rights, the product of long...'."
+   },
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "a_pv.180-0007",
+    "detail": "The running header date '9 December 1948' sits in the Roosevelt opening, between 'declaration of human' and 'rights' at the page break."
+   }
+  ]
+ },
+ {
+  "label": "s74-new",
+  "i": 33,
+  "page_ok": true,
+  "speeches_on_image": 1,
+  "errors": []
+ },
+ {
+  "label": "s74-new",
+  "i": 34,
+  "page_ok": false,
+  "speeches_on_image": 1,
+  "errors": [
+   {
+    "type": "wrong_kind",
+    "segment_id": "a_pv.139-0017",
+    "detail": "The closing segment holds 'The meeting rose at 12.53 p.m.' and also the title block of the 140th plenary meeting (title, 'Held at the Palais de Chaillot...', President Evatt). The title block should be a separate heading or attendance segment."
+   },
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "a_pv.139-0019",
+    "detail": "Blanco's speech ends with '23 September 1948', the running header of the next page, which is left in the speech text."
+   },
+   {
+    "type": "other",
+    "segment_id": "a_pv.139-0019",
+    "detail": "The heading (0018) and Blanco's speech (0019) belong to the 140th plenary meeting, which starts on this page, but they are filed under A/PV.139. They may need to go into the 140th meeting's record."
+   }
+  ]
+ },
+ {
+  "label": "s74-new",
+  "i": 35,
+  "page_ok": false,
+  "speeches_on_image": 5,
+  "errors": [
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "a_pv.55-0011",
+    "detail": "The running page number '1123' from the previous page sits mid-sentence in the President's text ('I can read it, 1123 if the Assembly wishes')."
+   },
+   {
+    "type": "wrong_kind",
+    "segment_id": "a_pv.55-0012",
+    "detail": "The agenda heading '146. Pensions of the members of the International Court of Justice... (document A/217)' is inside the vote segment. It should be its own heading segment."
+   },
+   {
+    "type": "wrong_kind",
+    "segment_id": "a_pv.55-0014",
+    "detail": "The agenda heading '147. Agreement between the United Nations and the Carnegie Foundation... (document A/219)' is inside the vote segment. It should be its own heading segment."
+   },
+   {
+    "type": "text_missing",
+    "segment_id": "a_pv.55-0018",
+    "detail": "The decision is printed as 'The resolution was adopted unanimously.' The segment has only 'Decision: The unanimously.' The missing words ended up in 0020. Its kind is procedural, not vote like the other decisions."
+   },
+   {
+    "type": "header_or_footer_in_text",
+    "segment_id": "a_pv.55-0020",
+    "detail": "The President's opening has the running header '1124 11 December 1946' and words from the earlier decision ('resolution was adopted') mixed into it: 'the Second resolution was 'adopted 1124 11 December 1946 (United Nations Relief and Rehabili- Commnittee's report'."
+   }
+  ]
+ },
+ {
+  "label": "s74-new",
+  "i": 36,
+  "page_ok": true,
+  "speeches_on_image": 2,
+  "errors": []
+ },
+ {
+  "label": "s74-new",
+  "i": 37,
+  "page_ok": true,
+  "speeches_on_image": 1,
+  "errors": []
+ },
+ {
+  "label": "s74-new",
+  "i": 38,
+  "page_ok": true,
+  "speeches_on_image": 1,
+  "errors": []
+ },
+ {
+  "label": "s74-new",
+  "i": 39,
+  "page_ok": false,
+  "speeches_on_image": 5,
+  "errors": [
+   {
+    "type": "missed_turn",
+    "segment_id": "e_cn.6_sr.12-0049",
+    "detail": "Page shows 'Replying to a question by Mrs. LEFAUCHEUX (France), Miss KENYON (United States of America) pointed out...' as a new turn. Street's segment instead runs on to Kenyon's ending 'other organizations in a similar situation.'"
+   },
+   {
+    "type": "wrong_kind",
+    "segment_id": "e_cn.6_sr.12-0050",
+    "detail": "The procedural paragraph 'After a brief discussion, the United Kingdom amendment... was put to the vote' and 'DECISION: ...defeated by 7 votes to 3 (4 abstentions)' are left inside Lefaucheux's speech."
+   }
+  ]
+ }
+]

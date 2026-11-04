@@ -1,0 +1,847 @@
+[
+{
+"label": "old",
+"i": 0,
+"page_ok": false,
+"speeches_on_image": 4,
+"errors": [
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "Page has the heading 'AGENDA ITEM 35 / Draft International Covenants on Human Rights (E/2573, annexes I-III, A/2907...)' above the article 19 heading; no listed segment holds it (0002 starts at 'ARTICLE 19')."
+},
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "Footnote at foot of right column '1/ Official Records of the General Assembly, Fifteenth Session, Annexes, agenda item 35, document A/4636, annex.' has no footnote segment on this page."
+}
+]
+},
+{
+"label": "old",
+"i": 1,
+"page_ok": false,
+"speeches_on_image": 4,
+"errors": [
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "The heading 'AGENDA ITEM 32 / Draft International Covenants on Human Rights (E/2573, annexes I, II and III, A/2907 ... A/C.3/L.701) (continued)' above the Article 11 heading is in no listed segment (list starts at 0002; 0001 not on this page)."
+}
+]
+},
+{
+"label": "old",
+"i": 2,
+"page_ok": false,
+"speeches_on_image": 2,
+"errors": [
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "Page opens with headings: 'DRAFT INTERNATIONAL COVENANT ... (item 3 of the agenda)', sub-item '(c) Consideration of provisions for the receipt and examination of petitions ...', and 'Article 38 (continued)'. No heading segment for them; first segment is the CHAIRMAN's turn."
+}
+]
+},
+{
+"label": "old",
+"i": 3,
+"page_ok": false,
+"speeches_on_image": 4,
+"errors": [
+{
+"type": "missed_turn",
+"segment_id": "e_cn.4_sr.155-0002",
+"detail": "Para 4, Mr. JEVREMOVIC (Yugoslavia) replying to the Chairman, starts on this page but sits inside Miss Sender's segment, which runs on through para 5 to page 4."
+},
+{
+"type": "missed_turn",
+"segment_id": "e_cn.4_sr.155-0002",
+"detail": "Para 5, Mr. LEROY-BEAULIEU (France) on a point of order, is inside Miss Sender's segment too. Her ending is his text: 'his statement was not a declaration of his delegation's position'."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "e_cn.4_sr.155-0002",
+"detail": "The segment ending contains the page-4 running header 'E/CN.4/SR.155, Part II, Page 4' (OCR 'Bom .u/on.i58, Part Tt. . a Page 4') and debris, likely with the catchword '/6. Mr. JEVREMOVIC'."
+},
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "Para 1, the CHAIRMAN suggesting the Commission hear the ICFTU representative, starts on this page. No segment holds it: only Sender's segment (from para 2) is listed."
+},
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "The agenda heading 'DRAFT INTERNATIONAL COVENANT ON HUMAN RIGHTS (continued): ARTICLES 12 and 13 (E/1371...)' and the subheading 'Article 12 (continued)' at the top of the page are in no listed segment."
+}
+]
+},
+{
+"label": "old",
+"i": 4,
+"page_ok": false,
+"speeches_on_image": 4,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_sr.963-0004",
+"detail": "The Kume speech ending contains masthead text ('vember 1959, at 10.55 a.m. NEW YORK') from the page heading, placed before the paragraph 3 text that runs at the top of the right column."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_sr.963-0006",
+"detail": "The Ruda speech ending contains the next page's running header ('268 General Assembly — Fourteenth Session — Third Committee')."
+}
+]
+},
+{
+"label": "old",
+"i": 5,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_l.1243-0004",
+"detail": "The job number '65-25443' at the foot of the page is left at the end of the quoted sub-paragraph text (OCR '65-25hh5')."
+},
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_l.1243-0003",
+"detail": "The second line of the underlined heading, 'submitted by Czechoslovakia (A/C.3/L.1220, para. 2)', starts paragraph 0003 instead of closing heading 0002."
+},
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "No listed segment holds the document title 'DRAFT INTERNATIONAL CONVENTION ON THE ELIMINATION OF ALL FORMS OF RACIAL DISCRIMINATION' or the session, committee and agenda item 58 lines. Ids start at 0002, so 0001 may hold them."
+}
+]
+},
+{
+"label": "old",
+"i": 6,
+"page_ok": false,
+"speeches_on_image": 2,
+"errors": [
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "The agenda heading 'CONTINUATION OF THE DISCUSSION ON THE DRAFT DECLARATION OF HUMAN RIGHTS (document E/CN.4/95)' above 'Article 14' is in no segment; the first segment on the page is the 'Article 14' heading."
+},
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "The end of the attendance list at the top of the page (NGO consultants: Sender, Vanistendael, Stuart, Nolde and others; Secretariat: Humphrey, Lawson) is in no segment."
+},
+{
+"type": "wrong_delegation",
+"segment_id": "e_cn.4_sr.59-0003",
+"detail": "The page says the Chairman spoke 'as the representative of the United States', but the segment's delegation is null."
+}
+]
+},
+{
+"label": "old",
+"i": 7,
+"page_ok": false,
+"speeches_on_image": 3,
+"errors": [
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "The agenda heading above para. 1 is in no segment: 'Report of the Economic and Social Council (chapters IV and V)... [Item 12]*, Freedom of information (continued), Draft resolution submitted by Chile, France...'. The list starts with Edberg's speech."
+}
+]
+},
+{
+"label": "old",
+"i": 8,
+"page_ok": false,
+"speeches_on_image": 5,
+"errors": [
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_sr.815-0003",
+"detail": "Para 1 is a chair turn: the Chairman speaks for the Committee and expresses sympathy. The segment is kind procedural with no speaker; it should be kind chair, speaker CHAIRMAN (Lionaes)."
+}
+]
+},
+{
+"label": "old",
+"i": 9,
+"page_ok": false,
+"speeches_on_image": 2,
+"errors": [
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "Image shows heading 'AGENDA ITEM 48 / Manifestations of racial prejudice and national and religious intolerance ... / GENERAL DEBATE (continued)' above para 1; no heading segment listed for this page (list starts with Kochman speech 0002)."
+}
+]
+},
+{
+"label": "old",
+"i": 10,
+"page_ok": false,
+"speeches_on_image": 1,
+"errors": [
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "The agenda heading 'Draft convention on political rights of women (A/2156, ... A/C.3/L.330) (continued) [Item 61]*' above para. 1 is not in any segment; the speech starts at para. 1 and no heading segment is listed."
+},
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "The italic procedural note 'In the absence of the Chairman and of the Vice-Chairman, Mrs. Begtrup (Denmark) took the Chair.' at the top of the left column is not in any segment."
+}
+]
+},
+{
+"label": "old",
+"i": 11,
+"page_ok": false,
+"speeches_on_image": 8,
+"errors": [
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "The heading 'AGENDA ITEM 34 Draft International Covenants on Human Rights (E/2573, annexes I-III; A/2907 ...) (continued)' above the article 18 heading is in no listed segment. Segment ids start at 0002, so 0001 may hold it under another page."
+}
+]
+},
+{
+"label": "old",
+"i": 12,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_l.920-0005",
+"detail": "Footnote '1/ Official Records of the Economic and Social Council, eighteenth session, Supplement No. 7, annex I (E/2573)' at page foot is left inside the Article 26 paragraph instead of its own footnote segment."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_l.920-0005",
+"detail": "Job number '61-23698' at the foot of the page is at the end of the paragraph text."
+},
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_l.920-0003",
+"detail": "Second line of the title ('Covenant on Civil and Political Rights 1/') is cut from heading 0002 into this paragraph, and the heading 'I. Article 19' sits inside the paragraph."
+},
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_l.920-0005",
+"detail": "Heading 'II. Article 26' is left inside the paragraph text rather than its own heading segment."
+}
+]
+},
+{
+"label": "old",
+"i": 13,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "wrong_kind",
+"segment_id": "e_cn.4_l.353-0003",
+"detail": "The underlined heading runs two lines, ending 'reservations article proposed in document E/CN.4/L.351'. The heading segment (0002) stops at 'the draft', and that second line opens paragraph 0003 ahead of item 1."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "e_cn.4_l.353-0005",
+"detail": "The ending has '5h..08378', the job number 54-08378 printed at the foot of the page, after 'withdraw it\".'"
+}
+]
+},
+{
+"label": "old",
+"i": 14,
+"page_ok": false,
+"speeches_on_image": 6,
+"errors": [
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "The heading 'AGENDA ITEM 35 / Draft International Covenants on Human Rights (E/2573, annexes I-III, A/2907 ... A/C.3/L.951/Rev.1) (continued)' above the article 24 heading appears in none of the segments listed for this page."
+}
+]
+},
+{
+"label": "old",
+"i": 15,
+"page_ok": false,
+"speeches_on_image": 2,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "e_cn.4_sr.254-0008",
+"detail": "Nisot's speech ends on p.11 with 'to be rejected.' (the catchword /Mrs. ROOSEVELT follows). The segment's ending carries debris from the next page's running header: \"' my t ot Pada 12\" (Page 12)."
+}
+]
+},
+{
+"label": "old",
+"i": 16,
+"page_ok": false,
+"speeches_on_image": 7,
+"errors": [
+{
+"type": "wrong_speaker",
+"segment_id": "a_c.3_sr.382-0029",
+"detail": "Page prints para. 53 as 'Mr. DELHAYE (Belgium)', and the segment's own opening reads DELHAYE, but the speaker field says DEHOUSSE, a different Belgian delegate."
+}
+]
+},
+{
+"label": "old",
+"i": 17,
+"page_ok": true,
+"speeches_on_image": 6,
+"errors": []
+},
+{
+"label": "old",
+"i": 18,
+"page_ok": false,
+"speeches_on_image": 2,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "e_cn.4_sr.226-0042",
+"detail": "Shafran's speech ends on page 17 with the quoted text; the segment ending carries a stray running-header fragment 'page BT - | |' (next page's header) after the quotation."
+}
+]
+},
+{
+"label": "old",
+"i": 19,
+"page_ok": false,
+"speeches_on_image": 6,
+"errors": [
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "The agenda heading 'Report of the Economic and Social Council (chapter V)... [Item 11]' and sub-heading 'Joint draft resolution submitted by Chile, China, Colombia and France (concluded)' above para 1 appear in no listed segment."
+}
+]
+},
+{
+"label": "old",
+"i": 20,
+"page_ok": true,
+"speeches_on_image": 2,
+"errors": []
+},
+{
+"label": "old",
+"i": 21,
+"page_ok": true,
+"speeches_on_image": 2,
+"errors": []
+},
+{
+"label": "old",
+"i": 22,
+"page_ok": true,
+"speeches_on_image": 4,
+"errors": []
+},
+{
+"label": "old",
+"i": 23,
+"page_ok": false,
+"speeches_on_image": 7,
+"errors": [
+{
+"type": "false_split",
+"segment_id": "a_c.3_sr.1353-0003",
+"detail": "Para 1 is one joint condolence statement (Lamptey, Zuloaga, Willis, Beck, Lazarevic, Sharaf 'expressed'); Willis's clause split off as a separate speech."
+},
+{
+"type": "false_split",
+"segment_id": "a_c.3_sr.1353-0004",
+"detail": "Beck clause of the same joint para 1 statement made a separate speech; it holds the shared verb and the whole condolence text."
+},
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_sr.1353-0005",
+"detail": "Kuwait speech (para 2) contains the 'AGENDA ITEM 58' heading, item title with document symbols and 'ARTICLES ON MEASURES OF IMPLEMENTATION (continued)'; these should be heading segments."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_sr.1353-0007",
+"detail": "Beltramino opening has the masthead/page number inserted: '369 @ THIRD COMMITTEE, 1353rd MEETING Wednesday, 24 November 1965, at 3,25 p.m. NEW YORK'."
+},
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "Heading 'Tribute to the memory of His Highness Abdulla Al-Salem Al-Sabah' and the italic decision (minute's silence on the Chairman's proposal) appear in no segment listed for the page."
+}
+]
+},
+{
+"label": "old",
+"i": 24,
+"page_ok": false,
+"speeches_on_image": 3,
+"errors": [
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "Heading 'AGENDA ITEM 34 / Draft International Covenants on Human Rights (E/2573, annexes I-III; A/2907 ... A/C.3/L.875-877) (continued)' above the Article 18 heading is in no segment; heading 0002 starts at 'ARTICLE 18'."
+}
+]
+},
+{
+"label": "old",
+"i": 25,
+"page_ok": false,
+"speeches_on_image": 7,
+"errors": [
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_sr.503-0006",
+"detail": "Italic decision 'In the absence of any objections, it was so decided.' after para 6 is left at the end of the chair's segment instead of being its own decision segment."
+},
+{
+"type": "text_missing",
+"segment_id": "a_c.3_sr.503-0010",
+"detail": "Footnote 1 ends at 'Conference on Freedom'; its remaining lines ('of Information held at Geneva, ... 21 April, 1948 (E/CONF.6/79), annex A.') are not in the segment and may have gone elsewhere."
+},
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "Heading 'Spanish text of the report of the Commission on Human Rights (E/2447)' above para 1 is not among the listed segments (0001 is not listed for this page)."
+}
+]
+},
+{
+"label": "old",
+"i": 26,
+"page_ok": false,
+"speeches_on_image": 4,
+"errors": [
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "The page prints the heading 'AGENDA ITEM 35 Draft Convention on Freedom of Information (A/AC.42/7 ... A/C.3/L.878-880) (continued)' above 'ARTICLE 2 (continued)'. No segment on this page holds it; only the ARTICLE 2 heading is there."
+}
+]
+},
+{
+"label": "old",
+"i": 27,
+"page_ok": false,
+"speeches_on_image": 4,
+"errors": [
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "Page prints the 'AGENDA ITEM 46 / Draft Declaration on the Right of Asylum' heading and 'PREAMBLE AND ARTICLE 1 (continued)' before para. 1, but no heading segment is listed; the first segment is Idris's speech (0002)."
+}
+]
+},
+{
+"label": "old",
+"i": 28,
+"page_ok": true,
+"speeches_on_image": 1,
+"errors": []
+},
+{
+"label": "old",
+"i": 29,
+"page_ok": false,
+"speeches_on_image": 2,
+"errors": [
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "The 'AGENDA ITEM 33 / Draft International Covenants on Human Rights (E/2573, annexes I, II and III, ... A/C.3/L.632/Rev.1) (continued)' heading above the article 15 heading is in no segment on this page."
+},
+{
+"type": "other",
+"segment_id": "a_c.3_sr.792-0005",
+"detail": "Footnote 1/ holds only its first line. Its last two lines ('United Nations Educational, Scientific and Cultural Organization and International Bureau of Education, Publication No. 180.') are missing from it and seem to have gone into Bratanov's speech."
+}
+]
+},
+{
+"label": "new",
+"i": 0,
+"page_ok": false,
+"speeches_on_image": 4,
+"errors": [
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "Footnote 1/ at foot of right column (Official Records of the General Assembly, Fifteenth Session, Annexes, agenda item 35, document A/4636, annex) has no footnote segment; may be dropped or folded into Fekini's speech."
+}
+]
+},
+{
+"label": "new",
+"i": 1,
+"page_ok": true,
+"speeches_on_image": 4,
+"errors": []
+},
+{
+"label": "new",
+"i": 2,
+"page_ok": true,
+"speeches_on_image": 2,
+"errors": []
+},
+{
+"label": "new",
+"i": 3,
+"page_ok": false,
+"speeches_on_image": 4,
+"errors": [
+{
+"type": "wrong_kind",
+"segment_id": "e_cn.4_sr.155-0002",
+"detail": "The heading segment also holds the 'Article 12 (continued)' subheading and the Chairman's para 1 turn. The chair's turn should be its own chair segment."
+},
+{
+"type": "missed_turn",
+"segment_id": "e_cn.4_sr.155-0003",
+"detail": "Para 4, 'In reply to a question from the CHAIRMAN, Mr. JEVREMOVIC (Yugoslavia) said...', starts a new turn but sits inside Sender's speech segment."
+},
+{
+"type": "missed_turn",
+"segment_id": "e_cn.4_sr.155-0003",
+"detail": "Para 5, 'Mr. LEROY-BEAULIEU (France), speaking on a point of order...', starts a new turn but sits inside Sender's speech segment (its ending is his statement)."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "e_cn.4_sr.155-0003",
+"detail": "The ending keeps the catchword '/6. Mr. JEVREMOVIC' (garbled) and the next page's header 'E/CN.4/SR.155, Part II Page 4' ('Bom .u/on.i58, Part Tt. . a Page 4')."
+}
+]
+},
+{
+"label": "new",
+"i": 4,
+"page_ok": false,
+"speeches_on_image": 4,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_sr.963-0005",
+"detail": "Kume (Japan) ending contains masthead text 'vember 1959, at 10.55 a.m. NEW YORK' (meeting date line from the page top) before 'instance, they would not prevent a State...'."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_sr.963-0007",
+"detail": "Ruda (Argentina) ending carries the next page's running header '268 General Assembly — Fourteenth Session — Third Committee' after 'cogent to need repetition'."
+}
+]
+},
+{
+"label": "new",
+"i": 5,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_l.1243-0004",
+"detail": "The job number '65-25443' at the foot of the page is left at the end of the paragraph text ('...ethnic origin.\" 65-25hh5')."
+},
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_l.1243-0003",
+"detail": "The second line of the underlined heading, 'submitted by Czechoslovakia (A/C.3/L.1220, para. 2)', opens paragraph 0003. It should be part of heading 0002."
+}
+]
+},
+{
+"label": "new",
+"i": 6,
+"page_ok": false,
+"speeches_on_image": 2,
+"errors": [
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "Top of page carries the rest of the attendance list (Consultants from Non-Governmental Organizations: Miss Sender ... Mr. Bienenfeld; Secretariat: Mr. Humphrey, Mr. Lawson); no segment on this page covers it."
+}
+]
+},
+{
+"label": "new",
+"i": 7,
+"page_ok": true,
+"speeches_on_image": 3,
+"errors": []
+},
+{
+"label": "new",
+"i": 8,
+"page_ok": false,
+"speeches_on_image": 4,
+"errors": [
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_sr.815-0004",
+"detail": "Para. 1 is the Chairman speaking on behalf of the Committee (sympathy to the USSR delegation), a chair turn; the segment is kind procedural with no speaker instead of chair."
+}
+]
+},
+{
+"label": "new",
+"i": 9,
+"page_ok": true,
+"speeches_on_image": 2,
+"errors": []
+},
+{
+"label": "new",
+"i": 10,
+"page_ok": false,
+"speeches_on_image": 1,
+"errors": [
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "Italic procedural note at top of left column ('In the absence of the Chairman and of the Vice-Chairman, Mrs. Begtrup (Denmark) took the Chair.') is in no listed segment; segments start at the heading 0002."
+}
+]
+},
+{
+"label": "new",
+"i": 11,
+"page_ok": true,
+"speeches_on_image": 8,
+"errors": []
+},
+{
+"label": "new",
+"i": 12,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_l.920-0003",
+"detail": "The second heading line, 'Covenant on Civil and Political Rights 1/', belongs to heading 0002 but opens paragraph 0003. The article heading 'I. Article 19' is also left inside this paragraph instead of standing as its own heading."
+},
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_l.920-0005",
+"detail": "The article heading 'II. Article 26' sits at the start of paragraph 0005. It should be a separate heading segment."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_l.920-0005",
+"detail": "Footnote 1/ ('Official Records of the Economic and Social Council, eighteenth session, Supplement No. 7, annex I (E/2573)') and the job number 61-23698 are at the end of paragraph 0005. The footnote is not a separate footnote segment."
+},
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "The title 'DRAFT INTERNATIONAL COVENANTS ON HUMAN RIGHTS' and the lines 'Sixteenth session, THIRD COMMITTEE, Agenda item 35' above the Brazil heading are in none of the listed segments (the list starts at 0002)."
+}
+]
+},
+{
+"label": "new",
+"i": 13,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "e_cn.4_l.353-0005",
+"detail": "The page's document job number '54-08378' at the foot of the page is left at the end of paragraph 3 ('...withdraw it\". 5h..08378')."
+},
+{
+"type": "other",
+"segment_id": "e_cn.4_l.353-0003",
+"detail": "The second line of the underlined heading ('reservations article proposed in document E/CN.4/L.351') is cut off from heading 0002 and starts paragraph 1 instead."
+}
+]
+},
+{
+"label": "new",
+"i": 14,
+"page_ok": true,
+"speeches_on_image": 6,
+"errors": []
+},
+{
+"label": "new",
+"i": 15,
+"page_ok": false,
+"speeches_on_image": 2,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "e_cn.4_sr.254-0009",
+"detail": "Nisot's turn ends on p.11 with 'to be rejected.' (catchword /Mrs. ROOSEVELT follows); the segment ending carries page debris \"' my t ot Pada 12\", i.e. the next page's header 'Page 12'."
+}
+]
+},
+{
+"label": "new",
+"i": 16,
+"page_ok": false,
+"speeches_on_image": 7,
+"errors": [
+{
+"type": "wrong_speaker",
+"segment_id": "a_c.3_sr.382-0030",
+"detail": "Page prints para. 53 as 'Mr. DELHAYE (Belgium)', and the segment text agrees, but the speaker field reads DEHOUSSE. Dehousse is a different Belgian delegate."
+}
+]
+},
+{
+"label": "new",
+"i": 17,
+"page_ok": true,
+"speeches_on_image": 6,
+"errors": []
+},
+{
+"label": "new",
+"i": 18,
+"page_ok": true,
+"speeches_on_image": 2,
+"errors": []
+},
+{
+"label": "new",
+"i": 19,
+"page_ok": false,
+"speeches_on_image": 6,
+"errors": [
+{
+"type": "text_missing",
+"segment_id": "a_c.3_sr.412-0002",
+"detail": "Agenda heading on the page begins 'Report of the Economic and Social Council (chapter V)'; the heading segment opens at '(A/1884, ...', so the title words appear in no listed segment."
+}
+]
+},
+{
+"label": "new",
+"i": 20,
+"page_ok": true,
+"speeches_on_image": 2,
+"errors": []
+},
+{
+"label": "new",
+"i": 21,
+"page_ok": true,
+"speeches_on_image": 2,
+"errors": []
+},
+{
+"label": "new",
+"i": 22,
+"page_ok": true,
+"speeches_on_image": 4,
+"errors": []
+},
+{
+"label": "new",
+"i": 23,
+"page_ok": false,
+"speeches_on_image": 7,
+"errors": [
+{
+"type": "false_split",
+"segment_id": "a_c.3_sr.1353-0003",
+"detail": "Paragraph 1 is one joint statement (Lamptey, Zuloaga, Willis, Beck, Lazarevic, Sharaf 'expressed their condolences'). Willis's part is split off as its own speech."
+},
+{
+"type": "false_split",
+"segment_id": "a_c.3_sr.1353-0004",
+"detail": "Beck's part of the same joint condolence statement in paragraph 1 is split off as its own speech. It belongs with the Lamptey segment 0002."
+},
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_sr.1353-0005",
+"detail": "Khanachet's speech text ends with the AGENDA ITEM 58 heading, the convention title and document list, and 'ARTICLES ON MEASURES OF IMPLEMENTATION (continued)'. These headings should be their own heading segments."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_sr.1353-0007",
+"detail": "Beltramino's opening has the masthead inside it: 'THIRD COMMITTEE, 1353rd MEETING Wednesday, 24 November 1965, at 3,25 p.m. NEW YORK'."
+},
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "No segment on this page has the heading 'Tribute to the memory of His Highness Abdulla Al-Salem Al-Sabah' or the italic decision 'On the proposal of the Chairman, the members of the Committee observed a minute's silence'."
+}
+]
+},
+{
+"label": "new",
+"i": 24,
+"page_ok": true,
+"speeches_on_image": 3,
+"errors": []
+},
+{
+"label": "new",
+"i": 25,
+"page_ok": false,
+"speeches_on_image": 6,
+"errors": [
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_sr.503-0006",
+"detail": "The italic decision 'In the absence of any objections, it was so decided.' is printed as a separate line after para. 6 but is left at the end of the Chairman's turn."
+},
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "The opening heading 'Spanish text of the report of the Commission on Human Rights (E/2447)' above para. 1 appears in none of the listed segments."
+},
+{
+"type": "text_missing",
+"segment_id": "a_c.3_sr.503-0010",
+"detail": "Footnote 1 continues 'of Information held at Geneva, Switzerland, from 23 March to 21 April, 1948 (E/CONF.6/79), annex A', but the segment stops at 'Conference on Freedom'."
+}
+]
+},
+{
+"label": "new",
+"i": 26,
+"page_ok": true,
+"speeches_on_image": 4,
+"errors": []
+},
+{
+"label": "new",
+"i": 27,
+"page_ok": true,
+"speeches_on_image": 4,
+"errors": []
+},
+{
+"label": "new",
+"i": 28,
+"page_ok": true,
+"speeches_on_image": 1,
+"errors": []
+},
+{
+"label": "new",
+"i": 29,
+"page_ok": false,
+"speeches_on_image": 2,
+"errors": [
+{
+"type": "text_missing",
+"segment_id": "a_c.3_sr.792-0006",
+"detail": "Footnote 1/ on the scan runs three lines, through 'United Nations Educational, Scientific and Cultural Organization and International Bureau of Education, Publication No. 180.' The segment's opening and ending are both only the first line, ending at '(vol. XVIII),'."
+}
+]
+}
+]

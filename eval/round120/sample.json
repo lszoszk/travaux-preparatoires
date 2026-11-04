@@ -1,0 +1,242 @@
+[
+ {
+  "item": 1,
+  "id": "a_c.3_sr.1009-0004",
+  "kind": "chair",
+  "tag": "ICCPR 15"
+ },
+ {
+  "item": 2,
+  "id": "a_c.3_sr.1078-0008",
+  "kind": "chair",
+  "tag": "ICCPR 20"
+ },
+ {
+  "item": 3,
+  "id": "a_c.3_sr.137-0003",
+  "kind": "chair",
+  "tag": "UDHR 29"
+ },
+ {
+  "item": 4,
+  "id": "a_c.3_sr.1397-0025",
+  "kind": "chair",
+  "tag": "ICESCR 16"
+ },
+ {
+  "item": 5,
+  "id": "a_c.3_sr.1397-0040",
+  "kind": "chair",
+  "tag": "ICESCR 16"
+ },
+ {
+  "item": 6,
+  "id": "a_c.3_sr.1407-0005",
+  "kind": "chair",
+  "tag": "ICESCR 26"
+ },
+ {
+  "item": 7,
+  "id": "a_c.3_sr.1412-0041",
+  "kind": "chair",
+  "tag": "ICESCR 29"
+ },
+ {
+  "item": 8,
+  "id": "a_c.3_sr.142-0051",
+  "kind": "chair",
+  "tag": "UDHR 23"
+ },
+ {
+  "item": 9,
+  "id": "a_c.3_sr.641-0010",
+  "kind": "chair",
+  "tag": "ICCPR+ICESCR 1"
+ },
+ {
+  "item": 10,
+  "id": "a_c.3_sr.727-0019",
+  "kind": "chair",
+  "tag": "ICESCR 9"
+ },
+ {
+  "item": 11,
+  "id": "a_c.3_sr.731-0021",
+  "kind": "chair",
+  "tag": "ICESCR 10"
+ },
+ {
+  "item": 12,
+  "id": "a_c.3_sr.741-0010",
+  "kind": "chair",
+  "tag": "ICESCR 11"
+ },
+ {
+  "item": 13,
+  "id": "a_c.3_sr.781-0015",
+  "kind": "chair",
+  "tag": "ICESCR 13"
+ },
+ {
+  "item": 14,
+  "id": "a_c.3_sr.784-0012",
+  "kind": "chair",
+  "tag": "ICESCR 13"
+ },
+ {
+  "item": 15,
+  "id": "a_c.3_sr.784-0020",
+  "kind": "chair",
+  "tag": "ICESCR 13"
+ },
+ {
+  "item": 16,
+  "id": "a_c.3_sr.793-0042",
+  "kind": "chair",
+  "tag": "ICESCR 14"
+ },
+ {
+  "item": 17,
+  "id": "a_c.3_sr.860-0005",
+  "kind": "chair",
+  "tag": "ICCPR 8"
+ },
+ {
+  "item": 18,
+  "id": "a_c.3_sr.860-0026",
+  "kind": "chair",
+  "tag": "ICCPR 8"
+ },
+ {
+  "item": 19,
+  "id": "a_c.3_sr.965-0016",
+  "kind": "chair",
+  "tag": "ICCPR 14"
+ },
+ {
+  "item": 20,
+  "id": "a_c.3_sr.967-0054",
+  "kind": "chair",
+  "tag": "ICCPR 14"
+ },
+ {
+  "item": 21,
+  "id": "a_c.3_sr.968-0038",
+  "kind": "chair",
+  "tag": "ICCPR 14"
+ },
+ {
+  "item": 22,
+  "id": "a_c.3_sr.98-0016",
+  "kind": "chair",
+  "tag": "UDHR 1"
+ },
+ {
+  "item": 23,
+  "id": "e_cn.4_ac.1_sr.27-0002",
+  "kind": "chair",
+  "tag": "ICCPR 2"
+ },
+ {
+  "item": 24,
+  "id": "e_cn.4_ac.1_sr.31-0002",
+  "kind": "chair",
+  "tag": "ICCPR 15"
+ },
+ {
+  "item": 25,
+  "id": "e_cn.4_ac.1_sr.34-0048",
+  "kind": "chair",
+  "tag": "ICCPR 4"
+ },
+ {
+  "item": 26,
+  "id": "e_cn.4_sr.116-0003",
+  "kind": "chair",
+  "tag": "ICCPR 18"
+ },
+ {
+  "item": 27,
+  "id": "e_cn.4_sr.139-0004",
+  "kind": "chair",
+  "tag": "ICCPR 6"
+ },
+ {
+  "item": 28,
+  "id": "e_cn.4_sr.143-0005",
+  "kind": "chair",
+  "tag": "ICCPR 8"
+ },
+ {
+  "item": 29,
+  "id": "e_cn.4_sr.143-0017",
+  "kind": "chair",
+  "tag": "ICCPR 8"
+ },
+ {
+  "item": 30,
+  "id": "e_cn.4_sr.145-0007",
+  "kind": "chair",
+  "tag": "ICCPR 8"
+ },
+ {
+  "item": 31,
+  "id": "e_cn.4_sr.145-0011",
+  "kind": "chair",
+  "tag": "ICCPR 9"
+ },
+ {
+  "item": 32,
+  "id": "e_cn.4_sr.172-0021",
+  "kind": "chair",
+  "tag": "ICCPR 26"
+ },
+ {
+  "item": 33,
+  "id": "e_cn.4_sr.197-0142",
+  "kind": "chair",
+  "tag": "ICCPR 51"
+ },
+ {
+  "item": 34,
+  "id": "e_cn.4_sr.278-0018",
+  "kind": "chair",
+  "tag": "ICESCR 6"
+ },
+ {
+  "item": 35,
+  "id": "e_cn.4_sr.292-0026",
+  "kind": "chair",
+  "tag": "ICESCR 15"
+ },
+ {
+  "item": 36,
+  "id": "e_cn.4_sr.319-0009",
+  "kind": "chair",
+  "tag": "ICCPR 18"
+ },
+ {
+  "item": 37,
+  "id": "e_cn.4_sr.326-0011",
+  "kind": "chair",
+  "tag": "ICCPR 22"
+ },
+ {
+  "item": 38,
+  "id": "e_cn.4_sr.331-0008",
+  "kind": "chair",
+  "tag": "ICCPR 4"
+ },
+ {
+  "item": 39,
+  "id": "e_cn.4_sr.360-0029",
+  "kind": "chair",
+  "tag": "ICCPR 41"
+ },
+ {
+  "item": 40,
+  "id": "e_cn.4_sr.94-0009",
+  "kind": "chair",
+  "tag": "ICCPR 6"
+ }
+]

@@ -1,0 +1,1876 @@
+{
+ "documents": [
+  {
+   "symbol": "E/CN.4/SR.240",
+   "pages": [
+    22
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.261",
+   "pages": [
+    5
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.338",
+   "pages": [
+    26
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.154",
+   "pages": [
+    5
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.156",
+   "pages": [
+    8
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.124",
+   "pages": [
+    5
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.127",
+   "pages": [
+    13
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.210",
+   "pages": [
+    26
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.129",
+   "pages": [
+    9
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.242",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.191",
+   "pages": [
+    7
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.436",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.228",
+   "pages": [
+    23
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.234",
+   "pages": [
+    23
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.251",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.223",
+   "pages": [
+    19
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.265",
+   "pages": [
+    11
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.324",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.222",
+   "pages": [
+    20
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.357",
+   "pages": [
+    12
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.417",
+   "pages": [
+    5
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.125",
+   "pages": [
+    10
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.308",
+   "pages": [
+    14
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.120",
+   "pages": [
+    11
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.218",
+   "pages": [
+    34
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.310",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.180",
+   "pages": [
+    7
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.111",
+   "pages": [
+    13
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.207",
+   "pages": [
+    5
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.153",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.477",
+   "pages": [
+    14
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.372",
+   "pages": [
+    8
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.364",
+   "pages": [
+    7
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.377",
+   "pages": [
+    12
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.369",
+   "pages": [
+    9
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.192",
+   "pages": [
+    10
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.390",
+   "pages": [
+    11
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.193",
+   "pages": [
+    20
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.393",
+   "pages": [
+    18
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.351",
+   "pages": [
+    14
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.124",
+   "pages": [
+    15
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.391",
+   "pages": [
+    13
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.440",
+   "pages": [
+    9
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.565",
+   "pages": [
+    6
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.567",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.857",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.911",
+   "pages": [
+    5
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.606",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.500",
+   "pages": [
+    6
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1086",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.930",
+   "pages": [
+    6
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.789",
+   "pages": [
+    5
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.288",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1092",
+   "pages": [
+    5
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.333",
+   "pages": [
+    6
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.865",
+   "pages": [
+    5
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1099",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.906",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1374",
+   "pages": [
+    8
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1204",
+   "pages": [
+    6
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1179",
+   "pages": [
+    5
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1275",
+   "pages": [
+    5
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1290",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1167",
+   "pages": [
+    5
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1259",
+   "pages": [
+    5
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1422",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1227",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1353",
+   "pages": [
+    6
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.318",
+   "pages": [
+    5
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.965",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1377",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.585",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1167",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.447",
+   "pages": [
+    7
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.937",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1217",
+   "pages": [
+    5
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.287",
+   "pages": [
+    7
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.476",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.609",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1279",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.812",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.317",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.458",
+   "pages": [
+    7
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.888",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.392",
+   "pages": [
+    7
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1155",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1024",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.312",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1007",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1159",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "A/PV.1495",
+   "pages": [
+    11
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1423",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.302",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.296",
+   "pages": [
+    13
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.474",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.573",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.367",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.368",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1087",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.634",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.432",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.786",
+   "pages": [
+    5
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.399",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1012",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.714",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "A/PV.1496",
+   "pages": [
+    6
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1455",
+   "pages": [
+    6
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1268",
+   "pages": [
+    6
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.382",
+   "pages": [
+    6
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1421",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.524",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1207",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.158",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.633",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.250",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.428",
+   "pages": [
+    11
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.311",
+   "pages": [
+    9
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.216",
+   "pages": [
+    5
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.102",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.412",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.178",
+   "pages": [
+    13
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.296",
+   "pages": [
+    6
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.729",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.95",
+   "pages": [
+    5
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.643",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.365",
+   "pages": [
+    9
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.364",
+   "pages": [
+    16
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.476",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.246",
+   "pages": [
+    19
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.114",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.216",
+   "pages": [
+    30
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.175",
+   "pages": [
+    13
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.164",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.379",
+   "pages": [
+    15
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.679",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.221",
+   "pages": [
+    15
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.379",
+   "pages": [
+    6
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.863",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.155",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1062",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.510",
+   "pages": [
+    5
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.163",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.436",
+   "pages": [
+    7
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.395",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.352",
+   "pages": [
+    4
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.393",
+   "pages": [
+    5
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.138",
+   "pages": [
+    15
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.279",
+   "pages": [
+    15
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.142",
+   "pages": [
+    9
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.94",
+   "pages": [
+    13
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.357",
+   "pages": [
+    14
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1096",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.1095",
+   "pages": [
+    5
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.218",
+   "pages": [
+    6
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.204",
+   "pages": [
+    18
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.128",
+   "pages": [
+    8
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.305",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.112",
+   "pages": [
+    8
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.194",
+   "pages": [
+    5
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.127",
+   "pages": [
+    6
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.475",
+   "pages": [
+    10
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.572",
+   "pages": [
+    3
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.213",
+   "pages": [
+    9
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.200",
+   "pages": [
+    7
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.240",
+   "pages": [
+    16
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.261",
+   "pages": [
+    14
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.378",
+   "pages": [
+    2
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.758",
+   "pages": [
+    7
+   ]
+  },
+  {
+   "symbol": "A/C.3/SR.713",
+   "pages": [
+    6
+   ]
+  },
+  {
+   "symbol": "E/CN.4/SR.248",
+   "pages": [
+    8
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "symbol": "E/CN.4/SR.240",
+   "page": 22,
+   "type": "CHR 1949-54, score low third"
+  },
+  {
+   "symbol": "E/CN.4/SR.261",
+   "page": 5,
+   "type": "CHR 1949-54, score low third"
+  },
+  {
+   "symbol": "E/CN.4/SR.338",
+   "page": 26,
+   "type": "CHR 1949-54, score low third"
+  },
+  {
+   "symbol": "E/CN.4/SR.154",
+   "page": 5,
+   "type": "CHR 1949-54, score low third"
+  },
+  {
+   "symbol": "E/CN.4/SR.156",
+   "page": 8,
+   "type": "CHR 1949-54, score low third"
+  },
+  {
+   "symbol": "E/CN.4/SR.124",
+   "page": 5,
+   "type": "CHR 1949-54, score low third"
+  },
+  {
+   "symbol": "E/CN.4/SR.127",
+   "page": 13,
+   "type": "CHR 1949-54, score low third"
+  },
+  {
+   "symbol": "E/CN.4/SR.210",
+   "page": 26,
+   "type": "CHR 1949-54, score low third"
+  },
+  {
+   "symbol": "E/CN.4/SR.129",
+   "page": 9,
+   "type": "CHR 1949-54, score low third"
+  },
+  {
+   "symbol": "E/CN.4/SR.242",
+   "page": 4,
+   "type": "CHR 1949-54, score low third"
+  },
+  {
+   "symbol": "E/CN.4/SR.191",
+   "page": 7,
+   "type": "CHR 1949-54, score low third"
+  },
+  {
+   "symbol": "E/CN.4/SR.436",
+   "page": 2,
+   "type": "CHR 1949-54, score low third"
+  },
+  {
+   "symbol": "E/CN.4/SR.228",
+   "page": 23,
+   "type": "CHR 1949-54, score low third"
+  },
+  {
+   "symbol": "E/CN.4/SR.234",
+   "page": 23,
+   "type": "CHR 1949-54, score low third"
+  },
+  {
+   "symbol": "E/CN.4/SR.251",
+   "page": 2,
+   "type": "CHR 1949-54, score middle third"
+  },
+  {
+   "symbol": "E/CN.4/SR.223",
+   "page": 19,
+   "type": "CHR 1949-54, score middle third"
+  },
+  {
+   "symbol": "E/CN.4/SR.265",
+   "page": 11,
+   "type": "CHR 1949-54, score middle third"
+  },
+  {
+   "symbol": "E/CN.4/SR.324",
+   "page": 4,
+   "type": "CHR 1949-54, score middle third"
+  },
+  {
+   "symbol": "E/CN.4/SR.222",
+   "page": 20,
+   "type": "CHR 1949-54, score middle third"
+  },
+  {
+   "symbol": "E/CN.4/SR.357",
+   "page": 12,
+   "type": "CHR 1949-54, score middle third"
+  },
+  {
+   "symbol": "E/CN.4/SR.417",
+   "page": 5,
+   "type": "CHR 1949-54, score middle third"
+  },
+  {
+   "symbol": "E/CN.4/SR.125",
+   "page": 10,
+   "type": "CHR 1949-54, score middle third"
+  },
+  {
+   "symbol": "E/CN.4/SR.308",
+   "page": 14,
+   "type": "CHR 1949-54, score middle third"
+  },
+  {
+   "symbol": "E/CN.4/SR.120",
+   "page": 11,
+   "type": "CHR 1949-54, score middle third"
+  },
+  {
+   "symbol": "E/CN.4/SR.218",
+   "page": 34,
+   "type": "CHR 1949-54, score middle third"
+  },
+  {
+   "symbol": "E/CN.4/SR.310",
+   "page": 3,
+   "type": "CHR 1949-54, score middle third"
+  },
+  {
+   "symbol": "E/CN.4/SR.180",
+   "page": 7,
+   "type": "CHR 1949-54, score middle third"
+  },
+  {
+   "symbol": "E/CN.4/SR.111",
+   "page": 13,
+   "type": "CHR 1949-54, score middle third"
+  },
+  {
+   "symbol": "E/CN.4/SR.207",
+   "page": 5,
+   "type": "CHR 1949-54, score high third"
+  },
+  {
+   "symbol": "E/CN.4/SR.153",
+   "page": 4,
+   "type": "CHR 1949-54, score high third"
+  },
+  {
+   "symbol": "E/CN.4/SR.477",
+   "page": 14,
+   "type": "CHR 1949-54, score high third"
+  },
+  {
+   "symbol": "E/CN.4/SR.372",
+   "page": 8,
+   "type": "CHR 1949-54, score high third"
+  },
+  {
+   "symbol": "E/CN.4/SR.364",
+   "page": 7,
+   "type": "CHR 1949-54, score high third"
+  },
+  {
+   "symbol": "E/CN.4/SR.377",
+   "page": 12,
+   "type": "CHR 1949-54, score high third"
+  },
+  {
+   "symbol": "E/CN.4/SR.369",
+   "page": 9,
+   "type": "CHR 1949-54, score high third"
+  },
+  {
+   "symbol": "E/CN.4/SR.192",
+   "page": 10,
+   "type": "CHR 1949-54, score high third"
+  },
+  {
+   "symbol": "E/CN.4/SR.390",
+   "page": 11,
+   "type": "CHR 1949-54, score high third"
+  },
+  {
+   "symbol": "E/CN.4/SR.193",
+   "page": 20,
+   "type": "CHR 1949-54, score high third"
+  },
+  {
+   "symbol": "E/CN.4/SR.393",
+   "page": 18,
+   "type": "CHR 1949-54, score high third"
+  },
+  {
+   "symbol": "E/CN.4/SR.351",
+   "page": 14,
+   "type": "CHR 1949-54, score high third"
+  },
+  {
+   "symbol": "E/CN.4/SR.124",
+   "page": 15,
+   "type": "CHR 1949-54, score high third"
+  },
+  {
+   "symbol": "E/CN.4/SR.391",
+   "page": 13,
+   "type": "CHR 1949-54, score high third"
+  },
+  {
+   "symbol": "E/CN.4/SR.440",
+   "page": 9,
+   "type": "CHR 1949-54, score high third"
+  },
+  {
+   "symbol": "A/C.3/SR.565",
+   "page": 6,
+   "type": "Third Committee 1950-61, score low third"
+  },
+  {
+   "symbol": "A/C.3/SR.567",
+   "page": 4,
+   "type": "Third Committee 1950-61, score low third"
+  },
+  {
+   "symbol": "A/C.3/SR.857",
+   "page": 4,
+   "type": "Third Committee 1950-61, score low third"
+  },
+  {
+   "symbol": "A/C.3/SR.911",
+   "page": 5,
+   "type": "Third Committee 1950-61, score low third"
+  },
+  {
+   "symbol": "A/C.3/SR.606",
+   "page": 3,
+   "type": "Third Committee 1950-61, score middle third"
+  },
+  {
+   "symbol": "A/C.3/SR.500",
+   "page": 6,
+   "type": "Third Committee 1950-61, score middle third"
+  },
+  {
+   "symbol": "A/C.3/SR.1086",
+   "page": 4,
+   "type": "Third Committee 1950-61, score middle third"
+  },
+  {
+   "symbol": "A/C.3/SR.930",
+   "page": 6,
+   "type": "Third Committee 1950-61, score middle third"
+  },
+  {
+   "symbol": "A/C.3/SR.789",
+   "page": 5,
+   "type": "Third Committee 1950-61, score middle third"
+  },
+  {
+   "symbol": "A/C.3/SR.288",
+   "page": 4,
+   "type": "Third Committee 1950-61, score high third"
+  },
+  {
+   "symbol": "A/C.3/SR.1092",
+   "page": 5,
+   "type": "Third Committee 1950-61, score high third"
+  },
+  {
+   "symbol": "A/C.3/SR.333",
+   "page": 6,
+   "type": "Third Committee 1950-61, score high third"
+  },
+  {
+   "symbol": "A/C.3/SR.865",
+   "page": 5,
+   "type": "Third Committee 1950-61, score high third"
+  },
+  {
+   "symbol": "A/C.3/SR.1099",
+   "page": 4,
+   "type": "Third Committee 1950-61, score high third"
+  },
+  {
+   "symbol": "A/C.3/SR.906",
+   "page": 3,
+   "type": "Third Committee 1950-61, score high third"
+  },
+  {
+   "symbol": "A/C.3/SR.1374",
+   "page": 8,
+   "type": "Third Committee 1962-66, score low third"
+  },
+  {
+   "symbol": "A/C.3/SR.1204",
+   "page": 6,
+   "type": "Third Committee 1962-66, score low third"
+  },
+  {
+   "symbol": "A/C.3/SR.1179",
+   "page": 5,
+   "type": "Third Committee 1962-66, score low third"
+  },
+  {
+   "symbol": "A/C.3/SR.1275",
+   "page": 5,
+   "type": "Third Committee 1962-66, score middle third"
+  },
+  {
+   "symbol": "A/C.3/SR.1290",
+   "page": 4,
+   "type": "Third Committee 1962-66, score middle third"
+  },
+  {
+   "symbol": "A/C.3/SR.1167",
+   "page": 5,
+   "type": "Third Committee 1962-66, score middle third"
+  },
+  {
+   "symbol": "A/C.3/SR.1259",
+   "page": 5,
+   "type": "Third Committee 1962-66, score high third"
+  },
+  {
+   "symbol": "A/C.3/SR.1422",
+   "page": 2,
+   "type": "Third Committee 1962-66, score high third"
+  },
+  {
+   "symbol": "A/C.3/SR.1227",
+   "page": 4,
+   "type": "Third Committee 1962-66, score high third"
+  },
+  {
+   "symbol": "A/C.3/SR.1353",
+   "page": 6,
+   "type": "Third Committee 1962-66, score high third"
+  },
+  {
+   "symbol": "A/C.3/SR.318",
+   "page": 5,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.965",
+   "page": 4,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.1377",
+   "page": 2,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.585",
+   "page": 4,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.1167",
+   "page": 4,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.447",
+   "page": 7,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.937",
+   "page": 3,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.1217",
+   "page": 5,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.287",
+   "page": 7,
+   "type": "two-column"
+  },
+  {
+   "symbol": "E/CN.4/SR.476",
+   "page": 3,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.609",
+   "page": 4,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.1279",
+   "page": 3,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.812",
+   "page": 3,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.317",
+   "page": 3,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.458",
+   "page": 7,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.888",
+   "page": 3,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.392",
+   "page": 7,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.1155",
+   "page": 2,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.1024",
+   "page": 3,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.312",
+   "page": 4,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.1007",
+   "page": 2,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.1159",
+   "page": 4,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/PV.1495",
+   "page": 11,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.1423",
+   "page": 3,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.302",
+   "page": 4,
+   "type": "two-column"
+  },
+  {
+   "symbol": "E/CN.4/SR.296",
+   "page": 13,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.474",
+   "page": 3,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.573",
+   "page": 2,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.367",
+   "page": 3,
+   "type": "two-column"
+  },
+  {
+   "symbol": "E/CN.4/SR.368",
+   "page": 3,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.1087",
+   "page": 3,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.634",
+   "page": 3,
+   "type": "two-column"
+  },
+  {
+   "symbol": "E/CN.4/SR.432",
+   "page": 3,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.786",
+   "page": 5,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.399",
+   "page": 3,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.1012",
+   "page": 4,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.714",
+   "page": 3,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/PV.1496",
+   "page": 6,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.1455",
+   "page": 6,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.1268",
+   "page": 6,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.382",
+   "page": 6,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.1421",
+   "page": 4,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.524",
+   "page": 2,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.1207",
+   "page": 4,
+   "type": "two-column"
+  },
+  {
+   "symbol": "E/CN.4/SR.158",
+   "page": 2,
+   "type": "two-column"
+  },
+  {
+   "symbol": "A/C.3/SR.633",
+   "page": 2,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.250",
+   "page": 2,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.428",
+   "page": 11,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.311",
+   "page": 9,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.216",
+   "page": 5,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.102",
+   "page": 3,
+   "type": "filling"
+  },
+  {
+   "symbol": "A/C.3/SR.412",
+   "page": 2,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.178",
+   "page": 13,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.296",
+   "page": 6,
+   "type": "filling"
+  },
+  {
+   "symbol": "A/C.3/SR.729",
+   "page": 4,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.95",
+   "page": 5,
+   "type": "filling"
+  },
+  {
+   "symbol": "A/C.3/SR.643",
+   "page": 4,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.365",
+   "page": 9,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.364",
+   "page": 16,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.476",
+   "page": 4,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.246",
+   "page": 19,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.114",
+   "page": 3,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.216",
+   "page": 30,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.175",
+   "page": 13,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.164",
+   "page": 2,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.379",
+   "page": 15,
+   "type": "filling"
+  },
+  {
+   "symbol": "A/C.3/SR.679",
+   "page": 2,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.221",
+   "page": 15,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.379",
+   "page": 6,
+   "type": "filling"
+  },
+  {
+   "symbol": "A/C.3/SR.863",
+   "page": 3,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.155",
+   "page": 2,
+   "type": "filling"
+  },
+  {
+   "symbol": "A/C.3/SR.1062",
+   "page": 4,
+   "type": "filling"
+  },
+  {
+   "symbol": "A/C.3/SR.510",
+   "page": 5,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.163",
+   "page": 4,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.436",
+   "page": 7,
+   "type": "filling"
+  },
+  {
+   "symbol": "A/C.3/SR.395",
+   "page": 4,
+   "type": "filling"
+  },
+  {
+   "symbol": "A/C.3/SR.352",
+   "page": 4,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.393",
+   "page": 5,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.138",
+   "page": 15,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.279",
+   "page": 15,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.142",
+   "page": 9,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.94",
+   "page": 13,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.357",
+   "page": 14,
+   "type": "filling"
+  },
+  {
+   "symbol": "A/C.3/SR.1096",
+   "page": 3,
+   "type": "filling"
+  },
+  {
+   "symbol": "A/C.3/SR.1095",
+   "page": 5,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.218",
+   "page": 6,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.204",
+   "page": 18,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.128",
+   "page": 8,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.305",
+   "page": 3,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.112",
+   "page": 8,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.194",
+   "page": 5,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.127",
+   "page": 6,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.475",
+   "page": 10,
+   "type": "filling"
+  },
+  {
+   "symbol": "A/C.3/SR.572",
+   "page": 3,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.213",
+   "page": 9,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.200",
+   "page": 7,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.240",
+   "page": 16,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.261",
+   "page": 14,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.378",
+   "page": 2,
+   "type": "filling"
+  },
+  {
+   "symbol": "A/C.3/SR.758",
+   "page": 7,
+   "type": "filling"
+  },
+  {
+   "symbol": "A/C.3/SR.713",
+   "page": 6,
+   "type": "filling"
+  },
+  {
+   "symbol": "E/CN.4/SR.248",
+   "page": 8,
+   "type": "filling"
+  }
+ ]
+}

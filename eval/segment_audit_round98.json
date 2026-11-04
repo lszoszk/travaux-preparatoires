@@ -1,0 +1,1021 @@
+{
+ "pages": [
+  {
+   "id": "p0",
+   "stratum": "changed98",
+   "symbol": "E/CN.4/SR.189",
+   "page": 5
+  },
+  {
+   "id": "p1",
+   "stratum": "changed98",
+   "symbol": "E/CN.4/SR.180",
+   "page": 4
+  },
+  {
+   "id": "p2",
+   "stratum": "changed98",
+   "symbol": "E/CN.4/SR.199",
+   "page": 17
+  },
+  {
+   "id": "p3",
+   "stratum": "changed98",
+   "symbol": "E/CN.4/SR.17",
+   "page": 8
+  },
+  {
+   "id": "p4",
+   "stratum": "changed98",
+   "symbol": "A/C.3/SR.740",
+   "page": 2
+  },
+  {
+   "id": "p5",
+   "stratum": "changed98",
+   "symbol": "E/CN.4/SR.141",
+   "page": 4
+  },
+  {
+   "id": "p6",
+   "stratum": "changed98",
+   "symbol": "A/C.3/SR.1072",
+   "page": 4
+  },
+  {
+   "id": "p7",
+   "stratum": "changed98",
+   "symbol": "E/CN.4/SR.155",
+   "page": 3
+  },
+  {
+   "id": "p8",
+   "stratum": "changed98",
+   "symbol": "E/CN.4/AC.1/SR.42",
+   "page": 9
+  },
+  {
+   "id": "p9",
+   "stratum": "changed98",
+   "symbol": "E/CN.4/SR.159",
+   "page": 11
+  },
+  {
+   "id": "p10",
+   "stratum": "changed98",
+   "symbol": "E/CN.4/SR.198",
+   "page": 3
+  },
+  {
+   "id": "p11",
+   "stratum": "changed98",
+   "symbol": "E/CN.4/SR.166",
+   "page": 8
+  },
+  {
+   "id": "p12",
+   "stratum": "changed98",
+   "symbol": "E/CN.4/SR.171",
+   "page": 19
+  },
+  {
+   "id": "p13",
+   "stratum": "changed98",
+   "symbol": "E/CN.4/SR.338",
+   "page": 15
+  },
+  {
+   "id": "p14",
+   "stratum": "changed98",
+   "symbol": "E/CN.4/SR.140",
+   "page": 11
+  },
+  {
+   "id": "p15",
+   "stratum": "changed98",
+   "symbol": "E/CN.4/SR.196",
+   "page": 19
+  },
+  {
+   "id": "p16",
+   "stratum": "changed98",
+   "symbol": "E/CN.4/SR.275",
+   "page": 14
+  },
+  {
+   "id": "p17",
+   "stratum": "changed98",
+   "symbol": "E/CN.4/SR.187",
+   "page": 3
+  },
+  {
+   "id": "p18",
+   "stratum": "changed98",
+   "symbol": "E/CN.4/SR.83",
+   "page": 13
+  },
+  {
+   "id": "p19",
+   "stratum": "changed98",
+   "symbol": "A/C.3/SR.177",
+   "page": 2
+  },
+  {
+   "id": "p20",
+   "stratum": "changed98",
+   "symbol": "E/CN.4/SR.232",
+   "page": 7
+  },
+  {
+   "id": "p21",
+   "stratum": "changed98",
+   "symbol": "E/CN.4/SR.174",
+   "page": 14
+  }
+ ],
+ "results": [
+  {
+   "label": "old",
+   "i": 0,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.189-0011",
+     "detail": "Para 17, Mr. CHANG (China) asking for a vote on 'and voting', starts on this page but sits inside Oribe's (Uruguay) segment, whose ending is Chang's text ('members of the committee ought to be highly respected')."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.189-0008",
+     "detail": "The chair's segment ends with OCR junk 've 6 g [one i k', apparently the page break or header (E/CN.4/SR.189 Page 5), left in the text."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 1,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.180-0006",
+     "detail": "Para 7, Mr. KYROU (Greece) 'also felt that directives should be given', starts on this page but sits inside Sorensen's segment, which runs on to the end of para 9."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.180-0006",
+     "detail": "Paras 8-9, Miss BOWIE (United Kingdom) 'believed that the Commission could approve', are inside Sorensen's segment; its ending ('Minorities should be assimilated ...') is Bowie's para 9."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.180-0006",
+     "detail": "The opening carries the page-4 running header ('Page )') before 'Sub-Commission to proceed', in the middle of the speech text."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 2,
+   "page_ok": false,
+   "speeches_on_image": 8,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.199-0052",
+     "detail": "Para 74 'The CHAIRMAN understood that the United Kingdom delegation would like to insert a provision...' is a separate chair turn, but the Bowie segment ends with its text ('She agreed that consideration of that question should be postponed')."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.199-0055",
+     "detail": "Para 78 'Mr. SCHWELB (Secretariat) pointed out' starts on page 18 (only the catchword is on this page), yet the Kyrou segment runs on into Schwelb's turn instead of ending at 'representative of Australia'."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.199-0050",
+     "detail": "Leftover OCR junk where the paragraph numbers were misread: 'war' before Mr. MALIK (71.), 'ex' before The CHAIRMAN in 0051 (72.), 'OUP' before Mr. KYROU in 0055 (77.), and 'viet)' before Mr. SCHWELB."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 3,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.17-0031",
+     "detail": "P8 opens a new paragraph 'Replying to Mr. LEBEAU (Belgium) who referred to his proposal..., the CHAIRMAN said' (a separate chair turn answering Lebeau). It is merged into the chair turn that began on p7. Same speaker, so this is minor."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.17-0032",
+     "detail": "'Replying to Mr. TEPLIAKOV (USSR) who asked what organizations..., Mr. LEBEAU said' is a separate turn after Tepliakov's question. It is merged into Lebeau's earlier recommendation turn. Same speaker, but the Tepliakov exchange is lost."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 4,
+   "page_ok": false,
+   "speeches_on_image": 11,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_c.3_sr.740-0020",
+     "detail": "Para 21 is Mr. VAKIL (Secretary of the Committee) answering Pazhwak; para 22 is the CHAIRMAN's suggestion. The segment merges both turns and marks them all as the chair."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.740-0021",
+     "detail": "The decision 'It was so decided.' is in the same segment as the AGENDA ITEM 31 heading and the 'Articles 11 and 12' subheading. The headings should be separate heading segments."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 5,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.141-0010",
+     "detail": "Para 11, Mr. MENDEZ (Philippines) on petenthol, is a separate turn but sits inside the chair's para 10 segment ('II: Mr, MENDEZ: (Philippines) pointed out...')."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.141-0010",
+     "detail": "Para 12, Mr. RAMADAN (Egypt) ('use of petenthol was liable to spread... impossible to use any drug') is also inside the chair segment 0010; it needs its own speech segment."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 6,
+   "page_ok": false,
+   "speeches_on_image": 9,
+   "errors": [
+    {
+     "type": "wrong_speaker",
+     "segment_id": "a_c.3_sr.1072-0022",
+     "detail": "Para 50 is Mr. HENDRANINGRAT (Indonesia) saying he would submit his amendment in writing (at the Chairman's request). The segment is kind chair with no speaker; it should be a speech by Hendraningrat, Indonesia."
+    },
+    {
+     "type": "false_split",
+     "segment_id": "a_c.3_sr.1072-0024",
+     "detail": "Para 51 is one chair paragraph ('After a short discussion, in which the CHAIRMAN, Lady TWEEDSMUIR... took part, the CHAIRMAN suggested...'). It was cut at the list of participants into 0023 and 0024."
+    },
+    {
+     "type": "wrong_speaker",
+     "segment_id": "a_c.3_sr.1072-0024",
+     "detail": "In this segment the CHAIRMAN suggests the time-limit, and Tweedsmuir is only named among those who took part. It is tagged as a speech by TWEEDSMUIR (United Kingdom) but should be the chair."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 7,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.155-0003",
+     "detail": "Para 1, the CHAIRMAN suggesting the Commission hear the ICFTU representative, is a chair turn, but it sits at the end of the procedural segment that starts on page 1 (the attendance list)."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.155-0003",
+     "detail": "The agenda heading 'DRAFT INTERNATIONAL COVENANT ON HUMAN RIGHTS (continued): ARTICLES 12 and 13' and the heading 'Article 12 (continued)' are not separate heading segments. They seem to be inside the pages 1-3 procedural segment."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.155-0004",
+     "detail": "Para 4, 'In reply to a question from the CHAIRMAN, Mr. JEVREMOVIC (Yugoslavia) said...', is a new turn but sits inside Miss Sender's segment."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.155-0004",
+     "detail": "Para 5, Mr. LEROY-BEAULIEU (France) on a point of order, is a new turn. Sender's segment ends with his words ('his statement was not a declaration of his delegation's position')."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.155-0004",
+     "detail": "The segment's ending holds page-4 header debris ('Bom .u/on.i58, Part Tt. . a Page 4'), and probably the catchword '/6. Mr. JEVREMOVIC' too."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 8,
+   "page_ok": true,
+   "speeches_on_image": 3,
+   "errors": []
+  },
+  {
+   "label": "old",
+   "i": 9,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.159-0034",
+     "detail": "Para 51 'Mr. CHANG (China) associated himself...' starts on p.11 but sits inside the WHITLAM (Australia) segment, whose ending is Chang's text. The segment also holds paras 49-50 (Mrs. Roosevelt, US, continuing from p.10) under WHITLAM."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 10,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.198-0003",
+     "detail": "Para. 2, Mr. NISOT (Belgium) asking whether States would be required to report, is a separate turn. The chair's segment runs on to its end, 'could participate in the discussion of such reports.'"
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.198-0005",
+     "detail": "Para. 5, 'In reply to a question from Miss BOWIE (United Kingdom), Mr. CASSIN (France) said...', is Cassin's turn. It sits inside Nisot's segment, which opens with para. 4."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 11,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.166-0032",
+     "detail": "OCR debris of paragraph number 38 before the turn: opening starts 'RR. . Mr. SIMSARIAN'; should start 'Mr. SIMSARIAN'."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.166-0034",
+     "detail": "Paragraph number 39 left as OCR debris before the turn: opening starts '20, The CHAIRMAN then invited'."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.166-0035",
+     "detail": "OCR debris of paragraph number 40 before the turn: opening starts 'bey, Miss BOWIE'."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.166-0036",
+     "detail": "OCR debris of paragraph number 41 before the turn: opening starts '4, Mr. CASSIN'."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.166-0037",
+     "detail": "OCR debris of paragraph number 43 before the turn: opening starts 'ey Mr. SIMSARIAN'."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.166-0037",
+     "detail": "The page ends at 'or crime\".' and is followed by the catchword '/44 The United'. The segment text has '| fos' right after 'or crime\".', which is OCR debris from that catchword."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 12,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.171-0048",
+     "detail": "Para 94 'On that understanding, Mr. HOARE (United Kingdom) withdrew the clause...' is a separate turn of the United Kingdom, but it sits at the end of Nisot's (Belgium) para 93 segment, prefixed by OCR junk 'gh,'."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 13,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.338-0073",
+     "detail": "Valenzuela (Chile)'s turn, which objects to 'Such derogations were characterized as charters...', sits inside the vote segment 'Paragraph 5 was adopted...'. It should be its own speech, and the speaker's name is lost from the text."
+    },
+    {
+     "type": "text_missing",
+     "segment_id": "e_cn.4_sr.338-0073",
+     "detail": "The heading 'Paragraphs 5 to 7' at the top of the page has no segment of its own. It shows only as OCR debris ('Pare sph k') inside the vote segment, and Valenzuela's opening words are missing."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.338-0076",
+     "detail": "The CHAIRMAN's turn ('After an exchange of views, the CHAIRMAN proposed that the penultimate sentence...') is inside Morozov's speech segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.338-0076",
+     "detail": "The underlined decision 'Paragraphs 5 to 7, with the Chilean-United Kingdom and Uruguayan amendments... were adopted.' is left inside Morozov's speech. It should be a separate vote segment."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.338-0076",
+     "detail": "The catchword '/Paragraphs 8 and 9' at the foot of the page appears as 'PAs pripn' at the end of the segment."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 14,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": []
+  },
+  {
+   "label": "old",
+   "i": 15,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.196-0059",
+     "detail": "Para 83 'Mr. CHANG (China) thought the French amendment was ill-advised' starts a new turn on the page, but the single segment runs from Mendez (81) to the end of para 87."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.196-0059",
+     "detail": "Paras 84-87 'Mr. CASSIN (France) pointed out...' are a separate turn. The segment's ending ('...many States who had signed the Charter.') is Cassin's text, but the segment is attributed to MENDEZ (Philippines)."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.196-0059",
+     "detail": "The opening starts with 'Sle', OCR junk from the paragraph number '81.', before 'Mr. MENDEZ (Philippines)'."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 16,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.275-0039",
+     "detail": "Page opens with 'After a discussion ... the CHAIRMAN put the Uruguayan representative's proposal to the vote', a chair turn; the segment keeps it inside Mrs. Roosevelt's speech from p.13."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.275-0039",
+     "detail": "Underlined vote result 'It was decided, by 15 votes to none, with 3 abstentions, not to work on 1 May' is left inside Roosevelt's speech; it should be a vote segment."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.275-0040",
+     "detail": "'After a brief discussion, the CHAIRMAN said that that request would be granted' is a separate chair turn but sits inside Mr. Azkoul's (Lebanon) segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.275-0040",
+     "detail": "Underlined closing line 'The meeting rose at 5.40 p.m.' is left inside Azkoul's speech instead of being its own procedural segment."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.275-0040",
+     "detail": "Footer job mark '19/5 a.m.' (OCR '19/5 om.') and OCR debris ('penne aes ene Spee...') appear at the end of the segment text."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 17,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.187-0002",
+     "detail": "The heading segment ends with para. 1, 'The CHAIRMAN opened the discussion of the joint draft resolution...'. The chair's turn should be its own chair segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.187-0003",
+     "detail": "The underlined decision 'It was so decided.' after Kyrou's para. 2 is left inside his speech."
+    },
+    {
+     "type": "text_missing",
+     "segment_id": null,
+     "detail": "The underlined heading 'First paragraph' between the decision and para. 3 appears in no segment. Kyrou's segment ends at 'decider.' and Sorensen's begins at para. 3."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.187-0004",
+     "detail": "Para. 4, 'Mr. MALIK (Lebanon) considered that the English words...', is inside Sorensen's segment, which ends with Malik's words 'with a view to assuring'."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.187-0004",
+     "detail": "The underlined decision 'It was decided to bring the English translation into line with the French text...' is left inside Sorensen's speech segment."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 18,
+   "page_ok": false,
+   "speeches_on_image": 7,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.83-0038",
+     "detail": "Page opens with the chair's turn 'In reply to Mr. SANTA CRUZ (Chile), the CHAIRMAN pointed out...' (ends 'send nominations'); the segment puts it inside the page-12 vote result instead of a separate chair segment."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 19,
+   "page_ok": false,
+   "speeches_on_image": 9,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_c.3_sr.177-0010",
+     "detail": "Image has a separate paragraph 'In reply to a question by Mr. CHANG (China), the CHAIRMAN stated...'. That chair's turn sits inside the Pérez Cisneros (Cuba) speech segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.177-0008",
+     "detail": "The heading 'ARTICLES 13, 14, AND 15' and its separate decision are merged into the article 12 vote segment. The heading should be its own segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.177-0018",
+     "detail": "The heading 'ARTICLE 18' is left inside the vote segment 'Article 17 was adopted.' It should be its own heading segment before the Contoumas speech."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 20,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.232-0003",
+     "detail": "Page 7 shows a new turn, Mr. DUPONT-WILLEMIN (Guatemala) preferred the French proposal (three paragraphs). It sits inside Valenzuela's (Chile) segment, which runs on to the page's Chairman text."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.232-0003",
+     "detail": "The CHAIRMAN's turn ('admitted that the phrase in question was capable of being interpreted as an escape clause... Article 22') starts on page 7. It is the ending of Valenzuela's segment and has no chair segment of its own."
+    }
+   ]
+  },
+  {
+   "label": "old",
+   "i": 21,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.174-0036",
+     "detail": "Para 68 'In reply to a question put earlier by the Lebanese representative, the CHAIRMAN expressed the view...' is a separate chair turn, but the segment's ending puts it inside Whitlam's speech."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.174-0037",
+     "detail": "The underlined decision 'It was decided to adjourn the debate.' is printed below para 69, apart from Chang's motion, but the segment leaves it inside his speech."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 0,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.189-0008",
+     "detail": "Chair's turn from p.4 runs onto p.5 only as OCR junk 've 6 g [one i k' at its end, apparently the page 5 header/catchword; p.5 itself starts with para 14 (Theodoropoulos)."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 1,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.180-0007",
+     "detail": "Para 8 'Miss BOWIE (United Kingdom) believed...' and her para 9 are a separate turn, but the segment holds them inside KYROU (Greece); its opening runs into '8. - Miss BOWI'."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.180-0006",
+     "detail": "The 'Page 4' running header is left in the opening: 'to encourage the Page ) me Sub+Commisston to proceed'."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 2,
+   "page_ok": false,
+   "speeches_on_image": 8,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.199-0052",
+     "detail": "Para 74 'The CHAIRMAN understood that the United Kingdom delegation would like to insert a provision...' is a separate chair turn; segment of Miss BOWIE (para 73) runs on through it to 'postponed until a later date'."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.199-0050",
+     "detail": "OCR debris before the turn: openings 'war Mr, MALIK' (0050), 'ex The CHAIRMAN' (0051), 'OUP Mr, KYROU' (0055) are garbled paragraph numbers 71., 72., 77. on the scan."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 3,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.17-0033",
+     "detail": "Separate paragraph 'Replying to Mr. TEPLIAKOV (USSR) who asked..., Mr. LEBEAU said...' is a new turn after Tepliakov's question, merged into Lebeau's earlier suggestion. Same speaker, so low impact."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 4,
+   "page_ok": false,
+   "speeches_on_image": 11,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_c.3_sr.740-0020",
+     "detail": "Para 22, 'After a brief procedural discussion, the CHAIRMAN suggested ... begin ... on Tuesday, 29 January', is the chair's own turn but sits inside Vakil's para 21 segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.740-0021",
+     "detail": "The procedural 'It was so decided.' also holds the AGENDA ITEM 31 heading and the 'Articles 11 and 12 of the draft Covenant...' heading. Each heading should be its own segment."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 5,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.141-0011",
+     "detail": "Para 12 'Mr. RAMADAN (Egypt) pointed out that the use of petenthol was liable to spread...' is its own turn, but the segment attributed to MENDEZ (Philippines) ends with Ramadan's text."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 6,
+   "page_ok": false,
+   "speeches_on_image": 9,
+   "errors": [
+    {
+     "type": "false_split",
+     "segment_id": "a_c.3_sr.1072-0023",
+     "detail": "Para 51 is one paragraph: 'After a short discussion, in which the CHAIRMAN, Lady TWEEDSMUIR, Mr. ZULOAGA and Mr. GORBAL took part, the CHAIRMAN suggested...'. It is cut after 'in which the CHAIRMAN,' into a fragment chair segment plus 0024."
+    },
+    {
+     "type": "wrong_speaker",
+     "segment_id": "a_c.3_sr.1072-0024",
+     "detail": "The rest of para 51 is the chair's suggestion of a time-limit, with Tweedsmuir only one of the participants listed. The segment is a speech by TWEEDSMUIR (United Kingdom) and should be the chair's."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 7,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.155-0003",
+     "detail": "Para 1, the CHAIRMAN suggesting the Commission hear the ICFTU representative, is a chair turn on page 3. It sits at the end of the procedural segment that runs from page 1."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.155-0003",
+     "detail": "The agenda heading 'DRAFT INTERNATIONAL COVENANT ... ARTICLES 12 and 13' and the heading 'Article 12 (continued)' are not their own heading segments. They are left inside the procedural segment, just before para 1."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.155-0005",
+     "detail": "Para 5, Mr. LEROY-BEAULIEU (France) on a point of order, has no segment of its own. It falls inside Jevremovic's segment, which runs on to para 6 on page 4."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.155-0005",
+     "detail": "The segment's ending contains the page-4 running header 'E/CN.4/SR.155, Part II, Page 4' and likely the catchword '/6. Mr. JEVREMOVIC'."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 8,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_ac.1_sr.42-0030",
+     "detail": "Minor: the opening keeps a stray OCR tick before the turn ('‘ Mr, VANISTENDAEL'). The scan has a speck there; it is debris, not text. Speaker, delegation and boundaries are right."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 9,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "wrong_speaker",
+     "segment_id": "e_cn.4_sr.159-0034",
+     "detail": "Paras 49-50 are Mrs. Roosevelt (Chairman speaking for the United States), continuing her turn from p10 para 46. Segment 0034 holds them as Whitlam (Australia), from para 43 on; Ordonneau's turn, the chair's turns, the vote and the Article 14 heading on p10 are missed."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 10,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.198-0006",
+     "detail": "Para 4 is Nisot (Belgium); para 5 'In reply to a question from Miss BOWIE (United Kingdom), Mr. CASSIN (France) said...' is a new Cassin turn, but the segment runs it into Nisot's speech."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 11,
+   "speeches_on_image": 6,
+   "page_ok": false,
+   "errors": [
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.166-0032",
+     "detail": "Opening starts with OCR debris 'RR. .' (misread paragraph number 38) before 'Mr. SIMSARIAN'; split, speaker, delegation are right."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.166-0034",
+     "detail": "Opening starts with '20,' (misread paragraph number 39) before 'The CHAIRMAN'; segmentation and kind are right."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.166-0035",
+     "detail": "Opening starts with OCR debris 'bey,' (misread paragraph number 40) before 'Miss BOWIE'; speaker and delegation right."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.166-0036",
+     "detail": "Opening starts with '4,' (misread paragraph number 41) before 'Mr. CASSIN'; paragraph 42 continuation correctly kept in his speech."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.166-0037",
+     "detail": "Opening starts with OCR debris 'ey' (misread paragraph number 43) before 'Mr. SIMSARIAN'."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.166-0037",
+     "detail": "'| fos' after 'or crime\".' is OCR of the page-foot catchword mark '/44 The United', left in the speech text across the page break."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 12,
+   "page_ok": true,
+   "speeches_on_image": 3,
+   "errors": []
+  },
+  {
+   "label": "new",
+   "i": 13,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.338-0073",
+     "detail": "Mr. VALENZUELA (Chile) objected ... starts on this page but its text ('characterize! as charters of the right to take life...') sits inside the vote segment carried over from page 14, with no speaker."
+    },
+    {
+     "type": "text_missing",
+     "segment_id": null,
+     "detail": "Heading 'Paragraphs 5 to 7' at top of page is in no segment of its own (only OCR junk 'a. nb' in the vote segment)."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.338-0077",
+     "detail": "Underlined decision 'Paragraphs 5 to 7, with the Chilean-United Kingdom and Uruguayan amendments ... were adopted.' is left inside the chair's turn instead of a separate vote/decision segment."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.338-0077",
+     "detail": "Catchword '/Paragraphs 8 and 9' appears as OCR junk 'PAs pripn' at the end of the chair's segment."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 14,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": []
+  },
+  {
+   "label": "new",
+   "i": 15,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.196-0059",
+     "detail": "Para 83 'Mr. CHANG (China) thought the French amendment was ill-advised...' starts a new turn, but the MENDEZ segment runs on and ends with Chang's text ('...should not be adopted.')."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 16,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.275-0040",
+     "detail": "Underlined decision 'It was decided, by 15 votes to none, with 3 abstentions, not to work on 1 May' is left inside the chair segment; it should be a separate vote/decision segment."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.275-0041",
+     "detail": "The chair's turn 'After a brief discussion, the CHAIRMAN said that that request would be granted' is merged into Azkoul's (Lebanon) speech."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.275-0041",
+     "detail": "Underlined closing line 'The meeting rose at 5.40 p.m.' is left inside Azkoul's speech instead of being a procedural segment."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.275-0041",
+     "detail": "Ending carries the page footer '19/5 a.m.' (OCR '19/5 om.') plus OCR noise from the blank lower page."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 17,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.187-0002",
+     "detail": "The heading segment also holds paragraph 1, the CHAIRMAN opening the discussion of the joint draft resolution (E/CN.4/485). That turn should be its own chair segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.187-0003",
+     "detail": "The underlined decision 'It was so decided.' after Kyrou's proposal is left inside his speech. It should be a separate decision segment."
+    },
+    {
+     "type": "text_missing",
+     "segment_id": null,
+     "detail": "The underlined heading 'First paragraph' between the decision and paragraph 3 (Sorensen) is in none of the segments: Kyrou's segment ends at 'decider.' and Sorensen's begins '33 My, SCRENSEN'."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.187-0004",
+     "detail": "Paragraph 4, Mr. MALIK (Lebanon) ('in order to secure were stronger in meaning... with a view to assuring'), sits inside Sorensen's segment, which ends with Malik's text."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.187-0004",
+     "detail": "The underlined decision 'It was decided to bring the English translation into line with the French text on the point in question.' comes after Sorensen's turn. It is left inside the merged speech segment."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.187-0003",
+     "detail": "OCR junk before the turn: the opening is '26 \"Mr, EYROU', where '26 \"' is the misread paragraph number '2.'."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.187-0004",
+     "detail": "OCR junk before the turn: the opening is '33 My, SCRENSEN', where '33' is the misread paragraph number '3.'."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.187-0005",
+     "detail": "OCR junk before the turn: the opening is 'Ds Mr, CRIRE', where 'Ds' is the misread paragraph number '5.'."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.187-0002",
+     "detail": "The heading ends with stray OCR junk 'oe' after '(E/CI.4/485)', and it includes the paragraph number '1,' as 'L,' before 'Tus; CHAIRMAN'."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 18,
+   "page_ok": false,
+   "speeches_on_image": 7,
+   "errors": [
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.83-0039",
+     "detail": "Image: 'In reply to Mr. SANTA CRUZ (Chile), the CHAIRMAN pointed out...' is the chair's turn. Segment is kind chair but has speaker null, while the other chair segments on this page carry ROOSEVELT. Probably the 'In reply to' opening blocks resolving the chair's name."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 19,
+   "page_ok": false,
+   "speeches_on_image": 9,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.177-0008",
+     "detail": "Vote segment for article 12 also contains the heading 'ARTICLES 13, 14, AND 15' and the separate result 'Articles 13, 14 and 15 were successively adopted'; the heading should be its own segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.177-0019",
+     "detail": "Vote segment 'Article 17 was adopted.' ends with the heading 'ARTICLE 18', which belongs in its own heading segment before Contoumas's speech."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 20,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.232-0003",
+     "detail": "Page has a new turn 'Mr. DUPONT-WILLEMIN (Guatemala) preferred the French proposal...' with three paragraphs, but no segment for it; the Valenzuela (Chile) segment runs on through page 7."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.232-0003",
+     "detail": "'The CHAIRMAN admitted that the phrase in question was capable of being interpreted as an escape clause...' is a separate chair turn, but it is the ending of the Valenzuela segment."
+    }
+   ]
+  },
+  {
+   "label": "new",
+   "i": 21,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.174-0039",
+     "detail": "Underlined decision 'It was decided to adjourn the debate.' printed below para 69 is left at the end of CHANG's speech; it should be its own decision segment."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.174-0038",
+     "detail": "Chair turn opens with OCR debris 'se,' (the misread paragraph number 68.) before 'In reply to a question...'; the junk prefix should be stripped."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+[
+ {
+  "id": "a_c.3_sr.1353-0019",
+  "stratum": "Third Committee 1962-66",
+  "symbol": "A/C.3/SR.1353",
+  "page": 2,
+  "image": "/Users/lszoszk/Desktop/AI/travaux/data/ocr/A_C.3_SR.1353/img/page-002.png",
+  "opening": "15, In reply to a question put by Mr. SAKSENA (India), Mr. DAS (Secretary of the Committee) said that the financial implications of the Tanz",
+  "db_speaker": "DAS",
+  "db_delegation": "UN Secretariat",
+  "db_method": "roster_match",
+  "reads": [
+   {
+    "model": "opus",
+    "speaker": "DAS",
+    "delegation": "Secretary of the Committee"
+   },
+   {
+    "model": "sonnet",
+    "speaker": "DAS",
+    "delegation": "Secretary of the Committee"
+   }
+  ]
+ },
+ {
+  "id": "e_pv.84-0047",
+  "stratum": "UDHR 1946-48 plenary",
+  "symbol": "E/PV.84",
+  "page": 9,
+  "image": "/Users/lszoszk/Desktop/AI/travaux/data/ocr/E_PV.84/img/page-009.png",
+  "opening": "Mr. Owen (Assistant Secretary-General) stated that the Secretary-General had given careful thought to the desire expressed by the Social Com",
+  "db_speaker": "OWEN",
+  "db_delegation": "UN Secretariat",
+  "db_method": "text_org",
+  "reads": [
+   {
+    "model": "opus",
+    "speaker": "OWEN",
+    "delegation": "Assistant Secretary-General"
+   },
+   {
+    "model": "sonnet",
+    "speaker": "OWEN",
+    "delegation": "Assistant Secretary-General"
+   }
+  ]
+ },
+ {
+  "id": "e_pv.68-0009",
+  "stratum": "UDHR 1946-48 plenary",
+  "symbol": "E/PV.68",
+  "page": 2,
+  "image": "/Users/lszoszk/Desktop/AI/travaux/data/ocr/E_PV.68/img/page-002.png",
+  "opening": "Mr. YAZICI (Turkey) expressed full agreement with all recommendations of the report of the Commission on Human Rights, and stated that a hum",
+  "db_speaker": "YAZICR",
+  "db_delegation": "Turkey",
+  "db_method": "text_name",
+  "reads": [
+   {
+    "model": "opus",
+    "speaker": "YAZICI",
+    "delegation": "Turkey"
+   },
+   {
+    "model": "sonnet",
+    "speaker": "YAZICI",
+    "delegation": "Turkey"
+   }
+  ]
+ },
+ {
+  "id": "a_pv.147-0011",
+  "stratum": "UDHR 1946-48 plenary",
+  "symbol": "A/PV.147",
+  "page": 14,
+  "image": "/Users/lszoszk/Desktop/AI/travaux/data/ocr/A_PV.147/img/page-014.png",
+  "opening": "Mr. BALAGUER (Dominican Republic) said that it was the first time that the General Assembly of the United Nations had met on the soil of Fra",
+  "db_speaker": "BATACUZR",
+  "db_delegation": "Dominican Republic",
+  "db_method": "text_name",
+  "reads": [
+   {
+    "model": "opus",
+    "speaker": "BALAGUER",
+    "delegation": "Dominican Republic"
+   },
+   {
+    "model": "sonnet",
+    "speaker": "BALAGUER",
+    "delegation": "Dominican Republic"
+   }
+  ]
+ },
+ {
+  "id": "e_pv.84-0086",
+  "stratum": "UDHR 1946-48 plenary",
+  "symbol": "E/PV.84",
+  "page": 124,
+  "image": "/Users/lszoszk/Desktop/AI/travaux/data/ocr/E_PV.84/img/page-124.png",
+  "opening": "Mr. R. J. Cruikshank (United Kingdom), Mr. Z. Chafee {United States of America), Mr. Roberto Fontana (Uruguay). ANNEX 38 List of members of ",
+  "db_speaker": "CRUIKSHANK",
+  "db_delegation": "United Kingdom",
+  "db_method": "text_name",
+  "reads": [
+   {
+    "model": "opus",
+    "speaker": "",
+    "delegation": ""
+   },
+   {
+    "model": "sonnet",
+    "speaker": "CRUIKSHANK",
+    "delegation": "United Kingdom of Great Britain and Northern Ireland"
+   }
+  ]
+ }
+]

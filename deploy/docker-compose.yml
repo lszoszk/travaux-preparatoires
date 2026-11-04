@@ -1,0 +1,53 @@
+# One container next to the others on the VM. The host port is TRAVAUX_PORT (in .env), 8006 by default: 8000-8005 and 8080 are
+# taken there (unhrdb-ask-api holds 8003). The same number goes into the nginx upstream (deploy/nginx-snippet.conf).
+services:
+  travaux-api:
+    build: .
+    image: travaux-api:latest
+    container_name: travaux-api
+    ports:
+      # localhost only: nginx routes the outside traffic in (deploy/nginx-snippet.conf)
+      - "127.0.0.1:${TRAVAUX_PORT:-8006}:8003"
+    volumes:
+      # the folder with the database (travaux.sqlite3): ./data, or another disk (TRAVAUX_DATA_DIR in .env; the AMU VM keeps it on
+      # /mnt/data2/travaux/data since 12 October 2026, README.md "The database on another disk")
+      - ${TRAVAUX_DATA_DIR:-./data}:/data:ro
+      # the site (static files and config.js): the server serves it too, so nginx needs no access to the home folder
+      - ./site:/app/site:ro
+    restart: unless-stopped
+    # the database file is about 240 MB and SQLite keeps pages of it in memory: 256 MB was below that; Ask (below) adds its
+    # vectors, 69,193 x 1024 floats (about 280 MB in memory)
+    mem_limit: 1g
+    mem_reservation: 128m
+    environment:
+      - TRAVAUX_VERSION=${TRAVAUX_VERSION:-dev}
+      # The origins that may call the API from a browser: the site's address, e.g. https://lszoszk.github.io
+      - TRAVAUX_CORS_ORIGINS=${TRAVAUX_CORS_ORIGINS:-}
+      # Answers are cacheable for five minutes (the corpus changes only when a new database is put in place)
+      - TRAVAUX_CACHE_SECONDS=${TRAVAUX_CACHE_SECONDS:-300}
+      - TRAVAUX_EXPORT_CAP=${TRAVAUX_EXPORT_CAP:-2000}
+      # the publication audit's panel (the service below), passed through at /audit/ when set: http://travaux-audit:8438
+      - TRAVAUX_AUDIT_URL=${TRAVAUX_AUDIT_URL:-}
+      # Ask (search by meaning, /api/ask): the Voyage AI key, and the segments' vectors (eval/semantic_embed.py), put in the
+      # database's folder as vectors/voyage-3-large/{ids.json,vectors.npy}. Without the key, Ask answers 503 and the tab says so.
+      - VOYAGE_API_KEY=${VOYAGE_API_KEY:-}
+      - TRAVAUX_VECTORS=/data/vectors/voyage-3-large
+
+  # The publication audit's panel (eval/pub_audit.py), started only with `docker compose --profile audit up -d`. Its files live
+  # outside the bundle, in TRAVAUX_AUDIT_DIR (.env): app/ (eval/pub_audit.py, eval/pub_audit.html, pipeline/common.py), round/
+  # (items.json and the annotators' answers, written here) and ocr/ (the sample's scans). AUDIT_PASSWORD (.env) guards it.
+  travaux-audit:
+    image: python:3.11-slim
+    container_name: travaux-audit
+    profiles: ["audit"]
+    command: ["python3", "/audit/eval/pub_audit.py", "--dir", "/audit/round", "--port", "8438"]
+    volumes:
+      - ${TRAVAUX_AUDIT_DIR:-./audit}/app:/audit:ro
+      - ${TRAVAUX_AUDIT_DIR:-./audit}/round:/audit/round
+      - ${TRAVAUX_AUDIT_DIR:-./audit}/ocr:/scans:ro
+    environment:
+      - HOST=0.0.0.0
+      - AUDIT_OCR=/scans
+      - AUDIT_PASSWORD=${AUDIT_PASSWORD:-}
+    restart: unless-stopped
+    mem_limit: 128m

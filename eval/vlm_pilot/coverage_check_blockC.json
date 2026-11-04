@@ -1,0 +1,26 @@
+[
+ {
+  "page_key": "A_C.3_SR.906-3",
+  "symbol": "A/C.3/SR.906",
+  "page": 3,
+  "image": "/Users/lszoszk/Desktop/AI/travaux/data/ocr/A_C.3_SR.906/img/page-003.png",
+  "reading": "/Users/lszoszk/Desktop/AI/travaux/data/ocr/A_C.3_SR.906/chandra/page-003.txt",
+  "length_ratio": 0.806
+ },
+ {
+  "page_key": "E_CN.4_SR.379-15",
+  "symbol": "E/CN.4/SR.379",
+  "page": 15,
+  "image": "/Users/lszoszk/Desktop/AI/travaux/data/ocr/E_CN.4_SR.379/img/page-015.png",
+  "reading": "/Users/lszoszk/Desktop/AI/travaux/data/ocr/E_CN.4_SR.379/chandra/page-015.txt",
+  "length_ratio": 1.395
+ },
+ {
+  "page_key": "E_CN.4_SR.378-2",
+  "symbol": "E/CN.4/SR.378",
+  "page": 2,
+  "image": "/Users/lszoszk/Desktop/AI/travaux/data/ocr/E_CN.4_SR.378/img/page-002.png",
+  "reading": "/Users/lszoszk/Desktop/AI/travaux/data/ocr/E_CN.4_SR.378/chandra/page-002.txt",
+  "length_ratio": 1.371
+ }
+]

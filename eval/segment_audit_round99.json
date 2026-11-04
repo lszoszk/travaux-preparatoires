@@ -1,0 +1,2289 @@
+{
+ "pages": [
+  {
+   "id": "E/CN.4/SR.217 p4",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.217",
+   "page": 4
+  },
+  {
+   "id": "E/CN.4/SR.292 p6",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.292",
+   "page": 6
+  },
+  {
+   "id": "E/CN.4/SR.392 p11",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.392",
+   "page": 11
+  },
+  {
+   "id": "E/CN.4/SR.118 p11",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.118",
+   "page": 11
+  },
+  {
+   "id": "E/CN.4/SR.216 p8",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.216",
+   "page": 8
+  },
+  {
+   "id": "E/CN.4/SR.233 p7",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.233",
+   "page": 7
+  },
+  {
+   "id": "E/CN.4/SR.124 p2",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.124",
+   "page": 2
+  },
+  {
+   "id": "E/CN.4/SR.95 p10",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.95",
+   "page": 10
+  },
+  {
+   "id": "E/CN.4/SR.249 p9",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.249",
+   "page": 9
+  },
+  {
+   "id": "E/CN.4/SR.195 p17",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.195",
+   "page": 17
+  },
+  {
+   "id": "E/CN.4/SR.349 p10",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.349",
+   "page": 10
+  },
+  {
+   "id": "E/CN.4/SR.387 p12",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.387",
+   "page": 12
+  },
+  {
+   "id": "A/C.3/SR.1095 p4",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.1095",
+   "page": 4
+  },
+  {
+   "id": "A/C.3/SR.908 p3",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.908",
+   "page": 3
+  },
+  {
+   "id": "A/C.3/SR.408 p2",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.408",
+   "page": 2
+  },
+  {
+   "id": "A/C.3/SR.752 p4",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.752",
+   "page": 4
+  },
+  {
+   "id": "A/C.3/SR.1062 p1",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.1062",
+   "page": 1
+  },
+  {
+   "id": "A/C.3/SR.715 p2",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.715",
+   "page": 2
+  },
+  {
+   "id": "A/C.3/SR.1011 p1",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.1011",
+   "page": 1
+  },
+  {
+   "id": "A/C.3/SR.1014 p1",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.1014",
+   "page": 1
+  },
+  {
+   "id": "A/C.3/SR.738 p1",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.738",
+   "page": 1
+  },
+  {
+   "id": "A/C.3/SR.633 p5",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.633",
+   "page": 5
+  },
+  {
+   "id": "A/C.3/SR.662 p4",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.662",
+   "page": 4
+  },
+  {
+   "id": "A/C.3/SR.1077 p4",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.1077",
+   "page": 4
+  },
+  {
+   "id": "A/C.3/SR.1456 p5",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1456",
+   "page": 5
+  },
+  {
+   "id": "A/C.3/SR.1418 p4",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1418",
+   "page": 4
+  },
+  {
+   "id": "A/C.3/SR.1259 p1",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1259",
+   "page": 1
+  },
+  {
+   "id": "A/C.3/SR.1430 p1",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1430",
+   "page": 1
+  },
+  {
+   "id": "A/C.3/SR.1227 p3",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1227",
+   "page": 3
+  },
+  {
+   "id": "A/C.3/SR.1403 p1",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1403",
+   "page": 1
+  },
+  {
+   "id": "A/C.3/SR.1232 p6",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1232",
+   "page": 6
+  },
+  {
+   "id": "A/C.3/SR.1435 p2",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1435",
+   "page": 2
+  },
+  {
+   "id": "A/C.3/SR.1422 p1",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1422",
+   "page": 1
+  },
+  {
+   "id": "A/C.3/SR.1258 p2",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1258",
+   "page": 2
+  },
+  {
+   "id": "A/C.3/SR.1282 p5",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1282",
+   "page": 5
+  },
+  {
+   "id": "A/C.3/SR.1451 p2",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1451",
+   "page": 2
+  },
+  {
+   "id": "E/CN.4/SUB.1/SR.25 p5",
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SUB.1/SR.25",
+   "page": 5
+  },
+  {
+   "id": "A/C.3/SR.155 p7",
+   "stratum": "UDHR 1946-48",
+   "symbol": "A/C.3/SR.155",
+   "page": 7
+  },
+  {
+   "id": "E/CN.4/AC.1/SR.13 p15",
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/AC.1/SR.13",
+   "page": 15
+  },
+  {
+   "id": "E/CN.4/SUB.2/SR.6 p3",
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SUB.2/SR.6",
+   "page": 3
+  },
+  {
+   "id": "A/C.3/SR.99 p6",
+   "stratum": "UDHR 1946-48",
+   "symbol": "A/C.3/SR.99",
+   "page": 6
+  },
+  {
+   "id": "E/CN.4/SR.48 p5",
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SR.48",
+   "page": 5
+  },
+  {
+   "id": "E/CN.4/SUB.2/SR.5 p8",
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SUB.2/SR.5",
+   "page": 8
+  },
+  {
+   "id": "A/C.3/SR.146 p2",
+   "stratum": "UDHR 1946-48",
+   "symbol": "A/C.3/SR.146",
+   "page": 2
+  },
+  {
+   "id": "E/CN.4/SUB.1/SR.45 p13",
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SUB.1/SR.45",
+   "page": 13
+  },
+  {
+   "id": "A/C.3/SR.176 p5",
+   "stratum": "UDHR 1946-48",
+   "symbol": "A/C.3/SR.176",
+   "page": 5
+  },
+  {
+   "id": "E/CN.4/SR.37 p12",
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SR.37",
+   "page": 12
+  },
+  {
+   "id": "A/C.3/SR.176 p2",
+   "stratum": "UDHR 1946-48",
+   "symbol": "A/C.3/SR.176",
+   "page": 2
+  },
+  {
+   "id": "A/PV.46 p9",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.46",
+   "page": 9
+  },
+  {
+   "id": "E/PV.84 p2",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "E/PV.84",
+   "page": 2
+  },
+  {
+   "id": "A/PV.180 p17",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.180",
+   "page": 17
+  },
+  {
+   "id": "A/PV.46 p4",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.46",
+   "page": 4
+  },
+  {
+   "id": "E/PV.84 p124",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "E/PV.84",
+   "page": 124
+  },
+  {
+   "id": "A/PV.147 p18",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.147",
+   "page": 18
+  },
+  {
+   "id": "A/PV.181 p1",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.181",
+   "page": 1
+  },
+  {
+   "id": "A/PV.145 p3",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.145",
+   "page": 3
+  },
+  {
+   "id": "E/PV.68 p1",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "E/PV.68",
+   "page": 1
+  },
+  {
+   "id": "E/PV.84 p1",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "E/PV.84",
+   "page": 1
+  },
+  {
+   "id": "A/PV.7 p1",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.7",
+   "page": 1
+  },
+  {
+   "id": "A/PV.139 p18",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.139",
+   "page": 18
+  },
+  {
+   "id": "E/CN.4/SR.229 p22",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.229",
+   "page": 22
+  },
+  {
+   "id": "E/CN.4/SR.223 p9",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.223",
+   "page": 9
+  },
+  {
+   "id": "E/CN.4/SR.171 p17",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.171",
+   "page": 17
+  },
+  {
+   "id": "E/CN.4/SR.301 p13",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.301",
+   "page": 13
+  },
+  {
+   "id": "E/CN.4/SR.164 p12",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.164",
+   "page": 12
+  },
+  {
+   "id": "E/CN.4/SR.181 p12",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.181",
+   "page": 12
+  },
+  {
+   "id": "E/CN.4/SR.187 p14",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.187",
+   "page": 14
+  },
+  {
+   "id": "E/CN.4/SR.148 p14",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.148",
+   "page": 14
+  },
+  {
+   "id": "E/CN.4/SR.363 p8",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.363",
+   "page": 8
+  },
+  {
+   "id": "E/CN.4/SR.133 p11",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.133",
+   "page": 11
+  },
+  {
+   "id": "E/CN.4/SR.188 p14",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.188",
+   "page": 14
+  },
+  {
+   "id": "E/CN.4/SR.349 p14",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.349",
+   "page": 14
+  },
+  {
+   "id": "A/C.3/SR.737 p5",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.737",
+   "page": 5
+  },
+  {
+   "id": "A/C.3/SR.295 p3",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.295",
+   "page": 3
+  },
+  {
+   "id": "A/C.3/SR.894 p3",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.894",
+   "page": 3
+  },
+  {
+   "id": "A/C.3/SR.410 p3",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.410",
+   "page": 3
+  },
+  {
+   "id": "A/C.3/SR.794 p1",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.794",
+   "page": 1
+  },
+  {
+   "id": "A/C.3/SR.451 p4",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.451",
+   "page": 4
+  },
+  {
+   "id": "A/C.3/SR.728 p3",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.728",
+   "page": 3
+  },
+  {
+   "id": "A/C.3/SR.743 p4",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.743",
+   "page": 4
+  },
+  {
+   "id": "A/C.3/SR.448 p1",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.448",
+   "page": 1
+  },
+  {
+   "id": "A/C.3/SR.377 p2",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.377",
+   "page": 2
+  },
+  {
+   "id": "A/C.3/SR.857 p1",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.857",
+   "page": 1
+  },
+  {
+   "id": "A/C.3/SR.397 p3",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.397",
+   "page": 3
+  },
+  {
+   "id": "A/C.3/SR.1434 p6",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1434",
+   "page": 6
+  },
+  {
+   "id": "A/C.3/SR.1374 p1",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1374",
+   "page": 1
+  },
+  {
+   "id": "A/C.3/SR.1185 p3",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1185",
+   "page": 3
+  },
+  {
+   "id": "A/C.3/SR.1428 p2",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1428",
+   "page": 2
+  },
+  {
+   "id": "A/PV.1496 p8",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/PV.1496",
+   "page": 8
+  },
+  {
+   "id": "A/C.3/SR.1187 p3",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1187",
+   "page": 3
+  },
+  {
+   "id": "A/C.3/SR.1416 p2",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1416",
+   "page": 2
+  },
+  {
+   "id": "A/C.3/SR.1350 p2",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1350",
+   "page": 2
+  },
+  {
+   "id": "A/C.3/SR.1403 p1",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1403",
+   "page": 1
+  },
+  {
+   "id": "A/C.3/SR.1176 p1",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1176",
+   "page": 1
+  },
+  {
+   "id": "A/C.3/SR.1282 p6",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1282",
+   "page": 6
+  },
+  {
+   "id": "A/C.3/SR.1433 p2",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1433",
+   "page": 2
+  },
+  {
+   "id": "A/C.3/SR.103 p2",
+   "stratum": "UDHR 1946-48",
+   "symbol": "A/C.3/SR.103",
+   "page": 2
+  },
+  {
+   "id": "E/CN.4/SR.54 p2",
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SR.54",
+   "page": 2
+  },
+  {
+   "id": "E/CN.4/AC.1/SR.10 p9",
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/AC.1/SR.10",
+   "page": 9
+  },
+  {
+   "id": "E/CN.4/SR.27 p7",
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SR.27",
+   "page": 7
+  },
+  {
+   "id": "E/CN.4/SUB.2/SR.3 p9",
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SUB.2/SR.3",
+   "page": 9
+  },
+  {
+   "id": "A/C.3/SR.134 p1",
+   "stratum": "UDHR 1946-48",
+   "symbol": "A/C.3/SR.134",
+   "page": 1
+  },
+  {
+   "id": "E/CN.4/SR.66 p2",
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SR.66",
+   "page": 2
+  },
+  {
+   "id": "E/CN.4/SUB.1/SR.45 p11",
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SUB.1/SR.45",
+   "page": 11
+  },
+  {
+   "id": "E/AC.7/SR.39 p4",
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/AC.7/SR.39",
+   "page": 4
+  },
+  {
+   "id": "E/CN.4/SR.66 p5",
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SR.66",
+   "page": 5
+  },
+  {
+   "id": "A/C.3/SR.122 p8",
+   "stratum": "UDHR 1946-48",
+   "symbol": "A/C.3/SR.122",
+   "page": 8
+  },
+  {
+   "id": "E/CN.4/SR.26 p2",
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SR.26",
+   "page": 2
+  },
+  {
+   "id": "A/PV.178 p14",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.178",
+   "page": 14
+  },
+  {
+   "id": "A/PV.181 p12",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.181",
+   "page": 12
+  },
+  {
+   "id": "A/PV.180 p9",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.180",
+   "page": 9
+  },
+  {
+   "id": "E/PV.6 p8",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "E/PV.6",
+   "page": 8
+  },
+  {
+   "id": "A/PV.180 p17",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.180",
+   "page": 17
+  },
+  {
+   "id": "E/PV.84 p4",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "E/PV.84",
+   "page": 4
+  },
+  {
+   "id": "A/PV.144 p27",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.144",
+   "page": 27
+  },
+  {
+   "id": "A/PV.148 p24",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.148",
+   "page": 24
+  },
+  {
+   "id": "A/PV.139 p36",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.139",
+   "page": 36
+  },
+  {
+   "id": "A/PV.180 p13",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.180",
+   "page": 13
+  },
+  {
+   "id": "E/PV.69 p6",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "E/PV.69",
+   "page": 6
+  },
+  {
+   "id": "E/PV.5 p2",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "E/PV.5",
+   "page": 2
+  }
+ ],
+ "results": [
+  {
+   "i": 0,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": [],
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.217",
+   "page": 4
+  },
+  {
+   "i": 1,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": [],
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.292",
+   "page": 6
+  },
+  {
+   "i": 2,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": [],
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.392",
+   "page": 11
+  },
+  {
+   "i": 3,
+   "page_ok": true,
+   "speeches_on_image": 7,
+   "errors": [],
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.118",
+   "page": 11
+  },
+  {
+   "i": 4,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.216-0014",
+     "detail": "Page 8 opens with a new turn by Mr. Jouhaux (Workers' Representative, Governing Body of the ILO), but it sits inside Santa Cruz's (Chile) segment. That segment's ending is Jouhaux's text about the right to work being dealt with by conventions."
+    }
+   ],
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.216",
+   "page": 8
+  },
+  {
+   "i": 5,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.233-0005",
+     "detail": "On this page the Chairman starts a turn, speaking as representative of Lebanon (on the escape clause and Articles 55-56 of the Charter). The text sits at the end of Jevremovic's (Yugoslavia) segment, pages 5-7, which ends 'improve on the Charter'. It is not its own segment."
+    }
+   ],
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.233",
+   "page": 7
+  },
+  {
+   "i": 6,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "text_missing",
+     "segment_id": null,
+     "detail": "The heading 'DRAFT COVENANT ON HUMAN RIGHTS' above 'Article 22 (E/CN.4/315)' is in no segment. The attendance list continued from page 1 (Bowie to Schaefer) is also absent, which is probably by design."
+    }
+   ],
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.124",
+   "page": 2
+  },
+  {
+   "i": 7,
+   "page_ok": true,
+   "speeches_on_image": 3,
+   "errors": [],
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.95",
+   "page": 10
+  },
+  {
+   "i": 8,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": [],
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.249",
+   "page": 9
+  },
+  {
+   "i": 9,
+   "page_ok": false,
+   "speeches_on_image": 8,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.195-0049",
+     "detail": "Para. 93, 'The CHAIRMAN pointed out that it had not been the Commission's intention...', is a separate chair turn. The Sender segment runs on to 'government of a state.' and so absorbs it."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.195-0053",
+     "detail": "The vote result line is followed by para. 97, 'The CHAIRMAN put the French amendment...'. It appears here only as the catchword '/97. The CHAIRMAN' and continues on page 18. It sits inside the vote segment, not in its own chair segment."
+    }
+   ],
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.195",
+   "page": 17
+  },
+  {
+   "i": 10,
+   "page_ok": true,
+   "speeches_on_image": 6,
+   "errors": [],
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.349",
+   "page": 10
+  },
+  {
+   "i": 11,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": [],
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.387",
+   "page": 12
+  },
+  {
+   "i": 12,
+   "page_ok": false,
+   "speeches_on_image": 10,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_c.3_sr.1095-0022",
+     "detail": "Para. 48, where the Chairman answers Mr. Chammas (Lebanon), is a separate chair turn. The segment ending shows it was absorbed into Wan Mustapha's speech (para. 47)."
+    }
+   ],
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.1095",
+   "page": 4
+  },
+  {
+   "i": 13,
+   "page_ok": true,
+   "speeches_on_image": 3,
+   "errors": [],
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.908",
+   "page": 3
+  },
+  {
+   "i": 14,
+   "page_ok": false,
+   "speeches_on_image": 7,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "a_c.3_sr.408-0012",
+     "detail": "Cassin's speech continues onto the next page. Its opening text runs 'cover the exercise of 408th M...', so the next page's running header ('408th Meeting') has been left inside the speech text."
+    }
+   ],
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.408",
+   "page": 2
+  },
+  {
+   "i": 15,
+   "page_ok": true,
+   "speeches_on_image": 3,
+   "errors": [],
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.752",
+   "page": 4
+  },
+  {
+   "i": 16,
+   "page_ok": true,
+   "speeches_on_image": 5,
+   "errors": [],
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.1062",
+   "page": 1
+  },
+  {
+   "i": 17,
+   "page_ok": true,
+   "speeches_on_image": 5,
+   "errors": [],
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.715",
+   "page": 2
+  },
+  {
+   "i": 18,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": [],
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.1011",
+   "page": 1
+  },
+  {
+   "i": 19,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "text_missing",
+     "segment_id": null,
+     "detail": "The page prints 'In the absence of the Chairman, Mr. Farhadi (Afghanistan), Vice-Chairman, took the Chair.' before AGENDA ITEM 34. No listed segment holds it; the first listed segment is the 0002 heading."
+    },
+    {
+     "type": "text_missing",
+     "segment_id": "a_c.3_sr.1014-0006",
+     "detail": "The footnote continues 'of Jurists, Santiago, Chile, 24 August-9 September 1959 (Pan American Union...)'. The segment's opening and ending both stop at 'Inter-American Council', so its second and third lines seem to be lost."
+    }
+   ],
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.1014",
+   "page": 1
+  },
+  {
+   "i": 20,
+   "page_ok": true,
+   "speeches_on_image": 4,
+   "errors": [],
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.738",
+   "page": 1
+  },
+  {
+   "i": 21,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "a_c.3_sr.633-0017",
+     "detail": "Running header '633rd meeting—11 October 1955 49' is left inside the Hoare speech text where it continues from page 4 onto page 5 ('con- 633rd meeting—1]1 October 1955 49 sidering')."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "a_c.3_sr.633-0024",
+     "detail": "Closing segment includes the printer's footer 'M—77301—November 1955—1,875' after 'The meeting rose at 5.30 p.m.'"
+    }
+   ],
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.633",
+   "page": 5
+  },
+  {
+   "i": 22,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "a_c.3_sr.662-0034",
+     "detail": "Footnote 9 on page 4 ('See E/AC.7/SR.333.') has been merged into Bernardino's speech text: its ending reads 'C.7/SR.333. mission would be unable...'. Footnote 8 got its own segment, but footnote 9 did not."
+    }
+   ],
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.662",
+   "page": 4
+  },
+  {
+   "i": 23,
+   "page_ok": false,
+   "speeches_on_image": 8,
+   "errors": [
+    {
+     "type": "false_split",
+     "segment_id": "a_c.3_sr.1077-0021",
+     "detail": "Para 49 is one chair turn: 'After a further exchange of views in which Mr. KASLIWAL..., Lady TWEEDSMUIR... and the CHAIRMAN took part, the CHAIRMAN said...'. DB cuts it after 'in which' into segments 0021 and 0022."
+    },
+    {
+     "type": "wrong_speaker",
+     "segment_id": "a_c.3_sr.1077-0022",
+     "detail": "Para 49 statement (and following para 50 'He then...') is by the CHAIRMAN; segment 0022 assigns it to KASLIWAL (India), who is only named in the list of those who took part in the exchange."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.1077-0022",
+     "detail": "Segment 0022 holds the Chairman's statement in para 49, but its kind is speech. It should be chair, and it should be merged with 0021."
+    }
+   ],
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.1077",
+   "page": 4
+  },
+  {
+   "i": 24,
+   "page_ok": true,
+   "speeches_on_image": 5,
+   "errors": [],
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1456",
+   "page": 5
+  },
+  {
+   "i": 25,
+   "page_ok": true,
+   "speeches_on_image": 4,
+   "errors": [],
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1418",
+   "page": 4
+  },
+  {
+   "i": 26,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "text_missing",
+     "segment_id": null,
+     "detail": "Underlined heading 'Expression of sympathy to the Government and people of Japan on the occasion of the recent disasters' before para. 1 appears in no listed segment; segments begin with the chair's para. 1."
+    }
+   ],
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1259",
+   "page": 1
+  },
+  {
+   "i": 27,
+   "page_ok": true,
+   "speeches_on_image": 4,
+   "errors": [],
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1430",
+   "page": 1
+  },
+  {
+   "i": 28,
+   "page_ok": true,
+   "speeches_on_image": 9,
+   "errors": [],
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1227",
+   "page": 3
+  },
+  {
+   "i": 29,
+   "page_ok": false,
+   "speeches_on_image": 8,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "a_c.3_sr.1403-0010",
+     "detail": "The ending runs 'Economic and 149 A/C.3/5R.1403 Social Council': the page number 149 and the symbol A/C.3/SR.1403 from the page footer were left inside Capotorti's speech text."
+    }
+   ],
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1403",
+   "page": 1
+  },
+  {
+   "i": 30,
+   "page_ok": true,
+   "speeches_on_image": 7,
+   "errors": [],
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1232",
+   "page": 6
+  },
+  {
+   "i": 31,
+   "page_ok": true,
+   "speeches_on_image": 8,
+   "errors": [],
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1435",
+   "page": 2
+  },
+  {
+   "i": 32,
+   "page_ok": false,
+   "speeches_on_image": 12,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_c.3_sr.1422-0006",
+     "detail": "Para. 4, 'Mr. SAKSENA (India) accepted the Canadian suggestion', is its own turn on the page, but the segment appends it to the end of Macdonald's (Canada) para. 3 speech."
+    }
+   ],
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1422",
+   "page": 1
+  },
+  {
+   "i": 33,
+   "page_ok": true,
+   "speeches_on_image": 7,
+   "errors": [],
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1258",
+   "page": 2
+  },
+  {
+   "i": 34,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": [],
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1282",
+   "page": 5
+  },
+  {
+   "i": 35,
+   "page_ok": false,
+   "speeches_on_image": 11,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "a_c.3_sr.1451-0026",
+     "detail": "Ending 'accepted the proposed change, A51' includes '451', the page number of the next page, after the end of para 20 on this page."
+    }
+   ],
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1451",
+   "page": 2
+  },
+  {
+   "i": 36,
+   "page_ok": false,
+   "speeches_on_image": 13,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sub.1_sr.25-0024",
+     "detail": "Page opens with a new paragraph 'The CHAIRMAN was of the opinion that a drafting committee might be useful later...'. Lomakin's segment from p.4 absorbs it (its ending runs through the chairman's text)."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sub.1_sr.25-0024",
+     "detail": "'After an exchange of views the CHAIRMAN suggested ... approve the phrasing \"to hold and to impart\"' is a separate chair turn, but it sits at the end of Lomakin's segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sub.1_sr.25-0025",
+     "detail": "The underlined 'The Chairman's proposal was adopted.' records a decision, not something the chair said, yet the segment is marked as a chair turn rather than a vote or decision."
+    }
+   ],
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SUB.1/SR.25",
+   "page": 5
+  },
+  {
+   "i": 37,
+   "page_ok": true,
+   "speeches_on_image": 3,
+   "errors": [],
+   "stratum": "UDHR 1946-48",
+   "symbol": "A/C.3/SR.155",
+   "page": 7
+  },
+  {
+   "i": 38,
+   "page_ok": true,
+   "speeches_on_image": 5,
+   "errors": [],
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/AC.1/SR.13",
+   "page": 15
+  },
+  {
+   "i": 39,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "text_missing",
+     "segment_id": null,
+     "detail": "The underlined heading 'Discussion of Article 6 (Continued)' at the top of the page is in no segment; no heading segment for this page is listed, and the chair segment begins after it."
+    }
+   ],
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SUB.2/SR.6",
+   "page": 3
+  },
+  {
+   "i": 40,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": [],
+   "stratum": "UDHR 1946-48",
+   "symbol": "A/C.3/SR.99",
+   "page": 6
+  },
+  {
+   "i": 41,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.48-0012",
+     "detail": "Chair's procedural remark is followed by a new paragraph 'Speaking as the representative of the United States of America, the Chairman stated...'. That US delegation statement runs to page 6 inside the chair segment, which has delegation null."
+    }
+   ],
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SR.48",
+   "page": 5
+  },
+  {
+   "i": 42,
+   "page_ok": true,
+   "speeches_on_image": 9,
+   "errors": [],
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SUB.2/SR.5",
+   "page": 8
+  },
+  {
+   "i": 43,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "other",
+     "segment_id": "a_c.3_sr.146-0012",
+     "detail": "The heading 'ARTICLE 23¹' after Contoumas's speech has no segment of its own. Its text sits at the end of the Contoumas speech segment as 'ARTICLE 231'."
+    },
+    {
+     "type": "other_column_or_page_text",
+     "segment_id": "a_c.3_sr.146-0014",
+     "detail": "The Pérez Cisneros opening includes 'rights (A/777).', the end of the footnote, and 'graphe 2 les mots', text from the French column (Chang's speech), after the word 'text.'"
+    },
+    {
+     "type": "text_missing",
+     "segment_id": "a_c.3_sr.146-0015",
+     "detail": "The footnote segment is cut off at 'declaration of human'. Its remaining words 'rights (A/777)' went into the Pérez Cisneros speech."
+    }
+   ],
+   "stratum": "UDHR 1946-48",
+   "symbol": "A/C.3/SR.146",
+   "page": 2
+  },
+  {
+   "i": 44,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sub.1_sr.45-0118",
+     "detail": "New paragraph 'As the official record was not available... the CHAIRMAN asked representatives to pronounce themselves' is the chair's action, but it sits at the end of Mackenzie's speech segment."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sub.1_sr.45-0122",
+     "detail": "The underlined result 'Mr. Chafee's proposal was adopted.' is a separate vote paragraph on the page, but it was merged into the end of Chafee's speech segment."
+    }
+   ],
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SUB.1/SR.45",
+   "page": 13
+  },
+  {
+   "i": 45,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": [],
+   "stratum": "UDHR 1946-48",
+   "symbol": "A/C.3/SR.176",
+   "page": 5
+  },
+  {
+   "i": 46,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.37-0073",
+     "detail": "The underlined heading 'Declaration Article 17.' printed on its own line after the chair's vote on Article 15A sits at the end of the chair segment. It is not a separate heading segment."
+    }
+   ],
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SR.37",
+   "page": 12
+  },
+  {
+   "i": 47,
+   "page_ok": true,
+   "speeches_on_image": 4,
+   "errors": [],
+   "stratum": "UDHR 1946-48",
+   "symbol": "A/C.3/SR.176",
+   "page": 2
+  },
+  {
+   "i": 48,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "other_column_or_page_text",
+     "segment_id": "a_pv.46-0025",
+     "detail": "Opening of the Cuba speech has French-column text spliced into the English: 'comvoudrions savoir 4 quelle commission on envisage' sits between 'com-' and 'posed of old-timers'. This is a carry-over from page 8; the page 9 part is otherwise right."
+    }
+   ],
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.46",
+   "page": 9
+  },
+  {
+   "i": 49,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_pv.84-0010",
+     "detail": "Vote segment 'Decision: The USSR amendment was rejected.' also holds Mr. Halstead's (Canada) whole turn on the E/386/Add.1 amendment. His turn starts 'In connexion with the amendment...' and should be its own speech segment."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_pv.84-0004",
+     "detail": "The item 82 heading at the top of the page ('Discussion of the draft resolutions on the report of the Commission on the Status of Women...') sits inside the previous page's vote segment instead of being its own heading segment."
+    }
+   ],
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "E/PV.84",
+   "page": 2
+  },
+  {
+   "i": 50,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": [],
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.180",
+   "page": 17
+  },
+  {
+   "i": 51,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": [],
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.46",
+   "page": 4
+  },
+  {
+   "i": 52,
+   "page_ok": false,
+   "speeches_on_image": 0,
+   "errors": [
+    {
+     "type": "false_split",
+     "segment_id": "e_pv.84-0086",
+     "detail": "Annex 37 member list is cut at its entry 'Mr. R. J. Cruikshank (United Kingdom),'; the rest of the list starts a new segment, which is not a speaker turn."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_pv.84-0086",
+     "detail": "Annex material (end of Annex 37 list, ANNEX 38 heading and list) marked as a speech by Cruikshank (United Kingdom). No one speaks on this page."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_pv.84-0072",
+     "detail": "Draft resolutions on genocide, the ANNEX 37 heading and its member list are held in a 'chair' segment. They are annex/document text, not the chair speaking, and the heading has no segment of its own."
+    }
+   ],
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "E/PV.84",
+   "page": 124
+  },
+  {
+   "i": 53,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": [],
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.147",
+   "page": 18
+  },
+  {
+   "i": 54,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": [],
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.181",
+   "page": 1
+  },
+  {
+   "i": 55,
+   "page_ok": false,
+   "speeches_on_image": 0,
+   "errors": [
+    {
+     "type": "false_split",
+     "segment_id": "a_pv.145-0004",
+     "detail": "Page has no new turn; Malik's (Lebanon) speech continues mid-sentence 'representative of the United States of America, Mr. Marshall (139th meeting)...'. Segment wrongly split at the citation of Marshall."
+    },
+    {
+     "type": "wrong_speaker",
+     "segment_id": "a_pv.145-0004",
+     "detail": "Segment attributed to MARSHALL (United States of America), who is only mentioned in the text; the speaker is still Mr. C. Malik (Lebanon)."
+    }
+   ],
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.145",
+   "page": 3
+  },
+  {
+   "i": 56,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_pv.68-0006",
+     "detail": "Footnote 2 ('See Official Records of the Economic and Social Council, Second Year, Fourth Session, Supplement No. 3.') sits inside the Mendès-France speech text, after 'advocacy of human'."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_pv.68-0002",
+     "detail": "The image shows a bold agenda-item heading, '33. Discussion of the report of the Commission on Human Rights (document E/259)'. The database stores it as kind 'procedural', not 'heading'."
+    }
+   ],
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "E/PV.68",
+   "page": 1
+  },
+  {
+   "i": 57,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_pv.84-0004",
+     "detail": "Vote segment 'Decision: The resolution was adopted.' carries footnote debris 'page 19, page 230, 2' from the footnotes of footnotes 1 and 3 at the bottom of the page."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_pv.84-0004",
+     "detail": "Item heading '82. Discussion of the draft resolutions on the report of the Commission on the Status of Women' (next page) is merged into the vote segment instead of standing as its own heading."
+    }
+   ],
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "E/PV.84",
+   "page": 1
+  },
+  {
+   "i": 58,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_pv.7-0003",
+     "detail": "Chair segment also holds the next turn, Mr. Perez Cisneros (Cuba): 'The Cuban delegation accepts that interpretation.' It should be its own Cuba speech segment."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "a_pv.7-0003",
+     "detail": "The President's next turn starts at the bottom of the left column ('I thank the Cuban representative... paragraph 4 (a) is adopted'). It is merged into the same segment and should be a separate chair segment."
+    },
+    {
+     "type": "text_missing",
+     "segment_id": null,
+     "detail": "The President's opening turn ('The first item on the agenda is the General Committee's report...', down to 'attention to this point') is in no segment. The heading '18. Supplementary List of Items...' is not listed either."
+    }
+   ],
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.7",
+   "page": 1
+  },
+  {
+   "i": 59,
+   "page_ok": false,
+   "speeches_on_image": 1,
+   "errors": [
+    {
+     "type": "wrong_speaker",
+     "segment_id": "a_pv.139-0009",
+     "detail": "Page prints 'Mr. MODZELEWSKI (Poland)' as the speaker; the segment has the delegation Poland but speaker null (OCR 'Movzztewsxt' was not resolved to a name)."
+    }
+   ],
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.139",
+   "page": 18
+  },
+  {
+   "i": 60,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.229-0054",
+     "detail": "Page has a separate turn by Mr. Eustathiades (Greece) after Mr. Yu (China); the segment's text runs on into the Greek speech, which has no segment of its own."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.229-0055",
+     "detail": "Page has a separate turn by Azmi Bey (Egypt) after Mrs. Roosevelt's first speech; the segment's ending ('only way to incorporate ... Chilean proposal') is Azmi Bey's text, merged into Roosevelt's segment."
+    }
+   ],
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.229",
+   "page": 22
+  },
+  {
+   "i": 61,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.223-0026",
+     "detail": "Chair segment (pp. 8-9) runs on through the page 9 text of what looks like a WHO speaker ('he felt that the WHO proposal was simple, short and comprehensive'). A speech turn on page 8 was probably missed. It cannot be confirmed from this page."
+    }
+   ],
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.223",
+   "page": 9
+  },
+  {
+   "i": 62,
+   "page_ok": true,
+   "speeches_on_image": 3,
+   "errors": [],
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.171",
+   "page": 17
+  },
+  {
+   "i": 63,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": [],
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.301",
+   "page": 13
+  },
+  {
+   "i": 64,
+   "page_ok": false,
+   "speeches_on_image": 7,
+   "errors": [
+    {
+     "type": "wrong_speaker",
+     "segment_id": "e_cn.4_sr.164-0057",
+     "detail": "Para 65 'In reply to Mr. AZKOUL (Lebanon), the CHAIRMAN said...' is the chair (Roosevelt, as in 0049/0055), but the segment has speaker null; Azkoul is only named as the addressee."
+    }
+   ],
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.164",
+   "page": 12
+  },
+  {
+   "i": 65,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.181-0030",
+     "detail": "Para 47-48, Mr. NISOT (Belgium) on Article 2(7), starts this page (OCR 'Mrw.NESOT') but sits inside the Oribe (Uruguay) segment that runs on from p.11."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.181-0030",
+     "detail": "Para 49, Mr. HOARE (United Kingdom) votes against the Yugoslav amendment. The Oribe segment's ending is Hoare's text, so this turn is merged into it."
+    }
+   ],
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.181",
+   "page": 12
+  },
+  {
+   "i": 66,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.187-0046",
+     "detail": "Para 67, Mr. TSAO (China) 'would vote for text A...', is its own turn on the page, but it sits inside the Valenzuela (Chile) segment."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.187-0046",
+     "detail": "Para 68, Mr. KYROU (Greece) 'in reply to the representative of China...', is a separate turn, but the Valenzuela segment's ending is Kyrou's text."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.187-0050",
+     "detail": "The ending has the OCR debris 'er ae Bic if 4', which is most likely the catchword '/71. The CHAIRMAN' at the bottom of the page."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.187-0050",
+     "detail": "The underlined line 'The text was not adopted, 7 votes ... 7 against, with 1 abstention' is a vote result, but it is marked procedural. The similar result in segment 0048 is marked vote."
+    }
+   ],
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.187",
+   "page": 14
+  },
+  {
+   "i": 67,
+   "speeches_on_image": 1,
+   "page_ok": false,
+   "errors": [
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.148-0047",
+     "detail": "The underlined vote result ('The text of paragraph 3 submitted by the Drafting Group (E/CN.4/404) was adopted by 11 votes to none, with 2 abstentions') is merged into the end of the chair's segment. It should be a separate vote segment."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.148-0048",
+     "detail": "The closing line 'The meeting rose at 1 p.m.' is attached to the end of Chang's speech text. It is not part of his speech."
+    }
+   ],
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.148",
+   "page": 14
+  },
+  {
+   "i": 68,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": [],
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.363",
+   "page": 8
+  },
+  {
+   "i": 69,
+   "page_ok": true,
+   "speeches_on_image": 8,
+   "errors": [],
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.133",
+   "page": 11
+  },
+  {
+   "i": 70,
+   "page_ok": false,
+   "speeches_on_image": 7,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.188-0038",
+     "detail": "Para 76, Mr. SORENSEN (Denmark), proposing to insert 'regular', is a separate turn. The segment merges it into Hoare's para 75."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.188-0040",
+     "detail": "Para 79, Mrs. MEHTA (India), agreeing with the US representative, is inside the chair's para 78 segment."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.188-0040",
+     "detail": "Para 80, Mr. NISOT (Belgium), proposing 'an' for 'the', is also inside the chair's segment, which ends with his text."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.188-0040",
+     "detail": "The ending 'pig ségsratae' after Nisot's text looks like OCR of the catchword '/81. Mr. SORENSEN' at the foot of the page."
+    }
+   ],
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.188",
+   "page": 14
+  },
+  {
+   "i": 71,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": [],
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.349",
+   "page": 14
+  },
+  {
+   "i": 72,
+   "page_ok": true,
+   "speeches_on_image": 14,
+   "errors": [],
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.737",
+   "page": 5
+  },
+  {
+   "i": 73,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": [],
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.295",
+   "page": 3
+  },
+  {
+   "i": 74,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "text_missing",
+     "segment_id": "a_c.3_sr.894-0015",
+     "detail": "Para 21 on the image ends 'indicated at the 891st meeting.' The segment text jumps from 'at the' straight to '22. It had abstained', so the line '891st meeting.' is dropped. It was probably stripped as if it were the running header."
+    }
+   ],
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.894",
+   "page": 3
+  },
+  {
+   "i": 75,
+   "page_ok": false,
+   "speeches_on_image": 11,
+   "errors": [
+    {
+     "type": "wrong_speaker",
+     "segment_id": "a_c.3_sr.410-0024",
+     "detail": "Para 30, 'At the request of Mr. BAROODY (Saudi Arabia), the CHAIRMAN called for a separate vote', is the chair's turn, but the speaker is null. The chair's other segments on this page give FIGUEROA."
+    }
+   ],
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.410",
+   "page": 3
+  },
+  {
+   "i": 76,
+   "page_ok": true,
+   "speeches_on_image": 12,
+   "errors": [],
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.794",
+   "page": 1
+  },
+  {
+   "i": 77,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": [],
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.451",
+   "page": 4
+  },
+  {
+   "i": 78,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_c.3_sr.728-0008",
+     "detail": "Para 20 'Mrs. SHIPLEY (Canada) said...' starts on this page, but it sits inside the Petrzelka (Czechoslovakia) segment. That segment ends with Shipley's para 26, 'her delegation would vote against the USSR amendment'."
+    }
+   ],
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.728",
+   "page": 3
+  },
+  {
+   "i": 79,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "a_c.3_sr.743-0040",
+     "detail": "Footnote 1 at the foot of the left column ('A modified version of this amendment was subsequently issued as document A/C.3/L.590.') is spliced into Pazhwak's opening, mid-sentence."
+    }
+   ],
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.743",
+   "page": 4
+  },
+  {
+   "i": 80,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": [],
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.448",
+   "page": 1
+  },
+  {
+   "i": 81,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": [],
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.377",
+   "page": 2
+  },
+  {
+   "i": 82,
+   "page_ok": true,
+   "speeches_on_image": 8,
+   "errors": [],
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.857",
+   "page": 1
+  },
+  {
+   "i": 83,
+   "page_ok": true,
+   "speeches_on_image": 3,
+   "errors": [],
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.397",
+   "page": 3
+  },
+  {
+   "i": 84,
+   "page_ok": true,
+   "speeches_on_image": 11,
+   "errors": [],
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1434",
+   "page": 6
+  },
+  {
+   "i": 85,
+   "page_ok": true,
+   "speeches_on_image": 5,
+   "errors": [],
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1374",
+   "page": 1
+  },
+  {
+   "i": 86,
+   "page_ok": true,
+   "speeches_on_image": 4,
+   "errors": [],
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1185",
+   "page": 3
+  },
+  {
+   "i": 87,
+   "page_ok": true,
+   "speeches_on_image": 10,
+   "errors": [],
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1428",
+   "page": 2
+  },
+  {
+   "i": 88,
+   "page_ok": false,
+   "speeches_on_image": 1,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "a_pv.1496-0036",
+     "detail": "Page 8 running header '8 General Assembly — Twenty-first Session — Plenary Meetings' appears inside the segment's text, visible in its opening ('...International Convention on the 8 General Assembly — Twenty-first Se')."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_pv.1496-0036",
+     "detail": "The turn is by 'The SECRETARY-GENERAL' (paras 68-76), not the President, but the segment is marked kind chair with no speaker. It should be a speech by the Secretary-General."
+    }
+   ],
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/PV.1496",
+   "page": 8
+  },
+  {
+   "i": 89,
+   "page_ok": true,
+   "speeches_on_image": 4,
+   "errors": [],
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1187",
+   "page": 3
+  },
+  {
+   "i": 90,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "wrong_speaker",
+     "segment_id": "a_c.3_sr.1416-0005",
+     "detail": "Page prints 'Mr. DAS (Secretary of the Committee)' in para 6; segment gives speaker DAES, a different person (Greek delegate)."
+    },
+    {
+     "type": "wrong_delegation",
+     "segment_id": "a_c.3_sr.1416-0005",
+     "detail": "Speaker is the Secretary of the Committee (Secretariat), not a delegate; segment gives delegation Greece."
+    }
+   ],
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1416",
+   "page": 2
+  },
+  {
+   "i": 91,
+   "page_ok": true,
+   "speeches_on_image": 3,
+   "errors": [],
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1350",
+   "page": 2
+  },
+  {
+   "i": 92,
+   "page_ok": false,
+   "speeches_on_image": 8,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "a_c.3_sr.1403-0010",
+     "detail": "The page footer (page number 149 and symbol A/C.3/SR.1403) appears in the segment text: the ending reads 'Economic and 149 A/C.3/5R.1403 Social Council'."
+    }
+   ],
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1403",
+   "page": 1
+  },
+  {
+   "i": 93,
+   "page_ok": false,
+   "speeches_on_image": 7,
+   "errors": [
+    {
+     "type": "text_missing",
+     "segment_id": null,
+     "detail": "The heading 'Tribute to the memory of Mrs. Eleanor Roosevelt' above para 1 is in no listed segment; the list starts at 0002 with the chair's para 1. Segment 0001 may hold it but is not listed for this page."
+    }
+   ],
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1176",
+   "page": 1
+  },
+  {
+   "i": 94,
+   "page_ok": true,
+   "speeches_on_image": 4,
+   "errors": [],
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1282",
+   "page": 6
+  },
+  {
+   "i": 95,
+   "page_ok": true,
+   "speeches_on_image": 5,
+   "errors": [],
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1433",
+   "page": 2
+  },
+  {
+   "i": 96,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": [],
+   "stratum": "UDHR 1946-48",
+   "symbol": "A/C.3/SR.103",
+   "page": 2
+  },
+  {
+   "i": 97,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "text_missing",
+     "segment_id": null,
+     "detail": "Agenda heading 'CONTINUATION OF CONSIDERATION OF DRAFT INTERNATIONAL DECLARATION ON HUMAN RIGHTS (document E/CN.4/95)' above 'Article 3' is in no segment; only the 'Article 3' heading is segmented."
+    }
+   ],
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SR.54",
+   "page": 2
+  },
+  {
+   "i": 98,
+   "page_ok": true,
+   "speeches_on_image": 6,
+   "errors": [],
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/AC.1/SR.10",
+   "page": 9
+  },
+  {
+   "i": 99,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.27-0018",
+     "detail": "Image shows Bogomolov's turn ending 'until after the Draft had been considered.' then 'Mr. AMADO (Panama) said...' as a new turn; segment runs on to Amado's ending 'views of the United States representative'."
+    }
+   ],
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SR.27",
+   "page": 7
+  },
+  {
+   "i": 100,
+   "page_ok": true,
+   "speeches_on_image": 7,
+   "errors": [],
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SUB.2/SR.3",
+   "page": 9
+  },
+  {
+   "i": 101,
+   "page_ok": true,
+   "speeches_on_image": 3,
+   "errors": [],
+   "stratum": "UDHR 1946-48",
+   "symbol": "A/C.3/SR.134",
+   "page": 1
+  },
+  {
+   "i": 102,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": [],
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SR.66",
+   "page": 2
+  },
+  {
+   "i": 103,
+   "page_ok": false,
+   "speeches_on_image": 8,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sub.1_sr.45-0107",
+     "detail": "Chair segment runs on into Lomakin's turn 'Since the Sub-Commission was a separate body, Mr. LOMAKIN (USSR) failed to see...' through 'during the second session'. That turn needs its own speech segment."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sub.1_sr.45-0110",
+     "detail": "The underlined decision 'Paragraph 15 was accepted without discussion.' is merged into the chair's turn. It should be a separate result/vote segment, like 'The proposal was rejected by 6 votes to 2'."
+    }
+   ],
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SUB.1/SR.45",
+   "page": 11
+  },
+  {
+   "i": 104,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_ac.7_sr.39-0009",
+     "detail": "Page 4 opens with a new turn, 'Mr. BORISOV (USSR) approved the text suggested by the United States representative'. It sits inside segment 0009, which began with an earlier Borisov turn on page 3 ('recalled the decision...'), so it is not a continuation."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_ac.7_sr.39-0009",
+     "detail": "Two vote results ('The first paragraph, as amended..., was adopted.' and 'Resolution 4 was adopted.') are left at the end of the Borisov speech segment. They are not separate vote segments."
+    }
+   ],
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/AC.7/SR.39",
+   "page": 4
+  },
+  {
+   "i": 105,
+   "page_ok": true,
+   "speeches_on_image": 3,
+   "errors": [],
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SR.66",
+   "page": 5
+  },
+  {
+   "i": 106,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "other",
+     "segment_id": "a_c.3_sr.122-0044",
+     "detail": "The heading 'ARTICLE 13' with its footnote mark, printed after Shahi's speech, is left at the end of his speech text ('...fundamental right. ARTICLE 131') instead of being its own heading segment."
+    },
+    {
+     "type": "text_missing",
+     "segment_id": "a_c.3_sr.122-0050",
+     "detail": "The footnote is cut off at 'declaration of ti'. The page reads 'Article 16 of the draft universal declaration of human rights (A/777).'"
+    }
+   ],
+   "stratum": "UDHR 1946-48",
+   "symbol": "A/C.3/SR.122",
+   "page": 8
+  },
+  {
+   "i": 107,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "text_missing",
+     "segment_id": null,
+     "detail": "Underlined heading '...communications' (partly cut off on the scan) at the top of the page, before the Chairman's turn, is in none of the segments listed for this page; no heading segment covers it."
+    }
+   ],
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SR.26",
+   "page": 2
+  },
+  {
+   "i": 108,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": [],
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.178",
+   "page": 14
+  },
+  {
+   "i": 109,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": [],
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.181",
+   "page": 12
+  },
+  {
+   "i": 110,
+   "page_ok": false,
+   "speeches_on_image": 1,
+   "errors": [
+    {
+     "type": "other_column_or_page_text",
+     "segment_id": "a_pv.180-0007",
+     "detail": "Roosevelt's opening reads 'declaration of human 'yotes affirmatifs, 3,73 rights': the words 'votes affirmatifs, 3,73' come from the French column's Malik passage and have been spliced into the English speech."
+    }
+   ],
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.180",
+   "page": 9
+  },
+  {
+   "i": 111,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_pv.6-0003",
+     "detail": "Chang's segment ending 'too large a concept for one 41' keeps the page number 41 printed at the bottom of the page."
+    },
+    {
+     "type": "text_missing",
+     "segment_id": null,
+     "detail": "The heading '20. Consideration of the Report of the Commission on Human Rights (continuation) (document E/38, annex 4, page 224)' above Colbjoernsen's speech is in none of the segments listed for this page."
+    }
+   ],
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "E/PV.6",
+   "page": 8
+  },
+  {
+   "i": 112,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": [],
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.180",
+   "page": 17
+  },
+  {
+   "i": 113,
+   "page_ok": true,
+   "speeches_on_image": 5,
+   "errors": [],
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "E/PV.84",
+   "page": 4
+  },
+  {
+   "i": 114,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": [],
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.144",
+   "page": 27
+  },
+  {
+   "i": 115,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": [],
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.148",
+   "page": 24
+  },
+  {
+   "i": 116,
+   "page_ok": false,
+   "speeches_on_image": 1,
+   "errors": [
+    {
+     "type": "other",
+     "segment_id": "a_pv.139-0016",
+     "detail": "The 'closing' segment ('The meeting rose at 12.53') also holds the next meeting's title block (HUNDRED AND FORTIETH PLENARY MEETING, Held at..., President: Evatt). That block should be its own heading, separate from the 139th meeting's closing."
+    }
+   ],
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.139",
+   "page": 36
+  },
+  {
+   "i": 117,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": [],
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.180",
+   "page": 13
+  },
+  {
+   "i": 118,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "other",
+     "segment_id": "e_pv.69-0012",
+     "detail": "Footnote 1 ('See Resolutions adopted by the General Assembly during the second part of its first session...') is merged into Chang's speech text right after 'threshold of a new'; footnote 3 alone has its own footnote segment."
+    }
+   ],
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "E/PV.69",
+   "page": 6
+  },
+  {
+   "i": 119,
+   "page_ok": true,
+   "speeches_on_image": 6,
+   "errors": [],
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "E/PV.5",
+   "page": 2
+  }
+ ]
+}

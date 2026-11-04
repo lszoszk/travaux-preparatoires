@@ -1,0 +1,402 @@
+{
+ "P001": {
+  "correct": true,
+  "note": "Debate on the proposed article introducing economic and social rights, with support for States acting within their possibilities (art. 22's realisation clause)."
+ },
+ "P002": {
+  "correct": true,
+  "note": "Proposal to move article 1 out of the text into a separate chapter of essential principles, i.e. its place."
+ },
+ "P003": {
+  "correct": false,
+  "note": "Mainly about whether Committee decisions are taken by members present or voting, a Committee procedure question, not composition."
+ },
+ "P004": {
+  "correct": true,
+  "note": "On States nominating candidates (four) for the Committee, i.e. nomination."
+ },
+ "P005": {
+  "correct": true,
+  "note": "Procedural fight over the working-party resolution and amendments on drafting article 1 on self-determination; tied to that article's drafting (borderline, organisation of work)."
+ },
+ "P006": {
+  "correct": false,
+  "note": "Chinese vote on paragraphs and last paragraph of the general Article 1 (classes of persons, colonial clause), not education."
+ },
+ "P007": {
+  "correct": true,
+  "note": "Request on recording the UK text beside the adopted vote on the draft article 2 on duties/limitations."
+ },
+ "P008": {
+  "correct": true,
+  "note": "Whether to reconsider and where to place draft article 2 (duties of the individual)."
+ },
+ "P009": {
+  "correct": true,
+  "note": "Procedure of acceptance, who may sign and number of signatures for entry into force: signature clause."
+ },
+ "P010": {
+  "correct": true,
+  "note": "Cultural development of minorities and parental choice in education within the education article."
+ },
+ "P011": {
+  "correct": true,
+  "note": "Proposes wording ('by legislative or other methods') for the general obligations clause."
+ },
+ "P012": {
+  "correct": true,
+  "note": "Motion for division on a paragraph of the inter-State communications article; voting in parts on its text."
+ },
+ "P013": {
+  "correct": true,
+  "note": "Procedural question whether article 1 stays or moves to the preamble before voting on its text."
+ },
+ "P014": {
+  "correct": true,
+  "note": "Argues about the federal clause itself (burden of proof on federal States), which is the content of this article."
+ },
+ "P015": {
+  "correct": true,
+  "note": "Proposes deleting words on to whom the Committee report goes in the inter-State procedure."
+ },
+ "P016": {
+  "correct": true,
+  "note": "USSR amendment to the education article, whether it can still be put to the vote."
+ },
+ "P017": {
+  "correct": true,
+  "note": "Support for UNESCO text on the right to education and parents' say in education."
+ },
+ "P018": {
+  "correct": true,
+  "note": "Welcomes moving the mothers-and-children protection paragraph into the standard-of-living/social-security article."
+ },
+ "P019": {
+  "correct": true,
+  "note": "Who should elect the Committee members (ICJ proposal); election of the Committee."
+ },
+ "P020": {
+  "correct": true,
+  "note": "Explains the compromise on publishing the Committee's report in the inter-State procedure."
+ },
+ "P021": {
+  "correct": true,
+  "note": "Short reply in the debate on an amendment to the movement article about non-discrimination in it (borderline; speech itself does not mention movement)."
+ },
+ "P022": {
+  "correct": true,
+  "note": "Supports grouping fundamental rights and incorporating physical integrity in the life/security article (partly general on shortening)."
+ },
+ "P023": {
+  "correct": true,
+  "note": "Vote to include a general umbrella article on obligations for economic, social, cultural rights."
+ },
+ "P024": {
+  "correct": true,
+  "note": "Procedural point on the previous question whether to insert draft article 23 (standard of living) in the covenant."
+ },
+ "P025": {
+  "correct": true,
+  "note": "Opposes Egyptian amendment on how State reports are routed; reports article."
+ },
+ "P026": {
+  "correct": true,
+  "note": "Order of withdrawing and voting on amendments to the draft right-to-work article."
+ },
+ "P027": {
+  "correct": true,
+  "note": "Postponement of the proposed amendment of the amendments/revision article (Article 27) until implementation is decided."
+ },
+ "P028": {
+  "correct": true,
+  "note": "Asks that the report note deletion of the clause on special procedures in the UN, i.e. relation to other procedures."
+ },
+ "P029": {
+  "correct": true,
+  "note": "Qualifications/character of Committee members and avoiding overlap with ICJ; establishment/composition of the Committee."
+ },
+ "P030": {
+  "correct": false,
+  "note": "Procedural objection about reservations clause and limiting discussion to amendments, mainly reservations/organisation of work."
+ },
+ "P031": {
+  "correct": true,
+  "note": "Wants States' obligations for ESC rights stated generally in an opening article."
+ },
+ "P032": {
+  "correct": true,
+  "note": "Chilean suggestion about when amendments may be proposed after entry into force (amendment article); borderline, speech does not name the article."
+ },
+ "P033": {
+  "correct": true,
+  "note": "Denmark withdraws its proposal on the right-to-work article."
+ },
+ "P034": {
+  "correct": true,
+  "note": "Agrees to defer where the self-determination article is placed (its place)."
+ },
+ "P035": {
+  "correct": false,
+  "note": "Chile and Uruguay drop a point and enter general reservations in the report; no link to non-retroactivity shown."
+ },
+ "P036": {
+  "correct": true,
+  "note": "Order of votes on amendments to the education article, Lebanon reserves its amendment."
+ },
+ "P037": {
+  "correct": true,
+  "note": "Motion to adjourn consideration of paragraphs of UK text on the derogation/exceptions article."
+ },
+ "P038": {
+  "correct": true,
+  "note": "Order of voting on proposals and deletion of paragraph 2 of the saving-clause article."
+ },
+ "P039": {
+  "correct": true,
+  "note": "Comments on Belgian wording for the friendly-settlement provision of the inter-State procedure."
+ },
+ "P040": {
+  "correct": false,
+  "note": "General debate on the meaning of 'peoples' and practical application of self-determination, not the article's text."
+ },
+ "P041": {
+  "correct": true,
+  "note": "Italy asks for suspension to redraft the reporting-in-stages article."
+ },
+ "P042": {
+  "correct": true,
+  "note": "Drafting-change comment in the debate on amendments to the obligations article."
+ },
+ "P043": {
+  "correct": true,
+  "note": "Corrects the French text of paragraph 2 of the inter-State communications article."
+ },
+ "P044": {
+  "correct": true,
+  "note": "Asks for article-by-article vote starting with the amendment on signature 'any State'."
+ },
+ "P045": {
+  "correct": true,
+  "note": "US new article on periodic reporting (article 51 bis) under the Covenant; reports."
+ },
+ "P046": {
+  "correct": true,
+  "note": "Vote in two parts and roll call on Malik's amendment to the marriage article."
+ },
+ "P047": {
+  "correct": true,
+  "note": "AFL comment on the list of exceptions in the derogation article."
+ },
+ "P048": {
+  "correct": true,
+  "note": "Explains Indian amendment to paragraph 3 (report) of the inter-State article."
+ },
+ "P049": {
+  "correct": true,
+  "note": "Denmark withdraws amendment to the Yugoslav text in the trade-union rights debate."
+ },
+ "P050": {
+  "correct": true,
+  "note": "Australia on the federal clause article and its ratification difficulties."
+ },
+ "P051": {
+  "correct": true,
+  "note": "Sweden on the scope and detail of the education provision."
+ },
+ "P052": {
+  "correct": true,
+  "note": "Largely the US amendment turning the first article into a general obligations clause (partly on a USSR amendment to the work article)."
+ },
+ "P053": {
+  "correct": true,
+  "note": "Questions the need for a special method for electing Committee members."
+ },
+ "P054": {
+  "correct": true,
+  "note": "Explains vote on Yugoslav amendment placing the Committee's administrative side under the Secretary-General: staff and facilities."
+ },
+ "P055": {
+  "correct": true,
+  "note": "Qualifications of Committee members (persons with high judicial office)."
+ },
+ "P056": {
+  "correct": true,
+  "note": "Uruguay on obligation to convene Committee meetings on a complaint."
+ },
+ "P057": {
+  "correct": false,
+  "note": "About the word 'may' in a proposed article on spousal equality and implementation, not State reports."
+ },
+ "P058": {
+  "correct": true,
+  "note": "Cassin on his general obligations text and a joint text with Yugoslav and US proposals."
+ },
+ "P059": {
+  "correct": true,
+  "note": "On the Status of Women's agreed text on equal conditions in the work article (borderline)."
+ },
+ "P060": {
+  "correct": true,
+  "note": "Public examinations for admission to public office; equal access to public service."
+ },
+ "P061": {
+  "correct": true,
+  "note": "Order of voting on USSR amendment to the slavery article and a subcommittee."
+ },
+ "P062": {
+  "correct": true,
+  "note": "Supports Chile's proposal on to whom the Committee's report is sent."
+ },
+ "P063": {
+  "correct": true,
+  "note": "Election of Committee members by the ICJ vs States; consultation of the Court."
+ },
+ "P064": {
+  "correct": false,
+  "note": "About a separate vote on paragraphs of other articles (article 26, new article 29 ter), not authentic texts."
+ },
+ "P065": {
+  "correct": true,
+  "note": "Explains vote on the Yugoslav additional article on Non-Self-Governing Territories (became art. 2 para 2)."
+ },
+ "P066": {
+  "correct": true,
+  "note": "Position on retaining or deleting sentences/paragraphs of the presumption of innocence and retroactivity article."
+ },
+ "P067": {
+  "correct": true,
+  "note": "Explains UK vote on resolution setting directives for the working party on article 1 (borderline, procedural around that article)."
+ },
+ "P068": {
+  "correct": false,
+  "note": "About parties 'having an interest' not sitting/undue pressure on members; not officers or rules of procedure."
+ },
+ "P069": {
+  "correct": true,
+  "note": "Chile clarifies its co-sponsored amendment on the self-determination article."
+ },
+ "P070": {
+  "correct": true,
+  "note": "Objects to the report's account of debate on the equality-before-the-law article."
+ },
+ "P071": {
+  "correct": true,
+  "note": "Pakistan against the need for a federal clause in the covenants."
+ },
+ "P072": {
+  "correct": true,
+  "note": "Haiti on the Non-Self-Governing Territories article (Yugoslav proposal) that became art. 2 para 2."
+ },
+ "P073": {
+  "correct": true,
+  "note": "Opposes Chilean amendment to the report provision of the inter-State procedure."
+ },
+ "P074": {
+  "correct": true,
+  "note": "WHO on including a simple affirmation of the right to health."
+ },
+ "P075": {
+  "correct": false,
+  "note": "Vote on the final paragraph of the general Article 1 (resources, colonial territories), not education."
+ },
+ "P076": {
+  "correct": true,
+  "note": "Wording 'present and voting' in the election article's second sentence (borderline)."
+ },
+ "P077": {
+  "correct": true,
+  "note": "Chang on the new article on right to social order and its link to duties."
+ },
+ "P078": {
+  "correct": true,
+  "note": "Article on juridical personality not limited to nationality or stateless persons."
+ },
+ "P079": {
+  "correct": true,
+  "note": "France on US proposal and wording ('nationals') for the obligations article."
+ },
+ "P080": {
+  "correct": false,
+  "note": "Yugoslav amendment on the Committee's overall competence, not clearly the relation to other procedures."
+ },
+ "P081": {
+  "correct": true,
+  "note": "Supports including married persons' right to reside together in the Comments on the marriage article."
+ },
+ "P082": {
+  "correct": true,
+  "note": "Preference to separate federal and colonial clauses and retain the federal clause."
+ },
+ "P083": {
+  "correct": true,
+  "note": "Ghana withdraws a sub-amendment in the inter-State complaints debate (borderline; context thin)."
+ },
+ "P084": {
+  "correct": true,
+  "note": "Greece supports French proposal for the general obligations clause."
+ },
+ "P085": {
+  "correct": true,
+  "note": "ILO on forced labour convention and the draft resolution on communal services."
+ },
+ "P086": {
+  "correct": true,
+  "note": "Mongolia on participation in treaties not implying recognition, in the signature clause debate."
+ },
+ "P087": {
+  "correct": true,
+  "note": "Explains US abstention on the French amendment to the inter-State article (reason concerns article 1; borderline)."
+ },
+ "P088": {
+  "correct": true,
+  "note": "Wording change in the Third Committee's additional article ('set forth'), the non-discrimination clause (borderline)."
+ },
+ "P089": {
+  "correct": true,
+  "note": "Duty of the arresting authority to bring a detainee promptly before the courts."
+ },
+ "P090": {
+  "correct": true,
+  "note": "Belgian amendment to the joint federal clause article."
+ },
+ "P091": {
+  "correct": true,
+  "note": "Example of wartime detention of enemy aliens against including article 20 in non-derogable list."
+ },
+ "P092": {
+  "correct": true,
+  "note": "Withdrawal of US proposal and separate vote on a paragraph of the education text."
+ },
+ "P093": {
+  "correct": true,
+  "note": "Reporting systems (ILO precedent) for the proposed reporting article."
+ },
+ "P094": {
+  "correct": true,
+  "note": "WHO on the right to health in the Covenant."
+ },
+ "P095": {
+  "correct": false,
+  "note": "About equal pay and 'everyone' vs 'men and women' in an article on equal rights/work, not family protection."
+ },
+ "P096": {
+  "correct": true,
+  "note": "Compensation by society for arbitrary detention of a person later acquitted."
+ },
+ "P097": {
+  "correct": true,
+  "note": "Objections to election of Committee members by the ICJ."
+ },
+ "P098": {
+  "correct": true,
+  "note": "Yugoslav addition to the report on the general obligations clause and progressive realisation."
+ },
+ "P099": {
+  "correct": true,
+  "note": "Greece on the federal clause and inequality between federal and unitary States."
+ },
+ "P100": {
+  "correct": true,
+  "note": "USSR on the Polish proposal and the US text for the general obligations clause."
+ }
+}

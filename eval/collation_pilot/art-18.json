@@ -1,0 +1,1285 @@
+{
+ "article": 18,
+ "witnesses": [
+  {
+   "sigil": "Sec",
+   "stage": "secretariat_outline",
+   "text": "there shall be freedom of conscience and belief and of private and public religious worship"
+  },
+  {
+   "sigil": "Cassin",
+   "stage": "cassin_draft",
+   "text": "the individual freedom of conscience belief and thought is an absolute and sacred right the practice of a private or public worship and the manifestations of opposite convictions can be subject only to such limitations as are necessary to protect public order morals and the rights and freedoms of others"
+  },
+  {
+   "sigil": "DC1",
+   "stage": "drafting_committee_1",
+   "text": "individual freedom of thought and conscience to hold or change beliefs is an absolute and sacred right the practice of a private or public worship religious observances and manifestations of differing convictions can be subject only to such limitations as are necessary to protect public order morals and the rights and freedoms of others"
+  },
+  {
+   "sigil": "WG57",
+   "stage": "e_cn4_57",
+   "text": "para individual freedom of thought and conscience to hold and change beliefs is an absolute and sacred right para freedom of belief of worship and of religious teaching is the right of everyone"
+  },
+  {
+   "sigil": "Geneva",
+   "stage": "geneva_draft",
+   "text": "individual freedom of thought and conscience to hold and change beliefs is an absolute and sacred right every person has the right either alone or in community with other persons of like mind and in public or private to manifest his beliefs in worship observance teaching and practice"
+  },
+  {
+   "sigil": "DC2",
+   "stage": "drafting_committee_2",
+   "text": "individual freedom of thought and conscience to hold and change beliefs is an absolute and sacred right every person has the right either alone or in community with other persons of lil e mind and in public or private to manifest his beliefs in teaching practice worship and observance"
+  },
+  {
+   "sigil": "CHR3",
+   "stage": "chr_3",
+   "text": "everyone has the right to freedom of thought conscience and religion this right includes freedom to change his religion or belief and freedom either alone or in community with others and in public or private to manifest his religion or belief in teaching practice worship and observance"
+  },
+  {
+   "sigil": "A777",
+   "stage": "a777",
+   "text": "everyone has the right to freedom of thought conscience and religion this right includes freedom to change his religion or belief and freedom either alone or in community with others and in public or private to manifest his religion or belief in teaching practice worship and observance"
+  }
+ ],
+ "sources": {
+  "Sec": [
+   {
+    "symbol": "E/CN.4/AC.1/3",
+    "draft_article": 14,
+    "page": 6,
+    "text_from": "OCR"
+   }
+  ],
+  "Cassin": [
+   {
+    "symbol": "E/CN.4/AC.1/W.2/Rev.2",
+    "draft_article": 20,
+    "page": 4,
+    "text_from": "OCR"
+   }
+  ],
+  "DC1": [
+   {
+    "symbol": "E/CN.4/21",
+    "draft_article": 20,
+    "page": 77,
+    "text_from": "OCR"
+   }
+  ],
+  "WG57": [
+   {
+    "symbol": "E/CN.4/57",
+    "draft_article": 20,
+    "page": 11,
+    "text_from": "OCR"
+   }
+  ],
+  "Geneva": [
+   {
+    "symbol": "E/600",
+    "draft_article": 16,
+    "page": 19,
+    "text_from": "OCR"
+   }
+  ],
+  "DC2": [
+   {
+    "symbol": "E/CN.4/95",
+    "draft_article": 16,
+    "page": 8,
+    "text_from": "OCR"
+   }
+  ],
+  "CHR3": [
+   {
+    "symbol": "E/800",
+    "draft_article": 16,
+    "page": 12,
+    "text_from": "OCR"
+   }
+  ],
+  "A777": [
+   {
+    "symbol": "A/777",
+    "draft_article": 19,
+    "page": 5,
+    "text_from": "OCR"
+   }
+  ]
+ },
+ "branches": [
+  {
+   "n": 1,
+   "column": 0,
+   "readings": [
+    {
+     "text": "there shall be",
+     "stages": [
+      "Sec"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "Geneva",
+      "DC2"
+     ]
+    },
+    {
+     "text": "para",
+     "stages": [
+      "WG57"
+     ]
+    },
+    {
+     "text": "everyone has",
+     "stages": [
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "column": 1,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2"
+     ]
+    },
+    {
+     "text": "the",
+     "stages": [
+      "Cassin",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "column": 2,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec"
+     ]
+    },
+    {
+     "text": "individual",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2"
+     ]
+    },
+    {
+     "text": "right to",
+     "stages": [
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "column": 4,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "Cassin"
+     ]
+    },
+    {
+     "text": "thought",
+     "stages": [
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "column": 5,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2"
+     ]
+    },
+    {
+     "text": "conscience",
+     "stages": [
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "column": 6,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "Cassin"
+     ]
+    },
+    {
+     "text": "and",
+     "stages": [
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "column": 7,
+   "readings": [
+    {
+     "text": "conscience",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2"
+     ]
+    },
+    {
+     "text": "religion this right includes freedom to",
+     "stages": [
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "column": 8,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "belief",
+     "stages": [
+      "Cassin"
+     ]
+    },
+    {
+     "text": "to hold",
+     "stages": [
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "column": 9,
+   "readings": [
+    {
+     "text": "and",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "WG57",
+      "Geneva",
+      "DC2"
+     ]
+    },
+    {
+     "text": "or",
+     "stages": [
+      "DC1"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "column": 10,
+   "readings": [
+    {
+     "text": "belief",
+     "stages": [
+      "Sec"
+     ]
+    },
+    {
+     "text": "thought",
+     "stages": [
+      "Cassin"
+     ]
+    },
+    {
+     "text": "change",
+     "stages": [
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "column": 11,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "Cassin"
+     ]
+    },
+    {
+     "text": "beliefs",
+     "stages": [
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2"
+     ]
+    },
+    {
+     "text": "his religion or belief",
+     "stages": [
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "column": 12,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "is an absolute",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "column": 14,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "sacred right",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "column": 15,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "DC1",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "para",
+     "stages": [
+      "WG57"
+     ]
+    },
+    {
+     "text": "every person has",
+     "stages": [
+      "Geneva",
+      "DC2"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "column": 16,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec"
+     ]
+    },
+    {
+     "text": "the",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "Geneva",
+      "DC2"
+     ]
+    },
+    {
+     "text": "freedom",
+     "stages": [
+      "WG57",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "column": 17,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "WG57",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "practice",
+     "stages": [
+      "Cassin",
+      "DC1"
+     ]
+    },
+    {
+     "text": "right",
+     "stages": [
+      "Geneva",
+      "DC2"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "column": 18,
+   "readings": [
+    {
+     "text": "of",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "DC1",
+      "WG57"
+     ]
+    },
+    {
+     "text": "either alone",
+     "stages": [
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "column": 19,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "a",
+     "stages": [
+      "Cassin",
+      "DC1"
+     ]
+    },
+    {
+     "text": "belief of",
+     "stages": [
+      "WG57"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "column": 20,
+   "readings": [
+    {
+     "text": "private",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "DC1"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "column": 21,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "WG57"
+     ]
+    },
+    {
+     "text": "or",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "column": 22,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "WG57"
+     ]
+    },
+    {
+     "text": "public",
+     "stages": [
+      "Cassin",
+      "DC1"
+     ]
+    },
+    {
+     "text": "in community with",
+     "stages": [
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "column": 23,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec"
+     ]
+    },
+    {
+     "text": "worship",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "WG57"
+     ]
+    },
+    {
+     "text": "other persons",
+     "stages": [
+      "Geneva",
+      "DC2"
+     ]
+    },
+    {
+     "text": "others",
+     "stages": [
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "column": 24,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "religious observances",
+     "stages": [
+      "DC1"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "column": 25,
+   "readings": [
+    {
+     "text": "and",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "DC1",
+      "WG57"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "column": 26,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "the",
+     "stages": [
+      "Cassin"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "column": 27,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "manifestations",
+     "stages": [
+      "Cassin",
+      "DC1"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "column": 28,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "of",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "column": 29,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "WG57",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "opposite",
+     "stages": [
+      "Cassin"
+     ]
+    },
+    {
+     "text": "differing",
+     "stages": [
+      "DC1"
+     ]
+    },
+    {
+     "text": "like",
+     "stages": [
+      "Geneva"
+     ]
+    },
+    {
+     "text": "lil e",
+     "stages": [
+      "DC2"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "column": 30,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "WG57",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "convictions can be subject only",
+     "stages": [
+      "Cassin",
+      "DC1"
+     ]
+    },
+    {
+     "text": "mind",
+     "stages": [
+      "Geneva",
+      "DC2"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "column": 31,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "DC1",
+      "WG57"
+     ]
+    },
+    {
+     "text": "and in public or private",
+     "stages": [
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "column": 32,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "WG57"
+     ]
+    },
+    {
+     "text": "to",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "column": 33,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "WG57"
+     ]
+    },
+    {
+     "text": "such limitations as are necessary to protect",
+     "stages": [
+      "Cassin",
+      "DC1"
+     ]
+    },
+    {
+     "text": "manifest his",
+     "stages": [
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "column": 34,
+   "readings": [
+    {
+     "text": "public",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "DC1"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "WG57"
+     ]
+    },
+    {
+     "text": "beliefs",
+     "stages": [
+      "Geneva",
+      "DC2"
+     ]
+    },
+    {
+     "text": "religion or belief",
+     "stages": [
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "column": 35,
+   "readings": [
+    {
+     "text": "religious",
+     "stages": [
+      "Sec",
+      "WG57"
+     ]
+    },
+    {
+     "text": "order morals",
+     "stages": [
+      "Cassin",
+      "DC1"
+     ]
+    },
+    {
+     "text": "in",
+     "stages": [
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "column": 36,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "Cassin",
+      "DC1",
+      "Geneva"
+     ]
+    },
+    {
+     "text": "teaching is",
+     "stages": [
+      "WG57"
+     ]
+    },
+    {
+     "text": "teaching practice",
+     "stages": [
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 36,
+   "column": 37,
+   "readings": [
+    {
+     "text": "worship",
+     "stages": [
+      "Sec",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "WG57"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "column": 38,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "WG57",
+      "Geneva"
+     ]
+    },
+    {
+     "text": "and",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "column": 39,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec"
+     ]
+    },
+    {
+     "text": "the",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "WG57"
+     ]
+    },
+    {
+     "text": "observance",
+     "stages": [
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "column": 40,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "rights",
+     "stages": [
+      "Cassin",
+      "DC1"
+     ]
+    },
+    {
+     "text": "right",
+     "stages": [
+      "WG57"
+     ]
+    },
+    {
+     "text": "teaching",
+     "stages": [
+      "Geneva"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 40,
+   "column": 41,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "WG57",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "and",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "Geneva"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 41,
+   "column": 42,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "WG57",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "freedoms",
+     "stages": [
+      "Cassin",
+      "DC1"
+     ]
+    },
+    {
+     "text": "practice",
+     "stages": [
+      "Geneva"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "column": 43,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "of",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "WG57"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 43,
+   "column": 44,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Sec",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "others",
+     "stages": [
+      "Cassin",
+      "DC1"
+     ]
+    },
+    {
+     "text": "everyone",
+     "stages": [
+      "WG57"
+     ]
+    }
+   ]
+  }
+ ]
+}

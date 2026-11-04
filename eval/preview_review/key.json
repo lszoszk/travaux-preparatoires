@@ -1,0 +1,272 @@
+{
+ "001": {
+  "A": "preview",
+  "B": "current"
+ },
+ "002": {
+  "A": "preview",
+  "B": "current"
+ },
+ "003": {
+  "A": "preview",
+  "B": "current"
+ },
+ "004": {
+  "A": "current",
+  "B": "preview"
+ },
+ "005": {
+  "A": "current",
+  "B": "preview"
+ },
+ "006": {
+  "A": "preview",
+  "B": "current"
+ },
+ "007": {
+  "A": "current",
+  "B": "preview"
+ },
+ "008": {
+  "A": "preview",
+  "B": "current"
+ },
+ "009": {
+  "A": "current",
+  "B": "preview"
+ },
+ "010": {
+  "A": "current",
+  "B": "preview"
+ },
+ "011": {
+  "A": "preview",
+  "B": "current"
+ },
+ "012": {
+  "A": "preview",
+  "B": "current"
+ },
+ "013": {
+  "A": "preview",
+  "B": "current"
+ },
+ "014": {
+  "A": "current",
+  "B": "preview"
+ },
+ "015": {
+  "A": "current",
+  "B": "preview"
+ },
+ "016": {
+  "A": "current",
+  "B": "preview"
+ },
+ "017": {
+  "A": "preview",
+  "B": "current"
+ },
+ "018": {
+  "A": "current",
+  "B": "preview"
+ },
+ "019": {
+  "A": "preview",
+  "B": "current"
+ },
+ "020": {
+  "A": "current",
+  "B": "preview"
+ },
+ "021": {
+  "A": "current",
+  "B": "preview"
+ },
+ "022": {
+  "A": "preview",
+  "B": "current"
+ },
+ "023": {
+  "A": "preview",
+  "B": "current"
+ },
+ "024": {
+  "A": "preview",
+  "B": "current"
+ },
+ "025": {
+  "A": "preview",
+  "B": "current"
+ },
+ "026": {
+  "A": "preview",
+  "B": "current"
+ },
+ "027": {
+  "A": "preview",
+  "B": "current"
+ },
+ "028": {
+  "A": "preview",
+  "B": "current"
+ },
+ "029": {
+  "A": "current",
+  "B": "preview"
+ },
+ "030": {
+  "A": "current",
+  "B": "preview"
+ },
+ "031": {
+  "A": "preview",
+  "B": "current"
+ },
+ "032": {
+  "A": "preview",
+  "B": "current"
+ },
+ "033": {
+  "A": "current",
+  "B": "preview"
+ },
+ "034": {
+  "A": "current",
+  "B": "preview"
+ },
+ "035": {
+  "A": "current",
+  "B": "preview"
+ },
+ "036": {
+  "A": "current",
+  "B": "preview"
+ },
+ "037": {
+  "A": "preview",
+  "B": "current"
+ },
+ "038": {
+  "A": "preview",
+  "B": "current"
+ },
+ "039": {
+  "A": "preview",
+  "B": "current"
+ },
+ "040": {
+  "A": "current",
+  "B": "preview"
+ },
+ "041": {
+  "A": "current",
+  "B": "preview"
+ },
+ "042": {
+  "A": "preview",
+  "B": "current"
+ },
+ "043": {
+  "A": "current",
+  "B": "preview"
+ },
+ "044": {
+  "A": "preview",
+  "B": "current"
+ },
+ "045": {
+  "A": "current",
+  "B": "preview"
+ },
+ "046": {
+  "A": "current",
+  "B": "preview"
+ },
+ "047": {
+  "A": "preview",
+  "B": "current"
+ },
+ "048": {
+  "A": "preview",
+  "B": "current"
+ },
+ "049": {
+  "A": "preview",
+  "B": "current"
+ },
+ "050": {
+  "A": "preview",
+  "B": "current"
+ },
+ "051": {
+  "A": "current",
+  "B": "preview"
+ },
+ "052": {
+  "A": "current",
+  "B": "preview"
+ },
+ "053": {
+  "A": "preview",
+  "B": "current"
+ },
+ "054": {
+  "A": "current",
+  "B": "preview"
+ },
+ "055": {
+  "A": "preview",
+  "B": "current"
+ },
+ "056": {
+  "A": "current",
+  "B": "preview"
+ },
+ "057": {
+  "A": "current",
+  "B": "preview"
+ },
+ "058": {
+  "A": "preview",
+  "B": "current"
+ },
+ "059": {
+  "A": "current",
+  "B": "preview"
+ },
+ "060": {
+  "A": "preview",
+  "B": "current"
+ },
+ "R029": {
+  "A": "preview",
+  "B": "current",
+  "repeat_of": "029"
+ },
+ "R012": {
+  "A": "current",
+  "B": "preview",
+  "repeat_of": "012"
+ },
+ "R028": {
+  "A": "current",
+  "B": "preview",
+  "repeat_of": "028"
+ },
+ "R054": {
+  "A": "preview",
+  "B": "current",
+  "repeat_of": "054"
+ },
+ "R047": {
+  "A": "current",
+  "B": "preview",
+  "repeat_of": "047"
+ },
+ "R031": {
+  "A": "current",
+  "B": "preview",
+  "repeat_of": "031"
+ }
+}

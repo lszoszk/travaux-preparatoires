@@ -1,0 +1,170 @@
+[
+ {
+  "kind": "P",
+  "a": {
+   "e_cn.4_sr.162-0020": {
+    "correct": true,
+    "note": "France on how to draft article 17 (freedom of information) and its adequacy vs a separate convention."
+   },
+   "e_cn.4_sr.126-0010": {
+    "correct": true,
+    "note": "USSR on the introductory phrase of its amendment to art. 4 (war/emergency)."
+   },
+   "e_cn.4_ac.2_sr.3-0005": {
+    "correct": true,
+    "note": "Supports Panama's amendment to draft art. 3 (the duties article) adding non-discrimination in law (uncertain: substance later went to art. 7)."
+   },
+   "e_cn.4_ac.1_sr.15-0019": {
+    "correct": true,
+    "note": "Agrees to delete a phrase from draft art. 37 (cultural life/science)."
+   },
+   "e_cn.4_sr.349-0011": {
+    "correct": true,
+    "note": "US on the Yugoslav amendment barring re-election (terms of office article)."
+   },
+   "e_cn.4_sr.388-0013": {
+    "correct": true,
+    "note": "UK on the joint amendment giving the Committee power of enquiry under draft art. 55 (uncertain: depends on 55 -> 41 mapping)."
+   },
+   "e_cn.4_ac.2_sr.3-0022": {
+    "correct": false,
+    "note": "Procedural support for considering Panama's declaration jointly with the Drafting Committee text, not non-discrimination."
+   },
+   "e_cn.4_sr.346-0029": {
+    "correct": true,
+    "note": "US withdraws its amendment to draft art. 34 (nomination)."
+   },
+   "e_cn.4_sr.360-0017": {
+    "correct": true,
+    "note": "India on its amendment to draft art. 52 on communications from NGOs and individuals."
+   },
+   "e_cn.4_sr.354-0027": {
+    "correct": true,
+    "note": "Supports the Australian text for draft art. 46 (election of chairman)."
+   },
+   "e_cn.4_sr.354-0026": {
+    "correct": true,
+    "note": "UK accepts the Australian text for art. 46 and withdraws its amendment."
+   },
+   "e_cn.4_sr.367-0018": {
+    "correct": true,
+    "note": "France defends the Yugoslav/French text of the political rights article (indirect voting, non-discrimination)."
+   },
+   "e_cn.4_sr.126-0016": {
+    "correct": true,
+    "note": "Egypt on discussing paragraph 1 of art. 4 and postponing paragraphs 2 and 3."
+   },
+   "e_cn.4_sr.126-0015": {
+    "correct": true,
+    "note": "On the order of votes: deleting vs postponing art. 4."
+   },
+   "e_cn.4_sr.354-0040": {
+    "correct": true,
+    "note": "On paragraph (c) of draft art. 47 (rules of procedure), mapped to final art. 39 like draft 46."
+   },
+   "e_cn.4_sr.126-0013": {
+    "correct": true,
+    "note": "US formally proposes deleting art. 4."
+   },
+   "e_cn.4_sr.354-0033": {
+    "correct": true,
+    "note": "UK revises its amendment to the rules-of-procedure article (draft 47) paragraphs (a) and (c)."
+   },
+   "e_cn.4_sr.346-0019": {
+    "correct": true,
+    "note": "Cassin on the size (nine) and composition of the Human Rights Committee."
+   },
+   "e_cn.4_sr.349-0010": {
+    "correct": true,
+    "note": "Uruguay accepts the Yugoslav re-election amendment and withdraws its suggestions."
+   },
+   "e_cn.4_ac.1_sr.15-0018": {
+    "correct": true,
+    "note": "UK suggests moving the rights of draft art. 37 (culture/science) to the Preamble."
+   }
+  },
+  "c": {
+   "e_cn.4_sr.162-0020": {
+    "correct": true,
+    "note": "On how the Commission should draft the freedom-of-information article (art. 17)."
+   },
+   "e_cn.4_sr.126-0010": {
+    "correct": true,
+    "note": "Pavlov on the introductory phrase of his amendment to the derogation article (art. 4) (borderline)."
+   },
+   "e_cn.4_ac.2_sr.3-0005": {
+    "correct": false,
+    "note": "Supports the Panama amendment on non-discrimination inserted in art. 3, not the duties/limitations article."
+   },
+   "e_cn.4_ac.1_sr.15-0019": {
+    "correct": true,
+    "note": "Agrees to delete a phrase from the cultural life article (art. 37)."
+   },
+   "e_cn.4_sr.349-0011": {
+    "correct": true,
+    "note": "US objection to the Yugoslav amendment on re-election eligibility of Committee members."
+   },
+   "e_cn.4_sr.388-0013": {
+    "correct": true,
+    "note": "UK on the joint amendment giving the Committee power to conduct enquiries, in the draft art. 55 implementation debate (borderline)."
+   },
+   "e_cn.4_ac.2_sr.3-0022": {
+    "correct": false,
+    "note": "Supports considering Panama's whole draft Declaration jointly with the Drafting Committee text; a procedural/general point."
+   },
+   "e_cn.4_sr.346-0029": {
+    "correct": true,
+    "note": "Withdrawal of the US amendment to the Committee nominations article."
+   },
+   "e_cn.4_sr.360-0017": {
+    "correct": true,
+    "note": "India on her amendment to art. 52 on communications by NGOs and individuals."
+   },
+   "e_cn.4_sr.354-0027": {
+    "correct": true,
+    "note": "Supports the Australian proposal on election of the Committee's officers."
+   },
+   "e_cn.4_sr.354-0026": {
+    "correct": true,
+    "note": "UK accepts the Australian text on officers and withdraws its amendment."
+   },
+   "e_cn.4_sr.367-0018": {
+    "correct": true,
+    "note": "Defends the joint text on non-discrimination in political participation rights."
+   },
+   "e_cn.4_sr.126-0016": {
+    "correct": true,
+    "note": "Egypt on postponing paragraphs 2 and 3 of the derogation article."
+   },
+   "e_cn.4_sr.126-0015": {
+    "correct": true,
+    "note": "Procedure on voting on the motion to delete the derogation article."
+   },
+   "e_cn.4_sr.354-0040": {
+    "correct": true,
+    "note": "Chile on paragraph (c) of the Committee rules of procedure article and the UK amendment."
+   },
+   "e_cn.4_sr.126-0013": {
+    "correct": true,
+    "note": "US confirms formal proposal to delete the derogation article."
+   },
+   "e_cn.4_sr.354-0033": {
+    "correct": true,
+    "note": "UK on its amendment to paragraph (c) of the rules of procedure article."
+   },
+   "e_cn.4_sr.346-0019": {
+    "correct": true,
+    "note": "Cassin on size and flexibility of the Human Rights Committee."
+   },
+   "e_cn.4_sr.349-0010": {
+    "correct": true,
+    "note": "Perotti withdraws his suggestions after the Yugoslav amendment on re-eligibility."
+   },
+   "e_cn.4_ac.1_sr.15-0018": {
+    "correct": true,
+    "note": "UK argues cultural/scientific rights of draft art. 37 belong in the Preamble."
+   }
+  },
+  "third": {}
+ }
+]

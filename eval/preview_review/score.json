@@ -1,0 +1,66 @@
+{
+ "answered": 66,
+ "items": 66,
+ "by_kind": {
+  "page": {
+   "preview better": 28,
+   "both wrong": 2,
+   "both good": 4,
+   "current better": 1,
+   "preview share of decided": 0.9655172413793104
+  },
+  "speaker": {
+   "preview better": 15,
+   "current better": 9,
+   "unsure": 1,
+   "preview share of decided": 0.625
+  }
+ },
+ "repeats": {
+  "pairs": 6,
+  "same": 6,
+  "differ": []
+ },
+ "notes": [
+  {
+   "id": "001",
+   "kind": "page",
+   "symbol": "E/CN.4/SR.239",
+   "page": 16,
+   "verdict": "preview better",
+   "note": "He then put the second sub-paragraph of the Danish-French version of paragra... Tutaj jest uciete. w orgyinale jest dalszy Ciąg: \"ph (c) of article 33 to the vote\".\n\n\"(a) Seven members shall form a quorum;\ndalej są też punkty b, c, d ale nie wiem czy spejclanie ich nie pominąłeś? i podałeś tylko górna polowe strony?"
+  },
+  {
+   "id": "004",
+   "kind": "page",
+   "symbol": "E/CN.4/SR.2",
+   "page": 6,
+   "verdict": "preview better",
+   "note": "Mrs. ▒▒▒ (INDIA) considered that the communications received from individuals and organizations on matters pertaining to the work of the Commission would be of great interest to all members, and requested that they sho - dalej powinno byc should be processed (ostatni fragment jest uciety\""
+  },
+  {
+   "id": "007",
+   "kind": "page",
+   "symbol": "E/CN.4/SR.75",
+   "page": 11,
+   "verdict": "preview better",
+   "note": "WYPOWIEDŹ WILSON (United Kingdom)\nMr. ▒▒▒ (United Kingdom) was still convinced that the best solution would be to delete the last part of the sentence. The Lebanese proposal gave the text a meaning which was nearer reality, but at the same time weaken - uciete w trakcie. dale jest jeszcze cala linijka do conch I jeszcze kolejna: \"weakened it so much that one wondered whether it would be worth including in the Preamble\"."
+  },
+  {
+   "id": "008",
+   "kind": "page",
+   "symbol": "E/CN.4/SR.271",
+   "page": 12,
+   "verdict": "both wrong",
+   "note": "The Chilean amendment (E/CN.4/L.69) seemed to prejudge the issue by assuming that specific obligations would be written into the articles concerning particular rights. It might be wiser to wait until the articles were dr - to jest fragment wypowiedzi roosevelt. ni"
+  },
+  {
+   "id": "027",
+   "kind": "page",
+   "symbol": "E/CN.4/SR.156",
+   "page": 6,
+   "verdict": "preview better",
+   "note": "22. In order to eliminate redundancy in the use of the word \"interest\"\nWYPOWIEDŹ CHANG (China)\nMr. ▒▒▒ (China) suggested that the phrase \"for reasons of\" should replace \"in the interest of\" before the word \"morals\". - to jest jedna Wypowiedź"
+  }
+ ]
+}

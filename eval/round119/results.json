@@ -1,0 +1,861 @@
+{
+  "summary": "Two blind judges (opus, sonnet) give the article of 40 procedural segments whose tag round 119 removes; a third (opus) on splits",
+  "agentCount": 8,
+  "logs": [],
+  "result": [
+    {
+      "file": "/Users/lszoszk/Desktop/AI/travaux/eval/round119/batch1.json",
+      "opus": [
+        {
+          "item": 1,
+          "id": "a_c.3_sr.1009-0013",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "'It was so decided' approves the chair's proposal on the order of speakers for the new amendments; procedure, not the content of article 15."
+        },
+        {
+          "item": 2,
+          "id": "a_c.3_sr.1012-0023",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Procedural decision letting the UAR submit an amendment after the time limit; it concerns procedure, not the substance of article 15."
+        },
+        {
+          "item": 3,
+          "id": "a_c.3_sr.1073-0005",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Decision to extend the time limit for amendments to article 19 to 5 p.m.; purely procedural."
+        },
+        {
+          "item": 4,
+          "id": "a_c.3_sr.1091-0020",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Decision setting a deadline for amendments to the remaining articles; order of work, not article content."
+        },
+        {
+          "item": 5,
+          "id": "a_c.3_sr.1205-0018",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Record that the meeting was suspended and resumed; procedural."
+        },
+        {
+          "item": 6,
+          "id": "a_c.3_sr.1260-0011",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Agreement to move forward the time limit for amendments to article 4; procedural."
+        },
+        {
+          "item": 7,
+          "id": "a_c.3_sr.1403-0016",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Agreement to suspend the meeting so the sponsors could confer; procedural."
+        },
+        {
+          "item": 8,
+          "id": "a_c.3_sr.1430-0010",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Change of presiding officer (Morocco took the Chair); procedural."
+        },
+        {
+          "item": 9,
+          "id": "a_c.3_sr.1431-0047",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Vice-Chairman took the Chair; a procedural line between explanations of vote."
+        },
+        {
+          "item": 10,
+          "id": "a_c.3_sr.651-0007",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Change of presiding officer during the article 1 debate; procedural."
+        }
+      ],
+      "sonnet": [
+        {
+          "item": 1,
+          "id": "a_c.3_sr.1009-0013",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Bare 'It was so decided' adopts the Chair's proposal on the order of hearing delegations; procedure, not the content of article 15."
+        },
+        {
+          "item": 2,
+          "id": "a_c.3_sr.1012-0023",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "'It was so decided' only permits a late amendment to be submitted (a time-limit waiver); procedural, the amendment's content is not in the line."
+        },
+        {
+          "item": 3,
+          "id": "a_c.3_sr.1073-0005",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "'It was so decided' extends the deadline for amendments; order of work only, not the substance of article 19."
+        },
+        {
+          "item": 4,
+          "id": "a_c.3_sr.1091-0020",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Decision fixing the deadline for amendments to all remaining substantive articles; purely procedural."
+        },
+        {
+          "item": 5,
+          "id": "a_c.3_sr.1205-0018",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Record of the meeting's suspension and resumption times; no substantive content on any article."
+        },
+        {
+          "item": 6,
+          "id": "a_c.3_sr.1260-0011",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "'It was so agreed' fixes a time-limit for amendments; procedural, content of article 4 not touched."
+        },
+        {
+          "item": 7,
+          "id": "a_c.3_sr.1403-0016",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "'It was so agreed' accepts a suspension of the meeting so sponsors can reconsider; procedural, not about article 22's substance."
+        },
+        {
+          "item": 8,
+          "id": "a_c.3_sr.1430-0010",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Notice that a Vice-Chairman took the Chair; no substantive content."
+        },
+        {
+          "item": 9,
+          "id": "a_c.3_sr.1431-0047",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Notice that a Vice-Chairman took the Chair; no substantive content."
+        },
+        {
+          "item": 10,
+          "id": "a_c.3_sr.651-0007",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Notice that Miss Bernardino took the Chair; no substantive content."
+        }
+      ],
+      "third": []
+    },
+    {
+      "file": "/Users/lszoszk/Desktop/AI/travaux/eval/round119/batch2.json",
+      "opus": [
+        {
+          "item": 11,
+          "id": "a_c.3_sr.712-0023",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Record notes that the meeting was suspended so sponsors could agree a voting order. Pure procedure, no article content."
+        },
+        {
+          "item": 12,
+          "id": "a_c.3_sr.734-0007",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "'It was so decided' records the adjournment because the Working Party had not finished on article 10. Procedural only."
+        },
+        {
+          "item": 13,
+          "id": "a_c.3_sr.739-0009",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Decision to discuss draft articles 11 and 12 together. That is order of work, not their content or a vote on the text."
+        },
+        {
+          "item": 14,
+          "id": "a_c.3_sr.744-0006",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Suspension of the meeting while amendments to article 13 were circulated. Procedural line with no substance."
+        },
+        {
+          "item": 15,
+          "id": "a_c.3_sr.780-0018",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Decision on the deadline for submitting amendments to article 14. This is order of work, not the article's content."
+        },
+        {
+          "item": 16,
+          "id": "a_c.3_sr.781-0021",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Decision to postpone setting up a working group. Procedural only."
+        },
+        {
+          "item": 17,
+          "id": "a_c.3_sr.784-0021",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Suspension of the meeting so delegations could study the translated texts. Pure procedure."
+        },
+        {
+          "item": 18,
+          "id": "a_c.3_sr.794-0025",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Suspension of the meeting for consultations over a procedural dispute. No article content."
+        },
+        {
+          "item": 19,
+          "id": "a_c.3_sr.798-0012",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Note that the Vice-Chairman took the Chair. Procedural line, not about article 16's content."
+        },
+        {
+          "item": 20,
+          "id": "a_c.3_sr.818-0031",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Decision limiting the meetings allotted to agenda item 32. Order of work, no article content."
+        }
+      ],
+      "sonnet": [
+        {
+          "item": 11,
+          "id": "a_c.3_sr.712-0023",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Bare note that the meeting was suspended and resumed; order of work, no article content."
+        },
+        {
+          "item": 12,
+          "id": "a_c.3_sr.734-0007",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "'It was so decided' adopts the Chairman's adjournment proposal because the Working Party was unfinished; pure procedure."
+        },
+        {
+          "item": 13,
+          "id": "a_c.3_sr.739-0009",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "'It was so decided' adopts the order of work: take draft articles 11 and 12 together in general discussion. Procedural, no substantive content."
+        },
+        {
+          "item": 14,
+          "id": "a_c.3_sr.744-0006",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Suspension of the meeting until amendments are circulated; order of work only."
+        },
+        {
+          "item": 15,
+          "id": "a_c.3_sr.780-0018",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "'It was so decided' fixes a deadline for submitting amendments; procedural."
+        },
+        {
+          "item": 16,
+          "id": "a_c.3_sr.781-0021",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "'It was so decided' postpones the decision on setting up a working group; procedural."
+        },
+        {
+          "item": 17,
+          "id": "a_c.3_sr.784-0021",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Notes the suspension and resumption of the meeting so delegations could study texts; order of work."
+        },
+        {
+          "item": 18,
+          "id": "a_c.3_sr.794-0025",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Suspension and resumption of the meeting to allow consultations; no substantive content."
+        },
+        {
+          "item": 19,
+          "id": "a_c.3_sr.798-0012",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Notes that the Vice-Chairman took the Chair; procedural, no article content."
+        },
+        {
+          "item": 20,
+          "id": "a_c.3_sr.818-0031",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "'It was so decided' limits meetings for an agenda item; allocation of meetings, not an article."
+        }
+      ],
+      "third": []
+    },
+    {
+      "file": "/Users/lszoszk/Desktop/AI/travaux/eval/round119/batch3.json",
+      "opus": [
+        {
+          "item": 21,
+          "id": "a_c.3_sr.858-0017",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Notes only that the meeting was suspended and resumed, during the article 8 debate. Pure procedure, no article content."
+        },
+        {
+          "item": 22,
+          "id": "a_c.3_sr.862-0010",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "'It was so agreed' adopts the deadline for amendments to draft article 9. That is order of work, not the article's content."
+        },
+        {
+          "item": 23,
+          "id": "a_c.3_sr.968-0010",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Records the suspension and resumption of the meeting during the article 14 debate. Procedural only."
+        },
+        {
+          "item": 24,
+          "id": "e_cn.4_sr.143-0009",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Decision appointing members of the Committee on the Yearbook on Human Rights. Commission business unrelated to any article."
+        },
+        {
+          "item": 25,
+          "id": "e_cn.4_sr.146-0003",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Attendance list (chairman, members, agencies, NGOs, Secretariat) followed by the agenda title. No substantive content."
+        },
+        {
+          "item": 26,
+          "id": "e_cn.4_sr.149-0009",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "'It was so decided' postpones the vote on draft article 8 as a whole to 13 April. Scheduling decision, not the article's substance."
+        },
+        {
+          "item": 27,
+          "id": "e_cn.4_sr.150-0023",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Decision to postpone the general discussion on measures of implementation, followed by the agenda heading. Order of work."
+        },
+        {
+          "item": 28,
+          "id": "e_cn.4_sr.157-0082",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "'It was so decided' defers the French juvenile amendment to draft article 13 until 21 April. Procedural postponement, not substance."
+        },
+        {
+          "item": 29,
+          "id": "e_cn.4_sr.160-0011",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Agreement to defer draft article 16 and move on to article 17. Order of work only."
+        },
+        {
+          "item": 30,
+          "id": "e_cn.4_sr.166-0004",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Attendance list plus the agenda title for the covenant. No article content."
+        }
+      ],
+      "sonnet": [
+        {
+          "item": 21,
+          "id": "a_c.3_sr.858-0017",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Note that the meeting was suspended and resumed; pure procedure, no substance about article 8."
+        },
+        {
+          "item": 22,
+          "id": "a_c.3_sr.862-0010",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "'It was so agreed' fixes a deadline for submitting amendments; order of work, not the substance of article 9."
+        },
+        {
+          "item": 23,
+          "id": "a_c.3_sr.968-0010",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Note that the meeting was suspended and resumed, so delegations could consult; procedural only."
+        },
+        {
+          "item": 24,
+          "id": "e_cn.4_sr.143-0009",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Decision appointing members of the Yearbook committee; unrelated to any article."
+        },
+        {
+          "item": 25,
+          "id": "e_cn.4_sr.146-0003",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Attendance and participants list at the meeting's start; no substantive content."
+        },
+        {
+          "item": 26,
+          "id": "e_cn.4_sr.149-0009",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "'It was so decided' postpones the vote on draft article 8 to 13 April; order of work, not the article's content."
+        },
+        {
+          "item": 27,
+          "id": "e_cn.4_sr.150-0023",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Decision to postpone the general discussion on measures of implementation until Monday; scheduling only."
+        },
+        {
+          "item": 28,
+          "id": "e_cn.4_sr.157-0082",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "'It was so decided' defers the French juvenile amendment to 21 April; procedural postponement, not its substance."
+        },
+        {
+          "item": 29,
+          "id": "e_cn.4_sr.160-0011",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "'It was so agreed' postpones article 16 and moves to article 17; order of work only."
+        },
+        {
+          "item": 30,
+          "id": "e_cn.4_sr.166-0004",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Attendance and participants list; no discussion of any article."
+        }
+      ],
+      "third": []
+    },
+    {
+      "file": "/Users/lszoszk/Desktop/AI/travaux/eval/round119/batch4.json",
+      "opus": [
+        {
+          "item": 31,
+          "id": "e_cn.4_sr.171-0004",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Attendance list of the meeting (chairman, members, agencies, NGOs, secretariat) ending with the agenda title; no article content."
+        },
+        {
+          "item": 32,
+          "id": "e_cn.4_sr.175-0004",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Attendance list, closed session for confidential communications, and agenda title; purely procedural, no article content."
+        },
+        {
+          "item": 33,
+          "id": "e_cn.4_sr.183-0004",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Garbled attendance list of members, agencies, NGOs and secretariat; no article discussed in this segment."
+        },
+        {
+          "item": 34,
+          "id": "e_cn.4_sr.293-0006",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "'It was so decided' adopts a time limit for sub-amendments to remaining ESC articles; order of work, not article 30 content."
+        },
+        {
+          "item": 35,
+          "id": "e_cn.4_sr.311-0015",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "Procedural vote on which amendment to put first (USSR before UK) during draft article 3 debate; order of voting, not substance."
+        },
+        {
+          "item": 36,
+          "id": "e_cn.4_sr.329-0027",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "'It was so decided' adopts Chile's closure motion in the draft article 1 (ICCPR 2) debate; closure is procedure, not substance."
+        },
+        {
+          "item": 37,
+          "id": "e_cn.4_sr.348-0012",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Agreement fixing the time limit for amendments to Part IV; order of work, not about article 37's content."
+        },
+        {
+          "item": 38,
+          "id": "e_cn.4_sr.362-0002",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Table of contents entry on additional articles plus attendance list; no single article's content."
+        },
+        {
+          "item": 39,
+          "id": "e_cn.4_sr.93-0003",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Attendance list, corrections notice and agenda title; purely procedural boilerplate."
+        },
+        {
+          "item": 40,
+          "id": "e_cn.4_sr.93-0016",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "Decision to defer the vote on article 8's second part to next meeting; order of work, not a vote on the article's text."
+        }
+      ],
+      "sonnet": [
+        {
+          "item": 31,
+          "id": "e_cn.4_sr.171-0004",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "List of members and observers at the opening of the meeting; no article content."
+        },
+        {
+          "item": 32,
+          "id": "e_cn.4_sr.175-0004",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Attendance list plus note on distributing a confidential list of communications; procedural, no article."
+        },
+        {
+          "item": 33,
+          "id": "e_cn.4_sr.183-0004",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Garbled attendance list of members, agencies and NGOs; no article discussed."
+        },
+        {
+          "item": 34,
+          "id": "e_cn.4_sr.293-0006",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Decision on a deadline for sub-amendments; order of work, not article content."
+        },
+        {
+          "item": 35,
+          "id": "e_cn.4_sr.311-0015",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "Procedural vote on which amendment to vote on first; order of voting, though the amendments concern the right to life."
+        },
+        {
+          "item": 36,
+          "id": "e_cn.4_sr.329-0027",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "'It was so decided' on a motion to close the debate; pure procedure."
+        },
+        {
+          "item": 37,
+          "id": "e_cn.4_sr.348-0012",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "'It was so agreed' on a time-limit for submitting amendments to Part IV; order of work."
+        },
+        {
+          "item": 38,
+          "id": "e_cn.4_sr.362-0002",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Agenda listing and attendance list; no article content."
+        },
+        {
+          "item": 39,
+          "id": "e_cn.4_sr.93-0003",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "sure",
+          "reason": "Attendance list and notice on corrections to the record; no article content."
+        },
+        {
+          "item": 40,
+          "id": "e_cn.4_sr.93-0016",
+          "instrument": "none",
+          "final_article": null,
+          "certainty": "probable",
+          "reason": "Procedural vote to defer the vote on the second part of draft article 8 to the next meeting; order of work."
+        }
+      ],
+      "third": []
+    }
+  ],
+  "workflowProgress": [
+    {
+      "type": "workflow_phase",
+      "index": 1,
+      "title": "Judge"
+    },
+    {
+      "type": "workflow_phase",
+      "index": 2,
+      "title": "Third"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 1,
+      "label": "opus:batch1.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a71ced53a2f17db40",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1793464198147,
+      "queuedAt": 1793464198127,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round119/batch1.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793464249562,
+      "tokens": 92236,
+      "toolCalls": 9,
+      "durationMs": 51414,
+      "resultPreview": "{\"answers\":[{\"item\":1,\"id\":\"a_c.3_sr.1009-0013\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"sure\",\"reason\":\"'It was so decided' approves the chair's proposal on the order of speakers for the new amendments; procedure, not the content of article 15.\"},{\"item\":2,\"id\":\"a_c.3_sr.1012-0023\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"sure\",\"reason\":\"Procedural decision letting the U…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 2,
+      "label": "sonnet:batch1.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "ac5bd7eebc90b37bf",
+      "model": "claude-sonnet-5-5",
+      "state": "done",
+      "startedAt": 1793464198148,
+      "queuedAt": 1793464198127,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round119/batch1.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793464230212,
+      "tokens": 82420,
+      "toolCalls": 5,
+      "durationMs": 32062,
+      "resultPreview": "{\"answers\":[{\"item\":1,\"id\":\"a_c.3_sr.1009-0013\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"sure\",\"reason\":\"Bare 'It was so decided' adopts the Chair's proposal on the order of hearing delegations; procedure, not the content of article 15.\"},{\"item\":2,\"id\":\"a_c.3_sr.1012-0023\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"probable\",\"reason\":\"'It was so decided' only permits a lat…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 3,
+      "label": "opus:batch2.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a3e70f11a8ed4426d",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1793464198178,
+      "queuedAt": 1793464198175,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round119/batch2.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793464243027,
+      "tokens": 84538,
+      "toolCalls": 7,
+      "durationMs": 42240,
+      "resultPreview": "{\"answers\":[{\"item\":11,\"id\":\"a_c.3_sr.712-0023\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"sure\",\"reason\":\"Record notes that the meeting was suspended so sponsors could agree a voting order. Pure procedure, no article content.\"},{\"item\":12,\"id\":\"a_c.3_sr.734-0007\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"sure\",\"reason\":\"'It was so decided' records the adjournment because th…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 4,
+      "label": "sonnet:batch2.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "aeb7a6c4b5ff14d5e",
+      "model": "claude-sonnet-5-5",
+      "state": "done",
+      "startedAt": 1793464198178,
+      "queuedAt": 1793464198175,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round119/batch2.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793464234448,
+      "tokens": 87975,
+      "toolCalls": 5,
+      "durationMs": 34259,
+      "resultPreview": "{\"answers\":[{\"item\":11,\"id\":\"a_c.3_sr.712-0023\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"sure\",\"reason\":\"Bare note that the meeting was suspended and resumed; order of work, no article content.\"},{\"item\":12,\"id\":\"a_c.3_sr.734-0007\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"sure\",\"reason\":\"'It was so decided' adopts the Chairman's adjournment proposal because the Working Pa…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 5,
+      "label": "opus:batch3.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "a470cc465dc1e9b40",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1793464198181,
+      "queuedAt": 1793464198179,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round119/batch3.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793464247989,
+      "tokens": 85582,
+      "toolCalls": 7,
+      "durationMs": 47201,
+      "resultPreview": "{\"answers\":[{\"item\":21,\"id\":\"a_c.3_sr.858-0017\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"sure\",\"reason\":\"Notes only that the meeting was suspended and resumed, during the article 8 debate. Pure procedure, no article content.\"},{\"item\":22,\"id\":\"a_c.3_sr.862-0010\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"sure\",\"reason\":\"'It was so agreed' adopts the deadline for amendments …"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 6,
+      "label": "sonnet:batch3.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "acc357f794c173cc7",
+      "model": "claude-sonnet-5-5",
+      "state": "done",
+      "startedAt": 1793464198181,
+      "queuedAt": 1793464198179,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round119/batch3.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793464222220,
+      "tokens": 90292,
+      "toolCalls": 3,
+      "durationMs": 22030,
+      "resultPreview": "{\"answers\":[{\"item\":21,\"id\":\"a_c.3_sr.858-0017\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"sure\",\"reason\":\"Note that the meeting was suspended and resumed; pure procedure, no substance about article 8.\"},{\"item\":22,\"id\":\"a_c.3_sr.862-0010\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"probable\",\"reason\":\"'It was so agreed' fixes a deadline for submitting amendments; order of wor…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 7,
+      "label": "opus:batch4.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "acb37fe80a3fb5612",
+      "model": "claude-opus-5-5",
+      "state": "done",
+      "startedAt": 1793464198183,
+      "queuedAt": 1793464198181,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round119/batch4.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793464247876,
+      "tokens": 81680,
+      "toolCalls": 6,
+      "durationMs": 47087,
+      "resultPreview": "{\"answers\":[{\"item\":31,\"id\":\"e_cn.4_sr.171-0004\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"sure\",\"reason\":\"Attendance list of the meeting (chairman, members, agencies, NGOs, secretariat) ending with the agenda title; no article content.\"},{\"item\":32,\"id\":\"e_cn.4_sr.175-0004\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"sure\",\"reason\":\"Attendance list, closed session for confid…"
+    },
+    {
+      "type": "workflow_agent",
+      "index": 8,
+      "label": "sonnet:batch4.json",
+      "phaseIndex": 1,
+      "phaseTitle": "Judge",
+      "agentId": "aa897bf9f776cd697",
+      "model": "claude-sonnet-5-5",
+      "state": "done",
+      "startedAt": 1793464198183,
+      "queuedAt": 1793464198181,
+      "attempt": 1,
+      "lastToolName": "StructuredOutput",
+      "promptPreview": "You are a strict, independent judge of article tags in the travaux préparatoires of the Universal Declaration of Human Rights and the two human rights Covenants. Read the file /Users/lszoszk/Desktop/AI/travaux/eval/round119/batch4.json (JSON): a \"catalogue\" of the final articles and their subjects, and \"items\", each a stretch of one UN meeting record (OCR text): its segments in order (headings, th…",
+      "promptFramed": true,
+      "lastProgressAt": 1793464231466,
+      "tokens": 82601,
+      "toolCalls": 6,
+      "durationMs": 31275,
+      "resultPreview": "{\"answers\":[{\"item\":31,\"id\":\"e_cn.4_sr.171-0004\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"sure\",\"reason\":\"List of members and observers at the opening of the meeting; no article content.\"},{\"item\":32,\"id\":\"e_cn.4_sr.175-0004\",\"instrument\":\"none\",\"final_article\":null,\"certainty\":\"sure\",\"reason\":\"Attendance list plus note on distributing a confidential list of communications; procedural…"
+    }
+  ],
+  "totalTokens": 687324,
+  "totalToolCalls": 48
+}

@@ -1,0 +1,1166 @@
+{
+ "pages": [
+  {
+   "id": "p0",
+   "stratum": "changed88",
+   "symbol": "A/C.3/SR.1377",
+   "page": 3
+  },
+  {
+   "id": "p1",
+   "stratum": "changed88",
+   "symbol": "E/CN.4/AC.1/SR.41",
+   "page": 15
+  },
+  {
+   "id": "p2",
+   "stratum": "changed88",
+   "symbol": "E/CN.4/AC.2/SR.4",
+   "page": 6
+  },
+  {
+   "id": "p3",
+   "stratum": "changed88",
+   "symbol": "E/CN.4/AC.2/SR.4",
+   "page": 7
+  },
+  {
+   "id": "p4",
+   "stratum": "changed88",
+   "symbol": "E/CN.4/AC.2/SR.5",
+   "page": 12
+  },
+  {
+   "id": "p5",
+   "stratum": "changed88",
+   "symbol": "E/CN.4/AC.2/SR.9",
+   "page": 2
+  },
+  {
+   "id": "p6",
+   "stratum": "changed88",
+   "symbol": "E/CN.4/AC.2/SR.9",
+   "page": 17
+  },
+  {
+   "id": "p7",
+   "stratum": "changed88",
+   "symbol": "E/CN.4/SR.101",
+   "page": 5
+  },
+  {
+   "id": "p8",
+   "stratum": "changed88",
+   "symbol": "E/CN.4/SR.134",
+   "page": 4
+  },
+  {
+   "id": "p9",
+   "stratum": "changed88",
+   "symbol": "E/CN.4/SR.134",
+   "page": 6
+  },
+  {
+   "id": "p10",
+   "stratum": "changed88",
+   "symbol": "E/CN.4/SR.167",
+   "page": 7
+  },
+  {
+   "id": "p11",
+   "stratum": "changed88",
+   "symbol": "E/CN.4/SR.186",
+   "page": 20
+  },
+  {
+   "id": "p12",
+   "stratum": "changed88",
+   "symbol": "E/CN.4/SR.190",
+   "page": 3
+  },
+  {
+   "id": "p13",
+   "stratum": "changed88",
+   "symbol": "E/CN.4/SR.191",
+   "page": 16
+  },
+  {
+   "id": "p14",
+   "stratum": "changed88",
+   "symbol": "E/CN.4/SR.200",
+   "page": 9
+  },
+  {
+   "id": "p15",
+   "stratum": "changed88",
+   "symbol": "E/CN.4/SR.314",
+   "page": 11
+  },
+  {
+   "id": "p16",
+   "stratum": "changed88",
+   "symbol": "E/CN.4/SR.319",
+   "page": 3
+  },
+  {
+   "id": "p17",
+   "stratum": "changed88",
+   "symbol": "E/CN.4/SR.322",
+   "page": 10
+  },
+  {
+   "id": "p18",
+   "stratum": "changed88",
+   "symbol": "E/CN.4/SR.332",
+   "page": 6
+  },
+  {
+   "id": "p19",
+   "stratum": "changed88",
+   "symbol": "E/CN.4/SR.337",
+   "page": 10
+  },
+  {
+   "id": "p20",
+   "stratum": "changed88",
+   "symbol": "E/CN.4/SR.35",
+   "page": 4
+  },
+  {
+   "id": "p21",
+   "stratum": "changed88",
+   "symbol": "E/CN.4/SR.35",
+   "page": 5
+  },
+  {
+   "id": "p22",
+   "stratum": "changed88",
+   "symbol": "E/CN.4/SR.379",
+   "page": 14
+  },
+  {
+   "id": "p23",
+   "stratum": "changed88",
+   "symbol": "E/CN.4/SR.42",
+   "page": 17
+  },
+  {
+   "id": "p24",
+   "stratum": "changed88",
+   "symbol": "E/CN.4/SR.477",
+   "page": 13
+  },
+  {
+   "id": "p25",
+   "stratum": "changed88",
+   "symbol": "E/CN.4/SR.88",
+   "page": 7
+  },
+  {
+   "id": "p26",
+   "stratum": "changed88",
+   "symbol": "E/CN.4/SR.95",
+   "page": 1
+  },
+  {
+   "id": "p27",
+   "stratum": "changed88",
+   "symbol": "E/CN.6/SR.12",
+   "page": 2
+  },
+  {
+   "id": "p28",
+   "stratum": "changed88",
+   "symbol": "E/CN.6/SR.12",
+   "page": 3
+  },
+  {
+   "id": "p29",
+   "stratum": "changed88",
+   "symbol": "E/CN.6/SR.12",
+   "page": 6
+  }
+ ],
+ "results": [
+  {
+   "label": "old88",
+   "i": 0,
+   "page_ok": false,
+   "speeches_on_image": 8,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "a_c.3_sr.1377-0027",
+     "detail": "The italic decision 'It was so decided.' after the chair's para 26 is printed on its own line, but the segment's ending has it inside the chair's turn ('...21 November 1966. It was so decided. 3/')."
+    }
+   ]
+  },
+  {
+   "label": "old88",
+   "i": 1,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_ac.1_sr.41-0058",
+     "detail": "Underlined result 'The amendment was rejected by 4 votes to 3.' is left inside the Chairman's turn instead of being its own vote segment."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_ac.1_sr.41-0058",
+     "detail": "Catchword '/The CHAIRMAN' at the foot of the page is kept at the end of the chair segment's text."
+    }
+   ]
+  },
+  {
+   "label": "old88",
+   "i": 2,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_ac.2_sr.4-0021",
+     "detail": "The underlined heading 'Examination of Article 9' is printed on its own line before Cassin's turn, but it sits at the end of the Article 11 decision (vote) segment instead of being a separate heading segment."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_ac.2_sr.4-0020",
+     "detail": "Romulo's speech ends with 'Decision;', the underlined label that introduces the decision on Article 11. The label belongs with the decision segment, not the speech."
+    }
+   ]
+  },
+  {
+   "label": "old88",
+   "i": 3,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_ac.2_sr.4-0028",
+     "detail": "Underlined 'Decision: This text was adopted by three votes to nil, with three abstentions.' is left inside the Chairman's turn instead of its own decision/vote segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_ac.2_sr.4-0028",
+     "detail": "Underlined heading 'Examination of Article 10' is at the end of the Chairman's segment instead of being its own heading segment."
+    }
+   ]
+  },
+  {
+   "label": "old88",
+   "i": 4,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_ac.2_sr.5-0053",
+     "detail": "The underlined 'Decision: The text as proposed by the Drafting Committee ... adopted by 4 votes to 1 with 1 abstention.' is set apart on the page but left at the end of Cassin's speech segment."
+    }
+   ]
+  },
+  {
+   "label": "old88",
+   "i": 5,
+   "page_ok": false,
+   "speeches_on_image": 7,
+   "errors": [
+    {
+     "type": "text_missing",
+     "segment_id": null,
+     "detail": "The underlined heading 'Discussion of the Report of the Drafting Committee (E/CN.4/21, Annex F)' above 'Article 35' is in no segment; the first segment listed for the page is the 'Article 35' heading."
+    }
+   ]
+  },
+  {
+   "label": "old88",
+   "i": 6,
+   "page_ok": false,
+   "speeches_on_image": 7,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_ac.2_sr.9-0085",
+     "detail": "Image has a separate turn 'Professor CASSIN (France) accepted this proposal.' after the Chairman's proposal; the segment ends with it inside the chair turn."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_ac.2_sr.9-0086",
+     "detail": "The underlined label 'Decision:' is left at the end of the chair's turn ('put this text to the vote. Decision;'). It should start the decision segment 0087."
+    }
+   ]
+  },
+  {
+   "label": "old88",
+   "i": 7,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.101-0017",
+     "detail": "Mr. FONTAINA (Uruguay)'s explanation of vote on article 5 is a separate turn on the page, but it sits inside the Chairman's segment (its ending 'He regretted that he had been prevented by illness...' is Fontaina's)."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.101-0017",
+     "detail": "The headings 'DRAFT INTERNATIONAL COVENANT ON HUMAN RIGHTS (E/800...) (discussion continued)' and 'Article 5 (continued): explanation of vote' are inside the chair segment rather than being heading segments."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.101-0016",
+     "detail": "The vote result text ends with the running head 'oe . Page 5 -' from the top of page 5."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.101-0022",
+     "detail": "Pavlov's speech text ends with the catchword '/Miss BOWIE' (OCR '“/Rise BOWIE') from the foot of the page."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.101-0019",
+     "detail": "A procedural segment containing only 'f', which is an OCR speck under the Article 9 heading and not real page text."
+    }
+   ]
+  },
+  {
+   "label": "old88",
+   "i": 8,
+   "page_ok": false,
+   "speeches_on_image": 9,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.134-0017",
+     "detail": "Vote segment also holds the headings 'Paragraphs 3 and 4' and 'Paragraph 5' (underlined headings on the page), which should be separate heading segments; the two adoptions should also be separate."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.134-0019",
+     "detail": "Underlined decision 'It was so decided.' after the Chairman's suggestion is left inside the chair segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.134-0024",
+     "detail": "Underlined result 'Paragraph 5 was adopted with those alterations and corrections.' is left inside Chang's speech instead of its own vote segment."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.134-0024",
+     "detail": "Catchword '/ Paragraph 6' from the foot of the page (with OCR noise 'won sh') is at the end of Chang's speech."
+    }
+   ]
+  },
+  {
+   "label": "old88",
+   "i": 9,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.134-0037",
+     "detail": "Top of page has underlined headings (Chapter III, Paragraph 11, Chapter IV, Paragraph 12) and decisions 'Chapter III was adopted.', 'Paragraph 12 was adopted.'; all left inside Malik's speech continuing from p5."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.134-0045",
+     "detail": "Heading 'Paragraph 15' printed as a separate underlined heading is kept inside the vote segment 'Paragraph 14, as amended, was adopted.'"
+    }
+   ]
+  },
+  {
+   "label": "old88",
+   "i": 10,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.167-0015",
+     "detail": "Underlined result 'That phrase was adopted unanimously.' is printed under para 24 but left inside the chair's turn instead of its own decision segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.167-0016",
+     "detail": "Underlined decision 'It was so agreed.' after para 25 is left at the end of Cassin's speech instead of its own decision segment."
+    }
+   ]
+  },
+  {
+   "label": "old88",
+   "i": 11,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.186-0059",
+     "detail": "Underlined vote result 'The Chilean amendment was rejected by 11 votes to 3, with 1 abstention' is left inside the chair's turn (para 88) instead of its own vote segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.186-0063",
+     "detail": "Underlined result 'The paragraph, with the amendments accepted..., was adopted by 13 votes to none, with 2 abstentions' is left inside the chair's turn (para 91) rather than set apart as a vote."
+    }
+   ]
+  },
+  {
+   "label": "old88",
+   "i": 12,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.190-0006",
+     "detail": "The underlined result 'Article 12 as amended was adopted by 9 votes to none, with 5 abstentions' and the heading 'Article 13' are left at the end of Nisot's speech. They should be a separate vote and a separate heading."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.190-0007",
+     "detail": "The vote segment runs two results together and holds the heading 'Article 14' between them. The heading should be its own segment, and the two votes should be split."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.190-0009",
+     "detail": "Paragraph 5, 'Mr. CASSIN (France) supported the Belgian amendment', is a separate turn but sits at the end of Nisot's speech."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.190-0010",
+     "detail": "Paragraph 7, 'The CHAIRMAN thought that the point was made clear in article 16', is the chair's own turn but is inside Malik's speech."
+    }
+   ]
+  },
+  {
+   "label": "old88",
+   "i": 13,
+   "page_ok": false,
+   "speeches_on_image": 7,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.191-0055",
+     "detail": "Underlined vote result 'Paragraph 2 of article 24 was adopted by 14 votes to none, with 1 abstention.' is left inside the Chairman's turn instead of being its own vote segment."
+    },
+    {
+     "type": "text_missing",
+     "segment_id": null,
+     "detail": "Underlined heading 'Paragraph 3' between the vote result and para. 78 (Ramadan) is in no segment; the chair segment ends with the vote and Ramadan's opens at '78.'."
+    }
+   ]
+  },
+  {
+   "label": "old88",
+   "i": 14,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.200-0051",
+     "detail": "The vote segment from page 8 also holds the heading 'Articles 7, 8 and 9', para 42 'There were no comments on articles 7, 8 and 9.' and the 'Article 10' heading. These should be separate heading and procedural segments."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.200-0053",
+     "detail": "Para 43 is Mr. MALIK (Lebanon)'s speech, replying to Mr. Kyrou (Greece). The segment is marked procedural with no speaker or delegation."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.200-0053",
+     "detail": "The underlined decisions 'It was decided to retain the word \"addressed\".' and 'One minor drafting change was made in the text of article 10.' are left inside Malik's para 43 segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.200-0057",
+     "detail": "The underlined decision 'That reservation was accepted.' is left at the end of Schwelb's speech."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.200-0059",
+     "detail": "The chair segment (para 46) also holds para 47, Mr. NISOT (Belgium)'s own turn proposing the French text of article 14."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.200-0059",
+     "detail": "The chair segment also holds the underlined decisions 'It was so decided.', 'Certain minor drafting changes ... article 13.', 'After a short discussion ... Belgian amendment.' and 'Certain minor drafting changes ... article 14.', plus the 'Article 14' heading."
+    }
+   ]
+  },
+  {
+   "label": "old88",
+   "i": 15,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.314-0036",
+     "detail": "The underlined decision 'It was decided, by 10 votes to 1, with 6 abstentions, that the vote ... should be reconsidered' is left inside the Roosevelt/Hoare/Azkoul speech instead of being its own vote segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.314-0039",
+     "detail": "The underlined result 'Paragraph 3 of the original text (E/1992) was adopted unanimously as paragraph 2' is left inside Mrs. Mehta's speech instead of being its own vote segment."
+    }
+   ]
+  },
+  {
+   "label": "old88",
+   "i": 16,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": []
+  },
+  {
+   "label": "old88",
+   "i": 17,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.322-0034",
+     "detail": "Hoare's speech ending keeps the page-9 catchword \"/Mr. CHENG PAONAN |\"."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.322-0038",
+     "detail": "Underlined result \"The paragraph was adopted by 12 votes to none, with 6 abstentions.\" is left inside the chair's turn, not a separate vote segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.322-0039",
+     "detail": "Underlined result \"The paragraph was adopted by 14 votes to 3, with 1 abstention.\" is left inside the chair's turn, not a separate vote segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.322-0040",
+     "detail": "Roll-call vote (In favour/Against/Abstaining) and underlined result \"The first part of the Yugoslav amendment was rejected by 8 votes to 4\" are left inside the chair's turn."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.322-0040",
+     "detail": "Ending keeps the page-10 catchword \"/The CHAIRMAN\" (and stray \"$2,\") after the vote result."
+    }
+   ]
+  },
+  {
+   "label": "old88",
+   "i": 18,
+   "page_ok": false,
+   "speeches_on_image": 7,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.332-0013",
+     "detail": "Underlined decision 'The motion for closure of the debate was unanimously adopted.' is printed as a separate result but is left inside Bracco's speech segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.332-0014",
+     "detail": "Underlined vote result 'That proposal was adopted by 9 votes to 7, with 2 abstentions.' is a separate line on the page but sits inside the Chairman's turn."
+    }
+   ]
+  },
+  {
+   "label": "old88",
+   "i": 19,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.337-0079",
+     "detail": "The underlined heading 'Paragraphs 6 to 9' is a separate heading on the scan. In the database it is joined onto the end of the vote 'Paragraphs 1 to 5 were adopted...', not given its own heading segment."
+    }
+   ]
+  },
+  {
+   "label": "old88",
+   "i": 20,
+   "page_ok": true,
+   "speeches_on_image": 7,
+   "errors": []
+  },
+  {
+   "label": "old88",
+   "i": 21,
+   "page_ok": false,
+   "speeches_on_image": 7,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.35-0017",
+     "detail": "Mrs. MEHTA's speech segment ends with the separate turn 'The CHAIRMAN put to the vote the amendment proposed by the representative of India.' That chair turn is its own paragraph on the page but has no segment of its own."
+    }
+   ]
+  },
+  {
+   "label": "old88",
+   "i": 22,
+   "page_ok": false,
+   "speeches_on_image": 7,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.379-0023",
+     "detail": "The agenda heading '2. PROGRAMME OF WORK', printed on its own line after Morozov's speech, is left at the end of his speech segment instead of being its own heading segment."
+    }
+   ]
+  },
+  {
+   "label": "old88",
+   "i": 23,
+   "page_ok": false,
+   "speeches_on_image": 1,
+   "errors": [
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.42-0072",
+     "detail": "The underlined label 'Decision:' that introduces the vote result is left at the end of Dehousse's speech ('...roll call. Decision;'). The result itself is correctly a separate procedural segment that has no label."
+    }
+   ]
+  },
+  {
+   "label": "old88",
+   "i": 24,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.477-0069",
+     "detail": "The vote segment 'Paragraphs 27 to 91 were adopted' also holds the next underlined heading 'Paragraphs 92 to 99', which should be its own heading segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.477-0074",
+     "detail": "The vote segment for paragraphs 100-105 also holds the heading 'Paragraphs 106 to 113' and that section's separate result, 'were adopted without comment'. The heading should be its own segment and so should the second result."
+    }
+   ]
+  },
+  {
+   "label": "old88",
+   "i": 25,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.88-0018",
+     "detail": "The underlined result 'The Egyptian proposal as amended was adopted by 9 votes to 2, with 1 abstention.' is printed apart on the page but sits inside the chair's turn instead of being its own vote/procedural segment."
+    }
+   ]
+  },
+  {
+   "label": "old88",
+   "i": 26,
+   "page_ok": false,
+   "speeches_on_image": 0,
+   "errors": [
+    {
+     "type": "text_missing",
+     "segment_id": null,
+     "detail": "Not verified on a scan: item 26 (E/CN.4/SR.95 p1) has no image field, nor does any item in the file. It also has no segments, so any text on page 1 (title, attendance, agenda, opening turns) is in no segment."
+    }
+   ]
+  },
+  {
+   "label": "old88",
+   "i": 27,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.6_sr.12-0002",
+     "detail": "Miss KENYON (United States of America), Chairman of the Sub-Committee, starts her own turn after the Chairman's request for a report; the segment holds both the Chairman and Kenyon's report up to 'original draft resolution.'"
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.6_sr.12-0006",
+     "detail": "The opening ends 'which reads Page': the next page's running head ('Page 3') is left in the chair's text, where the catchword '/as follows:' would be."
+    }
+   ]
+  },
+  {
+   "label": "old88",
+   "i": 28,
+   "page_ok": false,
+   "speeches_on_image": 1,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.6_sr.12-0006",
+     "detail": "The underlined 'DECISION: Paragraph (a) was adopted by a vote of 13 to 0; paragraph (b) and (c) were adopted unanimously.' is left at the end of the chair's segment instead of being its own vote/decision segment."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.6_sr.12-0006",
+     "detail": "Opening runs '...which reads Page' — the running head 'E/CN.6/SR.12 Page 3' at the page break is left in the text."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.6_sr.12-0007",
+     "detail": "Ending has '...Member Governnents | or /with requests Page '4 with requests' — the catchword '/with requests' from page 3's foot and page 4's running head are left in the text."
+    }
+   ]
+  },
+  {
+   "label": "old88",
+   "i": 29,
+   "page_ok": false,
+   "speeches_on_image": 7,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.6_sr.12-0027",
+     "detail": "Rowe's speech ends 'married women, which DECISION:'. The 'DECISION:' label belongs to the decision at the top of page 7. Her closing words there, 'had been paragraph (b) of the Australian amendment.', are not in the segment's text."
+    }
+   ]
+  },
+  {
+   "label": "new88",
+   "i": 0,
+   "page_ok": true,
+   "speeches_on_image": 8,
+   "errors": []
+  },
+  {
+   "label": "new88",
+   "i": 1,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_ac.1_sr.41-0059",
+     "detail": "The vote result 'The amendment was rejected by 4 votes to 3.' ends with the catchword '/The CHAIRMAN' from the foot of the page, which belongs to no text."
+    }
+   ]
+  },
+  {
+   "label": "new88",
+   "i": 2,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_ac.2_sr.4-0021",
+     "detail": "The underlined heading 'Examination of Article 9' is printed on its own line after the decision on Article 11, but it sits at the end of the vote segment's text and has no heading segment of its own."
+    }
+   ]
+  },
+  {
+   "label": "new88",
+   "i": 3,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_ac.2_sr.4-0029",
+     "detail": "The underlined heading 'Examination of Article 10' sits on its own line after the decision. In the database it is joined to the end of the decision segment ('...with throe abstentions. Bxu.aation of Article 10') instead of being a separate heading segment."
+    }
+   ]
+  },
+  {
+   "label": "new88",
+   "i": 4,
+   "page_ok": true,
+   "speeches_on_image": 4,
+   "errors": []
+  },
+  {
+   "label": "new88",
+   "i": 5,
+   "page_ok": false,
+   "speeches_on_image": 7,
+   "errors": [
+    {
+     "type": "text_missing",
+     "segment_id": null,
+     "detail": "The underlined heading at the top of the page, 'Discussion of the Report of the Drafting Committee (E/CN.4/21, Annex F)', is in no segment. Only 'Article 35' (0002) is a heading."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_ac.2_sr.9-0008",
+     "detail": "The underlined label 'Decision:' that opens the vote result has been left at the end of the chair's turn ('...in the Declaration. Decision,;'). It should go with the decision segment 0009."
+    }
+   ]
+  },
+  {
+   "label": "new88",
+   "i": 6,
+   "page_ok": false,
+   "speeches_on_image": 7,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_ac.2_sr.9-0085",
+     "detail": "The page has a separate paragraph, \"Professor CASSIN (France) accepted this proposal.\", after the Chairman's proposal. The segment leaves it at the end of the chair turn instead of making it a Cassin (France) speech."
+    }
+   ]
+  },
+  {
+   "label": "new88",
+   "i": 7,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.101-0016",
+     "detail": "Vote result ends with the running head 'Page 5 -' of this page."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.101-0017",
+     "detail": "The heading 'DRAFT INTERNATIONAL COVENANT ON HUMAN RIGHTS (E/800, E/CN.4/212 and E/CN.4/251) (discussion continued)' is left inside the Chairman's turn; it should be its own heading segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.101-0019",
+     "detail": "Mr. FONTAINA (Uruguay) explaining his vote is a speaker turn, but the segment is kind procedural with no speaker or delegation."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.101-0024",
+     "detail": "Pavlov's speech ends with the catchword '/Miss BOWIE' (OCR '/Rise BOWIE') from the foot of the page."
+    }
+   ]
+  },
+  {
+   "label": "new88",
+   "i": 8,
+   "page_ok": false,
+   "speeches_on_image": 9,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.134-0017",
+     "detail": "Vote segment also holds the headings 'Paragraphs 3 and 4' and 'Paragraph 5' and a second result; on the page these headings are separate underlined headings between results."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.134-0019",
+     "detail": "Underlined decision 'It was so decided.' after the Chairman's suggestion is left inside the chair segment instead of its own segment."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.134-0025",
+     "detail": "Catchword '/ Paragraph 6' at the foot of the page is included at the end of the vote segment (with OCR noise 'won sh')."
+    }
+   ]
+  },
+  {
+   "label": "new88",
+   "i": 9,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.134-0038",
+     "detail": "Malik's speech (from p5) runs on into the page's opening headings 'Chapter III ...', 'Paragraph 11', the underlined decision 'Chapter III was adopted.', 'Chapter IV ...' and 'Paragraph 12'. These should be separate heading and vote segments."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.134-0047",
+     "detail": "The vote segment 'Paragraph 14, as amended, was adopted.' also holds the next heading, 'Paragraph 15', which should be its own heading segment."
+    }
+   ]
+  },
+  {
+   "label": "new88",
+   "i": 10,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.167-0017",
+     "detail": "The underlined decision 'It was so agreed.' after Cassin's para 25 is left inside his speech (ending '...It was 50 agreed.') instead of being its own procedural segment."
+    }
+   ]
+  },
+  {
+   "label": "new88",
+   "i": 11,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.186-0059",
+     "detail": "The underlined result 'The Chilean amendment was rejected by 11 votes to 3, with 1 abstention' is left inside the chair's turn (para 88) rather than in its own vote segment."
+    }
+   ]
+  },
+  {
+   "label": "new88",
+   "i": 12,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.190-0006",
+     "detail": "The underlined result 'Article 12 as amended was adopted by 9 votes to none, with 5 abstentions' sits at the end of Nisot's speech. It should be its own vote segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.190-0008",
+     "detail": "This vote segment holds both results and the 'Article 14' heading between them. The heading should be its own segment, and the Article 14 result a separate vote."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.190-0010",
+     "detail": "Para. 5, 'Mr. CASSIN (France) supported the Belgian amendment', is a separate turn but is merged into Nisot's paragraph 4 speech."
+    },
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.190-0011",
+     "detail": "Para. 7, 'The CHAIRMAN thought that the point was made clear in article 16', is a separate chair turn but is merged into Malik's speech."
+    }
+   ]
+  },
+  {
+   "label": "new88",
+   "i": 13,
+   "page_ok": false,
+   "speeches_on_image": 7,
+   "errors": [
+    {
+     "type": "text_missing",
+     "segment_id": null,
+     "detail": "The underlined heading 'Paragraph 3' between the vote result and para. 78 (Ramadan) is in no segment: the vote segment ends at 'abstention' and Ramadan's speech opens at '78.'."
+    }
+   ]
+  },
+  {
+   "label": "new88",
+   "i": 14,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.200-0060",
+     "detail": "Para 47, Mr. NISOT (Belgium) suggesting French rewording of article 14, is inside a procedural segment that starts with 'It was so decided.'; it should be its own speech with speaker Nisot, Belgium."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.200-0060",
+     "detail": "The 'Article 14' heading and the underlined decisions ('It was so decided', 'Certain minor drafting changes...', 'After a short discussion... accept the Belgian amendment') are merged with Nisot's turn in one segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.200-0053",
+     "detail": "Para 43 is a turn by Mr. MALIK (Lebanon), replying to Kyrou, but it is marked procedural with no speaker; the underlined decisions 'It was decided to retain...' and 'One minor drafting change...' are left inside it."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.200-0057",
+     "detail": "The underlined decision 'That reservation was accepted.' is left at the end of Schwelb's speech instead of being a separate decision segment."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.200-0051",
+     "detail": "The vote segment from page 8 also contains the 'Articles 7, 8 and 9' heading and para 42 ('There were no comments on articles 7, 8 and 9'), which should be separate heading and procedural segments."
+    }
+   ]
+  },
+  {
+   "label": "new88",
+   "i": 15,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.314-0036",
+     "detail": "The underlined decision 'It was decided, by 10 votes to 1, with 6 abstentions, that the vote on the Indian amendment ... should be reconsidered' is left inside the Roosevelt/Hoare/Azkoul speech, not a separate vote segment."
+    }
+   ]
+  },
+  {
+   "label": "new88",
+   "i": 16,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": []
+  },
+  {
+   "label": "new88",
+   "i": 17,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.322-0038",
+     "detail": "Underlined result 'The paragraph was adopted by 12 votes to none, with 6 abstentions.' is left inside the chair's turn; it should be its own vote segment, as 0040 is for paragraph 2."
+    },
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.322-0041",
+     "detail": "The roll-call vote (In favour/Against/Abstaining) and the underlined result 'rejected by 8 votes to 4, with 6 abstentions' are inside the chair's turn and not set apart."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.322-0041",
+     "detail": "The ending keeps the page's catchword '/The CHAIRMAN' after the vote result."
+    },
+    {
+     "type": "wrong_speaker",
+     "segment_id": "e_cn.4_sr.322-0041",
+     "detail": "The chair turn 'the CHAIRMAN put to the vote...' has speaker null, while the other chair turns on the page carry MALIK."
+    }
+   ]
+  },
+  {
+   "label": "new88",
+   "i": 18,
+   "page_ok": false,
+   "speeches_on_image": 7,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.332-0013",
+     "detail": "The underlined decision 'The motion for closure of the debate was unanimously adopted.' is printed as a separate line after Bracco's turn, but the segment keeps it inside his speech."
+    }
+   ]
+  },
+  {
+   "label": "new88",
+   "i": 19,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.337-0082",
+     "detail": "Whitlam's turn ends on p.10 (\"...summary records.\"; catchword /Mrs. MEHTA). Segment runs to p.11 and ends with Mrs. Mehta's (India) turn \"...agreed with the Rapporteur, but felt that the Commission should make some decision...\", so two speakers are in one segment."
+    }
+   ]
+  },
+  {
+   "label": "new88",
+   "i": 20,
+   "page_ok": true,
+   "speeches_on_image": 7,
+   "errors": []
+  },
+  {
+   "label": "new88",
+   "i": 21,
+   "page_ok": false,
+   "speeches_on_image": 7,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.35-0017",
+     "detail": "The image has the chair's separate turn 'The CHAIRMAN put to the vote the amendment proposed by the representative of India.' after Mrs. Mehta's speech; the segment ends with it inside Mehta's speech."
+    }
+   ]
+  },
+  {
+   "label": "new88",
+   "i": 22,
+   "page_ok": true,
+   "speeches_on_image": 7,
+   "errors": []
+  },
+  {
+   "label": "new88",
+   "i": 23,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": []
+  },
+  {
+   "label": "new88",
+   "i": 24,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "wrong_kind",
+     "segment_id": "e_cn.4_sr.477-0075",
+     "detail": "Vote segment also holds the underlined heading 'Paragraphs 106 to 113' and its separate result 'Paragraphs 106 to 113 were adopted without comment.'; the heading should be its own segment and the second result its own vote."
+    }
+   ]
+  },
+  {
+   "label": "new88",
+   "i": 25,
+   "page_ok": true,
+   "speeches_on_image": 4,
+   "errors": []
+  },
+  {
+   "label": "new88",
+   "i": 26,
+   "page_ok": false,
+   "speeches_on_image": 0,
+   "errors": [
+    {
+     "type": "text_missing",
+     "segment_id": null,
+     "detail": "Item 26 (E/CN.4/SR.95 p1) has no 'image' field and an empty segments list. I could not check the scan. A first page of a summary record carries at least a title and attendance, so its text is in no segment."
+    }
+   ]
+  },
+  {
+   "label": "new88",
+   "i": 27,
+   "page_ok": false,
+   "speeches_on_image": 6,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.6_sr.12-0002",
+     "detail": "Image shows a separate turn 'Miss KENYON (United States of America), Chairman of the Sub-Committee, called attention...' after the Chairman's request; the segment has it inside the chair's turn (ending '...original draft resolution')."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.6_sr.12-0006",
+     "detail": "Opening ends 'which reads Page': the running head of the next page ('Page' header) is left in the chair's text where the catchword '/as follows:' falls."
+    }
+   ]
+  },
+  {
+   "label": "new88",
+   "i": 28,
+   "page_ok": false,
+   "speeches_on_image": 1,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.6_sr.12-0008",
+     "detail": "Ending keeps the catchword '/with requests' and the next page's running head 'Page 4' before the repeated 'with requests'."
+    },
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.6_sr.12-0006",
+     "detail": "Opening ends 'which reads Page': the page-break running head (E/CN.6/SR.12 Page 3) is left in the chair's text before 'as follows:'."
+    }
+   ]
+  },
+  {
+   "label": "new88",
+   "i": 29,
+   "page_ok": true,
+   "speeches_on_image": 7,
+   "errors": []
+  }
+ ]
+}

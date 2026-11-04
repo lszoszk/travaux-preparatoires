@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Audyt publikacyjny</title>
+<style>
+:root { --bg: #f6f5f1; --panel: #fff; --ink: #1d1d1b; --muted: #6b6a66; --line: #dddbd4; --accent: #2f5d8a; --ok: #2e7d4f; --bad: #a33a2b; --mark: #fff3c4; }
+@media (prefers-color-scheme: dark) { :root { --bg: #15181b; --panel: #1d2125; --ink: #e4e6e8; --muted: #9aa3ab; --line: #30363c; --accent: #7fa8d4; --ok: #6fb38b; --bad: #e0806f; --mark: #3a3420; color-scheme: dark; } }
+* { box-sizing: border-box; }
+body { margin: 0; font: 15px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif; background: var(--bg); color: var(--ink); }
+header { display: flex; flex-wrap: wrap; gap: 12px 16px; align-items: center; padding: 10px 16px; border-bottom: 1px solid var(--line); background: var(--panel); position: sticky; top: 0; z-index: 2; }
+header h1 { font-size: 16px; margin: 0; }
+#progress, #who { color: var(--muted); }
+#bar { flex: 1; min-width: 120px; height: 6px; background: var(--line); border-radius: 3px; overflow: hidden; }
+#bar div { height: 100%; background: var(--accent); width: 0; }
+main { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: 16px; padding: 16px; }
+#scan { background: var(--panel); border: 1px solid var(--line); overflow: auto; max-height: calc(100vh - 90px); position: sticky; top: 62px; }
+#scan figure { margin: 0; border-bottom: 2px solid var(--line); }
+#scan figcaption { font-size: 12px; color: var(--muted); padding: 4px 8px; }
+#scan figure.start figcaption { color: var(--accent); font-weight: 600; }
+#scan img { width: 100%; display: block; cursor: zoom-in; }
+#scan.zoom img { width: 180%; cursor: zoom-out; }
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 12px 14px; margin-bottom: 12px; }
+.meta { color: var(--muted); font-size: 13px; }
+dl.db { display: grid; grid-template-columns: max-content 1fr; gap: 2px 12px; margin: 6px 0 0; font-size: 14px; }
+dl.db dt { color: var(--muted); }
+dl.db dd { margin: 0; font-weight: 600; }
+.final { font-size: 13px; color: var(--muted); margin-top: 4px; }
+.ctx { font-size: 13px; color: var(--muted); white-space: pre-wrap; border-left: 3px solid var(--line); padding: 2px 8px; margin: 6px 0; }
+.speech { white-space: pre-wrap; font-size: 14px; border-left: 3px solid var(--accent); padding: 2px 8px; margin: 6px 0; max-height: 40vh; overflow: auto; }
+.speech .first { background: var(--mark); }
+.q { margin: 12px 0 0; }
+.q .label { font-weight: 600; }
+.q .help { font-size: 13px; color: var(--muted); }
+.choices { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+button { font: inherit; font-size: 14px; padding: 6px 12px; border: 1px solid var(--line); border-radius: 5px; background: var(--panel); color: var(--ink); cursor: pointer; }
+button.primary { border-color: var(--accent); color: var(--accent); font-weight: 600; }
+button.picked { background: var(--accent); border-color: var(--accent); color: #fff; }
+button:focus-visible, input:focus-visible, textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+input[type=text], input[type=number] { font: inherit; padding: 5px 8px; border: 1px solid var(--line); border-radius: 5px; background: var(--panel); color: var(--ink); }
+input[type=number] { width: 90px; }
+textarea { width: 100%; min-height: 48px; font: inherit; margin-top: 6px; padding: 6px; border: 1px solid var(--line); border-radius: 5px; background: var(--panel); color: var(--ink); }
+nav { display: flex; flex-wrap: wrap; gap: 8px; justify-content: space-between; margin-top: 14px; }
+#msg { font-size: 13px; min-height: 18px; }
+#msg.ok { color: var(--ok); } #msg.bad { color: var(--bad); }
+#start { max-width: 520px; margin: 60px auto; }
+@media (max-width: 900px) { main { grid-template-columns: 1fr; } #scan { position: static; max-height: 60vh; } }
+</style>
+</head>
+<body>
+<div id="start" class="card" hidden>
+  <h1 style="font-size:18px">Audyt publikacyjny</h1>
+  <p>Wpisz swoje imię (małymi literami, bez spacji). Odpowiedzi zapisują się pod nim, osobno dla każdej osoby; nie widzisz odpowiedzi innych.</p>
+  <input type="text" id="judgeIn" placeholder="np. anna"> <button class="primary" id="go">Zaczynam</button>
+</div>
+<header id="top" hidden>
+  <h1>Audyt publikacyjny</h1>
+  <span id="who"></span>
+  <span id="progress"></span>
+  <div id="bar"><div></div></div>
+  <button id="nextOpen">Następna bez odpowiedzi</button>
+</header>
+<main id="main" hidden>
+  <div id="scan"></div>
+  <div>
+    <div class="card">
+      <div class="meta" id="meta"></div>
+      <dl class="db" id="db"></dl>
+      <div class="final" id="final"></div>
+    </div>
+    <div class="card">
+      <div class="meta">Przed wypowiedzią (kontekst)</div>
+      <div class="ctx" id="before"></div>
+      <div class="meta">Wypowiedź w bazie <span class="help">(żółte tło: pierwsze 100 słów, do pytania o tekst)</span></div>
+      <div class="speech" id="speech"></div>
+      <div class="meta">Po wypowiedzi</div>
+      <div class="ctx" id="after"></div>
+    </div>
+    <div class="card" id="form"></div>
+  </div>
+</main>
+<script>
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+let judge = new URLSearchParams(location.search).get("judge") || "", items = [], at = 0, ans = {};
+
+const QS = it => [
+  { key: "boundaries", label: "1. Granice wypowiedzi", help: "Czy tekst w bazie zaczyna się i kończy tam, gdzie ta tura na skanie (od nazwiska mówcy do następnej tury)?",
+    opts: [["ok", "dobrze"], ["starts_wrong", "zły początek"], ["ends_wrong", "zły koniec"], ["both_wrong", "zły początek i koniec"], ["not_a_speech", "to nie jest wypowiedź"], ["unsure", "nie wiem"]] },
+  { key: "speaker", label: "2. Mówca", help: it.speaker ? "Czy to ta osoba (nazwisko w zwykłej formie; drobna literówka maszynistki to nie błąd)?" : "Baza nie podaje mówcy. Czy skan go podaje?",
+    opts: it.speaker ? [["ok", "dobrze"], ["wrong", "źle"], ["unsure", "nie wiem"]] : [["ok", "słusznie brak"], ["missing", "skan podaje mówcę"], ["unsure", "nie wiem"]], should: "speaker_should", shouldLabel: "Kto (jak na skanie):" },
+  { key: "delegation", label: "3. Delegacja", help: "Czy państwo lub organizacja się zgadza (dawna nazwa państwa, np. Byelorussian SSR, to nie błąd)?",
+    opts: [["ok", "dobrze"], ["wrong", "źle"], ["unsure", "nie wiem"]] },
+  { key: "page", label: "4. Strona", help: `Czy wypowiedź zaczyna się na stronie ${it.page_start}${it.page_end !== it.page_start ? ` i kończy na ${it.page_end}` : ""} (numer strony skanu, jak w podpisie obrazu)?`,
+    opts: [["ok", "dobrze"], ["wrong", "źle"]] },
+  { key: "article", label: "5. Artykuł", help: it.article ? `Czy wypowiedź dotyczy głównie art. ${it.article.split(" art. ")[1]} (${it.article.split(" ")[0]})? Zasady: przewodnik, sekcja 5.` : "Baza nie przypisała artykułu. Czy wypowiedź dotyczy głównie jednego artykułu?",
+    opts: it.article ? [["ok", "trafny"], ["wrong", "nietrafny"], ["unsure", "nie wiem"]] : [["not_one", "nie: słusznie bez artykułu"], ["one_article", "tak, jednego artykułu"], ["unsure", "nie wiem"]],
+    should: "article_should", shouldLabel: "Który (np. ICCPR 14):" },
+  { key: "topic", label: "6. Temat debaty ogólnej", help: it.topic ? `Baza: „${it.topic_label}”. Czy to trafne?` : "Baza nie podaje tematu. Czy wypowiedź z debaty ogólnej (bez artykułu) dotyczy jednego z zagadnień z przewodnika?",
+    opts: it.topic ? [["ok", "trafny"], ["wrong", "nietrafny"], ["unsure", "nie wiem"]] : [["na", "nie dotyczy / słusznie brak"], ["missing", "powinna mieć temat"], ["unsure", "nie wiem"]] },
+];
+
+function render() {
+  const it = items[at], a = ans[it.id] || it.saved || {};
+  const done = items.filter(x => ans[x.id] || x.saved).length;
+  $("progress").textContent = `${at + 1} z ${items.length} · zrobione ${done}`;
+  $("bar").firstElementChild.style.width = (100 * done / items.length) + "%";
+  $("who").textContent = "oceniający: " + judge;
+  $("meta").textContent = `${it.symbol} · ${it.date || "data nieznana"} · ${it.pinpoint} · ${it.stratum}`;
+  $("db").innerHTML = `<dt>Mówca</dt><dd>${esc(it.speaker || "—")}</dd><dt>Delegacja</dt><dd>${esc(it.delegation || "—")}</dd>`
+    + `<dt>Strony</dt><dd>${esc(it.pinpoint)}</dd><dt>Artykuł</dt><dd>${esc(it.article ? `${it.article} (${it.article_title})` : "—")}${it.draft_article ? ` <span class="meta">projekt: ${esc(it.draft_article)}</span>` : ""}</dd>`
+    + `<dt>Temat</dt><dd>${esc(it.topic_label || "—")}</dd>`;
+  $("final").textContent = it.final_text ? "Tekst końcowy artykułu: " + it.final_text : "";
+  $("before").textContent = it.before || "(początek dokumentu)";
+  const words = it.text.split(/(\s+)/);
+  let n = 0, k = 0;
+  for (; k < words.length && n < 100; k++) if (words[k].trim()) n++;
+  $("speech").innerHTML = `<span class="first">${esc(words.slice(0, k).join(""))}</span>${esc(words.slice(k).join(""))}`;
+  $("after").textContent = it.after || "(koniec dokumentu)";
+  $("scan").innerHTML = it.images.map(src => {
+    const p = parseInt(src.match(/page-(\d+)/)[1], 10);
+    return `<figure class="${p === it.page_start ? "start" : ""}" id="pg${p}"><figcaption>strona ${p}${p === it.page_start ? " (początek wypowiedzi)" : ""}</figcaption><img src="img/${src}" alt="skan, strona ${p}"></figure>`;
+  }).join("");
+  $("scan").querySelectorAll("img").forEach(img => img.onclick = () => $("scan").classList.toggle("zoom"));
+  // (the page where the speech starts at the top: again as each image above it loads and takes its height)
+  const start = $("pg" + it.page_start), first = $("scan").firstElementChild;
+  const toStart = () => { if (start) $("scan").scrollTop = start.offsetTop - first.offsetTop; };
+  $("scan").querySelectorAll("img").forEach(img => img.addEventListener("load", toStart));
+  toStart();
+  $("form").innerHTML = QS(it).map(q => `<div class="q" data-key="${q.key}"><div class="label">${q.label}</div><div class="help">${esc(q.help)}</div>
+      <div class="choices">${q.opts.map(([v, t]) => `<button data-v="${v}" class="${a[q.key] === v ? "picked" : ""}">${t}</button>`).join("")}</div>
+      ${q.should ? `<div style="margin-top:6px"><label class="help">${q.shouldLabel} <input type="text" data-should="${q.should}" value="${esc(a[q.should] || "")}"></label></div>` : ""}</div>`).join("")
+    + `<div class="q"><div class="label">7. Tekst</div><div class="help">Ile słów z pierwszych 100 (żółte tło) różni się od skanu? Nie licz przeniesień wyrazów ani znaków interpunkcyjnych. 0, jeśli wszystkie są dobre.</div>
+      <input type="number" id="words" min="0" max="100" value="${a.words_wrong ?? ""}"></div>
+      <div class="q"><div class="label">Uwagi (opcjonalnie)</div><textarea id="note">${esc(a.note || "")}</textarea></div>
+      <nav><button id="prev">← Poprzednia</button><span id="msg"></span><button class="primary" id="save">Zapisz i dalej →</button></nav>`;
+  $("form").querySelectorAll(".choices button").forEach(b => b.onclick = () => {
+    b.parentElement.querySelectorAll("button").forEach(x => x.classList.remove("picked"));
+    b.classList.add("picked");
+  });
+  $("prev").onclick = () => { if (at > 0) { at--; render(); } };
+  $("save").onclick = save;
+}
+
+async function save() {
+  const it = items[at], body = { id: it.id, judge };
+  $("form").querySelectorAll(".q[data-key]").forEach(q => { const p = q.querySelector("button.picked"); if (p) body[q.dataset.key] = p.dataset.v; });
+  $("form").querySelectorAll("input[data-should]").forEach(i => body[i.dataset.should] = i.value);
+  const w = $("words").value.trim();
+  body.words_wrong = w === "" ? null : parseInt(w, 10);
+  body.note = $("note").value;
+  const missing = ["boundaries", "speaker", "delegation", "page", "article", "topic"].filter(k => !body[k]);
+  if (missing.length || body.words_wrong === null || isNaN(body.words_wrong)) {
+    $("msg").className = "bad"; $("msg").textContent = "Brakuje odpowiedzi: " + [...missing.map(k => ({ boundaries: "1", speaker: "2", delegation: "3", page: "4", article: "5", topic: "6" }[k])), ...(body.words_wrong === null || isNaN(body.words_wrong) ? ["7"] : [])].join(", ");
+    return;
+  }
+  const r = await fetch("api/answer", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) });
+  if (!r.ok) { $("msg").className = "bad"; $("msg").textContent = "Nie zapisano: " + await r.text(); return; }
+  ans[it.id] = await r.json();
+  if (at < items.length - 1) at++;
+  render();
+  $("msg").className = "ok"; $("msg").textContent = "Zapisano.";
+  window.scrollTo(0, 0);
+}
+
+$("nextOpen").onclick = () => { const k = items.findIndex(x => !(ans[x.id] || x.saved)); if (k >= 0) { at = k; render(); } };
+$("go").onclick = () => { const v = $("judgeIn").value.trim().toLowerCase(); if (/^[a-z][a-z0-9_-]{1,20}$/.test(v)) location.search = "?judge=" + v; };
+
+if (!/^[a-z][a-z0-9_-]{1,20}$/.test(judge)) {
+  $("start").hidden = false;
+} else {
+  $("top").hidden = false; $("main").hidden = false;
+  fetch("api/items?judge=" + encodeURIComponent(judge)).then(r => r.json()).then(d => {
+    items = d; const k = items.findIndex(i => !i.saved); at = k >= 0 ? k : 0; render();
+  });
+}
+</script>
+</body>
+</html>

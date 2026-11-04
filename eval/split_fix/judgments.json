@@ -1,0 +1,175 @@
+[
+ {
+  "kind": "P",
+  "a": {
+   "e_cn.4_sr.199-0178": {
+    "correct": true,
+    "note": "Short reply disagreeing with the interpretation of Ramadan's amendment to draft article 11, within that article's debate."
+   },
+   "e_cn.4_sr.183-0047": {
+    "correct": true,
+    "note": "Reads the International Council of Nurses' communication on the medical-experimentation text, which ends up in ICCPR 7; somewhat unsure as it is thin."
+   },
+   "e_cn.4_sr.171-0049": {
+    "correct": true,
+    "note": "Accepts the compromise on voting paragraphs 1-2 of draft article 19 (association) and deferring the Uruguayan amendment to paragraph 3."
+   },
+   "e_cn.4_sr.199-0097": {
+    "correct": true,
+    "note": "Drafting change to the French text of paragraph 4 of article 3 (right to life)."
+   },
+   "e_cn.4_sr.233-0014": {
+    "correct": true,
+    "note": "Discusses paragraphs of the general clause (resources, international co-operation, 'to all', 'progressive'), i.e. ICESCR 2."
+   },
+   "e_cn.4_sr.233-0005": {
+    "correct": true,
+    "note": "Position on the competing texts of the general clause and request for separate votes on their parts."
+   },
+   "e_cn.4_sr.300-0042": {
+    "correct": true,
+    "note": "Roll-call request on paragraph 8 of the USSR amendment to the trade-union article."
+   },
+   "e_cn.4_sr.188-0028": {
+    "correct": true,
+    "note": "Defends the Danish amendment on the period of validity of nominations."
+   },
+   "e_cn.4_sr.72-0016": {
+    "correct": true,
+    "note": "On the wording of the umbrella economic-social-rights article and where to put 'social security', which became UDHR 22."
+   },
+   "e_cn.4_sr.199-0091": {
+    "correct": true,
+    "note": "Translation of 'legitime defense' in paragraph 2 of the right-to-life article."
+   },
+   "e_cn.4_sr.199-0095": {
+    "correct": true,
+    "note": "Cassin accepts Nisot's drafting amendment to the right-to-life article."
+   },
+   "e_cn.4_sr.190-0087": {
+    "correct": true,
+    "note": "On the word 'matieres' and 'a State' in draft article 21 (special procedures)."
+   },
+   "e_cn.4_sr.259-0006": {
+    "correct": true,
+    "note": "Argues for including the self-determination article in both covenants under the Chilean draft."
+   },
+   "e_cn.4_sr.323-0028": {
+    "correct": true,
+    "note": "Accepts a grammatical change to the USSR amendment to paragraph 1 of the fair-trial article during the vote."
+   },
+   "e_cn.4_sr.229-0095": {
+    "correct": true,
+    "note": "Asks for a fresh vote on paragraph 9 (education) after Egypt's explanation."
+   },
+   "e_cn.4_sr.183-0021": {
+    "correct": true,
+    "note": "Procedural point on closure covering article 7 and freeing debate on amendments to article 6; both drafts feed ICCPR 7, though it is mainly procedural."
+   },
+   "e_cn.4_sr.234-0008": {
+    "correct": false,
+    "note": "About reopening the general clause/article 1 undertaking, not the limitations article."
+   },
+   "e_cn.4_sr.66-0034": {
+    "correct": true,
+    "note": "Motion for closure of the debate on the equal-pay amendments to the work article; procedural but tied to its text."
+   },
+   "e_cn.4_sr.215-0082": {
+    "correct": true,
+    "note": "Accepts the US amendments to the composition article (no two nationals of the same State)."
+   },
+   "e_cn.4_sr.249-0044": {
+    "correct": true,
+    "note": "Explains the UK amendment to article 38 bis on the Committee's competence where other procedures apply."
+   }
+  },
+  "c": {
+   "e_cn.4_sr.199-0178": {
+    "correct": true,
+    "note": "Reply on Egypt's amendment to the non-retroactivity article (draft 11)."
+   },
+   "e_cn.4_sr.183-0047": {
+    "correct": true,
+    "note": "Nurses' communication on medical experimentation, draft article 7."
+   },
+   "e_cn.4_sr.171-0049": {
+    "correct": true,
+    "note": "Accepts compromise on voting paragraphs 1-2 of the association article (draft 19); moderately sure of the draft number."
+   },
+   "e_cn.4_sr.199-0097": {
+    "correct": true,
+    "note": "Wording of paragraph 4 (pardon/commutation) of the right-to-life article."
+   },
+   "e_cn.4_sr.233-0014": {
+    "correct": true,
+    "note": "Discusses the general clause paragraph on resources and international co-operation."
+   },
+   "e_cn.4_sr.233-0005": {
+    "correct": true,
+    "note": "Positions and separate votes on the amendments to the general clause."
+   },
+   "e_cn.4_sr.300-0042": {
+    "correct": true,
+    "note": "Roll-call on a paragraph of the USSR amendment to the trade-union article."
+   },
+   "e_cn.4_sr.188-0028": {
+    "correct": true,
+    "note": "Validity of nominations to the Committee, Danish amendment."
+   },
+   "e_cn.4_sr.72-0016": {
+    "correct": true,
+    "note": "Wording of the general opening phrase tied to social security."
+   },
+   "e_cn.4_sr.199-0091": {
+    "correct": true,
+    "note": "Translation of legitime defense in the right-to-life paragraph 2."
+   },
+   "e_cn.4_sr.199-0095": {
+    "correct": true,
+    "note": "Accepts a wording amendment to the right-to-life text."
+   },
+   "e_cn.4_sr.190-0087": {
+    "correct": true,
+    "note": "Wording (\"matters\") of the saving clause on other procedures; fairly sure."
+   },
+   "e_cn.4_sr.259-0006": {
+    "correct": true,
+    "note": "Debate on including a self-determination article in the covenants."
+   },
+   "e_cn.4_sr.323-0028": {
+    "correct": true,
+    "note": "Accepts drafting change in paragraph 1 during votes on USSR amendment to fair-trial article."
+   },
+   "e_cn.4_sr.229-0095": {
+    "correct": true,
+    "note": "Asks for a fresh vote on paragraph 9 (education) of the Chilean text."
+   },
+   "e_cn.4_sr.183-0021": {
+    "correct": false,
+    "note": "Procedural point on closure of article 7 debate and freedom to discuss amendments to article 6; unsure."
+   },
+   "e_cn.4_sr.234-0008": {
+    "correct": false,
+    "note": "Opposes reopening the general clause (article 1 of the draft); not about limitations."
+   },
+   "e_cn.4_sr.66-0034": {
+    "correct": true,
+    "note": "Closure motion in the middle of debate on equal pay amendments; weak, unsure."
+   },
+   "e_cn.4_sr.215-0082": {
+    "correct": true,
+    "note": "Accepts US amendments on Committee composition/voting."
+   },
+   "e_cn.4_sr.249-0044": {
+    "correct": true,
+    "note": "UK amendment to the Danish-French text on relation to other procedures."
+   }
+  },
+  "third": {
+   "e_cn.4_sr.183-0021": {
+    "correct": false,
+    "note": "A procedural point on the reach of Kyrou's closure motion: it covered only draft article 7, so the speech mainly argues that the French and Philippine amendments to draft article 6 stay open for debate, which makes it organisation of work aimed at another draft article rather than the wording of article 7 (it would be arguable only if draft 6 also maps to final art. 7)."
+   }
+  }
+ }
+]

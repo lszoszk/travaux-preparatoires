@@ -1,0 +1,895 @@
+[
+{
+"label": "old",
+"i": 0,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_l.1414-0041",
+"detail": "The underlined article heading 'Article 12' (with footnote mark 13/) stands alone on the page but is kind paragraph, not heading."
+},
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_l.1414-0046",
+"detail": "The underlined heading 'Article 13' (footnote mark 14/) is left inside the segment with paragraph 1 of the article instead of being its own heading segment."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_l.1414-0048",
+"detail": "Footnotes 13/ (A/3525, para. 157) and 14/ (A/3764 and Add.1, para. 50) from the foot of the page sit inside the paragraph (a) text; they should be separate footnote segments."
+}
+]
+},
+{
+"label": "old",
+"i": 1,
+"page_ok": false,
+"speeches_on_image": 3,
+"errors": [
+{
+"type": "false_split",
+"segment_id": "e_cn.4_ac.1_3_add.1-2787",
+"detail": "Mrs. Mehta (India)'s observation is split into 3 paragraph segments: the label (2787), the lead-in (2788) and the quotation (2789). They should be one turn."
+},
+{
+"type": "wrong_speaker",
+"segment_id": "e_cn.4_ac.1_3_add.1-2789",
+"detail": "The page credits this quotation to Mrs. Mehta (India), but the segment (and 2788) has speaker and delegation null and kind paragraph."
+},
+{
+"type": "missed_turn",
+"segment_id": "e_cn.4_ac.1_3_add.1-2789",
+"detail": "The label 'Mr. Hodgson (Australia):' that starts the next turn sits at the end of Mehta's segment."
+},
+{
+"type": "missed_turn",
+"segment_id": "e_cn.4_ac.1_3_add.1-2790",
+"detail": "Hodgson's quotation ends with the label 'General Romulo (Philippines):', which starts the next turn. Speaker and delegation are also null (should be Hodgson, Australia)."
+},
+{
+"type": "wrong_speaker",
+"segment_id": "e_cn.4_ac.1_3_add.1-2791",
+"detail": "The image credits this quotation to General Romulo (Philippines); the segment has speaker and delegation null."
+},
+{
+"type": "wrong_kind",
+"segment_id": "e_cn.4_ac.1_3_add.1-2791",
+"detail": "The heading 'SECTION II. DRAFTS OF INTERNATIONAL DECLARATIONS OR PROPOSALS SUBMITTED' sits inside Romulo's quotation segment; only its second line (2792) is a heading."
+},
+{
+"type": "wrong_kind",
+"segment_id": "e_cn.4_ac.1_3_add.1-2793",
+"detail": "The headings 'A. Drafts of International Declaration' and 'Chile' are merged into a paragraph segment with 'No provision'."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "e_cn.4_ac.1_3_add.1-2793",
+"detail": "The three footnotes at the foot of the page (*, **, *** H.R. Com. meeting/page refs) are inside the paragraph, not their own footnote segments."
+}
+]
+},
+{
+"label": "old",
+"i": 2,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "wrong_kind",
+"segment_id": "e_cn.4_365-0326",
+"detail": "Footnote 1/ at the foot of the page ('Articles 24 and 25 should be considered together... Federal States.') is inside the France paragraph's ending instead of its own footnote segment."
+},
+{
+"type": "wrong_kind",
+"segment_id": "e_cn.4_365-0323",
+"detail": "Underlined sub-heading '3. Philippines' is merged into the paragraph text instead of being its own heading segment."
+},
+{
+"type": "wrong_kind",
+"segment_id": "e_cn.4_365-0325",
+"detail": "Underlined sub-heading '4. Netherlands' is merged into the paragraph text instead of being its own heading segment."
+},
+{
+"type": "wrong_kind",
+"segment_id": "e_cn.4_365-0326",
+"detail": "Underlined sub-heading '5. France 1/' is merged into the paragraph text instead of being its own heading segment."
+}
+]
+},
+{
+"label": "old",
+"i": 3,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "wrong_kind",
+"segment_id": "e_cn.4_365-0040",
+"detail": "The heading 'Article 1 1/' at the top of p.13 is not its own segment; it sits at the end of France's p.12 paragraph (OCR 'Artigle, 3^.')."
+},
+{
+"type": "false_split",
+"segment_id": "e_cn.4_365-0046",
+"detail": "The Philippines comment (the concluding words and its reasons 1 and 2) is cut into three segments: 0045, 0046 and 0047."
+},
+{
+"type": "missed_turn",
+"segment_id": "e_cn.4_365-0047",
+"detail": "Segment 0047 holds Philippines reason 2 and then the separate '4. Netherlands' comment, so two governments' comments share one segment."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "e_cn.4_365-0048",
+"detail": "France's comment has the page's footnote '1/ For comments made at the fifth session ... E/1371' inside its text. It then runs on into p.14's Article 2 text, so the footnote is not its own segment."
+}
+]
+},
+{
+"label": "old",
+"i": 4,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_2929-0633",
+"detail": "The opening starts with 'English', from the running header (A/2929 English Page 151). The page text itself starts with 'thought that paragraph 2...'."
+},
+{
+"type": "wrong_kind",
+"segment_id": "a_2929-0633",
+"detail": "The underlined heading 'Obstacles to the free flow of information 54/' is left at the end of the paragraph. It should be its own heading segment."
+},
+{
+"type": "wrong_kind",
+"segment_id": "a_2929-0634",
+"detail": "The underlined heading 'Other proposals 56/' is left at the end of paragraph 137. It should be its own heading segment."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_2929-0635",
+"detail": "Footnote 54/ at the page foot ('E/CN.4/SR.163, 165; E/CN.4/80...') runs into paragraph 138's text. Footnotes 55/ and 56/ are carried in it too, and none of 54/-56/ is its own footnote segment."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_2929-0635",
+"detail": "The ending (page 153) has the header word 'English' and the start of the DOCUMENTATION table ('Organ and session Records of discussion'), which are not part of paragraph 138."
+}
+]
+},
+{
+"label": "old",
+"i": 5,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_l.1062-0070",
+"detail": "Text opens with 'English', from the masthead (A/C.3/L.1062 English Page 13), followed by paragraph 2's text."
+},
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_l.1062-0074",
+"detail": "'Article 10 27/' is an underlined, centred article heading, but it is stored as kind paragraph."
+},
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_l.1062-0078",
+"detail": "The 'Article 11 28/' heading is merged into the paragraph segment with the article text instead of being its own heading segment."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_l.1062-0078",
+"detail": "The foot-of-page footnotes '27/ A/4045, para. 86.' and '28/ A/4C45, para. 91.' are left at the end of the paragraph text instead of being footnote segments."
+}
+]
+},
+{
+"label": "old",
+"i": 6,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_l.1414-0243",
+"detail": "Page shows headings 'Article 47 42/' and 'PART VI 43/' as separate centred headings; the paragraph segment holds the Article 47 text and ends with 'part vriio/' (PART VI heading left inside the paragraph)."
+},
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_l.1414-0247",
+"detail": "Footnotes 42/ ('Formerly article 50 bis') and 43/ ('Former articles 51 to 54 were replaced...') at the page foot are not their own footnote segments; footnote 43/ text sits in the ending of paragraph 0247."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_l.1414-0247",
+"detail": "Ending carries footnote 43/ text and the next page's running header 'A/o.3/L. 141 English Page 39' plus 'Article k9' heading, all inside the paragraph text."
+}
+]
+},
+{
+"label": "old",
+"i": 7,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_l.1414-0052",
+"detail": "The centred, underlined heading 'Article 14 15/' sits inside paragraph 0052. That segment runs on from para. 4 into the Article 14 text. The heading should be its own segment, and Article 14 should start a new paragraph."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_l.1414-0052",
+"detail": "Footnote 15/ at the foot of the page ('A/3764 and Add.1, para. 67, formerly article 15') is left at the end of 0052. It is not a footnote segment of its own."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_l.1414-0052",
+"detail": "0052's ending carries page 9's masthead ('A/C.3/L.1414 English') and the next heading 'Article 15 16/ 1.'. Neither belongs in the Article 14 text."
+}
+]
+},
+{
+"label": "old",
+"i": 8,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "e_cn.4_669-1076",
+"detail": "The page number '70' from the foot of the page opens the segment, ahead of the right column's symbol list 'E/CN.4/L.178 /L.179 ...'."
+},
+{
+"type": "wrong_kind",
+"segment_id": "e_cn.4_669-1052",
+"detail": "The page is a two-column list of documents (symbol, then title), with no headings. Its entries ('France: amendment to article 4', 1055, 1056, 1060, 1064, 1077, 1083 and others) are marked heading."
+},
+{
+"type": "other",
+"segment_id": "e_cn.4_669-1061",
+"detail": "List entries are split and merged at random. The L.166 title runs into the L.167 entry here, 1056/1057 cut the L.162 title and join it to the L.162/Rev.1 'Ditto', and 1097 has 'session of the Commission' as a heading."
+},
+{
+"type": "other_column_or_page_text",
+"segment_id": "e_cn.4_669-1100",
+"detail": "The last entry (L.197, Uruguay and Yugoslavia) runs onto p.71 and takes in the next page's symbol column 'E/CN,4/L.198 ... /L.214'. The symbol columns sit apart from their titles in 1051 and 1076."
+}
+]
+},
+{
+"label": "old",
+"i": 9,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "e_1992-0919",
+"detail": "The page number '49' from the foot of the page sits inside the segment's opening, between the 'Ditto' entries and the right column's symbols."
+},
+{
+"type": "wrong_kind",
+"segment_id": "e_1992-0908",
+"detail": "The page is a two-column list of documents (symbol and title), not a heading. 'France : proposals for the implementation of human rights' is a list entry but is marked heading. The same applies to 0910, 0912, 0914, 0916, 0917, 0918, 0920, 0922 and 0923."
+},
+{
+"type": "false_split",
+"segment_id": "e_1992-0910",
+"detail": "The E/CN.4/628 entry 'United Kingdom : amendments to the first eighteen articles of the draft International Covenant on Human Rights' is cut in two. Its last words went into paragraph 0911, which also holds the next entry (E/CN.4/629)."
+},
+{
+"type": "false_split",
+"segment_id": "e_1992-0912",
+"detail": "The India entry (E/CN.4/630) is split after 'economic, social and'. The leftover 'cultural rights' became its own segment, 0913."
+},
+{
+"type": "false_split",
+"segment_id": "e_1992-0914",
+"detail": "The Egypt entry (E/CN.4/631) is split after 'the Working'. Its rest 'Group on the implementation...' is in 0915, together with the 'Ditto' lines of the next entries."
+},
+{
+"type": "other",
+"segment_id": "e_1992-0907",
+"detail": "The symbol column is cut off from the titles. 0907 lumps the left column's symbols (E/CN.4/627/Add.1 to 635/Add.5) with the first title, and 0919 lumps the 'Ditto' lines with the right column's symbols, so no symbol is paired with its title."
+}
+]
+},
+{
+"label": "old",
+"i": 10,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "e_1992-0840",
+"detail": "Page number '47' from the page foot opens the segment ('47 E/CN.4/570/Rev.1 ...'); it is furniture, not part of the right column's symbol list."
+},
+{
+"type": "wrong_kind",
+"segment_id": "e_1992-0823",
+"detail": "Page is a list of documents (symbol plus title), with no meeting. Entries like 'India : amendments...' are marked heading (also 0824, 0825, 0827, 0829, 0831 and others), while similar entries (0833, 0856) are paragraphs."
+},
+{
+"type": "false_split",
+"segment_id": "e_1992-0835",
+"detail": "Title of E/CN.4/567 'Egypt : amendment ... articles 19 to 41 of the draft Covenant' is cut at the line break: 'the draft Covenant' is a separate segment from 0834."
+},
+{
+"type": "false_split",
+"segment_id": "e_1992-0837",
+"detail": "Title of E/CN.4/568 (China) is cut at the line break: 'by Denmark and France' is split off from 0836."
+},
+{
+"type": "false_split",
+"segment_id": "e_1992-0846",
+"detail": "Title of E/CN.4/573 (Yugoslavia ... International Covenant on Human Rights) is cut: 'Rights' is split off from 0845."
+}
+]
+},
+{
+"label": "old",
+"i": 11,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "wrong_kind",
+"segment_id": "e_1992-0804",
+"detail": "Page is a two-column list of documents (symbol plus title), with no speeches or agenda headings. Titles like 'USSR : draft resolution' (E/CN.4/536) are list entries but are marked as headings."
+},
+{
+"type": "wrong_kind",
+"segment_id": "e_1992-0807",
+"detail": "Same issue in the right column: the titles of E/CN.4/539, 542, 543, 545, 546, 547, 548, 550, 551 and 553 (segments 0807, 0809, 0810, 0812, 0814-0816, 0818, 0819, 0821) are document-list entries marked as headings."
+},
+{
+"type": "false_split",
+"segment_id": "e_1992-0805",
+"detail": "The title of E/CN.4/537 ('...draft articles for inclusion in the draft International Covenant on Human Rights') is cut. Segment 0805 ends at 'draft International', and 'Covenant on Human Rights' opens segment 0806."
+}
+]
+},
+{
+"label": "old",
+"i": 12,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "e_cn.4_669-0900",
+"detail": "The page number '67' at the foot of the page is left in the text of the Belgian amendment entry: '(E/CN.4/L.32) 67:'."
+},
+{
+"type": "wrong_kind",
+"segment_id": "e_cn.4_669-0876",
+"detail": "The page is an annex listing documents, with no speaker turns. Its entries (Yugoslavia, Egypt, India, Chile...) are marked as headings. Each entry's wrapped continuation lines are split off as separate 'paragraph' segments."
+},
+{
+"type": "other",
+"segment_id": "e_cn.4_669-0919",
+"detail": "/L.45-/L.52 are USSR amendments to articles 20-30, each with its own number. Here they are run into the US /L.44 entry with the line ending 'Republics:' dropped, and five stray 'Republics :' segments (0927-0931) sit after the Egypt /L.56 entry."
+},
+{
+"type": "other",
+"segment_id": "e_cn.4_669-0890",
+"detail": "The tail of the Belgian /L.29 entry and the separate Lebanon /L.30 entry are merged into one segment. 0924 likewise merges a 'Ditto' with the France /L.55 entry."
+}
+]
+},
+{
+"label": "old",
+"i": 13,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "wrong_kind",
+"segment_id": "e_cn.4_669-0934",
+"detail": "Page is a list of documents (E/CN.4/L.58 to L.103, symbol plus title). Titles such as 'Yugoslavia: amendment to article 20' (0934 and about 40 more, through 0999) are list entries, not agenda or article headings, but are typed heading."
+},
+{
+"type": "other_column_or_page_text",
+"segment_id": "e_cn.4_669-0968",
+"detail": "Image: L.81 reads 'United States of America: amendment to article 30'. The segment adds 'amendment to the revised', which belongs to L.70 in the left column ('France: amendment to the revised amendment to article 19'). Segment 0950 lacks these words."
+}
+]
+},
+{
+"label": "old",
+"i": 14,
+"page_ok": true,
+"speeches_on_image": 0,
+"errors": []
+},
+{
+"label": "old",
+"i": 15,
+"page_ok": true,
+"speeches_on_image": 0,
+"errors": []
+},
+{
+"label": "old",
+"i": 16,
+"page_ok": true,
+"speeches_on_image": 0,
+"errors": []
+},
+{
+"label": "old",
+"i": 17,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "e_ac.7_12-0007",
+"detail": "Page is a draft resolution text (e), B, (a); no speeches. Segment opening begins with archive stamp 'UNITED NATIONS ARCHIVES' (page furniture, from the foot of page 1) before '(e) that the Council consider...'."
+}
+]
+},
+{
+"label": "old",
+"i": 18,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "wrong_kind",
+"segment_id": "e_cn.4_sub.2_16-0003",
+"detail": "Heading '1. Introduction' is printed as its own centred line on the page, but it sits at the start of paragraph segment 0003 instead of being a heading segment."
+},
+{
+"type": "wrong_kind",
+"segment_id": "e_cn.4_sub.2_16-0003",
+"detail": "Heading 'II. Definition' in mid-page has no segment of its own. Segment 0003 runs unbroken over pages 1-4, so the heading is inside the paragraph text."
+},
+{
+"type": "other",
+"segment_id": "e_cn.4_sub.2_16-0003",
+"detail": "This page has four separate paragraphs (two introductory ones, definition 1) and 'A minority shall be eligible'). All of them are in one segment that spans pages 1-4 and ends at the heading 'F. Language.'"
+}
+]
+},
+{
+"label": "old",
+"i": 19,
+"page_ok": true,
+"speeches_on_image": 0,
+"errors": []
+},
+{
+"label": "new",
+"i": 0,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_l.1414-0049",
+"detail": "Opening carries the page-7 header debris 'dey ee oo _ . ny, English' (from 'A/C.3/L.1414 English Page 7') before item (b)."
+},
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_l.1414-0050",
+"detail": "Underlined centred heading 'Article 12' (with footnote mark 13/) is stored as kind paragraph, not heading."
+},
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_l.1414-0055",
+"detail": "Heading 'Article 13' (with footnote mark 14/; OCR reads it as 'Article 1514/') sits inside the paragraph 1 text. It is not its own heading segment."
+}
+]
+},
+{
+"label": "new",
+"i": 1,
+"page_ok": false,
+"speeches_on_image": 3,
+"errors": [
+{
+"type": "missed_turn",
+"segment_id": "e_cn.4_ac.1_3_add.1-2826",
+"detail": "Mehta's quoted statement segment ends with the next speaker's label 'Mr. Hodgson (Australia):', which begins Hodgson's separate entry."
+},
+{
+"type": "missed_turn",
+"segment_id": "e_cn.4_ac.1_3_add.1-2827",
+"detail": "Hodgson's quote segment ends with 'General Romulo (Philippines):', the label of the next delegate's entry."
+},
+{
+"type": "wrong_kind",
+"segment_id": "e_cn.4_ac.1_3_add.1-2828",
+"detail": "Romulo's quote segment contains the heading 'SECTION II. DRAFTS OF INTERNATIONAL DECLARATIONS OR PROPOSALS SUBMITTED'; its second line is a separate heading 2829, so the heading is split across two segments."
+},
+{
+"type": "wrong_speaker",
+"segment_id": "e_cn.4_ac.1_3_add.1-2826",
+"detail": "Delegates' statements (Mehta India, Hodgson Australia, Romulo Philippines) are kind paragraph with no speaker/delegation; the label 'Mrs. Mehta (India):' is a separate paragraph 2824 apart from her text 2825/2826."
+},
+{
+"type": "wrong_kind",
+"segment_id": "e_cn.4_ac.1_3_add.1-2830",
+"detail": "Underlined headings 'A. Drafts of International Declaration' and 'Chile' merged with the text 'No provision' in one paragraph segment."
+},
+{
+"type": "other",
+"segment_id": "e_cn.4_ac.1_3_add.1-2832",
+"detail": "Footnotes ** (2nd meeting page 42) and *** (9th meeting page 13-20) merged into one footnote segment."
+}
+]
+},
+{
+"label": "new",
+"i": 2,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "false_split",
+"segment_id": "e_cn.4_365-0347",
+"detail": "Footnote 1/ runs over three lines on the image. The database stores its first line as a footnote (0346), and its second and third lines ('Unions of States ... Federal States.') as a separate segment of kind paragraph."
+}
+]
+},
+{
+"label": "new",
+"i": 3,
+"page_ok": false,
+"speeches_on_image": 5,
+"errors": [
+{
+"type": "missed_turn",
+"segment_id": "e_cn.4_365-0047",
+"detail": "Segment holds Philippines' reason 2 and then '4. Netherlands It is proposed that this article be deleted...'; the Netherlands comment is a separate country entry and should be its own segment."
+},
+{
+"type": "wrong_kind",
+"segment_id": "e_cn.4_365-0040",
+"detail": "The centred heading 'Article 1' (with footnote mark) at the top of p.13 is left at the end of the previous page's France paragraph ('Artigle, 3^.') instead of being its own heading segment."
+},
+{
+"type": "wrong_kind",
+"segment_id": "e_cn.4_365-0044",
+"detail": "'3. Philippines' is a bare country label made a separate paragraph, cut off from its comment (0045); for United States and United Kingdom the label opens the comment segment instead."
+}
+]
+},
+{
+"label": "new",
+"i": 4,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_2929-0762",
+"detail": "Opening begins with 'English', the running header (A/2929 English Page 151), before 'thought that paragraph 2...'."
+},
+{
+"type": "wrong_kind",
+"segment_id": "a_2929-0762",
+"detail": "Underlined heading 'Obstacles to the free flow of information 54/' is left at the end of the paragraph instead of its own heading segment."
+},
+{
+"type": "wrong_kind",
+"segment_id": "a_2929-0763",
+"detail": "Underlined heading 'Other proposals 56/' is left at the end of paragraph 137 instead of its own heading segment."
+},
+{
+"type": "wrong_kind",
+"segment_id": "a_2929-0766",
+"detail": "Footnote 55/ at the foot of the page ('The question of balance of payment...A/AC.42/7') is marked paragraph, not footnote."
+}
+]
+},
+{
+"label": "new",
+"i": 5,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_l.1062-0095",
+"detail": "Paragraph 2 text opens with 'English', the language line of the page header (A/C.3/L.1062 / English / Page 13); the paragraph number '2.' is lost."
+},
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_l.1062-0099",
+"detail": "'Article 10' (with footnote mark 27/) is an underlined, centred article heading but has kind paragraph."
+},
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_l.1062-0103",
+"detail": "The centred heading 'Article 11' (footnote mark 28/) is merged into the paragraph 'No one shall be imprisoned...'. It should be its own heading segment."
+}
+]
+},
+{
+"label": "new",
+"i": 6,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_l.1414-0308",
+"detail": "Opening carries page 37's footnotes ('Formerly article 43 ter', 'Formerly article 50') and page 38's masthead 'English' ahead of the article 47 text."
+},
+{
+"type": "text_missing",
+"segment_id": "a_c.3_l.1414-0308",
+"detail": "The heading 'Article 47 42/' at the top of page 38 has no segment of its own. The segment's opening goes straight from the masthead to 'Nothing in this Covenant'."
+},
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_l.1414-0308",
+"detail": "The heading 'PART VI 43/' is left at the end of the paragraph ('part vriio/') instead of standing as its own heading."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_l.1414-0312",
+"detail": "Footnote 42 ('Formerly article 50 bis.') at the foot of the page is left at the end of the paragraph and has no footnote segment of its own."
+},
+{
+"type": "false_split",
+"segment_id": "a_c.3_l.1414-0314",
+"detail": "Footnote 43 is cut after its first line. Its other two lines ('identical, except for ... Cultural Rights.') are a separate segment of kind paragraph instead of staying in footnote 0313."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_l.1414-0314",
+"detail": "Ending includes page 39's masthead ('A/C.3/L.1414 English Page 39') and the heading 'Article 49' from the next page."
+}
+]
+},
+{
+"label": "new",
+"i": 7,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_l.1414-0064",
+"detail": "The underlined heading 'Article 14 15/' and the article's text ('Each State Party ... free of charge for all.') sit inside the paragraph 4 segment. The heading should be its own heading segment, and the article text should be separate."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_l.1414-0060",
+"detail": "The opening keeps the running header word 'English' ('English (bo) Secondary education...'). Paragraphs (b) and (c) are also run together in one segment."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_l.1414-0066",
+"detail": "The segment is the '/...' catchword plus the next page's header 'A/C.3/L.1414 English' and the heading 'Article 15 16/', all stored as a paragraph. It should be a heading without the furniture."
+}
+]
+},
+{
+"label": "new",
+"i": 8,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "e_cn.4_669-1076",
+"detail": "The page number '70' at the foot of the page opens the segment: '70 E/CN.4/L.178 /L.179 ...'."
+},
+{
+"type": "wrong_kind",
+"segment_id": "e_cn.4_669-1097",
+"detail": "The page is a two-column list of documents (symbol and description), not a debate. The entries are marked 'heading', e.g. 'session of the Commission: suggestions by the Chairman', which is the middle of the L.194 entry."
+},
+{
+"type": "other",
+"segment_id": "e_cn.4_669-1061",
+"detail": "The list is cut at random points. Symbol columns are lumped into single segments (1051, 1076, 1100), and entries are merged or split across segments: 1061 joins L.166 and L.167, and the L.168 entry is split between 1062 and 1063."
+}
+]
+},
+{
+"label": "new",
+"i": 9,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "Page is a two-column list of documents. Left column symbols E/CN.4/622 to E/CN.4/627 are in no segment; the first segment opens at E/CN.4/627/Add.1. Their titles survive in e_1992-0986 to 0989."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "e_1992-1008",
+"detail": "The page number '49' at the foot of the page is stored as its own paragraph segment instead of being dropped."
+},
+{
+"type": "other",
+"segment_id": "e_1992-0983",
+"detail": "The table is split by column: symbols (0983, 1009, 1011-1014) are separate from their titles (0986-1021), so no row pairs a symbol with its title. Several titles are merged together, e.g. 0987, 1017, 1019."
+}
+]
+},
+{
+"label": "new",
+"i": 10,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "e_1992-0913",
+"detail": "The page number '47' from the page foot is left at the end of the Lebanon E/CN.4/570 entry ('...cultural rights 47')."
+},
+{
+"type": "text_missing",
+"segment_id": "e_1992-0888",
+"detail": "The left symbol column begins E/CN.4/554, 555, 556, 557, 558, 558/Rev.1. The first symbol segment starts at '5590 E/CN.4/559/Rev.1', so symbols 554 to 558/Rev.1 are in no segment."
+},
+{
+"type": "other",
+"segment_id": "e_1992-0891",
+"detail": "Two list entries are merged into one segment: E/CN.4/554 (Rome Convention text) and E/CN.4/555 (Measures of implementation, Note by the Secretary-General)."
+},
+{
+"type": "other",
+"segment_id": "e_1992-0922",
+"detail": "Two entries are merged: E/CN.4/575 (Chile: amendment to the proposal of France) and E/CN.4/576 (Proposals and suggestions for an article on the right to work)."
+},
+{
+"type": "other",
+"segment_id": "e_1992-0931",
+"detail": "Two entries are merged: E/CN.4/583 (USSR amendments to the Danish proposal) and E/CN.4/584 (Election of the members of the Human Rights Committee by the ICJ)."
+}
+]
+},
+{
+"label": "new",
+"i": 11,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "other",
+"segment_id": "e_1992-0855",
+"detail": "Document list page (no speeches). One entry, E/CN.4/531 'Memorandum by the Secretary-General on Human Rights Day: second anniversary celebrations', is cut into two segments, 0855 and 0856."
+},
+{
+"type": "other",
+"segment_id": "e_1992-0851",
+"detail": "Several list entries are merged into one segment: E/CN.4/524 (Rome Convention), 525 (Resolutions...) and 527 (Texts of proposals...), and possibly 526 between them. Separately, 0875 merges the Australia entry (543) with both WHO entries (544, 544/Add.1)."
+}
+]
+},
+{
+"label": "new",
+"i": 12,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "e_cn.4_669-0900",
+"detail": "Page is a two-column list of documents (no speeches). The page number '67' at the foot is left in the segment text '(E/CN.4/L.32) 67:'."
+},
+{
+"type": "wrong_kind",
+"segment_id": "e_cn.4_669-0875",
+"detail": "The section heading '2. Documents issued in the limited series' sits inside a paragraph, together with the column of symbols and the L.20/L.21 entries. It is not a segment of its own."
+},
+{
+"type": "wrong_kind",
+"segment_id": "e_cn.4_669-0876",
+"detail": "Ordinary list entries (e.g. Yugoslavia L.22, Chile L.24, India L.25, Greece L.33, China L.57) are marked kind heading. They are document descriptions, not headings."
+},
+{
+"type": "other",
+"segment_id": "e_cn.4_669-0885",
+"detail": "Entries are cut mid-sentence into a 'heading' plus a 'paragraph' (Poland L.27 'submitted by the' / 0886 'Soviet Union (E/CN.4/L.21)'). The same happens in 0891/0892, 0902/0903, 0912/0913, 0916/0917 and others."
+},
+{
+"type": "other",
+"segment_id": "e_cn.4_669-0927",
+"detail": "Five bare 'Republics :' fragments (0927-0931) are torn from the USSR entries L.45-L.52, while those entries' text sits in 0919 without the word. Entry text is scrambled across segments."
+},
+{
+"type": "other",
+"segment_id": "e_cn.4_669-0890",
+"detail": "The tail of Belgium L.29 ('to the draft resolution submitted by the Soviet Union') is merged with the next entry, Lebanon L.30, in one segment. Likewise 0924 joins 'Ditto' with France L.55 and 0919 joins the end of US L.44 with the USSR entries."
+}
+]
+},
+{
+"label": "new",
+"i": 13,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "wrong_kind",
+"segment_id": "e_cn.4_669-0934",
+"detail": "The page is an annex list of documents (E/CN.4/L.58 to L.103 with their titles), not debate. About 35 list entries such as 'Yugoslavia: amendment to article 20' (0934 to 0999) are marked heading and look like article headings. They should be list paragraphs."
+},
+{
+"type": "other",
+"segment_id": "e_cn.4_669-0968",
+"detail": "The column text is out of order. 0968 adds 'amendment to the revised' (from the L.70 entry) to the L.81 title, and 0950 gives L.70 as 'France: amendment to article 19' without those words. Symbols and titles are in separate segments (0933, 0969)."
+}
+]
+},
+{
+"label": "new",
+"i": 14,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "wrong_kind",
+"segment_id": "e_cn.4_82_add.9-0003",
+"detail": "The letter paragraph runs on to page 2 and takes in the heading 'General Comments' (the catchword '/General' on this page). The ending shows 'ral Comments There are three General Comments...', so the heading sits inside the paragraph instead of being its own segment."
+}
+]
+},
+{
+"label": "new",
+"i": 15,
+"page_ok": true,
+"speeches_on_image": 0,
+"errors": []
+},
+{
+"label": "new",
+"i": 16,
+"page_ok": true,
+"speeches_on_image": 0,
+"errors": []
+},
+{
+"label": "new",
+"i": 17,
+"page_ok": true,
+"speeches_on_image": 0,
+"errors": []
+},
+{
+"label": "new",
+"i": 18,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "wrong_kind",
+"segment_id": "e_cn.4_sub.2_16-0003",
+"detail": "The section headings '1. Introduction' and 'II. Definition' sit inside paragraph segment 0003. It runs pp. 1-4 as one block and ends with 'F. Language.', a heading too. They should be heading segments."
+},
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "The underlined title 'PREVENTION OF DISCRIMINATION AND PROTECTION OF MINORITIES' under the AFL line is in neither listed segment. 0002 holds only the Secretariat line; 0003 starts at '1. Introduction'."
+}
+]
+},
+{
+"label": "new",
+"i": 19,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "text_missing",
+"segment_id": "pc_ex_113_rev.1-0005",
+"detail": "The page has the heading 'ERRATUM' between the masthead and 'On page 24...'; the segment's text jumps from 'UNITED NATIONS' to 'On page 24', and no segment has the heading."
+}
+]
+}
+]

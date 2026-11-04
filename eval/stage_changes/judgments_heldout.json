@@ -1,0 +1,908 @@
+{
+ "rule": "pilot's rule (eval/collation_pilot/judgments.json): real only if the reported change is the stages' genuine wording and correctly reported; a real change carrying a stray number, catchword or duplicate counts as noise ('contaminated' marks those)",
+ "articles": {
+  "3": {
+   "real": 9,
+   "noise": 3,
+   "artifact": 0,
+   "changes": 12,
+   "judged": [
+    {
+     "n": "secretariat_outline>cassin_draft#1",
+     "kind": "replaced",
+     "old": "tout individu a droit la vie ce droit ne peut tre refus qu'aux personnes qui ont t condamn es conform ment la loi pour un crime passible de la peine de mort tout individu a droit la libert personnelle",
+     "new": "every one has the right to life to personal liberty and to personal security",
+     "verdict": "noise",
+     "why": "the Secretariat outline's text here is the French version",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_1>e_cn4_57#1",
+     "kind": "replaced",
+     "old": "every one",
+     "new": "everyone",
+     "verdict": "real",
+     "why": "every one > everyone",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_1>e_cn4_57#2",
+     "kind": "dropped",
+     "old": "personal",
+     "new": "",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_1>e_cn4_57#3",
+     "kind": "dropped",
+     "old": "to personal",
+     "new": "",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_1>e_cn4_57#4",
+     "kind": "added",
+     "old": "",
+     "new": "of person",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "e_cn4_57>geneva_draft#1",
+     "kind": "replaced",
+     "old": "everyone",
+     "new": "every one",
+     "verdict": "real",
+     "why": "everyone > every one",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_2>chr_3#1",
+     "kind": "replaced",
+     "old": "every one",
+     "new": "everyone",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_2>chr_3#2",
+     "kind": "dropped",
+     "old": "to",
+     "new": "",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "chr_3>a777#1",
+     "kind": "added",
+     "old": "",
+     "new": "4",
+     "verdict": "noise",
+     "why": "article number 4",
+     "contaminated": false
+    },
+    {
+     "n": "chr_3>a777#2",
+     "kind": "added",
+     "old": "",
+     "new": "the",
+     "verdict": "real",
+     "why": "A/777 prints 'the security of person' (all engines)",
+     "contaminated": false
+    },
+    {
+     "n": "a777>final#1",
+     "kind": "dropped",
+     "old": "4",
+     "new": "",
+     "verdict": "noise",
+     "why": "article number 4",
+     "contaminated": false
+    },
+    {
+     "n": "a777>final#2",
+     "kind": "dropped",
+     "old": "the",
+     "new": "",
+     "verdict": "real",
+     "why": "the plenary drops 'the'",
+     "contaminated": false
+    }
+   ]
+  },
+  "12": {
+   "real": 24,
+   "noise": 6,
+   "artifact": 5,
+   "changes": 35,
+   "judged": [
+    {
+     "n": "secretariat_outline>cassin_draft#1",
+     "kind": "replaced",
+     "old": "no one shall be subjected to arbitrary searches or seizures or to unreasonable interference with his person",
+     "new": "12 the inviolability of privacy",
+     "verdict": "noise",
+     "why": "real rewrite, but carries the article number 12",
+     "contaminated": true
+    },
+    {
+     "n": "secretariat_outline>cassin_draft#2",
+     "kind": "replaced",
+     "old": "family relations",
+     "new": "correspondence and",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "secretariat_outline>cassin_draft#3",
+     "kind": "replaced",
+     "old": "privacy activities or personal property the secrecy of correspondence shall be respected",
+     "new": "are inviolable and protected by law",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "cassin_draft>drafting_committee_1#1",
+     "kind": "dropped",
+     "old": "12",
+     "new": "",
+     "verdict": "noise",
+     "why": "article number 12",
+     "contaminated": false
+    },
+    {
+     "n": "cassin_draft>drafting_committee_1#2",
+     "kind": "replaced",
+     "old": "inviolability",
+     "new": "privacy",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "cassin_draft>drafting_committee_1#3",
+     "kind": "replaced",
+     "old": "privacy",
+     "new": "the",
+     "verdict": "artifact",
+     "why": "'privacy > the': pairs unrelated words",
+     "contaminated": false
+    },
+    {
+     "n": "cassin_draft>drafting_committee_1#4",
+     "kind": "added",
+     "old": "",
+     "new": "and of",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "cassin_draft>drafting_committee_1#5",
+     "kind": "added",
+     "old": "",
+     "new": "respect for",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "cassin_draft>drafting_committee_1#6",
+     "kind": "replaced",
+     "old": "are inviolable and",
+     "new": "shall be",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_1>e_cn4_57#1",
+     "kind": "replaced",
+     "old": "the",
+     "new": "everyone shall be entitled to protection under law from unreasonable interference with his reputation his",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_1>e_cn4_57#2",
+     "kind": "replaced",
+     "old": "of the",
+     "new": "and his family his",
+     "verdict": "real",
+     "why": "family added",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_1>e_cn4_57#3",
+     "kind": "dropped",
+     "old": "of",
+     "new": "",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_1>e_cn4_57#4",
+     "kind": "dropped",
+     "old": "and respect for reputation",
+     "new": "",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_1>e_cn4_57#5",
+     "kind": "replaced",
+     "old": "protected by law",
+     "new": "inviolable",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "e_cn4_57>geneva_draft#1",
+     "kind": "replaced",
+     "old": "everyone",
+     "new": "9 every one",
+     "verdict": "noise",
+     "why": "article number 9",
+     "contaminated": false
+    },
+    {
+     "n": "geneva_draft>drafting_committee_2#1",
+     "kind": "dropped",
+     "old": "9",
+     "new": "",
+     "verdict": "noise",
+     "why": "article number 9",
+     "contaminated": false
+    },
+    {
+     "n": "geneva_draft>drafting_committee_2#2",
+     "kind": "replaced",
+     "old": "shall be",
+     "new": "is",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "geneva_draft>drafting_committee_2#3",
+     "kind": "added",
+     "old": "",
+     "new": "the",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "geneva_draft>drafting_committee_2#4",
+     "kind": "dropped",
+     "old": "his",
+     "new": "",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "geneva_draft>drafting_committee_2#5",
+     "kind": "dropped",
+     "old": "his privacy and his",
+     "new": "",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "geneva_draft>drafting_committee_2#6",
+     "kind": "dropped",
+     "old": "his",
+     "new": "",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "geneva_draft>drafting_committee_2#7",
+     "kind": "replaced",
+     "old": "and",
+     "new": "or",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "geneva_draft>drafting_committee_2#8",
+     "kind": "dropped",
+     "old": "shall be inviolable",
+     "new": "",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_2>chr_3#1",
+     "kind": "replaced",
+     "old": "every",
+     "new": "no",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_2>chr_3#2",
+     "kind": "replaced",
+     "old": "is entitled",
+     "new": "shall be subjected",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_2>chr_3#3",
+     "kind": "dropped",
+     "old": "protection under the law from",
+     "new": "",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_2>chr_3#4",
+     "kind": "replaced",
+     "old": "reputation",
+     "new": "his privacy",
+     "verdict": "artifact",
+     "why": "reputation moved to the end, shown as replaced by 'his privacy'",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_2>chr_3#5",
+     "kind": "added",
+     "old": "",
+     "new": "correspondence",
+     "verdict": "artifact",
+     "why": "move shown as add",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_2>chr_3#6",
+     "kind": "replaced",
+     "old": "correspondence",
+     "new": "reputation",
+     "verdict": "artifact",
+     "why": "move shown as replacement",
+     "contaminated": false
+    },
+    {
+     "n": "chr_3>a777#1",
+     "kind": "added",
+     "old": "",
+     "new": "13",
+     "verdict": "noise",
+     "why": "article number 13",
+     "contaminated": false
+    },
+    {
+     "n": "chr_3>a777#2",
+     "kind": "replaced",
+     "old": "unreasonable",
+     "new": "arbitrary",
+     "verdict": "real",
+     "why": "unreasonable > arbitrary",
+     "contaminated": false
+    },
+    {
+     "n": "chr_3>a777#3",
+     "kind": "added",
+     "old": "",
+     "new": "or",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "chr_3>a777#4",
+     "kind": "added",
+     "old": "",
+     "new": "nor to attacks upon his honour and reputation everyone has the right to the protection of the law against such interference",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "chr_3>a777#5",
+     "kind": "replaced",
+     "old": "reputation",
+     "new": "attacks",
+     "verdict": "artifact",
+     "why": "reputation moved into 'honour and reputation'",
+     "contaminated": false
+    },
+    {
+     "n": "a777>final#1",
+     "kind": "dropped",
+     "old": "13",
+     "new": "",
+     "verdict": "noise",
+     "why": "article number 13",
+     "contaminated": false
+    }
+   ]
+  },
+  "17": {
+   "real": 19,
+   "noise": 7,
+   "artifact": 0,
+   "changes": 26,
+   "judged": [
+    {
+     "n": "secretariat_outline>cassin_draft#1",
+     "kind": "replaced",
+     "old": "22",
+     "new": "character article 17",
+     "verdict": "noise",
+     "why": "article number 22 and the previous article's last word",
+     "contaminated": false
+    },
+    {
+     "n": "secretariat_outline>cassin_draft#2",
+     "kind": "dropped",
+     "old": "his right to share in the ownership of industrial commercial and other profit-making enterprises is governed by the law of the state within which such enterprises are situated the state may regulate the acquisition and use of private property and determine those things that are susceptible of private appropriation",
+     "new": "",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "secretariat_outline>cassin_draft#3",
+     "kind": "replaced",
+     "old": "without",
+     "new": "except for public welfare and with",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "secretariat_outline>cassin_draft#4",
+     "kind": "added",
+     "old": "",
+     "new": "the state the state may determine those things rights and enterprises that are susceptible of private appropriation and regulate the acquisition and use of such property",
+     "verdict": "noise",
+     "why": "real addition, with the catchword '/The State The State'",
+     "contaminated": true
+    },
+    {
+     "n": "cassin_draft>drafting_committee_1#1",
+     "kind": "dropped",
+     "old": "character article 17 every",
+     "new": "",
+     "verdict": "noise",
+     "why": "spill from the previous article",
+     "contaminated": false
+    },
+    {
+     "n": "cassin_draft>drafting_committee_1#2",
+     "kind": "dropped",
+     "old": "the state",
+     "new": "",
+     "verdict": "noise",
+     "why": "catchword duplicate",
+     "contaminated": false
+    },
+    {
+     "n": "cassin_draft>drafting_committee_1#3",
+     "kind": "added",
+     "old": "",
+     "new": "are susceptible",
+     "verdict": "noise",
+     "why": "duplicate in E/CN.4/21's text",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_1>e_cn4_57#1",
+     "kind": "replaced",
+     "old": "one",
+     "new": "everyone",
+     "verdict": "noise",
+     "why": "E/CN.4/21's text lost 'Every' at the cut",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_1>e_cn4_57#2",
+     "kind": "replaced",
+     "old": "a",
+     "new": "the",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_1>e_cn4_57#3",
+     "kind": "dropped",
+     "old": "personal",
+     "new": "",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_1>e_cn4_57#4",
+     "kind": "added",
+     "old": "",
+     "new": "in conformity with the laws of the state in which such property is located",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_1>e_cn4_57#5",
+     "kind": "added",
+     "old": "",
+     "new": "arbitrarily",
+     "verdict": "real",
+     "why": "arbitrarily added",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_1>e_cn4_57#6",
+     "kind": "dropped",
+     "old": "except for public welfare and with just compensation the state may determine those things rights and enterprises that are susceptible are susceptible of private appropriation and regulate the acquisition and use of such property",
+     "new": "",
+     "verdict": "noise",
+     "why": "real drop, with E/CN.4/21's duplicated words",
+     "contaminated": true
+    },
+    {
+     "n": "e_cn4_57>geneva_draft#1",
+     "kind": "replaced",
+     "old": "everyone",
+     "new": "every one",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "geneva_draft>drafting_committee_2#1",
+     "kind": "added",
+     "old": "",
+     "new": "such",
+     "verdict": "real",
+     "why": "E/CN.4/95 art. 14 checked on the vision reader's page",
+     "contaminated": false
+    },
+    {
+     "n": "geneva_draft>drafting_committee_2#2",
+     "kind": "replaced",
+     "old": "in conformity with",
+     "new": "as meets",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "geneva_draft>drafting_committee_2#3",
+     "kind": "replaced",
+     "old": "laws",
+     "new": "essential needs of decent living that helps to maintain the dignity",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "geneva_draft>drafting_committee_2#4",
+     "kind": "replaced",
+     "old": "state in which such property is located no one",
+     "new": "individual and of the home and",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "geneva_draft>drafting_committee_2#5",
+     "kind": "added",
+     "old": "",
+     "new": "not",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "geneva_draft>drafting_committee_2#6",
+     "kind": "replaced",
+     "old": "his property",
+     "new": "it",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_2>chr_3#1",
+     "kind": "replaced",
+     "old": "every one",
+     "new": "everyone",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_2>chr_3#2",
+     "kind": "dropped",
+     "old": "such",
+     "new": "",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_2>chr_3#3",
+     "kind": "added",
+     "old": "",
+     "new": "alone",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_2>chr_3#4",
+     "kind": "replaced",
+     "old": "meets the essential needs of decent living that helps to maintain the dignity of the individual and of the home and",
+     "new": "well as in association with others no one",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_2>chr_3#5",
+     "kind": "dropped",
+     "old": "not",
+     "new": "",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_2>chr_3#6",
+     "kind": "replaced",
+     "old": "it",
+     "new": "his property",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    }
+   ]
+  },
+  "20": {
+   "real": 13,
+   "noise": 4,
+   "artifact": 6,
+   "changes": 23,
+   "judged": [
+    {
+     "n": "secretariat_outline>cassin_draft#1",
+     "kind": "replaced",
+     "old": "20 there",
+     "new": "and of association for political religious cultural scientific professional and other purposes compatible with this declaration no restriction",
+     "verdict": "noise",
+     "why": "article number 20",
+     "contaminated": false
+    },
+    {
+     "n": "secretariat_outline>cassin_draft#2",
+     "kind": "replaced",
+     "old": "freedom to form associations",
+     "new": "placed placed on the exercise of this right except",
+     "verdict": "artifact",
+     "why": "unrelated words paired; catchword 'placed placed'",
+     "contaminated": false
+    },
+    {
+     "n": "secretariat_outline>cassin_draft#3",
+     "kind": "replaced",
+     "old": "purposes not inconsistent with this bill",
+     "new": "the protection",
+     "verdict": "artifact",
+     "why": "unrelated words paired",
+     "contaminated": false
+    },
+    {
+     "n": "secretariat_outline>cassin_draft#4",
+     "kind": "replaced",
+     "old": "rights",
+     "new": "public order",
+     "verdict": "artifact",
+     "why": "unrelated words paired",
+     "contaminated": false
+    },
+    {
+     "n": "cassin_draft>drafting_committee_1#1",
+     "kind": "dropped",
+     "old": "compatible with this declaration no restriction shall be placed placed on the exercise of this right except for the protection of public order",
+     "new": "",
+     "verdict": "noise",
+     "why": "real drop, with the catchword 'placed placed'",
+     "contaminated": true
+    },
+    {
+     "n": "drafting_committee_1>e_cn4_57#1",
+     "kind": "replaced",
+     "old": "there shall be",
+     "new": "everyone has the right to",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_1>e_cn4_57#2",
+     "kind": "added",
+     "old": "",
+     "new": "to participate in local national and international associations for purposes",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_1>e_cn4_57#3",
+     "kind": "replaced",
+     "old": "association for",
+     "new": "a",
+     "verdict": "artifact",
+     "why": "'association for > a'",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_1>e_cn4_57#4",
+     "kind": "added",
+     "old": "",
+     "new": "economic",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_1>e_cn4_57#5",
+     "kind": "added",
+     "old": "",
+     "new": "social",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_1>e_cn4_57#6",
+     "kind": "replaced",
+     "old": "scientific professional and",
+     "new": "trade union or any",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_1>e_cn4_57#7",
+     "kind": "replaced",
+     "old": "purposes",
+     "new": "character not inconsistent with this declaration",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "e_cn4_57>geneva_draft#1",
+     "kind": "replaced",
+     "old": "everyone",
+     "new": "every one",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "geneva_draft>drafting_committee_2#1",
+     "kind": "added",
+     "old": "",
+     "new": "19",
+     "verdict": "noise",
+     "why": "article number 19",
+     "contaminated": false
+    },
+    {
+     "n": "geneva_draft>drafting_committee_2#2",
+     "kind": "added",
+     "old": "",
+     "new": "international",
+     "verdict": "artifact",
+     "why": "'international' was there already",
+     "contaminated": false
+    },
+    {
+     "n": "geneva_draft>drafting_committee_2#3",
+     "kind": "replaced",
+     "old": "international",
+     "new": "trade union",
+     "verdict": "artifact",
+     "why": "'and trade union' added, shown as replacing 'international'",
+     "contaminated": false
+    },
+    {
+     "n": "geneva_draft>drafting_committee_2#4",
+     "kind": "added",
+     "old": "",
+     "new": "the promotion defence and protection of",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "geneva_draft>drafting_committee_2#5",
+     "kind": "replaced",
+     "old": "of a political economic religious social cultural trade union or any other character",
+     "new": "and interests",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_2>chr_3#1",
+     "kind": "replaced",
+     "old": "19 every one",
+     "new": "everyone",
+     "verdict": "noise",
+     "why": "article number 19",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_2>chr_3#2",
+     "kind": "dropped",
+     "old": "peaceful",
+     "new": "",
+     "verdict": "real",
+     "why": "'peaceful' dropped",
+     "contaminated": false
+    },
+    {
+     "n": "drafting_committee_2>chr_3#3",
+     "kind": "replaced",
+     "old": "to participate in local national international and trade union associations for the promotion defence and protection of purposes and interests not inconsistent with this declaration",
+     "new": "association",
+     "verdict": "real",
+     "why": "",
+     "contaminated": false
+    },
+    {
+     "n": "chr_3>a777#1",
+     "kind": "added",
+     "old": "",
+     "new": "peaceful",
+     "verdict": "real",
+     "why": "'peaceful' back",
+     "contaminated": false
+    },
+    {
+     "n": "chr_3>a777#2",
+     "kind": "added",
+     "old": "",
+     "new": "no one may be compelled to belong to an association",
+     "verdict": "real",
+     "why": "no one may be compelled to belong",
+     "contaminated": false
+    }
+   ]
+  }
+ },
+ "total": {
+  "real": 65,
+  "noise": 20,
+  "artifact": 11,
+  "changes": 96,
+  "contaminated": 4
+ }
+}

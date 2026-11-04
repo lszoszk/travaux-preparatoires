@@ -1,0 +1,262 @@
+{
+ "a": {
+  "e_cn.4_ac.1_sr.23-0033": {
+   "correct": true,
+   "note": "Proposes postponing paragraph 2 (list of permitted deprivations of liberty) of the liberty article; procedural but on its text."
+  },
+  "e_cn.4_sr.135-0083": {
+   "correct": true,
+   "note": "Rapporteur's reply on how objections to the right-to-life text (the 'arbitrarily' footnote) go into the report; unsure, borderline procedural."
+  },
+  "e_cn.4_sr.138-0024": {
+   "correct": true,
+   "note": "On the UK amendment on legislation before ratification, i.e. the implementation obligation in draft article 2."
+  },
+  "e_cn.4_sr.155-0008": {
+   "correct": true,
+   "note": "Drafting suggestion for the Yugoslav sub-amendment on political offenders in the expulsion debate; unsure which article the amendment attached to."
+  },
+  "e_cn.4_sr.157-0016": {
+   "correct": true,
+   "note": "On choice of defence counsel and legal aid under the fair-trial article."
+  },
+  "e_cn.4_sr.169-0029": {
+   "correct": true,
+   "note": "On 'fundamental' and 'democratic society' in the limitation clause of the assembly article."
+  },
+  "e_cn.4_sr.181-0027": {
+   "correct": true,
+   "note": "Compares the original paragraph 1 of article 22 with the US amendment (activities aimed at destruction of rights)."
+  },
+  "e_cn.4_sr.188-0015": {
+   "correct": true,
+   "note": "On paragraph 3 of article 2 and the Danish amendment on validity of nominations."
+  },
+  "e_cn.4_sr.188-0018": {
+   "correct": true,
+   "note": "Questions the five-year validity of nominations and the wording of alternative A."
+  },
+  "e_cn.4_sr.188-0030": {
+   "correct": true,
+   "note": "Mainly on the duration of validity of nominations (paragraph 3), with remarks on terms of office."
+  },
+  "e_cn.4_sr.188-0071": {
+   "correct": true,
+   "note": "On adding 'if they have not already done so' to the election article's call for nominations."
+  },
+  "e_cn.4_sr.189-0036": {
+   "correct": true,
+   "note": "On the formula for filling casual vacancies."
+  },
+  "e_cn.4_sr.190-0088": {
+   "correct": true,
+   "note": "Proposes 'one of the States' for draft article 21 on special procedures."
+  },
+  "e_cn.4_sr.190-0103": {
+   "correct": true,
+   "note": "On Trust Territories and ILO matters as 'special procedure' under article 21."
+  },
+  "e_cn.4_sr.190-0134": {
+   "correct": true,
+   "note": "Drafting of the domestic-remedies rule for State complaints to the Committee."
+  },
+  "e_cn.4_sr.199-0071": {
+   "correct": true,
+   "note": "On derogation from the non-discrimination clause under article 2 (formerly 4), the derogation article."
+  },
+  "e_cn.4_sr.199-0092": {
+   "correct": true,
+   "note": "On 'legitime defense', the English text of paragraph 1 and 'of another' in the right-to-life article."
+  },
+  "e_cn.4_sr.199-0096": {
+   "correct": true,
+   "note": "Criticises the wording of paragraph 2 of the right-to-life article."
+  },
+  "e_cn.4_sr.199-0100": {
+   "correct": false,
+   "note": "Reads article 4 (formerly 6), the torture article (ICCPR 7), not the right to life."
+  },
+  "e_cn.4_sr.215-0040": {
+   "correct": true,
+   "note": "On qualifications (competence in human rights) of Committee members in article 19."
+  },
+  "e_cn.4_sr.220-0040": {
+   "correct": true,
+   "note": "Explanation of votes on the texts of the just-and-favourable-conditions article."
+  },
+  "e_cn.4_sr.221-0027": {
+   "correct": true,
+   "note": "Explains his abstention on who bears the cost of social security."
+  },
+  "e_cn.4_sr.222-0044": {
+   "correct": true,
+   "note": "French wording 'meilleur' in the US proposal on standards of living."
+  },
+  "e_cn.4_sr.230-0071": {
+   "correct": false,
+   "note": "About including the right to own property (UDHR 17) in the Covenant, not equal rights of men and women."
+  },
+  "e_cn.4_sr.239-0078": {
+   "correct": true,
+   "note": "On the words 'under article 38' in the UK text for the meetings article."
+  },
+  "e_cn.4_sr.239-0084": {
+   "correct": true,
+   "note": "Warns about the effect of the UK text for the meetings article; slightly unsure as it pivots to article 33."
+  },
+  "e_cn.4_sr.240-0027": {
+   "correct": true,
+   "note": "Argues for emoluments for Committee members paid by the UN."
+  },
+  "e_cn.4_sr.246-0047": {
+   "correct": false,
+   "note": "Rebuttal on national sovereignty and Charter Art. 2(7) in implementation generally, not the reporting text; unsure."
+  },
+  "e_cn.4_sr.269-0003": {
+   "correct": true,
+   "note": "On article 20 (right to work) and the USSR amendment that the State guarantee it."
+  },
+  "e_cn.4_sr.300-0031": {
+   "correct": true,
+   "note": "Request for a separate vote on sentences of the Uruguayan sub-amendment to the trade-union article."
+  },
+  "e_cn.4_sr.328-0022": {
+   "correct": true,
+   "note": "Responds on the Yugoslav text and Charter Art. 2(7); unsure, could be a general domestic-jurisdiction question."
+  },
+  "e_cn.4_sr.371-0014": {
+   "correct": true,
+   "note": "On aligning the English and French texts of the minorities article."
+  }
+ },
+ "c": {
+  "e_cn.4_ac.1_sr.23-0033": {
+   "correct": true,
+   "note": "Proposal to postpone paragraph 2 (grounds of deprivation of liberty) of the article; procedural but tied to its text; unsure."
+  },
+  "e_cn.4_sr.135-0083": {
+   "correct": true,
+   "note": "Handling of objections to the wording of the right-to-life paragraph 1; weak, unsure."
+  },
+  "e_cn.4_sr.138-0024": {
+   "correct": true,
+   "note": "On UK amendment concerning ratification and enactment of legislation under the article 2 undertaking; fairly sure."
+  },
+  "e_cn.4_sr.155-0008": {
+   "correct": true,
+   "note": "Drafting help on Yugoslav/Philippine amendment, apparently on the expulsion article; unsure."
+  },
+  "e_cn.4_sr.157-0016": {
+   "correct": true,
+   "note": "Choice of defence counsel in fair-trial article."
+  },
+  "e_cn.4_sr.169-0029": {
+   "correct": true,
+   "note": "Amendments to restrictions clause of the assembly article."
+  },
+  "e_cn.4_sr.181-0027": {
+   "correct": true,
+   "note": "US amendment to paragraph 1 of the saving clause."
+  },
+  "e_cn.4_sr.188-0015": {
+   "correct": true,
+   "note": "Validity period of nominations."
+  },
+  "e_cn.4_sr.188-0018": {
+   "correct": true,
+   "note": "Validity period of nominations."
+  },
+  "e_cn.4_sr.188-0030": {
+   "correct": true,
+   "note": "Validity period of nominations."
+  },
+  "e_cn.4_sr.188-0071": {
+   "correct": true,
+   "note": "Nomination invitations and panel composition for committee elections."
+  },
+  "e_cn.4_sr.189-0036": {
+   "correct": true,
+   "note": "Wording of vacancy-filling article."
+  },
+  "e_cn.4_sr.190-0088": {
+   "correct": true,
+   "note": "Wording (\"one of the States\") of the other-procedures clause."
+  },
+  "e_cn.4_sr.190-0103": {
+   "correct": true,
+   "note": "Scope of special procedures excluded by the other-procedures clause."
+  },
+  "e_cn.4_sr.190-0134": {
+   "correct": true,
+   "note": "Exhaustion of domestic remedies in inter-state communications article."
+  },
+  "e_cn.4_sr.199-0071": {
+   "correct": true,
+   "note": "Derogation clause and non-derogable articles."
+  },
+  "e_cn.4_sr.199-0092": {
+   "correct": true,
+   "note": "Wording of right-to-life paragraphs 1 and 2."
+  },
+  "e_cn.4_sr.199-0096": {
+   "correct": true,
+   "note": "Criticism of paragraph 2 on the death penalty."
+  },
+  "e_cn.4_sr.199-0100": {
+   "correct": false,
+   "note": "Rapporteur reading a different article (article 4, formerly 6)."
+  },
+  "e_cn.4_sr.215-0040": {
+   "correct": true,
+   "note": "Qualifications of Committee members in the establishing article."
+  },
+  "e_cn.4_sr.220-0040": {
+   "correct": true,
+   "note": "Vote explanation on proposals for just and favourable conditions of work."
+  },
+  "e_cn.4_sr.221-0027": {
+   "correct": true,
+   "note": "Vote explanation on social security costs."
+  },
+  "e_cn.4_sr.222-0044": {
+   "correct": true,
+   "note": "Wording of standard-of-living proposal."
+  },
+  "e_cn.4_sr.230-0071": {
+   "correct": false,
+   "note": "NGO on property rights, not equal rights of men and women."
+  },
+  "e_cn.4_sr.239-0078": {
+   "correct": true,
+   "note": "UK amendment on Committee meetings."
+  },
+  "e_cn.4_sr.239-0084": {
+   "correct": true,
+   "note": "Objection to UK text on Committee meetings; fairly sure."
+  },
+  "e_cn.4_sr.240-0027": {
+   "correct": true,
+   "note": "Emoluments for Committee members."
+  },
+  "e_cn.4_sr.246-0047": {
+   "correct": true,
+   "note": "Debate on French amendment to reports article and sovereignty; somewhat general, unsure."
+  },
+  "e_cn.4_sr.269-0003": {
+   "correct": true,
+   "note": "Right to work article (article 20 of the draft) and USSR amendment."
+  },
+  "e_cn.4_sr.300-0031": {
+   "correct": true,
+   "note": "Separate vote on amendment to USSR trade-union amendment."
+  },
+  "e_cn.4_sr.328-0022": {
+   "correct": true,
+   "note": "Debate on Yugoslav text for the saving clause (Charter domestic jurisdiction); unsure."
+  },
+  "e_cn.4_sr.371-0014": {
+   "correct": true,
+   "note": "Wording of minorities article."
+  }
+ }
+}

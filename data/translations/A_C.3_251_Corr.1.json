@@ -1,0 +1,36 @@
+{
+ "symbol": "A/C.3/251/Corr.1",
+ "source_language": "fr",
+ "source_file": "A_C.3_251_Corr.1-FR.pdf",
+ "translation_model": "claude-fable-5-1",
+ "check_model": "claude-sonnet-5-5",
+ "translation_date": "2026-09-29",
+ "title": "Draft International Declaration of Human Rights — Argentina: Amendment to article 20 of the draft Declaration (E/800)",
+ "date": "1948-11-15",
+ "stated_original_language": "French",
+ "pages": [
+  {
+   "page": 1,
+   "text": "United Nations                    Nations Unies                    UNRESTRICTED\nGENERAL ASSEMBLY                  ASSEMBLEE GENERALE               A/C.3/251/Corr.1*\n                                                                   15 November 1948\n                                                                   FRENCH ONLY\n\nThird session                                                      Dual distribution\nTHIRD COMMITTEE\n\nDRAFT INTERNATIONAL DECLARATION OF HUMAN RIGHTS\n\nArgentina: Amendment to article 20 of the draft Declaration (E/800)\n\n\"Everyone has the right to social security as protection against the consequences of unemployment, old age and any disability arising from causes beyond his control which renders him physically or mentally unable to earn his living.\"\n\n-----\n\n[Footnote: * The present correction also applies to the amendment of Argentina as it appears in document A/C.3/297/Rev.1.]"
+  }
+ ],
+ "uncertain": [
+  {
+   "page": 1,
+   "french": "à l'amendement de l'Argentin[e]",
+   "issue": "The last word of the first footnote line is cut off at the right edge of the scan; read as \"l'Argentine\" from context."
+  },
+  {
+   "page": 1,
+   "french": "\"c.d.\"",
+   "issue": "A stray two-letter mark in quotation marks at the bottom left of the page below the footnote, partly cut off; probably a typist's or clerk's initials, not part of the text, and left out of the translation."
+  }
+ ],
+ "check": {
+  "verdict": "faithful",
+  "issues": [],
+  "resolved_by_translator": false,
+  "first_pass": null,
+  "summary": "checked against the scan by claude-sonnet-5-5: no discrepancy found; 2 doubtful passage(s) noted"
+ }
+}

@@ -1,0 +1,197 @@
+{
+ "article": 24,
+ "texts": {
+  "secretariat_outline": "Every one has the right to a fair share of rest and leisure.",
+  "cassin_draft": "Every one has the right to a fair share of rest and leisure and to the knowledge of the outside world.",
+  "drafting_committee_1": "Every one has the right to a fair share of rest and leisure.",
+  "e_cn4_57": "Everyone has the right to rest and leisure.\"",
+  "geneva_draft": "1. Every one has the right to rest and leisure. 2. Rest and leisure should be ensured to every one by laws or contracts providing in particular for reasonable limitations on working hours and for periodic vacations with pay.",
+  "drafting_committee_2": "1. Every one has the right to rest and leisure. 2. Rest and leisure should be ensured to every one by laws or contracts providing in particular for reasonable limitations on working hours and for periodic vacations with pay.",
+  "chr_3": "Everyone has the right to rest and leisure.",
+  "a777": "Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays with pay.",
+  "final": "Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays with pay."
+ },
+ "sources": {
+  "secretariat_outline": [
+   {
+    "symbol": "E/CN.4/AC.1/3",
+    "draft_article": 43,
+    "page": 14,
+    "text_from": "vision reader"
+   }
+  ],
+  "cassin_draft": [
+   {
+    "symbol": "E/CN.4/AC.1/W.2/Rev.2",
+    "draft_article": 36,
+    "page": 7,
+    "text_from": "vision reader"
+   }
+  ],
+  "drafting_committee_1": [
+   {
+    "symbol": "E/CN.4/21",
+    "draft_article": 32,
+    "page": 80,
+    "text_from": "vision reader"
+   }
+  ],
+  "e_cn4_57": [
+   {
+    "symbol": "E/CN.4/57",
+    "draft_article": 32,
+    "page": 14,
+    "text_from": "vision reader"
+   }
+  ],
+  "geneva_draft": [
+   {
+    "symbol": "E/600",
+    "draft_article": 29,
+    "page": 21,
+    "text_from": "vision reader"
+   }
+  ],
+  "drafting_committee_2": [
+   {
+    "symbol": "E/CN.4/95",
+    "draft_article": 29,
+    "page": 12,
+    "text_from": "vision reader"
+   }
+  ],
+  "chr_3": [
+   {
+    "symbol": "E/800",
+    "draft_article": 24,
+    "page": 13,
+    "text_from": "vision reader"
+   }
+  ],
+  "a777": [
+   {
+    "symbol": "A/777",
+    "draft_article": 25,
+    "page": 6,
+    "text_from": "vision reader"
+   }
+  ],
+  "final": [
+   {
+    "symbol": "A/RES/217(III)",
+    "text_from": "un.org"
+   }
+  ]
+ },
+ "steps": [
+  {
+   "from": "secretariat_outline",
+   "to": "cassin_draft",
+   "changes": [
+    {
+     "kind": "added",
+     "old": "",
+     "new": "and to the knowledge of the outside world",
+     "context": "of rest and leisure and to the knowledge of the outside world",
+     "n": "secretariat_outline>cassin_draft#1"
+    }
+   ]
+  },
+  {
+   "from": "cassin_draft",
+   "to": "drafting_committee_1",
+   "changes": [
+    {
+     "kind": "dropped",
+     "old": "and to the knowledge of the outside world",
+     "new": "",
+     "context": "of rest and leisure and to the knowledge of the outside world",
+     "n": "cassin_draft>drafting_committee_1#1"
+    }
+   ]
+  },
+  {
+   "from": "drafting_committee_1",
+   "to": "e_cn4_57",
+   "changes": [
+    {
+     "kind": "replaced",
+     "old": "every one",
+     "new": "everyone",
+     "context": "everyone has the right to",
+     "n": "drafting_committee_1>e_cn4_57#1"
+    },
+    {
+     "kind": "dropped",
+     "old": "a fair share of",
+     "new": "",
+     "context": "has the right to a fair share of rest and leisure",
+     "n": "drafting_committee_1>e_cn4_57#2"
+    }
+   ]
+  },
+  {
+   "from": "e_cn4_57",
+   "to": "geneva_draft",
+   "changes": [
+    {
+     "kind": "replaced",
+     "old": "everyone",
+     "new": "every one",
+     "context": "every one has the right to",
+     "n": "e_cn4_57>geneva_draft#1"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "rest and leisure should be ensured to every one by laws or contracts providing in particular for reasonable limitations on working hours and for periodic vacations with pay",
+     "context": "to rest and leisure rest and leisure should be ensured to every one by laws or contracts providing in particular for reasonable limitations on working hours and for periodic vacations with pay",
+     "n": "e_cn4_57>geneva_draft#2"
+    }
+   ]
+  },
+  {
+   "from": "geneva_draft",
+   "to": "drafting_committee_2",
+   "changes": []
+  },
+  {
+   "from": "drafting_committee_2",
+   "to": "chr_3",
+   "changes": [
+    {
+     "kind": "replaced",
+     "old": "every one",
+     "new": "everyone",
+     "context": "everyone has the right to",
+     "n": "drafting_committee_2>chr_3#1"
+    },
+    {
+     "kind": "dropped",
+     "old": "rest and leisure should be ensured to every one by laws or contracts providing in particular for reasonable limitations on working hours and for periodic vacations with pay",
+     "new": "",
+     "context": "to rest and leisure rest and leisure should be ensured to every one by laws or contracts providing in particular for reasonable limitations on working hours and for periodic vacations with pay",
+     "n": "drafting_committee_2>chr_3#2"
+    }
+   ]
+  },
+  {
+   "from": "chr_3",
+   "to": "a777",
+   "changes": [
+    {
+     "kind": "added",
+     "old": "",
+     "new": "including reasonable limitation of working hours and periodic holidays with pay",
+     "context": "to rest and leisure including reasonable limitation of working hours and periodic holidays with pay",
+     "n": "chr_3>a777#1"
+    }
+   ]
+  },
+  {
+   "from": "a777",
+   "to": "final",
+   "changes": []
+  }
+ ]
+}

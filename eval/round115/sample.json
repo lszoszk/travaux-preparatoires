@@ -1,0 +1,422 @@
+[
+ {
+  "item": 1,
+  "id": "a_c.3_sr.793-0017",
+  "kind": "vote",
+  "tag": "ICESCR 14",
+  "mapping": "E/2573 draft article 15 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 2,
+  "id": "a_c.3_sr.813-0016",
+  "kind": "procedural",
+  "tag": "ICCPR 6",
+  "mapping": "E/2573 draft article 6 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 3,
+  "id": "e_cn.4_ac.1_sr.41-0018",
+  "kind": "vote",
+  "tag": "UDHR 20",
+  "mapping": "E/600 art. 19, p. 19: assembly and association (read by hand); article from the chair or agenda"
+ },
+ {
+  "item": 4,
+  "id": "e_cn.4_sr.431-0014",
+  "kind": "vote",
+  "tag": "ICCPR 46",
+  "mapping": "the tag before a resegmentation, judged right on the page image by two blind judges"
+ },
+ {
+  "item": 5,
+  "id": "a_c.3_sr.140-0045",
+  "kind": "chair",
+  "tag": "UDHR 23",
+  "mapping": "text similarity 85 (margin 18); article from the chair or agenda"
+ },
+ {
+  "item": 6,
+  "id": "a_c.3_sr.969-0048",
+  "kind": "procedural",
+  "tag": "ICCPR 14",
+  "mapping": "E/2573 draft article 14 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 7,
+  "id": "e_cn.4_sr.348-0013",
+  "kind": "chair",
+  "tag": "ICCPR 30",
+  "mapping": "E/2256 draft article 37 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 8,
+  "id": "e_cn.4_ac.1_sr.13-0071",
+  "kind": "chair",
+  "tag": "UDHR 6",
+  "mapping": "E/CN.4/AC.1/W.2/Rev.2 art. 15, p. 3: legal personality (with marriage and civil rights) (read by hand); article from the chair or agenda"
+ },
+ {
+  "item": 9,
+  "id": "e_cn.4_sr.326-0024",
+  "kind": "vote",
+  "tag": "ICCPR 22",
+  "mapping": "E/1992 draft article 16 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 10,
+  "id": "e_cn.4_sr.323-0029",
+  "kind": "vote",
+  "tag": "ICCPR 14",
+  "mapping": "E/1992 draft article 10 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 11,
+  "id": "a_c.3_sr.731-0004",
+  "kind": "procedural",
+  "tag": "ICESCR 10",
+  "mapping": "E/2573 draft article 10 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 12,
+  "id": "a_c.3_sr.157-0021",
+  "kind": "chair",
+  "tag": "UDHR 23",
+  "mapping": "text similarity 85 (margin 18); article from the chair or agenda"
+ },
+ {
+  "item": 13,
+  "id": "e_cn.4_sr.144-0004",
+  "kind": "procedural",
+  "tag": "ICCPR 9",
+  "mapping": "E/1371 draft article 9 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 14,
+  "id": "e_cn.4_sr.281-0076",
+  "kind": "vote",
+  "tag": "ICESCR 7",
+  "mapping": "E/1992 draft article 21 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 15,
+  "id": "e_cn.4_sr.424-0016",
+  "kind": "vote",
+  "tag": "ICESCR 18",
+  "mapping": "E/2447 draft article 62 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 16,
+  "id": "a_c.3_sr.713-0016",
+  "kind": "chair",
+  "tag": "ICESCR 7",
+  "mapping": "E/2573 draft article 7 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 17,
+  "id": "e_cn.4_sr.229-0085",
+  "kind": "chair",
+  "tag": "ICESCR 13",
+  "mapping": "the tag before a resegmentation, judged right on the page image by two blind judges"
+ },
+ {
+  "item": 18,
+  "id": "e_cn.4_sr.40-0052",
+  "kind": "chair",
+  "tag": "UDHR 26",
+  "mapping": "E/CN.4/57 art. 31, p. 14: Everyone has the right to education; fundamental education free and compulsory; equal access to higher education on merit without distinction; read by hand (two independent readings reconciled) (read by hand); article from the chair or agenda"
+ },
+ {
+  "item": 19,
+  "id": "e_cn.4_sr.42-0029",
+  "kind": "vote",
+  "tag": "ICCPR 48",
+  "mapping": "E/CN.4/56 draft article 21 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 20,
+  "id": "e_cn.4_sr.423-0032",
+  "kind": "vote",
+  "tag": "ICESCR 17",
+  "mapping": "E/2447 draft article 61 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 21,
+  "id": "a_c.3_sr.655-0009",
+  "kind": "chair",
+  "tag": "ICCPR+ICESCR 1",
+  "mapping": "E/2573 draft article 1 of both draft covenants; article from the chair or agenda"
+ },
+ {
+  "item": 22,
+  "id": "a_c.3_sr.1428-0041",
+  "kind": "chair",
+  "tag": "ICCPR 41",
+  "mapping": "E/2573 (A/6342) draft article 40 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 23,
+  "id": "e_cn.4_ac.1_sr.39-0003",
+  "kind": "chair",
+  "tag": "UDHR 11",
+  "mapping": "E/600 art. 7, p. 17: presumption of innocence; no retroactive penal law (read by hand); article from the chair or agenda"
+ },
+ {
+  "item": 24,
+  "id": "e_cn.4_ac.1_sr.13-0069",
+  "kind": "chair",
+  "tag": "UDHR 14",
+  "mapping": "E/CN.4/AC.1/W.2/Rev.2 art. 14, p. 3: refuge from persecution (read by hand); article from the chair or agenda"
+ },
+ {
+  "item": 25,
+  "id": "a_c.3_sr.855-0037",
+  "kind": "chair",
+  "tag": "ICCPR 7",
+  "mapping": "E/2573 draft article 7 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 26,
+  "id": "a_c.3_sr.865-0005",
+  "kind": "procedural",
+  "tag": "ICCPR 9",
+  "mapping": "E/2573 draft article 9 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 27,
+  "id": "e_cn.4_sr.298-0016",
+  "kind": "vote",
+  "tag": "ICESCR 10",
+  "mapping": "E/1992 draft article 26 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 28,
+  "id": "a_c.3_sr.1430-0003",
+  "kind": "chair",
+  "tag": "ICCPR 42",
+  "mapping": "E/2573 (A/6342) draft article 41 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 29,
+  "id": "e_cn.4_sr.157-0066",
+  "kind": "chair",
+  "tag": "ICCPR 14",
+  "mapping": "E/1371 draft article 13 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 30,
+  "id": "a_c.3_sr.1402-0020",
+  "kind": "vote",
+  "tag": "ICESCR 17",
+  "mapping": "E/2573 (A/6342) draft article 18 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 31,
+  "id": "e_cn.4_sr.196-0034",
+  "kind": "chair",
+  "tag": "ICCPR 4",
+  "mapping": "E/1371 draft article 4 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 32,
+  "id": "a_c.3_sr.152-0007",
+  "kind": "vote",
+  "tag": "UDHR 27",
+  "mapping": "text similarity 94 (margin 27); article from the chair or agenda"
+ },
+ {
+  "item": 33,
+  "id": "e_cn.4_sr.153-0016",
+  "kind": "vote",
+  "tag": "ICCPR 6",
+  "mapping": "E/1371 draft article 5 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 34,
+  "id": "e_cn.4_sr.328-0034",
+  "kind": "procedural",
+  "tag": "ICCPR 2",
+  "mapping": "E/1992 draft article 1 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 35,
+  "id": "e_cn.4_sr.200-0042",
+  "kind": "chair",
+  "tag": "ICCPR 5",
+  "mapping": "E/1371 draft article 22 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 36,
+  "id": "e_cn.4_sr.197-0003",
+  "kind": "procedural",
+  "tag": "ICCPR 50",
+  "mapping": "E/1371 draft article 24 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 37,
+  "id": "e_cn.4_sr.151-0031",
+  "kind": "vote",
+  "tag": "ICCPR 12",
+  "mapping": "E/1371 draft article 11 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 38,
+  "id": "e_cn.4_sr.298-0026",
+  "kind": "chair",
+  "tag": "ICESCR 10",
+  "mapping": "E/1992 draft article 26 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 39,
+  "id": "e_cn.4_sr.70-0022",
+  "kind": "chair",
+  "tag": "UDHR 27",
+  "mapping": "continues E/800 article 25 (text similarity 89); its own text matches final article 27 (similarity 63); article from the chair or agenda"
+ },
+ {
+  "item": 40,
+  "id": "e_cn.4_sr.268-0021",
+  "kind": "chair",
+  "tag": "ICESCR 6",
+  "mapping": "E/1992 draft article 20 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 41,
+  "id": "e_cn.4_sr.64-0009",
+  "kind": "vote",
+  "tag": "UDHR 19",
+  "mapping": "continues E/800 article 17 (text similarity 87); its own text matches final article 19 (similarity 87); article from the chair or agenda"
+ },
+ {
+  "item": 42,
+  "id": "e_cn.4_sr.156-0059",
+  "kind": "chair",
+  "tag": "ICCPR 14",
+  "mapping": "E/1371 draft article 13 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 43,
+  "id": "e_cn.4_sr.325-0067",
+  "kind": "vote",
+  "tag": "ICCPR 21",
+  "mapping": "E/1992 draft article 15 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 44,
+  "id": "e_cn.4_sr.295-0015",
+  "kind": "vote",
+  "tag": "ICESCR 11",
+  "mapping": "E/1992 draft article 23 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 45,
+  "id": "a_c.3_sr.144-0006",
+  "kind": "vote",
+  "tag": "UDHR 25",
+  "mapping": "text similarity 90 (margin 11); article from the chair or agenda"
+ },
+ {
+  "item": 46,
+  "id": "e_cn.4_ac.2_sr.2-0044",
+  "kind": "procedural",
+  "tag": "UDHR 29",
+  "mapping": "E/CN.4/21 art. 2, annex F, p. 73: the object of society (first alternative); rights limited by the equal rights of others, duties (second) = final art. 29 (read by hand); article from the chair or agenda"
+ },
+ {
+  "item": 47,
+  "id": "e_cn.4_ac.1_sr.13-0059",
+  "kind": "chair",
+  "tag": "UDHR 13",
+  "mapping": "E/CN.4/AC.1/W.2/Rev.2 art. 13, p. 3: movement and residence (read by hand); article from the chair or agenda"
+ },
+ {
+  "item": 48,
+  "id": "e_cn.4_ac.1_sr.38-0003",
+  "kind": "chair",
+  "tag": "UDHR 17",
+  "mapping": "E/600 art. 14, p. 19: property (read by hand); article from the chair or agenda"
+ },
+ {
+  "item": 49,
+  "id": "e_cn.4_sr.164-0003",
+  "kind": "procedural",
+  "tag": "ICCPR 19",
+  "mapping": "E/1371 draft article 17 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 50,
+  "id": "e_cn.4_sr.90-0019",
+  "kind": "chair",
+  "tag": "ICCPR 6",
+  "mapping": "E/800 draft article 5 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 51,
+  "id": "a_c.3_sr.1027-0025",
+  "kind": "vote",
+  "tag": "ICCPR 18",
+  "mapping": "E/2573 draft article 18 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 52,
+  "id": "a_c.3_sr.1401-0025",
+  "kind": "chair",
+  "tag": "ICESCR 17",
+  "mapping": "E/2573 (A/6342) draft article 18 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 53,
+  "id": "a_c.3_sr.1104-0022",
+  "kind": "chair",
+  "tag": "ICCPR 27",
+  "mapping": "E/2573 draft article 25 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 54,
+  "id": "e_cn.4_ac.2_sr.9-0086",
+  "kind": "procedural",
+  "tag": "UDHR 13",
+  "mapping": "E/CN.4/21 art. 13, annex F, p. 75: movement and residence (read by hand); article from the chair or agenda"
+ },
+ {
+  "item": 55,
+  "id": "a_c.3_sr.120-0037",
+  "kind": "chair",
+  "tag": "UDHR 13",
+  "mapping": "text similarity 96 (margin 28); article from the chair or agenda"
+ },
+ {
+  "item": 56,
+  "id": "e_cn.4_ac.1_sr.14-0068",
+  "kind": "chair",
+  "tag": "UDHR 26",
+  "mapping": "E/CN.4/AC.1/W.2/Rev.2 art. 35, p. 6: education (read by hand); article from the chair or agenda"
+ },
+ {
+  "item": 57,
+  "id": "a_c.3_sr.148-0017",
+  "kind": "chair",
+  "tag": "UDHR 26",
+  "mapping": "text similarity 78 (margin 11); article from the chair or agenda"
+ },
+ {
+  "item": 58,
+  "id": "a_c.3_sr.177-0051",
+  "kind": "vote",
+  "tag": "UDHR 25",
+  "mapping": "text similarity 90 (margin 11); article from the chair or agenda"
+ },
+ {
+  "item": 59,
+  "id": "e_cn.4_sr.37-0086",
+  "kind": "chair",
+  "tag": "ICCPR 18",
+  "mapping": "E/CN.4/56 draft article 15 (concordance read from the UN text); article from the chair or agenda"
+ },
+ {
+  "item": 60,
+  "id": "a_c.3_sr.177-0046",
+  "kind": "chair",
+  "tag": "UDHR 21",
+  "mapping": "text similarity 86 (margin 25); article from the chair or agenda"
+ }
+]

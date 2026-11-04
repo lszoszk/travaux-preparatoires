@@ -1,0 +1,50 @@
+[
+ {
+  "page_key": "A_C.3_L.1221-1",
+  "symbol": "A/C.3/L.1221",
+  "page": 1,
+  "image": "/Users/lszoszk/Desktop/AI/travaux/data/ocr/A_C.3_L.1221/img/page-001.png",
+  "reading": "/Users/lszoszk/Desktop/AI/travaux/data/ocr/A_C.3_L.1221/chandra/page-001.txt",
+  "length_ratio": 0.425
+ },
+ {
+  "page_key": "A_C.3_SR.904-3",
+  "symbol": "A/C.3/SR.904",
+  "page": 3,
+  "image": "/Users/lszoszk/Desktop/AI/travaux/data/ocr/A_C.3_SR.904/img/page-003.png",
+  "reading": "/Users/lszoszk/Desktop/AI/travaux/data/ocr/A_C.3_SR.904/chandra/page-003.txt",
+  "length_ratio": 0.478
+ },
+ {
+  "page_key": "E_CN.4_L.272-13",
+  "symbol": "E/CN.4/L.272",
+  "page": 13,
+  "image": "/Users/lszoszk/Desktop/AI/travaux/data/ocr/E_CN.4_L.272/img/page-013.png",
+  "reading": "/Users/lszoszk/Desktop/AI/travaux/data/ocr/E_CN.4_L.272/chandra/page-013.txt",
+  "length_ratio": 1.349
+ },
+ {
+  "page_key": "E_CN.4_L.72-1",
+  "symbol": "E/CN.4/L.72",
+  "page": 1,
+  "image": "/Users/lszoszk/Desktop/AI/travaux/data/ocr/E_CN.4_L.72/img/page-001.png",
+  "reading": "/Users/lszoszk/Desktop/AI/travaux/data/ocr/E_CN.4_L.72/chandra/page-001.txt",
+  "length_ratio": 0.89
+ },
+ {
+  "page_key": "E_CN.4_SR.323-15",
+  "symbol": "E/CN.4/SR.323",
+  "page": 15,
+  "image": "/Users/lszoszk/Desktop/AI/travaux/data/ocr/E_CN.4_SR.323/img/page-015.png",
+  "reading": "/Users/lszoszk/Desktop/AI/travaux/data/ocr/E_CN.4_SR.323/chandra/page-015.txt",
+  "length_ratio": 0.891
+ },
+ {
+  "page_key": "E_CONF.6_79-3",
+  "symbol": "E/CONF.6/79",
+  "page": 3,
+  "image": "/Users/lszoszk/Desktop/AI/travaux/data/ocr/E_CONF.6_79/img/page-003.png",
+  "reading": "/Users/lszoszk/Desktop/AI/travaux/data/ocr/E_CONF.6_79/chandra/page-003.txt",
+  "length_ratio": 0.857
+ }
+]

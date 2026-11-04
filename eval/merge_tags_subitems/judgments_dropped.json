@@ -1,0 +1,42 @@
+[
+ {
+  "kind": "P",
+  "a": {
+   "e_cn.4_sr.389-0004": {
+    "correct": false,
+    "note": "France on the Chilean proposed additional article giving the Committee a continuing advisory and information role; not about the annual report (draft 58 / art. 45)."
+   },
+   "e_cn.4_sr.389-0003": {
+    "correct": false,
+    "note": "Chile introduces its additional article (E/CN.4/L.247) to make the Committee an organ for information and interpretation of the covenant; a new-function proposal, not the annual report article."
+   },
+   "e_cn.4_sr.346-0025": {
+    "correct": true,
+    "note": "Belgium withdraws its proposal to defer the decision on the size of the Committee under draft article 33 (nine members) and suggests the UK withdraw its size amendment; a closing remark on time-limits for amendments is secondary."
+   },
+   "e_cn.4_sr.373-0021": {
+    "correct": true,
+    "note": "Belgium explains its votes on the additional article on equal rights of men and women (for the Swedish amendment limiting its scope, against the amended text on drafting grounds); explanation of vote on art. 3's text."
+   }
+  },
+  "c": {
+   "e_cn.4_sr.389-0004": {
+    "correct": false,
+    "note": "Cassin discusses the Chilean additional article (L.247) giving the Committee a role in information and assistance, not the annual report (draft article 58)."
+   },
+   "e_cn.4_sr.389-0003": {
+    "correct": false,
+    "note": "Chilean introduction of its additional article (L.247) on an assistance/information function for the Committee, not the annual report article."
+   },
+   "e_cn.4_sr.346-0025": {
+    "correct": true,
+    "note": "Withdrawal of the proposal to defer the decision on the size of the Committee (nine members in draft article 33) and urging withdrawal of the UK size amendment, with a closing aside on time-limits for amendments (borderline, but main matter is article 33's size)."
+   },
+   "e_cn.4_sr.373-0021": {
+    "correct": true,
+    "note": "Explanation of vote on the Swedish amendment and the amended additional article on equal rights of men and women (final article 3)."
+   }
+  },
+  "third": {}
+ }
+]

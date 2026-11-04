@@ -1,0 +1,6 @@
+[{"answers": [
+ {"id": "a_c.3_sr.1353-0019", "database_right": true, "note": "Para 15 prints Mr. DAS (Secretary of the Committee); UN Secretariat is equivalent."},
+ {"id": "e_pv.84-0047", "database_right": true, "note": "Printed Mr. OWEN (Assistant Secretary-General); UN Secretariat is equivalent."},
+ {"id": "e_pv.68-0009", "database_right": false, "note": "Printed Mr. YAZICI (Turkey); database has the OCR garble YAZICR."},
+ {"id": "a_pv.147-0011", "database_right": false, "note": "Printed Mr. BALAGUER (Dominican Republic); database has the OCR garble BATACUZR."},
+ {"id": "e_pv.84-0086", "database_right": false, "note": "Line of the Annex 37 members list (Sub-Commission on Freedom of Information), not a speech."}]}]

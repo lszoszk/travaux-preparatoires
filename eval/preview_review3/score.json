@@ -1,0 +1,52 @@
+{
+ "answered": 34,
+ "items": 34,
+ "by_kind": {
+  "speaker": {
+   "both wrong": 3,
+   "current better": 11,
+   "preview better": 15,
+   "unsure": 1,
+   "preview share of decided": 0.5769230769230769
+  }
+ },
+ "repeats": {
+  "pairs": 4,
+  "same": 4,
+  "differ": []
+ },
+ "notes": [
+  {
+   "id": "004",
+   "kind": "speaker",
+   "symbol": "A/C.3/SR.109",
+   "page": 4,
+   "verdict": "preview better",
+   "note": "Badawi Bey"
+  },
+  {
+   "id": "012",
+   "kind": "speaker",
+   "symbol": "A/C.3/SR.179",
+   "page": 11,
+   "verdict": "both wrong",
+   "note": "Hessel"
+  },
+  {
+   "id": "024",
+   "kind": "speaker",
+   "symbol": "A/C.3/SR.176",
+   "page": 11,
+   "verdict": "both wrong",
+   "note": "Corbet"
+  },
+  {
+   "id": "027",
+   "kind": "speaker",
+   "symbol": "A/C.1/SR.41",
+   "page": 3,
+   "verdict": "preview better",
+   "note": "Lafronte"
+  }
+ ]
+}

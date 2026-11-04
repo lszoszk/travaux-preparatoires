@@ -1,0 +1,4 @@
+segment_id,ocr_symbol,correct_symbol,note
+e_cn.4_sr.319-0007,E/CN.4/L.145,E/CN.4/L.143,"scan p. 5 reads L.143 (the OCR engines read the 3 as 5); SR.319's agenda lists L.143, L.155 and L.187; E/CN.4/669 para. 236. L.145 is the UK amendment on assembly, cited at SR.325"
+e_cn.4_sr.319-0027,E/CN.4/L.145,E/CN.4/L.143,scan p. 12 (the vision OCR reads L.143)
+e_cn.4_sr.319-0037,E/CN.4/L.145,E/CN.4/L.143,scan p. 14 reads L.143 ('prescribed by law')

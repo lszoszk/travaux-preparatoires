@@ -1,0 +1,613 @@
+{
+ "article": 1,
+ "witnesses": [
+  {
+   "sigil": "Cassin",
+   "stage": "cassin_draft",
+   "text": "all men ere brothers being endowed with reason members of one family they are free and possess equal dignity and rights"
+  },
+  {
+   "sigil": "DC1",
+   "stage": "drafting_committee_1",
+   "text": "all men are brothers being endowed with reason and conscience they are members of one family they are free and possess equal dignity and rights"
+  },
+  {
+   "sigil": "WG57",
+   "stage": "e_cn4_57",
+   "text": "ail men are born free and equal in dignity and rights they are endowed by nature with reason and conscience and should act towards one another like brothers"
+  },
+  {
+   "sigil": "Geneva",
+   "stage": "geneva_draft",
+   "text": "all men are born free and equal in dignity and rights they are _ endowed by nature with reason and conscience and should act towards one another like brothers"
+  },
+  {
+   "sigil": "DC2",
+   "stage": "drafting_committee_2",
+   "text": "the drafting committee did not have the time to consider this article all men are born free end equal in dignity and rights they are endowed by nature with reason and conscience and should act towards one another like brothers the drafting committee did not have time to consider this article in the exercise of his rights everyone is limited by the rights of others and by the just requirements of the democratic state the individual owes duties to society through which he is enabled to develop his spirit mind and body in wider freedom"
+  },
+  {
+   "sigil": "CHR3",
+   "stage": "chr_3",
+   "text": "all human beings are born free and equal in dignity and rights they are endowed by nature with reason and conscience and should act towards one another in a spirit of brotherhood"
+  },
+  {
+   "sigil": "A777",
+   "stage": "a777",
+   "text": "all human beings are born free and equal in dignity and rights they are endowed with reason and conscience and should act towards one another in a spirit of brotherhood"
+  }
+ ],
+ "sources": {
+  "Cassin": [
+   {
+    "symbol": "E/CN.4/AC.1/W.2/Rev.2",
+    "draft_article": 1,
+    "page": 1,
+    "text_from": "OCR"
+   }
+  ],
+  "DC1": [
+   {
+    "symbol": "E/CN.4/21",
+    "draft_article": 1,
+    "page": 73,
+    "text_from": "OCR"
+   }
+  ],
+  "WG57": [
+   {
+    "symbol": "E/CN.4/57",
+    "draft_article": 1,
+    "page": 5,
+    "text_from": "OCR"
+   }
+  ],
+  "Geneva": [
+   {
+    "symbol": "E/600",
+    "draft_article": 1,
+    "page": 17,
+    "text_from": "OCR"
+   }
+  ],
+  "DC2": [
+   {
+    "symbol": "E/CN.4/95",
+    "draft_article": 1,
+    "page": 5,
+    "text_from": "OCR"
+   }
+  ],
+  "CHR3": [
+   {
+    "symbol": "E/800",
+    "draft_article": 1,
+    "page": 10,
+    "text_from": "OCR"
+   }
+  ],
+  "A777": [
+   {
+    "symbol": "A/777",
+    "draft_article": 1,
+    "page": 3,
+    "text_from": "OCR"
+   }
+  ]
+ },
+ "branches": [
+  {
+   "n": 1,
+   "column": 0,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "Geneva",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "ail",
+     "stages": [
+      "WG57"
+     ]
+    },
+    {
+     "text": "the drafting committee did not have the time to consider this article",
+     "stages": [
+      "DC2"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "column": 1,
+   "readings": [
+    {
+     "text": "all",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "WG57"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "column": 2,
+   "readings": [
+    {
+     "text": "men",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2"
+     ]
+    },
+    {
+     "text": "human beings",
+     "stages": [
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "column": 3,
+   "readings": [
+    {
+     "text": "ere",
+     "stages": [
+      "Cassin"
+     ]
+    },
+    {
+     "text": "are",
+     "stages": [
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "column": 4,
+   "readings": [
+    {
+     "text": "brothers being endowed with reason",
+     "stages": [
+      "Cassin",
+      "DC1"
+     ]
+    },
+    {
+     "text": "born free",
+     "stages": [
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "column": 5,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1"
+     ]
+    },
+    {
+     "text": "and",
+     "stages": [
+      "WG57",
+      "Geneva",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "end",
+     "stages": [
+      "DC2"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "column": 6,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1"
+     ]
+    },
+    {
+     "text": "equal in dignity",
+     "stages": [
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "column": 7,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin"
+     ]
+    },
+    {
+     "text": "and",
+     "stages": [
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "column": 8,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin"
+     ]
+    },
+    {
+     "text": "conscience",
+     "stages": [
+      "DC1"
+     ]
+    },
+    {
+     "text": "rights",
+     "stages": [
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "column": 9,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin"
+     ]
+    },
+    {
+     "text": "they are",
+     "stages": [
+      "DC1",
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "column": 10,
+   "readings": [
+    {
+     "text": "members of one family they are free",
+     "stages": [
+      "Cassin",
+      "DC1"
+     ]
+    },
+    {
+     "text": "(none)",
+     "stages": [
+      "WG57",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "_",
+     "stages": [
+      "Geneva"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "column": 11,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1"
+     ]
+    },
+    {
+     "text": "endowed",
+     "stages": [
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "column": 12,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "A777"
+     ]
+    },
+    {
+     "text": "by nature",
+     "stages": [
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "column": 13,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1"
+     ]
+    },
+    {
+     "text": "with reason and conscience",
+     "stages": [
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "column": 15,
+   "readings": [
+    {
+     "text": "possess equal dignity and rights",
+     "stages": [
+      "Cassin",
+      "DC1"
+     ]
+    },
+    {
+     "text": "should act towards one another",
+     "stages": [
+      "WG57",
+      "Geneva",
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "column": 16,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "like brothers",
+     "stages": [
+      "WG57",
+      "Geneva",
+      "DC2"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "column": 17,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "WG57",
+      "Geneva",
+      "CHR3",
+      "A777"
+     ]
+    },
+    {
+     "text": "the drafting committee did not have time to consider this article",
+     "stages": [
+      "DC2"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "column": 18,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "WG57",
+      "Geneva"
+     ]
+    },
+    {
+     "text": "in",
+     "stages": [
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "column": 19,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "WG57",
+      "Geneva"
+     ]
+    },
+    {
+     "text": "the exercise of his rights everyone is limited by the rights of others and by the just requirements of the democratic state the individual owes duties to society through which he is enabled to develop his",
+     "stages": [
+      "DC2"
+     ]
+    },
+    {
+     "text": "a",
+     "stages": [
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "column": 20,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "WG57",
+      "Geneva"
+     ]
+    },
+    {
+     "text": "spirit",
+     "stages": [
+      "DC2",
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "column": 21,
+   "readings": [
+    {
+     "text": "(none)",
+     "stages": [
+      "Cassin",
+      "DC1",
+      "WG57",
+      "Geneva"
+     ]
+    },
+    {
+     "text": "mind and body in wider freedom",
+     "stages": [
+      "DC2"
+     ]
+    },
+    {
+     "text": "of brotherhood",
+     "stages": [
+      "CHR3",
+      "A777"
+     ]
+    }
+   ]
+  }
+ ]
+}

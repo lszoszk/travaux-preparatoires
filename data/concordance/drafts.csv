@@ -1,0 +1,171 @@
+instrument,stage,stage_symbol,draft_article,final_article,source_pinpoint,note
+UDHR,secretariat_outline,E/CN.4/AC.1/3,1,,p. 2,text similarity 54 (margin 0); no clear match
+UDHR,secretariat_outline,E/CN.4/AC.1/3,2,29,p. 2,continues E/CN.4/AC.1/W.2/Rev.2 article 4 (text similarity 78); its own text matches final article 29 (similarity 69)
+UDHR,secretariat_outline,E/CN.4/AC.1/3,3,,p. 2,text similarity 60 (margin 3); no clear match
+UDHR,secretariat_outline,E/CN.4/AC.1/3,4,5,p. 2,text similarity 72 (margin 11)
+UDHR,secretariat_outline,E/CN.4/AC.1/3,5,3,p. 2,continues E/CN.4/AC.1/W.2/Rev.2 article 7 (text similarity 89); its own text matches final article 3 (similarity 73)
+UDHR,secretariat_outline,E/CN.4/AC.1/3,6,,p. 4,text similarity 62 (margin 2); no clear match
+UDHR,secretariat_outline,E/CN.4/AC.1/3,7,3,p. 4,continues E/CN.4/AC.1/W.2/Rev.2 article 8 (text similarity 79); its own text is nearest final article 9 (similarity 69)
+UDHR,secretariat_outline,E/CN.4/AC.1/3,8,,p. 4,text similarity 55 (margin 2); no clear match
+UDHR,secretariat_outline,E/CN.4/AC.1/3,9,13,p. 4,text similarity 63 (margin 10)
+UDHR,secretariat_outline,E/CN.4/AC.1/3,10,,p. 4,text similarity 58 (margin 2); no clear match
+UDHR,secretariat_outline,E/CN.4/AC.1/3,11,9,p. 4,text similarity 77 (margin 6)
+UDHR,secretariat_outline,E/CN.4/AC.1/3,12,,p. 6,text similarity 60 (margin 4); no clear match
+UDHR,secretariat_outline,E/CN.4/AC.1/3,13,22,p. 6,text similarity 66 (margin 6)
+UDHR,secretariat_outline,E/CN.4/AC.1/3,14,18,p. 6,text similarity 65 (margin 14)
+UDHR,secretariat_outline,E/CN.4/AC.1/3,15,19,p. 6,continues E/CN.4/AC.1/W.2/Rev.2 article 21 (text similarity 69)
+UDHR,secretariat_outline,E/CN.4/AC.1/3,16,,p. 6,text similarity 56 (margin 3); no clear match
+UDHR,secretariat_outline,E/CN.4/AC.1/3,17,,p. 6,text similarity 52 (margin 1); no clear match
+UDHR,secretariat_outline,E/CN.4/AC.1/3,18,,p. 6,text similarity 49 (margin 1); no clear match
+UDHR,secretariat_outline,E/CN.4/AC.1/3,19,20,p. 8,continues E/CN.4/AC.1/W.2/Rev.2 article 23 (text similarity 87); its own text matches final article 20 (similarity 67)
+UDHR,secretariat_outline,E/CN.4/AC.1/3,20,,p. 8,text similarity 57 (margin 3); no clear match
+UDHR,secretariat_outline,E/CN.4/AC.1/3,22,17,p. 8,text similarity 71 (margin 10)
+UDHR,secretariat_outline,E/CN.4/AC.1/3,23,,p. 8,text similarity 64 (margin 7); set aside: draft article 11 is closer to final article 9
+UDHR,secretariat_outline,E/CN.4/AC.1/3,25,,p. 10,text similarity 46 (margin 1); no clear match
+UDHR,secretariat_outline,E/CN.4/AC.1/3,26,,p. 10,text similarity 64 (margin 4); no clear match
+UDHR,secretariat_outline,E/CN.4/AC.1/3,27,,p. 10,text similarity 62 (margin 2); no clear match
+UDHR,secretariat_outline,E/CN.4/AC.1/3,28,,p. 10,text similarity 62 (margin 5); no clear match
+UDHR,secretariat_outline,E/CN.4/AC.1/3,29,,p. 10,text similarity 55 (margin 3); no clear match
+UDHR,secretariat_outline,E/CN.4/AC.1/3,30,21,p. 10,text similarity 62 (margin 6)
+UDHR,secretariat_outline,E/CN.4/AC.1/3,31,,p. 10,text similarity 58 (margin 0); no clear match
+UDHR,secretariat_outline,E/CN.4/AC.1/3,32,15,p. 12,text similarity 79 (margin 21)
+UDHR,secretariat_outline,E/CN.4/AC.1/3,33,,p. 12,text similarity 52 (margin 2); no clear match
+UDHR,secretariat_outline,E/CN.4/AC.1/3,34,,p. 12,text similarity 56 (margin 6); set aside: draft article 5 is closer to final article 3
+UDHR,secretariat_outline,E/CN.4/AC.1/3,35,,p. 12,text similarity 58 (margin 0); no clear match
+UDHR,secretariat_outline,E/CN.4/AC.1/3,36,26,p. 12,continues E/CN.4/AC.1/W.2/Rev.2 article 35 (text similarity 71)
+UDHR,secretariat_outline,E/CN.4/AC.1/3,39,,p. 14,text similarity 56 (margin 1); no clear match
+UDHR,secretariat_outline,E/CN.4/AC.1/3,40,11,p. 14,text similarity 64 (margin 12)
+UDHR,secretariat_outline,E/CN.4/AC.1/3,41,,p. 14,continues E/CN.4/AC.1/W.2/Rev.2 article 7 (text similarity 78); its own text is nearest final article 25 (similarity 64); set aside: draft article 5 is closer to final article 3
+UDHR,secretariat_outline,E/CN.4/AC.1/3,43,24,p. 14,continues E/CN.4/AC.1/W.2/Rev.2 article 36 (text similarity 87)
+UDHR,secretariat_outline,E/CN.4/AC.1/3,44,27,p. 14,continues E/CN.4/AC.1/W.2/Rev.2 article 37 (text similarity 99); its own text matches final article 27 (similarity 78)
+UDHR,secretariat_outline,E/CN.4/AC.1/3,45,,p. 14,text similarity 58 (margin 3); no clear match
+UDHR,secretariat_outline,E/CN.4/AC.1/3,46,,p. 16,text similarity 57 (margin 3); no clear match
+UDHR,secretariat_outline,E/CN.4/AC.1/3,47,,p. 16,text similarity 55 (margin 2); no clear match
+UDHR,secretariat_outline,E/CN.4/AC.1/3,48,,p. 16,text similarity 56 (margin 2); no clear match
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,1,1,p. 1,continues E/600 article 1 (text similarity 77); its own text matches final article 1 (similarity 70)
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,2,,p. 1,text similarity 54 (margin 2); no clear match
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,3,,p. 1,text similarity 58 (margin 4); no clear match
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,4,29,p. 1,text similarity 67 (margin 10)
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,5,,p. 2,text similarity 55 (margin 3); no clear match
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,6,2,p. 2,continues E/600 article 3 (text similarity 85); its own text matches final article 2 (similarity 85)
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,7,3,p. 2,continues E/600 article 4 (text similarity 94); its own text matches final article 3 (similarity 94)
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,8,3,p. 2,continues E/600 article 5 (text similarity 94)
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,9,11,p. 2,continues E/600 article 7 (text similarity 71); its own text matches final article 11 (similarity 69)
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,10,,p. 2,text similarity 58 (margin 3); no clear match
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,11,4,p. 3,continues E/600 article 8 (text similarity 67)
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,12,,p. 3,text similarity 50 (margin 2); no clear match
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,13,,p. 3,text similarity 57 (margin 4); no clear match
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,14,,p. 3,text similarity 55 (margin 0); no clear match
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,15,,p. 3,text similarity 59 (margin 1); no clear match
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,16,,p. 3,text similarity 53 (margin 2); no clear match
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,17,17,p. 3,continues E/600 article 14 (text similarity 72); its own text matches final article 17 (similarity 70)
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,18,,p. 4,text similarity 56 (margin 6); set aside: draft article 7 is closer to final article 3
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,19,,p. 4,text similarity 53 (margin 1); no clear match
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,20,,p. 4,text similarity 64 (margin 3); no clear match
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,21,19,p. 4,continues E/600 article 17 (text similarity 84); its own text matches final article 19 (similarity 64)
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,22,,p. 4,text similarity 53 (margin 1); no clear match
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,23,20,p. 4,text similarity 63 (margin 6)
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,24,,p. 5,text similarity 60 (margin 4); no clear match
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,25,,p. 5,text similarity 53 (margin 1); no clear match
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,26,21,p. 5,text similarity 66 (margin 10)
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,27,,p. 5,text similarity 58 (margin 3); no clear match
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,28,,p. 5,text similarity 56 (margin 4); no clear match
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,29,,p. 5,text similarity 59 (margin 5); no clear match
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,30,,p. 6,text similarity 55 (margin 0); no clear match
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,34,,p. 6,text similarity 51 (margin 0); no clear match
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,35,26,p. 6,continues E/600 article 27 (text similarity 75)
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,36,24,p. 7,continues E/600 article 29 (text similarity 68)
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,37,27,p. 7,continues E/600 article 30 (text similarity 90); its own text matches final article 27 (similarity 78)
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,38,,p. 7,text similarity 60 (margin 5); set aside: draft article 37 is closer to final article 27
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,39,,p. 7,text similarity 54 (margin 1); no clear match
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,40,,p. 7,text similarity 54 (margin 1); no clear match
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,41,,p. 8,text similarity 55 (margin 0); no clear match
+UDHR,cassin_draft,E/CN.4/AC.1/W.2/Rev.2,42,,p. 8,text similarity 62 (margin 4); no clear match
+UDHR,geneva_draft,E/600,1,1,p. 17,continues E/CN.4/95 article 1 (text similarity 90); its own text matches final article 1 (similarity 79)
+UDHR,geneva_draft,E/600,2,,p. 17,text similarity 61 (margin 4); no clear match
+UDHR,geneva_draft,E/600,3,2,p. 17,continues E/CN.4/95 article 3 (text similarity 95)
+UDHR,geneva_draft,E/600,4,3,p. 17,text similarity 99 (margin 33)
+UDHR,geneva_draft,E/600,5,3,E/CN.4/95 p. 5,stated in E/CN.4/95: article 6 (formerly article 5)
+UDHR,geneva_draft,E/600,6,10,E/CN.4/95 p. 5,stated in E/CN.4/95: article 7 (formerly article 6)
+UDHR,geneva_draft,E/600,7,11,p. 17,text similarity 79 (margin 26)
+UDHR,geneva_draft,E/600,8,4,E/CN.4/95 p. 5,stated in E/CN.4/95: article 5 (formerly article 8)
+UDHR,geneva_draft,E/600,9,12,p. 18,continues E/CN.4/95 article 9 (text similarity 78); its own text matches final article 12 (similarity 66)
+UDHR,geneva_draft,E/600,10,,p. 18,text similarity 73 (margin 13); set aside: draft article 4 is closer to final article 3
+UDHR,geneva_draft,E/600,11,14,p. 18,continues E/CN.4/95 article 11 (text similarity 64); its own text matches final article 14 (similarity 72)
+UDHR,geneva_draft,E/600,12,6,p. 18,continues E/CN.4/95 article 12 (text similarity 88); its own text matches final article 6 (similarity 79)
+UDHR,geneva_draft,E/600,13,16,p. 18,continues E/CN.4/95 article 13 (text similarity 66)
+UDHR,geneva_draft,E/600,14,17,p. 19,continues E/CN.4/95 article 14 (text similarity 66); its own text matches final article 17 (similarity 81)
+UDHR,geneva_draft,E/600,15,15,p. 19,continues E/CN.4/95 article 15 (text similarity 73); its own text is nearest final article 14 (similarity 65)
+UDHR,geneva_draft,E/600,17,19,p. 19,continues E/CN.4/95 article 17 (text similarity 62); its own text matches final article 19 (similarity 64)
+UDHR,geneva_draft,E/600,18,,p. 19,text similarity 53 (margin 1); no clear match
+UDHR,geneva_draft,E/600,19,,p. 19,text similarity 67 (margin 4); no clear match
+UDHR,geneva_draft,E/600,20,,p. 19,text similarity 57 (margin 2); no clear match
+UDHR,geneva_draft,E/600,22,,p. 20,text similarity 54 (margin 1); no clear match
+UDHR,geneva_draft,E/600,23,,p. 20,text similarity 51 (margin 1); no clear match
+UDHR,geneva_draft,E/600,24,23,p. 20,continues E/CN.4/95 article 24 (text similarity 92); its own text matches final article 23 (similarity 61)
+UDHR,geneva_draft,E/600,25,,p. 20,text similarity 61 (margin 3); no clear match
+UDHR,geneva_draft,E/600,26,25,,inferred from the neighbouring articles 24 -> 23 and 27 -> 26
+UDHR,geneva_draft,E/600,27,26,p. 20,continues E/CN.4/95 article 27 (text similarity 97)
+UDHR,geneva_draft,E/600,28,,p. 21,text similarity 60 (margin 1); no clear match
+UDHR,geneva_draft,E/600,29,24,p. 21,continues E/CN.4/95 article 29 (text similarity 100); its own text matches final article 24 (similarity 73)
+UDHR,geneva_draft,E/600,30,27,p. 21,continues E/CN.4/95 article 30 (text similarity 100); its own text matches final article 27 (similarity 81)
+UDHR,geneva_draft,E/600,31,,p. 21,text similarity 55 (margin 2); no clear match
+UDHR,geneva_draft,E/600,32,,p. 22,text similarity 57 (margin 1); no clear match
+UDHR,geneva_draft,E/600,33,30,p. 22,continues E/CN.4/95 article 33 (text similarity 79)
+UDHR,geneva_draft,E/600,38,,p. 23,text similarity 54 (margin 1); no clear match
+UDHR,drafting_committee_2,E/CN.4/95,1,1,p. 5,continues E/800 article 1 (text similarity 92); its own text matches final article 1 (similarity 82)
+UDHR,drafting_committee_2,E/CN.4/95,3,2,p. 5,continues E/800 article 2 (text similarity 93); its own text matches final article 2 (similarity 76)
+UDHR,drafting_committee_2,E/CN.4/95,4,3,,inferred from the neighbouring articles 3 -> 2 and 5 -> 4
+UDHR,drafting_committee_2,E/CN.4/95,5,4,p. 5,text similarity 64 (margin 25)
+UDHR,drafting_committee_2,E/CN.4/95,6,3,p. 5,continues E/800 article 3 (text similarity 60)
+UDHR,drafting_committee_2,E/CN.4/95,7,10,p. 5,continues E/800 article 8 (text similarity 82); its own text matches final article 10 (similarity 78)
+UDHR,drafting_committee_2,E/CN.4/95,8,11,p. 5,inferred from the neighbouring articles 7 -> 10 and 9 -> 12
+UDHR,drafting_committee_2,E/CN.4/95,9,12,p. 7,continues E/800 article 10 (text similarity 75); its own text matches final article 12 (similarity 63)
+UDHR,drafting_committee_2,E/CN.4/95,10,13,p. 7,continues E/800 article 11 (text similarity 95); its own text matches final article 13 (similarity 88)
+UDHR,drafting_committee_2,E/CN.4/95,11,14,p. 7,continues E/800 article 12 (text similarity 96); its own text matches final article 14 (similarity 85)
+UDHR,drafting_committee_2,E/CN.4/95,12,6,p. 7,continues E/800 article 5 (text similarity 93); its own text matches final article 6 (similarity 99)
+UDHR,drafting_committee_2,E/CN.4/95,13,16,p. 8,continues E/800 article 14 (text similarity 72); its own text matches final article 16 (similarity 64)
+UDHR,drafting_committee_2,E/CN.4/95,14,17,p. 8,continues E/800 article 15 (text similarity 66)
+UDHR,drafting_committee_2,E/CN.4/95,15,15,p. 8,text similarity 67 (margin 13)
+UDHR,drafting_committee_2,E/CN.4/95,16,18,p. 8,continues E/800 article 16 (text similarity 82); its own text matches final article 18 (similarity 73)
+UDHR,drafting_committee_2,E/CN.4/95,17,19,p. 8,continues E/800 article 17 (text similarity 87); its own text matches final article 19 (similarity 87)
+UDHR,drafting_committee_2,E/CN.4/95,18,20,p. 8,continues E/800 article 18 (text similarity 61)
+UDHR,drafting_committee_2,E/CN.4/95,21,,p. 9,text similarity 62 (margin 0); no clear match
+UDHR,drafting_committee_2,E/CN.4/95,22,,p. 9,text similarity 0 (margin 0); no clear match
+UDHR,drafting_committee_2,E/CN.4/95,23,,p. 10,text similarity 49 (margin 1); no clear match
+UDHR,drafting_committee_2,E/CN.4/95,24,23,p. 10,continues E/800 article 21 (text similarity 76); its own text matches final article 23 (similarity 59)
+UDHR,drafting_committee_2,E/CN.4/95,25,,p. 11,text similarity 60 (margin 4); no clear match
+UDHR,drafting_committee_2,E/CN.4/95,26,25,p. 11,continues E/800 article 22 (text similarity 68)
+UDHR,drafting_committee_2,E/CN.4/95,27,26,p. 11,continues E/800 article 23 (text similarity 67)
+UDHR,drafting_committee_2,E/CN.4/95,29,24,p. 12,continues E/800 article 24 (text similarity 88); its own text matches final article 24 (similarity 73)
+UDHR,drafting_committee_2,E/CN.4/95,30,27,p. 13,continues E/800 article 25 (text similarity 89); its own text matches final article 27 (similarity 63)
+UDHR,drafting_committee_2,E/CN.4/95,31,,p. 13,text similarity 54 (margin 0); no clear match
+UDHR,drafting_committee_2,E/CN.4/95,32,,p. 14,text similarity 55 (margin 2); no clear match
+UDHR,drafting_committee_2,E/CN.4/95,33,30,p. 14,continues E/800 article 28 (text similarity 86); its own text matches final article 30 (similarity 77)
+UDHR,chr_3,E/800,1,1,p. 10,text similarity 96 (margin 45)
+UDHR,chr_3,E/800,2,2,p. 10,text similarity 94 (margin 25)
+UDHR,chr_3,E/800,3,3,p. 11,text similarity 100 (margin 21)
+UDHR,chr_3,E/800,4,5,p. 11,text similarity 100 (margin 36)
+UDHR,chr_3,E/800,5,6,p. 11,text similarity 98 (margin 30)
+UDHR,chr_3,E/800,6,7,p. 11,text similarity 98 (margin 25)
+UDHR,chr_3,E/800,8,10,p. 11,text similarity 97 (margin 35)
+UDHR,chr_3,E/800,9,11,p. 11,text similarity 99 (margin 37)
+UDHR,chr_3,E/800,10,12,p. 11,text similarity 83 (margin 19)
+UDHR,chr_3,E/800,11,13,p. 11,text similarity 96 (margin 28)
+UDHR,chr_3,E/800,12,14,p. 11,text similarity 91 (margin 24)
+UDHR,chr_3,E/800,13,15,p. 12,text similarity 95 (margin 28)
+UDHR,chr_3,E/800,14,16,p. 12,text similarity 89 (margin 35)
+UDHR,chr_3,E/800,15,17,p. 12,text similarity 100 (margin 25)
+UDHR,chr_3,E/800,16,18,p. 12,text similarity 100 (margin 33)
+UDHR,chr_3,E/800,17,19,p. 12,text similarity 100 (margin 33)
+UDHR,chr_3,E/800,18,20,p. 12,text similarity 100 (margin 22)
+UDHR,chr_3,E/800,19,21,p. 12,text similarity 86 (margin 25)
+UDHR,chr_3,E/800,20,22,p. 12,text similarity 94 (margin 26)
+UDHR,chr_3,E/800,21,23,p. 13,text similarity 85 (margin 18)
+UDHR,chr_3,E/800,22,25,p. 13,text similarity 90 (margin 11)
+UDHR,chr_3,E/800,23,26,p. 13,text similarity 78 (margin 11)
+UDHR,chr_3,E/800,24,24,p. 13,text similarity 88 (margin 8)
+UDHR,chr_3,E/800,25,27,p. 13,text similarity 94 (margin 27)
+UDHR,chr_3,E/800,26,28,p. 13,text similarity 98 (margin 19)
+UDHR,chr_3,E/800,27,29,p. 13,text similarity 80 (margin 14)
+UDHR,chr_3,E/800,28,30,p. 13,text similarity 78 (margin 12)

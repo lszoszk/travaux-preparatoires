@@ -1,0 +1,202 @@
+[
+ {
+  "item": 1,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 2,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 3,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 4,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 5,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 6,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 7,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 8,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 9,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 10,
+  "verdict": "wrong",
+  "reason": "Only masthead text removed, but incomplete: 'THIRD COMMITTEE, 1273rd MEETING' left mid-sentence. No record text lost."
+ },
+ {
+  "item": 11,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 12,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 13,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 14,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 15,
+  "verdict": "wrong",
+  "reason": "Only masthead text removed, but incomplete: 'Se THIRD COMMITTEE, 1398th MEETING Ny' left mid-sentence. No record text lost."
+ },
+ {
+  "item": 16,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 17,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 18,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 19,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 20,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 21,
+  "verdict": "wrong",
+  "reason": "Partial masthead removal leaves '31 THIRD COMMITTER 769th' between 'arma-' and 'ments'; split word not rejoined. No record text lost."
+ },
+ {
+  "item": 22,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 23,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 24,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 25,
+  "verdict": "wrong",
+  "reason": "Partial masthead removal leaves 'THIRD COMMITTER 789th' between 'repre-' and 'sentative'; split word not rejoined. No record text lost."
+ },
+ {
+  "item": 26,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 27,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 28,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 29,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 30,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 31,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 32,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 33,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 34,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 35,
+  "verdict": "wrong",
+  "reason": "Leaves 'THIRD COMMITTEE 863rd - MEETING' and a stray quote between 'amend-' and 'ment'; split word not rejoined. No record text lost."
+ },
+ {
+  "item": 36,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 37,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 38,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 39,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ },
+ {
+  "item": 40,
+  "verdict": "right",
+  "reason": "Only furniture removed; text reads continuously."
+ }
+]

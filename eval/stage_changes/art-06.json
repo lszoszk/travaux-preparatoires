@@ -1,0 +1,281 @@
+{
+ "article": 6,
+ "texts": {
+  "secretariat_outline": "Every one has the right to a legal personality. No one shall be restricted in the exercise of his civil rights except for reasons based on age or mental condition or as a punishment for a criminal offense",
+  "cassin_draft": "Every one has the right to a legal personality everywhere. Every one has the right to contract marriage in accordance with the laws of the State. Every one shall have access to independent and impartial tribunals for the determination of his rights, liabilities and obligations under the law. He shall have the right to consult with, and, eventually, be represented by counsel.",
+  "drafting_committee_1": "Every one has the right to a status in law and to the enjoyment of fundamental civil rights. Every one shall have access to independent and impartial tribunals for the determination of his rights, liabilities and obligations under the law. He shall have the right to consult with and to be represented by counsel.",
+  "e_cn4_57": "Everyone has the right everywhere in the world to recognition as a person before the law and to the enjoyment of fundamental civil rights.\"",
+  "geneva_draft": "Every one has the right everywhere in the world to recognition as a person before the law and to the enjoyment of fundamental civil rights.",
+  "drafting_committee_2": "Every one has everywhere the right to recognition as a person before the law.",
+  "chr_3": "Everyone has the right to recognition everywhere as a person before the law.",
+  "a777": "Everyone has the right to recognition everywhere as a person before the law.",
+  "final": "Everyone has the right to recognition everywhere as a person before the law."
+ },
+ "sources": {
+  "secretariat_outline": [
+   {
+    "symbol": "E/CN.4/AC.1/3",
+    "draft_article": 12,
+    "page": 6,
+    "text_from": "vision reader"
+   }
+  ],
+  "cassin_draft": [
+   {
+    "symbol": "E/CN.4/AC.1/W.2/Rev.2",
+    "draft_article": 15,
+    "page": 3,
+    "text_from": "vision reader"
+   }
+  ],
+  "drafting_committee_1": [
+   {
+    "symbol": "E/CN.4/21",
+    "draft_article": 15,
+    "page": 76,
+    "text_from": "vision reader"
+   }
+  ],
+  "e_cn4_57": [
+   {
+    "symbol": "E/CN.4/57",
+    "draft_article": 15,
+    "page": 9,
+    "text_from": "vision reader"
+   }
+  ],
+  "geneva_draft": [
+   {
+    "symbol": "E/600",
+    "draft_article": 12,
+    "page": 18,
+    "text_from": "vision reader"
+   }
+  ],
+  "drafting_committee_2": [
+   {
+    "symbol": "E/CN.4/95",
+    "draft_article": 12,
+    "page": 7,
+    "text_from": "vision reader"
+   }
+  ],
+  "chr_3": [
+   {
+    "symbol": "E/800",
+    "draft_article": 5,
+    "page": 11,
+    "text_from": "vision reader"
+   }
+  ],
+  "a777": [
+   {
+    "symbol": "A/777",
+    "draft_article": 7,
+    "page": 3,
+    "text_from": "vision reader"
+   }
+  ],
+  "final": [
+   {
+    "symbol": "A/RES/217(III)",
+    "text_from": "un.org"
+   }
+  ]
+ },
+ "steps": [
+  {
+   "from": "secretariat_outline",
+   "to": "cassin_draft",
+   "changes": [
+    {
+     "kind": "replaced",
+     "old": "no",
+     "new": "everywhere every one has the right to contract marriage in accordance with the laws of the state every",
+     "context": "to a legal personality everywhere every one has the right to contract marriage in accordance with the laws of the state every one shall have access",
+     "n": "secretariat_outline>cassin_draft#1"
+    },
+    {
+     "kind": "replaced",
+     "old": "be restricted in",
+     "new": "have access to independent and impartial tribunals for",
+     "context": "state every one shall have access to independent and impartial tribunals for the determination of his",
+     "n": "secretariat_outline>cassin_draft#2"
+    },
+    {
+     "kind": "replaced",
+     "old": "exercise",
+     "new": "determination",
+     "context": "impartial tribunals for the determination of his rights liabilities",
+     "n": "secretariat_outline>cassin_draft#3"
+    },
+    {
+     "kind": "dropped",
+     "old": "civil",
+     "new": "",
+     "context": "the exercise of his civil rights except for reasons",
+     "n": "secretariat_outline>cassin_draft#4"
+    },
+    {
+     "kind": "replaced",
+     "old": "except for reasons based on age or mental condition or as a punishment for a criminal offense",
+     "new": "liabilities and obligations under the law he shall have the right to consult with and eventually be represented by counsel",
+     "context": "determination of his rights liabilities and obligations under the law he shall have the right to consult with and eventually be represented by counsel",
+     "n": "secretariat_outline>cassin_draft#5"
+    }
+   ]
+  },
+  {
+   "from": "cassin_draft",
+   "to": "drafting_committee_1",
+   "changes": [
+    {
+     "kind": "replaced",
+     "old": "legal personality everywhere every one has",
+     "new": "status in law and to",
+     "context": "the right to a status in law and to the enjoyment of fundamental",
+     "n": "cassin_draft>drafting_committee_1#1"
+    },
+    {
+     "kind": "replaced",
+     "old": "right to contract marriage in accordance with the laws",
+     "new": "enjoyment",
+     "context": "law and to the enjoyment of fundamental civil rights",
+     "n": "cassin_draft>drafting_committee_1#2"
+    },
+    {
+     "kind": "replaced",
+     "old": "the state",
+     "new": "fundamental civil rights",
+     "context": "to the enjoyment of fundamental civil rights every one shall have",
+     "n": "cassin_draft>drafting_committee_1#3"
+    },
+    {
+     "kind": "replaced",
+     "old": "eventually",
+     "new": "to",
+     "context": "to consult with and to be represented by counsel",
+     "n": "cassin_draft>drafting_committee_1#4"
+    }
+   ]
+  },
+  {
+   "from": "drafting_committee_1",
+   "to": "e_cn4_57",
+   "changes": [
+    {
+     "kind": "replaced",
+     "old": "every one",
+     "new": "everyone",
+     "context": "everyone has the right everywhere",
+     "n": "drafting_committee_1>e_cn4_57#1"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "everywhere in the world",
+     "context": "everyone has the right everywhere in the world to recognition as a",
+     "n": "drafting_committee_1>e_cn4_57#2"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "recognition as",
+     "context": "in the world to recognition as a person before the",
+     "n": "drafting_committee_1>e_cn4_57#3"
+    },
+    {
+     "kind": "replaced",
+     "old": "status in",
+     "new": "person before the",
+     "context": "to recognition as a person before the law and to the",
+     "n": "drafting_committee_1>e_cn4_57#4"
+    },
+    {
+     "kind": "dropped",
+     "old": "every one shall have access to independent and impartial tribunals for the determination of his rights liabilities and obligations under the law he shall have the right to consult with and to be represented by counsel",
+     "new": "",
+     "context": "of fundamental civil rights every one shall have access to independent and impartial tribunals for the determination of his rights liabilities and obligations under the law he shall have the right to consult with and to be represented by counsel",
+     "n": "drafting_committee_1>e_cn4_57#5"
+    }
+   ]
+  },
+  {
+   "from": "e_cn4_57",
+   "to": "geneva_draft",
+   "changes": [
+    {
+     "kind": "replaced",
+     "old": "everyone",
+     "new": "every one",
+     "context": "every one has the right everywhere",
+     "n": "e_cn4_57>geneva_draft#1"
+    }
+   ]
+  },
+  {
+   "from": "geneva_draft",
+   "to": "drafting_committee_2",
+   "changes": [
+    {
+     "kind": "added",
+     "old": "",
+     "new": "everywhere",
+     "context": "every one has everywhere the right to recognition",
+     "n": "geneva_draft>drafting_committee_2#1"
+    },
+    {
+     "kind": "dropped",
+     "old": "everywhere in the world",
+     "new": "",
+     "context": "one has the right everywhere in the world to recognition as a",
+     "n": "geneva_draft>drafting_committee_2#2"
+    },
+    {
+     "kind": "dropped",
+     "old": "and to the enjoyment of fundamental civil rights",
+     "new": "",
+     "context": "person before the law and to the enjoyment of fundamental civil rights",
+     "n": "geneva_draft>drafting_committee_2#3"
+    }
+   ]
+  },
+  {
+   "from": "drafting_committee_2",
+   "to": "chr_3",
+   "changes": [
+    {
+     "kind": "replaced",
+     "old": "every one",
+     "new": "everyone",
+     "context": "everyone has the right to",
+     "n": "drafting_committee_2>chr_3#1"
+    },
+    {
+     "kind": "dropped",
+     "old": "everywhere",
+     "new": "",
+     "context": "every one has everywhere the right to recognition",
+     "n": "drafting_committee_2>chr_3#2"
+    },
+    {
+     "kind": "added",
+     "old": "",
+     "new": "everywhere",
+     "context": "the right to recognition everywhere as a person before",
+     "n": "drafting_committee_2>chr_3#3"
+    }
+   ]
+  },
+  {
+   "from": "chr_3",
+   "to": "a777",
+   "changes": []
+  },
+  {
+   "from": "a777",
+   "to": "final",
+   "changes": []
+  }
+ ]
+}

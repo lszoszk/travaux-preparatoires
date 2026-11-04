@@ -1,0 +1,66 @@
+{
+ "items": [
+  {
+   "key": "r87_0",
+   "symbol": "E/CN.4/SR.35",
+   "page": 13,
+   "image": "/Users/lszoszk/Desktop/AI/travaux/data/ocr/E_CN.4_SR.35/img/page-013.png",
+   "speaker": null,
+   "delegation": null,
+   "kind": "chair",
+   "text": "The CHAIRMAN proposed that a vote should first be taken on Article 7 of the Declaration and that discussion should then be resumed of Article Le taken paragraph by paragranoh,",
+   "version_1": "ICCPR article 6 (Right to life)",
+   "version_2": "UDHR article 3 (Life, liberty and security of person)"
+  },
+  {
+   "key": "r87_1",
+   "symbol": "E/CN.4/SR.371",
+   "page": 5,
+   "image": "/Users/lszoszk/Desktop/AI/travaux/data/ocr/E_CN.4_SR.371/img/page-005.png",
+   "speaker": "DRUTO",
+   "delegation": "Poland",
+   "kind": "speech",
+   "text": "Mr» DRUTO (Poland) said that he would vote in favour of the Soviet Union proposal, which clearly formulated the right of minorities to use their native tongue and possess their own national, educational and cultural institutions, He was opposed to proposals which sought to create artificial minority groups under immigration laws and to impose discrimination upon them* He quite failed to see how the use by a minority group of its native tongue and its possession of educational institutions could possibly affect the security of the State*",
+   "version_1": "(no article: the speech is not about one article of the final instruments)",
+   "version_2": "ICCPR article 27 (Minorities)"
+  }
+ ],
+ "key": {
+  "r87_0": {
+   "id": "e_cn.4_sr.35-0058",
+   "old": "ICCPR 6",
+   "new": "UDHR 3",
+   "version_1": "old"
+  },
+  "r87_1": {
+   "id": "e_cn.4_sr.371-0005",
+   "old": "ICCPR 27",
+   "new": null,
+   "version_1": "new"
+  }
+ },
+ "judges": [
+  {
+   "key": "r87_0",
+   "a": {
+    "pick": "neither",
+    "why": "A procedural chair turn: a vote on Declaration Article 7, then a return to Convention Article 4. It covers two articles in two texts, so it belongs under none."
+   },
+   "b": {
+    "pick": "neither",
+    "why": "The Chairman's procedural turn names two items, a vote on Declaration Article 7 and then resuming draft Covenant Article 4. It is not about one article, and Declaration Article 7 is not clearly life, so no single tag fits."
+   }
+  },
+  {
+   "key": "r87_1",
+   "a": {
+    "pick": "version_2",
+    "why": "Druto backs the Soviet minorities proposal: native tongue, minority educational and cultural institutions, immigration-law minorities. This is the Commission's minorities article debate, which became ICCPR article 27."
+   },
+   "b": {
+    "pick": "version_2",
+    "why": "The scan shows the Commission debating the Soviet and Sub-Commission minorities proposals. Druto speaks on the right of minorities to their language and institutions, which is ICCPR article 27."
+   }
+  }
+ ]
+}

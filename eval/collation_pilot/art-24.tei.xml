@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0">
+	<app>
+		<rdg wit="#A777">bveryoug 3</rdg>
+		<rdg wit="#CHR3 #WG57">everyone</rdg>
+		<rdg wit="#Cassin #DC1 #Geneva #Sec">every</rdg>
+		<rdg wit="#DC2">very</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin #DC1 #DC2 #Geneva #Sec">one</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#CHR3 #Cassin #DC1 #DC2 #Geneva #Sec #WG57">has</rdg>
+	</app>
+	 
+	the
+	 
+	<app>
+		<rdg wit="#A777">wight</rdg>
+		<rdg wit="#CHR3 #Cassin #DC1 #DC2 #Geneva #Sec #WG57">right</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #CHR3 #Cassin #DC1 #Geneva #Sec #WG57">to</rdg>
+		<rdg wit="#DC2">t</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777">real</rdg>
+		<rdg wit="#Cassin #DC1 #Sec">a</rdg>
+		<rdg wit="#DC2 #Geneva">rest and leisure</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin">pair</rdg>
+		<rdg wit="#DC1 #Sec">fair</rdg>
+		<rdg wit="#DC2">lest</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin #DC1 #Sec">share of</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#CHR3 #Cassin #DC1 #Geneva #Sec #WG57">rest</rdg>
+	</app>
+	 
+	and leisure
+	 
+	<app>
+		<rdg wit="#A777">including reasonable 7 limits on</rdg>
+		<rdg wit="#Cassin">and</rdg>
+		<rdg wit="#DC2 #Geneva">should be ensured</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin #DC2 #Geneva">to</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#Cassin">the knowledge</rdg>
+		<rdg wit="#DC2 #Geneva">every one by laws or contracts providing in particular for reasonable limitations on working</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #Cassin">of</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777">pork</rdg>
+		<rdg wit="#Cassin">the outside world</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #DC2 #Geneva">hours</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777">ant</rdg>
+		<rdg wit="#DC2 #Geneva">and for</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #DC2 #Geneva">periodic</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777">holidays</rdg>
+		<rdg wit="#DC2 #Geneva">vacations</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#A777 #DC2 #Geneva">with pay</rdg>
+	</app>
+</cx:apparatus>
+

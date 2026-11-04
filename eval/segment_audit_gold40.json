@@ -1,0 +1,660 @@
+{
+ "pages": [
+  {
+   "id": "E/CN.4/SR.153 p2",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.153",
+   "page": 2,
+   "image": "data/ocr/E_CN.4_SR.153/img/page-002.png"
+  },
+  {
+   "id": "E/CN.4/SR.246 p9",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.246",
+   "page": 9,
+   "image": "data/ocr/E_CN.4_SR.246/img/page-009.png"
+  },
+  {
+   "id": "E/CN.4/SR.245 p7",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.245",
+   "page": 7,
+   "image": "data/ocr/E_CN.4_SR.245/img/page-007.png"
+  },
+  {
+   "id": "E/CN.4/SR.86 p5",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.86",
+   "page": 5,
+   "image": "data/ocr/E_CN.4_SR.86/img/page-005.png"
+  },
+  {
+   "id": "E/CN.4/SR.367 p11",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.367",
+   "page": 11,
+   "image": "data/ocr/E_CN.4_SR.367/img/page-011.png"
+  },
+  {
+   "id": "E/CN.4/SR.163 p5",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.163",
+   "page": 5,
+   "image": "data/ocr/E_CN.4_SR.163/img/page-005.png"
+  },
+  {
+   "id": "E/CN.4/SR.338 p28",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.338",
+   "page": 28,
+   "image": "data/ocr/E_CN.4_SR.338/img/page-028.png"
+  },
+  {
+   "id": "E/CN.4/SR.226 p6",
+   "stratum": "CHR 1949-54",
+   "symbol": "E/CN.4/SR.226",
+   "page": 6,
+   "image": "data/ocr/E_CN.4_SR.226/img/page-006.png"
+  },
+  {
+   "id": "A/C.3/SR.694 p6",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.694",
+   "page": 6,
+   "image": "data/ocr/A_C.3_SR.694/img/page-006.png"
+  },
+  {
+   "id": "A/C.3/SR.815 p2",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.815",
+   "page": 2,
+   "image": "data/ocr/A_C.3_SR.815/img/page-002.png"
+  },
+  {
+   "id": "A/C.3/SR.955 p1",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.955",
+   "page": 1,
+   "image": "data/ocr/A_C.3_SR.955/img/page-001.png"
+  },
+  {
+   "id": "A/C.3/SR.311 p3",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.311",
+   "page": 3,
+   "image": "data/ocr/A_C.3_SR.311/img/page-003.png"
+  },
+  {
+   "id": "A/C.3/SR.322 p2",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.322",
+   "page": 2,
+   "image": "data/ocr/A_C.3_SR.322/img/page-002.png"
+  },
+  {
+   "id": "A/C.3/SR.289 p1",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.289",
+   "page": 1,
+   "image": "data/ocr/A_C.3_SR.289/img/page-001.png"
+  },
+  {
+   "id": "A/C.3/SR.851 p1",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.851",
+   "page": 1,
+   "image": "data/ocr/A_C.3_SR.851/img/page-001.png"
+  },
+  {
+   "id": "A/C.3/SR.530 p1",
+   "stratum": "Third Committee 1950-61",
+   "symbol": "A/C.3/SR.530",
+   "page": 1,
+   "image": "data/ocr/A_C.3_SR.530/img/page-001.png"
+  },
+  {
+   "id": "A/C.3/SR.1177 p4",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1177",
+   "page": 4,
+   "image": "data/ocr/A_C.3_SR.1177/img/page-004.png"
+  },
+  {
+   "id": "A/PV.1495 p2",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/PV.1495",
+   "page": 2,
+   "image": "data/ocr/A_PV.1495/img/page-002.png"
+  },
+  {
+   "id": "A/C.3/SR.1459 p3",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1459",
+   "page": 3,
+   "image": "data/ocr/A_C.3_SR.1459/img/page-003.png"
+  },
+  {
+   "id": "A/C.3/SR.1262 p2",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1262",
+   "page": 2,
+   "image": "data/ocr/A_C.3_SR.1262/img/page-002.png"
+  },
+  {
+   "id": "A/C.3/SR.1372 p4",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1372",
+   "page": 4,
+   "image": "data/ocr/A_C.3_SR.1372/img/page-004.png"
+  },
+  {
+   "id": "A/C.3/SR.1267 p5",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1267",
+   "page": 5,
+   "image": "data/ocr/A_C.3_SR.1267/img/page-005.png"
+  },
+  {
+   "id": "A/C.3/SR.1344 p8",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1344",
+   "page": 8,
+   "image": "data/ocr/A_C.3_SR.1344/img/page-008.png"
+  },
+  {
+   "id": "A/C.3/SR.1262 p1",
+   "stratum": "Third Committee 1962-66",
+   "symbol": "A/C.3/SR.1262",
+   "page": 1,
+   "image": "data/ocr/A_C.3_SR.1262/img/page-001.png"
+  },
+  {
+   "id": "A/C.3/SR.91 p3",
+   "stratum": "UDHR 1946-48",
+   "symbol": "A/C.3/SR.91",
+   "page": 3,
+   "image": "data/ocr/A_C.3_SR.91/img/page-003.png"
+  },
+  {
+   "id": "A/C.3/SR.162 p5",
+   "stratum": "UDHR 1946-48",
+   "symbol": "A/C.3/SR.162",
+   "page": 5,
+   "image": "data/ocr/A_C.3_SR.162/img/page-005.png"
+  },
+  {
+   "id": "A/C.3/SR.95 p10",
+   "stratum": "UDHR 1946-48",
+   "symbol": "A/C.3/SR.95",
+   "page": 10,
+   "image": "data/ocr/A_C.3_SR.95/img/page-010.png"
+  },
+  {
+   "id": "E/CN.4/SR.17 p9",
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SR.17",
+   "page": 9,
+   "image": "data/ocr/E_CN.4_SR.17/img/page-009.png"
+  },
+  {
+   "id": "E/CN.4/SR.31 p9",
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SR.31",
+   "page": 9,
+   "image": "data/ocr/E_CN.4_SR.31/img/page-009.png"
+  },
+  {
+   "id": "E/CN.4/SR.48 p3",
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SR.48",
+   "page": 3,
+   "image": "data/ocr/E_CN.4_SR.48/img/page-003.png"
+  },
+  {
+   "id": "E/CN.4/AC.1/SR.13 p5",
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/AC.1/SR.13",
+   "page": 5,
+   "image": "data/ocr/E_CN.4_AC.1_SR.13/img/page-005.png"
+  },
+  {
+   "id": "E/CN.4/SR.42 p8",
+   "stratum": "UDHR 1946-48",
+   "symbol": "E/CN.4/SR.42",
+   "page": 8,
+   "image": "data/ocr/E_CN.4_SR.42/img/page-008.png"
+  },
+  {
+   "id": "E/PV.69 p2",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "E/PV.69",
+   "page": 2,
+   "image": "data/ocr/E_PV.69/img/page-002.png"
+  },
+  {
+   "id": "A/PV.183 p10",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.183",
+   "page": 10,
+   "image": "data/ocr/A_PV.183/img/page-010.png"
+  },
+  {
+   "id": "A/PV.7 p2",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.7",
+   "page": 2,
+   "image": "data/ocr/A_PV.7/img/page-002.png"
+  },
+  {
+   "id": "A/PV.180 p9",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.180",
+   "page": 9,
+   "image": "data/ocr/A_PV.180/img/page-009.png"
+  },
+  {
+   "id": "A/PV.178 p11",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.178",
+   "page": 11,
+   "image": "data/ocr/A_PV.178/img/page-011.png"
+  },
+  {
+   "id": "A/PV.180 p22",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.180",
+   "page": 22,
+   "image": "data/ocr/A_PV.180/img/page-022.png"
+  },
+  {
+   "id": "A/PV.139 p2",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.139",
+   "page": 2,
+   "image": "data/ocr/A_PV.139/img/page-002.png"
+  },
+  {
+   "id": "A/PV.7 p9",
+   "stratum": "UDHR 1946-48 plenary",
+   "symbol": "A/PV.7",
+   "page": 9,
+   "image": "data/ocr/A_PV.7/img/page-009.png"
+  }
+ ],
+ "results": [
+  {
+   "i": 0,
+   "page_ok": false,
+   "speeches_on_image": 1,
+   "errors": [
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.153-0005",
+     "detail": "The agenda heading 'DRAFT INTERNATIONAL COVENANT ON HUMAN RIGHTS (E/1371, ...)(continued)' is printed as its own heading on the page, but it sits at the end of the procedural attendance-list segment instead of being a separate heading segment."
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.246-0020",
+     "detail": "Image shows Mr. PICKFORD (International Labour Organisation) starting a turn after the Chairman's statement; the chair segment's ending ('satisfied with the Chairman's explanation...came up for discussion') is Pickford's text, merged into it."
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "page_ok": false,
+   "speeches_on_image": 1,
+   "errors": [
+    {
+     "type": "wrong_speaker",
+     "segment_id": "e_cn.4_sr.245-0004",
+     "detail": "Page opens 'She spoke on behalf ... of thousands of women organized in clubs ... eighteen countries'; 'Her organization'. That is a woman NGO speaker, not Mr. Bienenfeld (WJC). Her turn likely began on p.6 and was merged into Bienenfeld's segment (pp. 4-7)."
+    },
+    {
+     "type": "wrong_speaker",
+     "segment_id": "e_cn.4_sr.245-0005",
+     "detail": "Turn printed 'Mr. WARBURG (Co-ordinating Board of Jewish Organizations)'. The delegation is right but the speaker is null; it should be WARBURG."
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": []
+  },
+  {
+   "i": 4,
+   "page_ok": false,
+   "speeches_on_image": 8,
+   "errors": [
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.367-0031",
+     "detail": "The underlined vote result 'That amendment was adopted by 11 votes to 1 with 5 abstentions' is merged into the chair segment. The other results on the page each have their own vote segment."
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "page_ok": false,
+   "speeches_on_image": 1,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_sr.163-0005",
+     "detail": "The page ends with the catchword '/15. She thought'. The Mehta segment's opening keeps it as 'She thought . 15. 7 She thought', so the phrase appears twice, with OCR debris before it."
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.338-0137",
+     "detail": "A second CHAIRMAN turn ('asked the Commission to act on the adoption of its report') starts after the Chapter VI heading, but it sits inside the first chair segment ('observed that ... Tuesday, 17 June')."
+    },
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.338-0137",
+     "detail": "The chair segment also absorbs the vote 'The Uruguayan proposal was adopted', the heading 'Annexes V and VI' and its vote, the heading 'Chapter VI: Adoption of the report...', and the closing vote '11 votes to none, 5 abstentions'. None of these is its own segment."
+    },
+    {
+     "type": "text_missing",
+     "segment_id": null,
+     "detail": "The top of the page ('Annex II was adopted.', the heading 'Annex III', 'Annex III was adopted.' and the heading 'Annex IV') is in none of the listed segments."
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "page_ok": false,
+   "speeches_on_image": 3,
+   "errors": [
+    {
+     "type": "text_missing",
+     "segment_id": "e_cn.4_sr.226-0010",
+     "detail": "The page lists seven vote results, for paragraphs 1) to 7). The vote segment's text (opening and ending are the same short string) holds only paragraphs 1, 2 and 4. The results for paragraphs 3, 5, 6 and 7 are in no segment."
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "page_ok": true,
+   "speeches_on_image": 6,
+   "errors": []
+  },
+  {
+   "i": 9,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": []
+  },
+  {
+   "i": 10,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "a_c.3_sr.955-0005",
+     "detail": "Para 4 'Sir Samuel HOARE (United Kingdom) said that article 12...' starts a new turn (paras 4-6), but the Pedersen (Denmark) segment runs on to the end of para 6 ('...including the Danish amendment')."
+    }
+   ]
+  },
+  {
+   "i": 11,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": []
+  },
+  {
+   "i": 12,
+   "page_ok": true,
+   "speeches_on_image": 4,
+   "errors": []
+  },
+  {
+   "i": 13,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": []
+  },
+  {
+   "i": 14,
+   "page_ok": false,
+   "speeches_on_image": 5,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "a_c.3_sr.851-0004",
+     "detail": "Brillantes speech ending carries page number and masthead debris: '@) 81 THIRD COMMITTEE 851st MEETING Monday, 13 October 1958, at 3,10 p.m. NEW YORK' after 'could not be obtained.'"
+    }
+   ]
+  },
+  {
+   "i": 15,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": []
+  },
+  {
+   "i": 16,
+   "page_ok": true,
+   "speeches_on_image": 6,
+   "errors": []
+  },
+  {
+   "i": 17,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "a_pv.1495-0003",
+     "detail": "Running header '2 General Assembly — Twenty-first Session — Plenary Meetings' from top of page 2 is left inside the President's text, before 'The General Assembly took note of the report'."
+    }
+   ]
+  },
+  {
+   "i": 18,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": []
+  },
+  {
+   "i": 19,
+   "page_ok": false,
+   "speeches_on_image": 8,
+   "errors": [
+    {
+     "type": "other",
+     "segment_id": "a_c.3_sr.1262-0021",
+     "detail": "The heading 'PROPOSAL TO INCLUDE AN ARTICLE ON THE RIGHTS OF THE CHILD IN THE DRAFT COVENANT ON CIVIL AND POLITICAL RIGHTS' is printed as a separate heading but sits at the end of Belaunde's (Peru) speech segment instead of its own heading segment."
+    }
+   ]
+  },
+  {
+   "i": 20,
+   "page_ok": true,
+   "speeches_on_image": 11,
+   "errors": []
+  },
+  {
+   "i": 21,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "a_c.3_sr.1267-0027",
+     "detail": "Closing segment 'The meeting rose at 6.5 p.m' also contains the page footer job number '77301 —March 1964_2,225' from the bottom of the scan."
+    }
+   ]
+  },
+  {
+   "i": 22,
+   "page_ok": true,
+   "speeches_on_image": 2,
+   "errors": []
+  },
+  {
+   "i": 23,
+   "page_ok": true,
+   "speeches_on_image": 4,
+   "errors": []
+  },
+  {
+   "i": 24,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "a_c.3_sr.91-0007",
+     "detail": "The page number '47' from the foot of the page has been left in Chang's opening text: 'human rights which 47 the General Assembly'."
+    }
+   ]
+  },
+  {
+   "i": 25,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": []
+  },
+  {
+   "i": 26,
+   "page_ok": true,
+   "speeches_on_image": 4,
+   "errors": []
+  },
+  {
+   "i": 27,
+   "page_ok": false,
+   "speeches_on_image": 9,
+   "errors": [
+    {
+     "type": "missed_turn",
+     "segment_id": "e_cn.4_sr.17-0041",
+     "detail": "The scan has a separate turn, 'The CHAIRMAN felt that Item 16 should be left to the Economic and Social Council', after Ebeid's speech. The segment keeps it inside Ebeid's (Egypt) speech."
+    },
+    {
+     "type": "false_split",
+     "segment_id": "e_cn.4_sr.17-0045",
+     "detail": "The quoted text 'The CHAIRMAN, VICE-CHAIRMAN and RAPPORTEUR... may consult' is the wording Malik proposed and belongs to his turn (0044). It was split off as a separate chair segment (Roosevelt)."
+    }
+   ]
+  },
+  {
+   "i": 28,
+   "page_ok": true,
+   "speeches_on_image": 4,
+   "errors": []
+  },
+  {
+   "i": 29,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "other",
+     "segment_id": "e_cn.4_sr.48-0008",
+     "detail": "Page 3 is segmented correctly. Klekovkin's speech, which runs onto p.4, ends with the heading 'CONSIDERATION OF THE REPORT OF THE DRAFTING COMMITTEE (document E/CN.4/95)'. The heading should be its own segment. It sits on p.4, not on this scan."
+    }
+   ]
+  },
+  {
+   "i": 30,
+   "page_ok": false,
+   "speeches_on_image": 4,
+   "errors": [
+    {
+     "type": "header_or_footer_in_text",
+     "segment_id": "e_cn.4_ac.1_sr.13-0030",
+     "detail": "Chang's ending carries the next page's running header 'Ра^е 6' (Page 6) between 'owes duties' and 'to society'. The page itself has the four turns Wilson, Malik, Cassin and Chang, each segmented correctly."
+    }
+   ]
+  },
+  {
+   "i": 31,
+   "page_ok": true,
+   "speeches_on_image": 6,
+   "errors": []
+  },
+  {
+   "i": 32,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": []
+  },
+  {
+   "i": 33,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": []
+  },
+  {
+   "i": 34,
+   "page_ok": true,
+   "speeches_on_image": 3,
+   "errors": []
+  },
+  {
+   "i": 35,
+   "page_ok": false,
+   "speeches_on_image": 1,
+   "errors": [
+    {
+     "type": "other_column_or_page_text",
+     "segment_id": "a_pv.180-0007",
+     "detail": "Roosevelt's opening has French-column text ('yotes affirmatifs, 3,73', from 'votes affirmatifs, 3,73 pour 100') inside the English sentence 'the declaration of human rights'."
+    }
+   ]
+  },
+  {
+   "i": 36,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": []
+  },
+  {
+   "i": 37,
+   "page_ok": true,
+   "speeches_on_image": 1,
+   "errors": []
+  },
+  {
+   "i": 38,
+   "page_ok": false,
+   "speeches_on_image": 2,
+   "errors": [
+    {
+     "type": "other",
+     "segment_id": "a_pv.139-0004",
+     "detail": "Heading '13. Notification by the Secretary-General under Article 12, paragraph 2, of the Charter (A/649)' is merged into the vote segment 'The report was adopted.' instead of being its own heading segment."
+    },
+    {
+     "type": "other",
+     "segment_id": "a_pv.139-0005",
+     "detail": "Heading '14. Opening of the general debate' is attached to the end of the President's chair segment instead of being its own heading segment."
+    }
+   ]
+  },
+  {
+   "i": 39,
+   "page_ok": true,
+   "speeches_on_image": 3,
+   "errors": []
+  }
+ ],
+ "note": "model audit of the 40 hand-annotated pages (eval/gold_pages), database after round 99; to be compared with data/gold/segment_pages.json"
+}

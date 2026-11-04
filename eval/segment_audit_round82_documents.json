@@ -1,0 +1,463 @@
+[
+{
+"label": "old",
+"i": 0,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "false_split",
+"segment_id": "a_c.3_l.795_rev.2-0003",
+"detail": "The underlined title runs over two lines: 'Israel: revised amendments to article 14 of the draft Covenant / on Civil and Political Rights'. The second line was split off from heading 0002 and stored as a separate paragraph."
+}
+]
+},
+{
+"label": "old",
+"i": 1,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_sc.4_5-0003",
+"detail": "The heading's underlined second line 'of Article 2' (part of 'Cuba: Amendment ... to appear as 2nd paragraph of Article 2') is placed at the start of the paragraph segment and not in heading 0002."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_sc.4_5-0003",
+"detail": "The typist's initials 'dd' at the foot of the page appear as 'ad' at the end of the amendment paragraph text."
+}
+]
+},
+{
+"label": "old",
+"i": 2,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "false_split",
+"segment_id": "a_c.3_l.919-0002",
+"detail": "The underlined title runs over two lines ('India: amendment to article 19 of the draft Covenant on / Civil and Political Rights 1/'). The heading segment ends at 'Covenant on', and 'Civil and Political Rights 1' opens the paragraph segment 0003."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_l.919-0003",
+"detail": "The footnote at the foot of the page ('1/ Official Records of the Economic and Social Council, eighteenth session, Supplement No. 7, Annex I (E/2573)') and the job number 61-23579 sit at the end of the paragraph's text. The footnote should be its own segment of kind footnote."
+}
+]
+},
+{
+"label": "old",
+"i": 3,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_249-0003",
+"detail": "The underlined title runs over two lines: 'Chile: Amendment to article 15 of / the draft Declaration (E/800)'. Its second line opens paragraph 0003 instead of finishing heading 0002, which stops at 'article 15 of'."
+}
+]
+},
+{
+"label": "old",
+"i": 4,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "wrong_kind",
+"segment_id": "e_1992-0875",
+"detail": "Page is a two-column list of documents (symbol, title), with no turns or headings. The first line of each title is made a 'heading' (e.g. 'United Kingdom: amendment to the') and the rest a paragraph. Same for 0877-0933."
+},
+{
+"type": "other",
+"segment_id": "e_1992-0910",
+"detail": "The symbol column is cut off from the titles and dumped as runs of symbols inside paragraphs (0874, 0910, 0934). Some entries are merged into the paragraph before them (0876 Existing procedures; 0924 USSR; 0926 Chile-Egypt-Guatemala and the Compilation)."
+}
+]
+},
+{
+"label": "old",
+"i": 5,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "false_split",
+"segment_id": "e_cn.4_l.56-0003",
+"detail": "The title 'Egypt: Amendment to the amendment to article 19 submitted by the United States of America (E/CN.4/L.54)' is one heading. Its second half, from 'by the United States' to the symbol, opens the paragraph segment instead."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "e_cn.4_l.56-0003",
+"detail": "The printer's job number '52-41878' at the foot of the page, OCR'd as '52-1878', ends the paragraph text. 'i ee' is scan debris."
+},
+{
+"type": "wrong_kind",
+"segment_id": "e_cn.4_l.56-0003",
+"detail": "The heading 'Article 1 (paragraph 1):' sits inside the paragraph segment. It should be its own heading, with the amendment text 'Replace the words...' following it."
+}
+]
+},
+{
+"label": "old",
+"i": 6,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_234-0003",
+"detail": "The paragraph holds the masthead (UNRESTRICTED A/C.3/234 7 October 1948, ORIGINAL: FRENCH, Dual Distribution, Nations Unies ASSEMBLEE GENERALE), mixed with fragments of the amendment text ('second In the', 'by n ture')."
+},
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_234-0003",
+"detail": "The title heading 'DRAFT INTERNATIONAL DECLARATION' is inside this paragraph. Its second line, 'OF HUMAN RIGHTS', is a separate heading (0004), so one heading is split across two segments."
+},
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_234-0006",
+"detail": "The second line of the heading, 'of the Draft Declaration (E/800)', is in this paragraph and not in heading 0005 ('Belgium: Amendment to Article 1')."
+},
+{
+"type": "other",
+"segment_id": "a_c.3_234-0006",
+"detail": "The single amendment sentence ('In the second sentence of this article, delete the words \"by nature\"') is broken up and out of order. Pieces are in 0003, the rest is in 0006, and the 'Article 1' heading (0002) comes before the masthead."
+}
+]
+},
+{
+"label": "old",
+"i": 7,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "false_split",
+"segment_id": "e_cn.4_ac.1_33-0003",
+"detail": "The title 'UNION OF SOVIET SOCIALIST REPUBLICS: AMENDMENT TO ARTICLE 16 OF THE DRAFT INTERNATIONAL COVENANT ON HUMAN RIGHTS' is one heading over two lines; the database cuts it into two headings (0002 and 0003)."
+},
+{
+"type": "wrong_kind",
+"segment_id": "e_cn.4_ac.1_33-0005",
+"detail": "'Article 16:' is the end of the sentence 'The following text is proposed to replace the existing text of Article 16:' (0004), not a heading. It is cut off and marked as a heading."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "e_cn.4_ac.1_33-0006",
+"detail": "The proposed text ends with 'public morality.\"' on the page. The segment's ending adds OCR garbage ('me seats EL TDA ttn Sibgjete Datheet'), apparently from the RECEIVED / UN Archives stamp at the foot of the page."
+}
+]
+},
+{
+"label": "old",
+"i": 8,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_l.923-0003",
+"detail": "Footnote at page foot ('1/ Official Records of the Economic and Social Council, eighteenth session, Supplement No. 7, Annex I (E/2573)') is left inside the paragraph segment instead of its own footnote segment."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_l.923-0003",
+"detail": "Printer's job number '61-23789' (plus stray 'Ag.' from handwritten '1p.') is at the end of the paragraph segment's text."
+},
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_l.923-0003",
+"detail": "Second line of the underlined title, 'Covenant on Civil and Political Rights 1/', is in the paragraph segment. The heading segment 0002 stops at 'of the draft -'."
+}
+]
+},
+{
+"label": "old",
+"i": 9,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "false_split",
+"segment_id": "a_c.3_335-0003",
+"detail": "The underlined two-line heading 'Uruguay: Text proposed to replace paragraph 3 / of article 19 of the draft Declaration (E/800)' is one heading; its second line is a separate segment of kind paragraph."
+},
+{
+"type": "text_missing",
+"segment_id": "a_c.3_335-0004",
+"detail": "The proposed text ends 'freely established by the will of the people.\"' but the segment ends at 'freely established', and the final line is in no segment."
+}
+]
+},
+{
+"label": "old",
+"i": 10,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "text_missing",
+"segment_id": "a_c.3_l.818-0002",
+"detail": "Underlined title has three lines; heading segment holds only the first line, and the middle line 'by Israel (A/C.3/L.795/Rev.2) to article 14 of' appears in no segment (0003 starts with the third line)."
+},
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_l.818-0003",
+"detail": "The title's last line 'the draft Covenant on Civil and Political Rights' is in a paragraph segment, joined to the underlined subheading 'Paragraph (e) of revised amendments of Israel', instead of in the heading 0002."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_l.818-0005",
+"detail": "Ending carries the end-mark dashes and the printer's job number 59-28353 at the foot of the page, OCR'd as '0 we ae an oe 5928355'."
+}
+]
+},
+{
+"label": "old",
+"i": 11,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "false_split",
+"segment_id": "a_c.3_sc.4_5_rev.1-0003",
+"detail": "The underlined two-line heading 'Cuba: Amendment to the additional article, to become / paragraph 2 of Article 2' is cut in two. Its second line is in a paragraph segment together with the quote's number '\"2.', which is cut off from its text in 0004."
+},
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_sc.4_5_rev.1-0003",
+"detail": "'paragraph 2 of Article 2' is the second line of the underlined heading, but it is marked as a paragraph instead of being part of heading 0002."
+}
+]
+},
+{
+"label": "new",
+"i": 0,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "other",
+"segment_id": "a_c.3_l.795_rev.2-0007",
+"detail": "Amendments (c) and (d) are two separate lettered items on the page but sit in one paragraph segment. (a) and (b) each get their own segments, so (d) should start a new one."
+},
+{
+"type": "text_missing",
+"segment_id": null,
+"detail": "The title 'DRAFT INTERNATIONAL COVENANTS ON HUMAN RIGHTS' (with 'Fourteenth session, Third Committee, Agenda item 34') is in no listed segment. Item 0 had no image; I checked a render of data/raw page 1."
+}
+]
+},
+{
+"label": "new",
+"i": 1,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_sc.4_5-0003",
+"detail": "The amendment paragraph ends with 'ad', which is the typist's initials 'dd' printed at the foot of the page, not part of the amendment text ending '...or trust territory.'"
+}
+]
+},
+{
+"label": "new",
+"i": 2,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_l.919-0003",
+"detail": "Footnote 1/ at foot of page ('Official Records of the Economic and Social Council, eighteenth session, Supplement No. 7, Annex I (E/2573)') is left at the end of the amendment paragraph instead of its own footnote segment."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_l.919-0003",
+"detail": "Printer's job number '61-23579' and handwritten '1p.' (OCR '6123579 Ap.') plus debris 'one we V' are left in the paragraph's ending."
+}
+]
+},
+{
+"label": "new",
+"i": 3,
+"page_ok": true,
+"speeches_on_image": 0,
+"errors": []
+},
+{
+"label": "new",
+"i": 4,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "other",
+"segment_id": "e_1992-0862",
+"detail": "Page is an annex list of documents (symbol | title, two columns), no speeches. All left-column symbols (589-606/Rev.1) are lumped into one paragraph segment, cut off from the titles they belong to."
+},
+{
+"type": "false_split",
+"segment_id": "e_1992-0875",
+"detail": "E/CN.4/598 title 'Yugoslavia: amendment to the United States of America proposal concerning the right to education' split into heading 0875 and paragraph 0876 at a line break."
+},
+{
+"type": "false_split",
+"segment_id": "e_1992-0882",
+"detail": "E/CN.4/603 title split mid-line into heading 0882 ('...to the United') and paragraph 0883 ('States of America proposal on the right to own property')."
+},
+{
+"type": "false_split",
+"segment_id": "e_1992-0886",
+"detail": "E/CN.4/606 title split: heading 0886 ends '...to the United'; its rest opens paragraph 0887, which also takes the 606/Rev.1 'Ditto' and the right-column symbols 607-621."
+},
+{
+"type": "false_split",
+"segment_id": "e_1992-0894",
+"detail": "E/CN.4/611 Sweden title split into heading 0894 and paragraph 0895 at a line break."
+},
+{
+"type": "false_split",
+"segment_id": "e_1992-0904",
+"detail": "E/CN.4/620 UK title split into heading 0904 ('amendments to Danish-') and paragraph 0905 ('French proposals...'); likewise 619 India title ends in 0903 'on Human Rights Ditto'."
+},
+{
+"type": "other",
+"segment_id": "e_1992-0898",
+"detail": "Two list entries merged: 'Ditto' (E/CN.4/613/Rev.1) and the USSR amendment (E/CN.4/614) in one paragraph segment."
+},
+{
+"type": "other",
+"segment_id": "e_1992-0900",
+"detail": "Entries E/CN.4/616 (Chile-Egypt-Guatemala), 617 (Compilation of articles 26-41) and the two Dittos (617/Corr.1, 617/Add.1) merged into one paragraph."
+},
+{
+"type": "wrong_kind",
+"segment_id": "e_1992-0863",
+"detail": "Document-list entries (document titles) are marked heading, inconsistently with other entries marked paragraph; they are not agenda or article headings."
+}
+]
+},
+{
+"label": "new",
+"i": 5,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "e_cn.4_l.56-0003",
+"detail": "The amendment paragraph ends with 'i ee 52-1878', which is the printer's job number (52-41878) at the foot of the page plus stray OCR noise. Neither is part of the amendment text."
+}
+]
+},
+{
+"label": "new",
+"i": 6,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "other",
+"segment_id": "a_c.3_234-0003",
+"detail": "The amendment sentence 'In the second sentence of this article, delete the words \"by nature\"' is broken up: 'second In the' and '\"by n ture\"' sit inside the masthead paragraph, and only the middle part is in 0006."
+},
+{
+"type": "text_missing",
+"segment_id": "a_c.3_234-0006",
+"detail": "The amendment paragraph has only 'sentence of this article, delete the words'. Its opening 'In the second' and the quoted words 'by nature' are missing from it."
+},
+{
+"type": "wrong_kind",
+"segment_id": "a_c.3_234-0003",
+"detail": "The title line 'DRAFT INTERNATIONAL DECLARATION' sits inside the masthead paragraph, while its second line 'OF HUMAN RIGHTS' is a separate heading. The title is split across two segments."
+},
+{
+"type": "other",
+"segment_id": "a_c.3_234-0002",
+"detail": "The 'Article 1' heading comes before the masthead and the title, but on the image it is printed below the Belgian amendment heading, just above the amendment text."
+}
+]
+},
+{
+"label": "new",
+"i": 7,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "wrong_kind",
+"segment_id": "e_cn.4_ac.1_33-0004",
+"detail": "'Article 16:' ends the sentence 'The following text is proposed to replace the existing text of Article 16:'; it is not a heading. The paragraph is cut in two (0003 + 0004)."
+},
+{
+"type": "header_or_footer_in_text",
+"segment_id": "e_cn.4_ac.1_33-0005",
+"detail": "Ending carries OCR debris 'me seats EL TDA ttn Sibgjete Datheet', the archive's 'RECEIVED MAY 14 1948 United Nations Archives' stamp, not text of the amendment."
+}
+]
+},
+{
+"label": "new",
+"i": 8,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_l.923-0003",
+"detail": "Footnote 1/ at the foot of the page ('Official Records of the Economic and Social Council, eighteenth session, Supplement No. 7, Annex I (E/2573)') sits inside the amendment paragraph, with trailing 'Ag.' debris; it should be its own footnote segment."
+}
+]
+},
+{
+"label": "new",
+"i": 9,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "text_missing",
+"segment_id": "a_c.3_335-0003",
+"detail": "The proposed text ends on the page with a third line, 'by the will of the people.\"'. The segment's whole text (150 chars, opening = ending) stops at 'freely established', so that last line is in no segment."
+}
+]
+},
+{
+"label": "new",
+"i": 10,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "header_or_footer_in_text",
+"segment_id": "a_c.3_l.818-0005",
+"detail": "Segment ends with '0 we ae an oe 5928355': the closing dash rule and the printer's job number 59-28353 at the foot of the page are left in the quoted paragraph text."
+},
+{
+"type": "text_missing",
+"segment_id": "a_c.3_l.818-0002",
+"detail": "The printed title's middle line is 'by Israel (A/C.3/L.795/Rev.2) to article 14 of'. The heading reads 'submitted the draft Covenant', so the line is missing here and appears in no listed segment."
+}
+]
+},
+{
+"label": "new",
+"i": 11,
+"page_ok": false,
+"speeches_on_image": 0,
+"errors": [
+{
+"type": "false_split",
+"segment_id": "a_c.3_sc.4_5_rev.1-0003",
+"detail": "The page prints one amendment paragraph: '\"2. There may also not be any distinction ... belongs\".' The segments cut its number '\"2.' off into a paragraph of its own (0003), apart from the text in 0004."
+}
+]
+}
+]
