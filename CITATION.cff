@@ -14,7 +14,7 @@ license: CC-BY-NC-SA-4.0
 identifiers:
   - type: doi
     value: "10.5281/zenodo.23940406"
-    description: "The code, tests and method documentation (all versions; v0.9 is 10.5281/zenodo.23940407)"
+    description: "The code, tests and method documentation (all versions; v0.9 is 10.5281/zenodo.23940407, v0.9.1 is 10.5281/zenodo.23965665)"
 repository-code: "https://github.com/lszoszk/travaux-preparatoires"
 url: "https://lszoszk.github.io/travaux-preparatoires/"
 abstract: "The meeting records of the drafting of the Universal Declaration of Human Rights (1946-48) and the two International Covenants (1949-66), divided into speeches with speaker, delegation, date, final article and the UN's page pinpoint. A working edition."
