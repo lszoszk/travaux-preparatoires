@@ -46,6 +46,8 @@ of the UN record, so that the reader can always check the original.
 It was built by the author as research of his own at the Faculty of Law and Administration, Adam Mickiewicz University,
 without external funding. The computing for the reading of the scans by a vision model was provided by Kaggle (free GPU
 time) and by the PLGrid infrastructure (grant PLG/2026/020181, ACK Cyfronet AGH).
+We gratefully acknowledge Polish high-performance computing infrastructure PLGrid (HPC Centers: ACK Cyfronet AGH) for
+providing computer facilities and support within computational grant no. PLG/2026/020181.
 
 ## Composition
 

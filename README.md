@@ -37,6 +37,10 @@ are permitted; commercial use needs a separate licence from the author. What the
 CC BY-NC-SA 4.0 (`DATA_LICENSE.md`); the text of the UN documents stays under the UN's terms. See `NOTICE`. (v0.9 was
 released under MIT for the code and CC BY-NC 4.0 for the data.)
 
+## Acknowledgements
+
+We gratefully acknowledge Polish high-performance computing infrastructure PLGrid (HPC Centers: ACK Cyfronet AGH) for providing computer facilities and support within computational grant no. PLG/2026/020181.
+
 ## Layout
 
 ```
