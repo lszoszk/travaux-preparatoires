@@ -11,6 +11,11 @@ authors:
     affiliation: "Adam Mickiewicz University, Poznań"
     orcid: "https://orcid.org/0000-0001-6671-2893"
 license: CC-BY-NC-4.0
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23940406"
+    description: "The code, tests and method documentation (all versions; v0.9 is 10.5281/zenodo.23940407)"
+repository-code: "https://github.com/lszoszk/travaux-preparatoires"
 url: "https://lszoszk.github.io/travaux-preparatoires/"
 abstract: "The meeting records of the drafting of the Universal Declaration of Human Rights (1946-48) and the two International Covenants (1949-66), divided into speeches with speaker, delegation, date, final article and the UN's page pinpoint. A working edition."
 keywords:

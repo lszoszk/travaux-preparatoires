@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23940406.svg)](https://doi.org/10.5281/zenodo.23940406)
+
 > **This repository** holds the code (pipeline, API, MCP server, site), the tests and the documentation of the method of the
 > database at https://150.254.115.204/travaux/. The corpus itself (the records' text, the database file, the evaluation samples
 > and gold sets that quote it) is not here: read it in the site, or, from a program or an AI assistant, through the MCP server
