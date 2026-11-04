@@ -25,22 +25,23 @@ def main():
 <link rel="stylesheet" href="{(ROOT / 'site' / 'assets' / 'fonts.css').as_uri()}">
 <style>
   body{{margin:0;width:1200px;height:630px;background:#faf8f3;color:#24232a;font-family:'Source Serif 4',Georgia,serif;
-    border-left:16px solid #8d2f2f;box-sizing:border-box;padding:70px 90px 0 75px;position:relative}}
-  h1{{font-family:'Spectral',Georgia,serif;font-weight:500;font-size:76px;margin:0 0 22px;letter-spacing:-.5px}}
+    border-left:16px solid #2a4a88;box-sizing:border-box;padding:70px 90px 0 75px;position:relative}}
+  h1{{font-family:'Spectral',Georgia,serif;font-weight:500;font-size:76px;margin:0 0 22px;letter-spacing:-.5px;display:flex;align-items:center;gap:26px}}
+  h1 svg{{width:74px;height:74px;flex:none}}
   hr{{border:0;border-top:2px solid #ddd5c6;margin:0 0 26px}}
   p{{font-style:italic;font-size:38px;line-height:1.35;margin:0 0 26px;color:#2b2e35}}
   .bars{{display:flex;align-items:flex-end;gap:6px;height:110px;border-bottom:2px solid #ddd5c6}}
-  .bars i{{flex:1;background:#8d2f2f;opacity:.78}}
+  .bars i{{flex:1;background:#2a4a88;opacity:.78}}
   .cap,.views,.url{{font-family:'JetBrains Mono',monospace;font-size:19px;font-weight:600;letter-spacing:.3px}}
   .cap{{color:#60636a;margin-top:12px}}
-  .views{{color:#8d2f2f;margin-top:30px;text-transform:uppercase;letter-spacing:1.2px}}
+  .views{{color:#2a4a88;margin-top:30px;text-transform:uppercase;letter-spacing:1.2px}}
   .url{{color:#60636a;position:absolute;bottom:34px}}
 </style></head><body>
-<h1>UN Travaux Préparatoires</h1><hr>
+<h1>{(ROOT / 'site' / 'assets' / 'favicon.svg').read_text()}UN Travaux Préparatoires</h1><hr>
 <p>How the Universal Declaration and the two Covenants were drafted, speech by speech.</p>
 <div class="bars">{bars}</div>
 <div class="cap">{speeches:,} speeches · {docs:,} UN documents · 1946–1966</div>
-<div class="views">Search · Ask · Articles · Delegations · Votes</div>
+<div class="views">Search · Ask · Check · Articles · Delegations · Votes</div>
 <div class="url">Adam Mickiewicz University · not an official UN product</div>
 </body></html>"""
     with sync_playwright() as p:

@@ -30,3 +30,11 @@ dist/
 
 # The public site's author, contact and address (deploy/site_config.example.json): filled in on the laptop, not committed
 deploy/site_config.json
+# the teaser film: renders, build products, voice takes and local tool installs (teaser/README in docs/teaser_film_plan.md)
+teaser/out/
+teaser/films/*/build/
+teaser/node_modules/
+teaser/.venv
+teaser/audio/vo_*/
+# the scans the film shows: made from data/ocr by teaser/films/*/data/prep_data.py
+teaser/films/*/img/

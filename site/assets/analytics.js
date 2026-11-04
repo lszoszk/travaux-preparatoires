@@ -171,7 +171,7 @@
       ".tx-consent p{flex:1 1 320px;margin:0}.tx-consent-actions{display:flex;gap:.5rem}" +
       ".tx-consent button,.tx-consent-ui button{font:inherit;padding:.4rem 1.1rem;cursor:pointer;border:1px solid var(--ink);" +
       "background:transparent;color:var(--ink)}.tx-consent button:hover,.tx-consent-ui button:hover{background:var(--ink);color:var(--paper)}" +
-      ".tx-consent a{color:var(--garnet)}.tx-consent-ui{margin:.8rem 0;padding:.75rem 1rem;border:1px solid var(--rule);font-size:.92rem}" +
+      ".tx-consent a{color:var(--accent)}.tx-consent-ui{margin:.8rem 0;padding:.75rem 1rem;border:1px solid var(--rule);font-size:.92rem}" +
       ".tx-consent-ui p{margin:0 0 .5rem}@media print{.tx-consent{display:none}}";
     document.head.appendChild(st);
   }
@@ -245,7 +245,7 @@
       "#who-card h2{font-size:14px;margin:0 22px 2px 0;font-weight:650}#who-card p{margin:0 0 8px;color:var(--ink-3);font-size:12.5px}" +
       "#who-card .who-roles{display:flex;flex-wrap:wrap;gap:6px}#who-card .who-roles button{font:inherit;font-size:12.5px;border:1px solid var(--rule);" +
       "background:var(--paper-2);color:inherit;border-radius:999px;padding:4px 10px;cursor:pointer}" +
-      "#who-card .who-roles button:hover,#who-card .who-roles button:focus-visible{border-color:var(--garnet);color:var(--garnet)}" +
+      "#who-card .who-roles button:hover,#who-card .who-roles button:focus-visible{border-color:var(--accent);color:var(--accent)}" +
       "#who-card .who-x{position:absolute;top:6px;right:8px;border:0;background:none;font-size:18px;line-height:1;color:var(--ink-3);cursor:pointer;padding:4px}" +
       "@media print{#who-card{display:none}}";
     document.head.appendChild(st);

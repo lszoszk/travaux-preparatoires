@@ -464,7 +464,7 @@ async function openRecord(symbol, segId, push = false, focusReader = false) {
     $("reader").innerHTML = `
       <div class="dossier-head">
         <button type="button" class="btn btn-ghost dossier-back" data-close-reader>← Results</button>
-        <div class="folio garnet">Record</div>
+        <div class="folio accent">Record</div>
         <h2>${esc(symbol)}</h2>
         <div class="meta">Not in corpus · <a href="https://undocs.org/${esc(symbol)}" target="_blank" rel="noopener">UN copy</a></div>
       </div>
@@ -505,7 +505,7 @@ async function openRecord(symbol, segId, push = false, focusReader = false) {
     <div class="dossier-head">
       <button type="button" class="btn btn-ghost dossier-back" data-close-reader>← Results</button>
       ${adjHTML}
-      <div class="folio garnet">Record</div>
+      <div class="folio accent">Record</div>
       <h2>${esc(doc.symbol)}</h2>
       <div class="meta">${esc([doc.body, doc.session, dateLabel(doc.meeting_date)].filter(Boolean).join(" · "))}
         · ${doc.n_pages ? `${doc.n_pages} pp.` : "not on ODS"}

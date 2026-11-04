@@ -21,11 +21,13 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 INTERNAL = ("docs/handover.md", "docs/project_brief_", "docs/un_library_", "docs/audit_guide_pl.md", "docs/dla_studentki_",
             "docs/plgrid_grant_wniosek.md", "docs/tester_guide.md", "docs/codex_task_", "docs/overnight/STATE.md",
-            "docs/presentation_examples.md", ".claude/", "deploy/site_config.json")
+            "docs/presentation_examples.md", ".claude/", "deploy/site_config.json",
+            "teaser/", "docs/teaser_")   # the teaser film: its own tools and a snapshot of record text (data.js)
 TREATY_TEXTS = ("data/concordance/udhr_final.json", "data/concordance/covenants_final.json")
 METHOD_DOCS = ("docs/quality_audit.md",)   # its quotations are examples of errors, as in a methods paper
 CODE = (".py", ".js", ".css", ".html", ".sh", ".yml", ".yaml", ".toml", ".cff", ".txt", ".svg")
 NAMES = {"the second annotator": "the second annotator", "annotator2": "annotator2"}
+DOI_BADGE = "[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23940406.svg)](https://doi.org/10.5281/zenodo.23940406)\n\n"
 PUBLIC_NOTE = """> **This repository** holds the code (pipeline, API, MCP server, site), the tests and the documentation of the method of the
 > database at https://150.254.115.204/travaux/. The corpus itself (the records' text, the database file, the evaluation samples
 > and gold sets that quote it) is not here: read it in the site, or, from a program or an AI assistant, through the MCP server
@@ -91,13 +93,14 @@ def main():
             for k, v in NAMES.items():
                 text = re.sub(rf"\b{k}\b", v, text)
             if f == "README.md":
-                text = PUBLIC_NOTE + text.replace("; handover: `docs/handover.md`", "")
+                text = DOI_BADGE + PUBLIC_NOTE + text.replace("; handover: `docs/handover.md`", "")
             dst.write_text(text)
         else:
             shutil.copy2(ROOT / f, dst)
     wf = a.out / ".github" / "workflows" / "pages.yml"   # the site on GitHub Pages, the app shell only
     wf.parent.mkdir(parents=True, exist_ok=True)
     shutil.copy2(ROOT / "deploy" / "github-pages-workflow.yml", wf)
+    shutil.move(a.out / "deploy" / "zenodo.json", a.out / ".zenodo.json")   # where Zenodo's GitHub release hook reads it
     print(f"copied to {a.out}")
 
 

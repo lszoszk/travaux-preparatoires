@@ -29,11 +29,11 @@
   --ink-3:        #45474f;
   --ink-4:        #60636a;
 
-  /* Accent — garnet/oxblood (used for hierarchy, never for chrome) */
-  --garnet:       oklch(45% 0.13 25);
-  --garnet-2:     oklch(38% 0.12 25);
-  --garnet-soft:  oklch(94% 0.04 25);
-  --garnet-edge:  oklch(80% 0.06 25);
+  /* Accent — ink blue, the carbon copy's (used for hierarchy, never for chrome); UNHRDB and HUDOC Researcher keep garnet */
+  --accent:       oklch(42% 0.11 262);
+  --accent-2:     oklch(35% 0.10 262);
+  --accent-soft:  oklch(94% 0.03 262);
+  --accent-edge:  oklch(80% 0.05 262);
 
   /* Functional */
   --hl:           oklch(92% 0.10 95);     /* search highlight (vellum yellow) */
@@ -66,8 +66,8 @@
   --status-neutral:      #6b6058;         /* inadmissible / discontinued / medium confidence */
   --status-neutral-soft: #f6f1ec;
   --status-neutral-edge: #b9ad9d;
-  --status-info:         #4a5d8a;         /* views / decision (no outcome label) */
-  --status-info-soft:    #f0f3fa;
+  --status-info:         oklch(46% 0.07 60);   /* the chair's turns (umber: away from the ink-blue accent) */
+  --status-info-soft:    oklch(95% 0.02 60);
   --status-warn:         #8a4a00;         /* low confidence */
   --status-warn-soft:    #fdf6ee;
   --status-warn-edge:    #c98e3f;
@@ -103,10 +103,10 @@
   --ink-3:        #9c9791;
   --ink-4:        #a39d96;
 
-  --garnet:       oklch(72% 0.11 25);
-  --garnet-2:     oklch(78% 0.10 25);
-  --garnet-soft:  oklch(28% 0.05 25);
-  --garnet-edge:  oklch(40% 0.08 25);
+  --accent:       oklch(74% 0.09 262);
+  --accent-2:     oklch(80% 0.08 262);
+  --accent-soft:  oklch(28% 0.05 262);
+  --accent-edge:  oklch(40% 0.07 262);
 
   --hl:           oklch(40% 0.08 95);
   --hl-edge:      oklch(55% 0.10 95);
@@ -127,8 +127,8 @@
   --status-neutral:      oklch(72% 0.02 75);
   --status-neutral-soft: oklch(24% 0.012 75);
   --status-neutral-edge: oklch(45% 0.02 75);
-  --status-info:         oklch(74% 0.07 270);
-  --status-info-soft:    oklch(26% 0.03 270);
+  --status-info:         oklch(76% 0.07 60);
+  --status-info-soft:    oklch(26% 0.03 60);
   --status-warn:         oklch(74% 0.11 70);
   --status-warn-soft:    oklch(25% 0.04 70);
   --status-warn-edge:    oklch(50% 0.08 70);
@@ -159,7 +159,7 @@ body {
 .smallcaps    { font-variant-caps: all-small-caps; letter-spacing: 0.08em; }
 .tnum         { font-feature-settings: "tnum"; }
 
-.garnet       { color: var(--garnet); }
+.accent       { color: var(--accent); }
 .muted        { color: var(--ink-3); }
 .dim          { color: var(--ink-4); }
 
@@ -206,12 +206,12 @@ mark.hl {
   background: transparent;
 }
 .btn-ghost:hover { background: var(--paper-3); color: var(--ink); border-color: var(--ink-3); }
-.btn-garnet {
-  border-color: var(--garnet);
-  background: var(--garnet);
+.btn-accent {
+  border-color: var(--accent);
+  background: var(--accent);
   color: var(--paper);
 }
-.btn-garnet:hover { background: var(--garnet-2); border-color: var(--garnet-2); }
+.btn-accent:hover { background: var(--accent-2); border-color: var(--accent-2); }
 .btn-block { width: 100%; display: block; }
 
 /* Chips */
@@ -231,7 +231,7 @@ mark.hl {
 }
 .chip:hover { border-color: var(--ink-3); }
 .chip.on { background: var(--ink); color: var(--paper); border-color: var(--ink); }
-.chip.garnet { background: var(--garnet-soft); color: var(--garnet); border-color: var(--garnet-edge); }
+.chip.accent { background: var(--accent-soft); color: var(--accent); border-color: var(--accent-edge); }
 
 /* Source-type badges */
 .badge {
@@ -289,6 +289,6 @@ mark.hl {
 
 @keyframes blink { 50% { opacity: 0; } }
 .caret::after {
-  content: "▍"; color: var(--garnet);
+  content: "▍"; color: var(--accent);
   margin-left: 2px; animation: blink 1s steps(1) infinite;
 }

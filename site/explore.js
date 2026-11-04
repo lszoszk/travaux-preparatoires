@@ -110,7 +110,7 @@ async function renderArticles(h) {
   if (my !== viewToken) return;
   const tabs = Object.keys(INSTR).map((i) => `<a class="tab${i === inst ? " on" : ""}" href="#view=articles&i=${i}">${i}</a>`).join("");
   $("articles-page").innerHTML = `
-    <div class="folio garnet">Articles</div>
+    <div class="folio accent">Articles</div>
     <h2 class="serif page-title">${inst === "UDHR" ? "The Declaration" : "The " + inst}, article by article</h2>
     <div class="tabs">${tabs}</div>
     <p class="page-lede">For each article: its text at each drafting stage, the meetings that debated it, who spoke, the votes and the amendments.</p>
@@ -153,7 +153,7 @@ async function renderArticle(inst, n) {
     <a href="#view=articles&i=${inst}">All ${inst} articles</a>${n < INSTR[inst].count ? `<a href="${base}${n + 1}">Art. ${n + 1} →</a>` : "<span></span>"}</div>`;
   $("article-page").innerHTML = `
     ${prevNext}
-    <div class="folio garnet">${esc(INSTR[inst].name)} · Article ${n}</div>
+    <div class="folio accent">${esc(INSTR[inst].name)} · Article ${n}</div>
     <h2 class="serif page-title">${esc(a.title)}</h2>
     <blockquote class="final-text serif">${esc(a.final_text)}</blockquote>
     <p class="page-lede"><a class="btn btn-ghost" href="#view=search&instrument=${inst}&article=${n}&kind=speech">Search the ${a.delegations.reduce((s, d) => s + d.speeches, 0)} speeches on this article →</a></p>
@@ -191,7 +191,7 @@ async function renderDelegations() {
   const ds = await getJSON("/api/actors");
   if (my !== viewToken) return;
   $("delegations-page").innerHTML = `
-    <div class="folio garnet">Delegations</div>
+    <div class="folio accent">Delegations</div>
     <h2 class="serif page-title">Who spoke, and how they voted</h2>
     <p class="page-lede">States and organisations with speeches in the records. Open one for its delegates, the articles it spoke on,
       the amendments it proposed and its roll-call votes.</p>
@@ -219,7 +219,7 @@ async function renderDelegation(d, sp) {
   voted.forEach((v) => tally[v.voted]++);
   $("delegation-page").innerHTML = `
     <div class="art-nav"><a href="#view=delegations">← All delegations</a>${sp ? `<a href="${base}">${esc(d)}</a>` : ""}<span></span></div>
-    <div class="folio garnet">${sp ? `Delegate of ${esc(d)}` : "Delegation"}</div>
+    <div class="folio accent">${sp ? `Delegate of ${esc(d)}` : "Delegation"}</div>
     <h2 class="serif page-title">${esc(sp ? nameCase(sp) : d)}</h2>
     <p class="page-lede"><a class="btn btn-ghost" href="${searchHref}">Read the ${a.speakers.reduce((s, x) => s + x.speeches, 0)} speeches →</a></p>
     ${sp ? "" : section("Delegates", `<table class="data"><thead><tr><th>Name (as the records print it)</th><th class="num">Speeches</th><th class="num">Records</th><th>First – last</th></tr></thead>
@@ -258,7 +258,7 @@ async function renderVotes(h, append = false) {
   if (my !== viewToken) return;
   if (!append) {
     $("votes-page").innerHTML = `
-      <div class="folio garnet">Votes</div>
+      <div class="folio accent">Votes</div>
       <h2 class="serif page-title">Every vote in the records</h2>
       <p class="page-lede">What was put to the vote, the outcome and the figures, as the records report them; roll-calls with each delegation's vote.</p>
       <div class="xfilters">
@@ -332,7 +332,7 @@ async function renderAmendments(h) {
   if (my !== viewToken) return;
   const as = first.results;
   $("amendments-page").innerHTML = `
-    <div class="folio garnet">Amendments</div>
+    <div class="folio accent">Amendments</div>
     <h2 class="serif page-title">Amendments and proposals</h2>
     <p class="page-lede">Documents the records cite as an amendment or proposal, with the delegation named with them, the articles
       they were debated under and the votes that name them.</p>
@@ -497,7 +497,7 @@ async function renderAbout() {
   const part = h.get("part") || (h.get("sec") === "mcp" ? "mcp" : "");
   const back = `<p class="about-back"><a href="#view=about">← About</a></p>`;
   if (part === "news") {
-    $("about-page").innerHTML = `<div class="folio garnet">About</div>${back}
+    $("about-page").innerHTML = `<div class="folio accent">About</div>${back}
     <h2 class="serif page-title">What is new</h2>
     <p class="page-lede">The changes a reader will notice, newest first. Every change to the data, with how it was measured, is in the
       <a href="#view=about&part=methods">build log</a>.</p>
@@ -505,7 +505,7 @@ async function renderAbout() {
     return;
   }
   if (part === "mcp") {
-    $("about-page").innerHTML = `<div class="folio garnet">About</div>${back}
+    $("about-page").innerHTML = `<div class="folio accent">About</div>${back}
     ${section("Use it from your AI assistant (MCP &amp; Claude Skill)", `<p>The database is also exposed as a
       <a href="https://modelcontextprotocol.io/" target="_blank" rel="noopener">Model Context Protocol</a> (MCP) server, so Claude (or any MCP-capable assistant)
       can search speeches, read full meeting records, trace how an article's draft text evolved, inspect a delegation's speeches and roll-call votes, and verify citations directly against the 2,160 UN records instead of relying on memory. Programs and AI agents should use
@@ -550,7 +550,7 @@ async function renderAbout() {
     return;
   }
   if (part === "methods") {
-    $("about-page").innerHTML = `<div class="folio garnet">About</div>${back}
+    $("about-page").innerHTML = `<div class="folio accent">About</div>${back}
     <h2 class="serif page-title">Methods and build log</h2>
     <p class="page-lede">The full account behind the short version on the About page: every quality figure, how each layer is made,
       the AI work that built the database, and the mistakes found on the way.</p>
@@ -639,7 +639,7 @@ async function renderAbout() {
   }
   const a = q.audit;
   $("about-page").innerHTML = `
-    <div class="folio garnet">About</div>
+    <div class="folio accent">About</div>
     <h2 class="serif page-title">What this is, and how far to trust it</h2>
     <p class="page-lede">A speech-level companion to the drafting records of the Universal Declaration of Human Rights
       (1946–48) and the two International Covenants (1949–66), built from the UN's own documents: who spoke, for which

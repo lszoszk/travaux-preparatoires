@@ -21,7 +21,7 @@ function renderAsk(h) {
   if (!$("ask-examples").children.length) {
     $("ask-examples").innerHTML = ASK_EXAMPLES.map((x, i) => `<li><button type="button" class="ask-example" data-ask-example="${i}">
       <span class="ask-ex-n">${String(i + 1).padStart(2, "0")}</span>
-      <span class="ask-ex-body"><span class="ask-ex-title">${esc(x.title)} <span class="chip garnet">${esc(x.tag)}</span></span>
+      <span class="ask-ex-body"><span class="ask-ex-title">${esc(x.title)} <span class="chip accent">${esc(x.tag)}</span></span>
         <span class="ask-ex-q">${esc(x.q)}</span></span></button></li>`).join("");
   }
   const q = h.get("qa") || "";
