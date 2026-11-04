@@ -3,14 +3,15 @@
 
   ssh -t amuvmuser@150.254.115.204 'sudo python3 /home/amuvmuser/travaux/open_vm.py'
   ssh -t amuvmuser@150.254.115.204 'sudo python3 /home/amuvmuser/travaux/open_vm.py --undo'
+  ssh -t amuvmuser@150.254.115.204 'sudo python3 /home/amuvmuser/travaux/open_vm.py --message'   # the 403's wording, the crawlers
 
 People read the database in the site; programs and AI agents use the MCP server (/travaux-api/mcp), which this leaves open.
 What it does, and nothing else (deploy/nginx_patch_vm.py wrote the locations it edits):
  1. copies /etc/nginx/sites-enabled/default to /etc/nginx/_backups/default.bak-open-<time>;
  2. takes the password (auth_basic) off /travaux/ and /travaux-api/; the site may now be indexed, the API still may not;
  3. in /travaux-api/: the data (/travaux-api/api/...) is refused (403, with a pointer to the MCP server) to cloud data centres
-    (the networks of ~/traffic-stats/nginx-cloud-nets.inc, as the paid Ask questions of UNHRDB already are) and to known AI
-    crawlers and scripting clients by their User-Agent; Ask questions are capped at 30 a minute in all, records and exports at
+    (the networks of ~/traffic-stats/nginx-cloud-nets.inc, as the paid Ask questions of UNHRDB already are) and to crawlers by
+    their User-Agent (training, search and SEO crawlers; not the fetchers acting for a person in a chatbot); Ask questions are capped at 30 a minute in all, records and exports at
     20 a minute per address (the 10 a second per address of every request stays);
  4. answers /robots.txt for the whole host: /travaux/ allowed, /travaux-api/ disallowed (no other app is named, so nothing
     changes for them: a missing robots.txt allowed everything);
@@ -42,7 +43,7 @@ API_HEAD = """  location /travaux-api/ {
 """
 API_GUARD = """  location /travaux-api/ {
     # people read the data in the site; programs and AI agents use the MCP server (deploy/open_vm.py, conf.d/travaux_guard.conf)
-    if ($travaux_block) { return 403 '{"error": "The Travaux data is read in the site. Programs and AI assistants: please use the MCP server, see https://150.254.115.204/travaux/#view=about&part=mcp"}'; }
+    if ($travaux_block) { return 403 '{"error": "The Travaux data is read in the site, in a browser. If you see this in a browser, you may be connected through a VPN or a cloud service: switch it off and reload the page. Programs and AI assistants: please use the MCP server, see https://lszoszk.github.io/travaux-preparatoires/#view=about&part=mcp"}'; }
     limit_req zone=travaux_ask burst=30 nodelay;
     limit_req zone=travaux_docs burst=20 nodelay;
     limit_req_status 429;
@@ -53,10 +54,16 @@ SITE_HEAD = """  location /travaux/ {
 ROBOTS = """  location = /robots.txt { default_type text/plain; return 200 "User-agent: *\\nAllow: /travaux/\\nDisallow: /travaux-api/\\n"; }
   location = / { return 302 /travaux/; }"""
 
+# the 403's earlier wording, which --message replaces in place (no single quote in either: nginx quotes it so)
+OLD_MESSAGES = ['''{"error": "The Travaux data is read in the site. Programs and AI assistants: please use the MCP server, see https://150.254.115.204/travaux/#view=about&part=mcp"}''']
+MESSAGE = '''{"error": "The Travaux data is read in the site, in a browser. If you see this in a browser, you may be connected through a VPN or a cloud service: switch it off and reload the page. Programs and AI assistants: please use the MCP server, see https://lszoszk.github.io/travaux-preparatoires/#view=about&part=mcp"}'''
+
 GUARD_CONF = """# The Travaux DB's data kept for people and the MCP server (deploy/open_vm.py). $cloud_net comes from {geo_from}.
 {geo}map $http_user_agent $travaux_bot {{
   default 0;
-  "~*(GPTBot|ChatGPT-User|OAI-SearchBot|CCBot|ClaudeBot|Claude-Web|anthropic-ai|Bytespider|PerplexityBot|Amazonbot|Google-Extended|Applebot-Extended|meta-externalagent|FacebookBot|Diffbot|ImagesiftBot|cohere-ai|YouBot|Timpibot|omgili|DataForSeoBot|PetalBot|SemrushBot|AhrefsBot|MJ12bot|python-requests|python-urllib|aiohttp|httpx|Go-http-client|curl/|Wget|Scrapy|node-fetch|axios|okhttp|libwww-perl|Java/|HeadlessChrome|PhantomJS)" 1;
+  # crawlers only (training, search indexes, SEO): not the fetchers that act for a person in a chatbot (ChatGPT-User, Claude-User,
+  # Perplexity-User), nor a person's own scripts; clouds are refused separately ($cloud_net)
+  "~*(GPTBot|OAI-SearchBot|CCBot|ClaudeBot|Claude-SearchBot|Claude-Web|anthropic-ai|Bytespider|PerplexityBot|Amazonbot|Applebot|meta-externalagent|FacebookBot|Diffbot|ImagesiftBot|cohere-ai|cohere-training-data-crawler|YouBot|Timpibot|omgili|Scrapy|DataForSeoBot|PetalBot|SemrushBot|AhrefsBot|MJ12bot|DotBot|BLEXBot|Googlebot|bingbot|YandexBot|Baiduspider)" 1;
 }}
 # the data endpoints (not /travaux-api/mcp, /travaux-api/health or the audit panel): refused to clouds and to the agents above
 map "$cloud_net$travaux_bot:$request_uri" $travaux_block {{
@@ -90,9 +97,32 @@ def patch(text: str) -> str:
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--undo", action="store_true")
+    ap.add_argument("--message", action="store_true", help="only put the 403's current wording in place of an earlier one")
     args = ap.parse_args()
     if os.geteuid() != 0:
         sys.exit("run it with sudo")
+    if args.message:   # the 403's wording, and conf.d/travaux_guard.conf rewritten from GUARD_CONF (the list of crawlers)
+        text = SITE.read_text()
+        BACKUPS.mkdir(exist_ok=True)
+        stamp = time.strftime('%Y%m%d-%H%M%S')
+        backup, gbackup = BACKUPS / f"default.bak-message-{stamp}", BACKUPS / f"travaux_guard.conf.bak-{stamp}"
+        shutil.copy2(SITE, backup)
+        shutil.copy2(GUARD, gbackup)
+        for m in OLD_MESSAGES:
+            text = text.replace(m, MESSAGE)
+        SITE.write_text(text)
+        has_geo = ASK_GUARD.exists() and "geo $cloud_net" in ASK_GUARD.read_text()
+        GUARD.write_text(GUARD_CONF.format(geo="" if has_geo else f"geo $cloud_net {{ default 0; include {NETS}; }}\n",
+                                           geo_from=ASK_GUARD if has_geo else "the geo line below"))
+        test = subprocess.run(["nginx", "-t"], capture_output=True, text=True)
+        if test.returncode != 0:
+            shutil.copy2(backup, SITE)
+            shutil.copy2(gbackup, GUARD)
+            sys.exit("nginx -t failed, both files are back as they were:\n" + test.stderr)
+        subprocess.run(["systemctl", "reload", "nginx"], check=True)
+        print(f"done: the 403 also speaks of a VPN; only crawlers are refused by name (a person's chatbot and scripts are not); "
+              f"backups {backup}, {gbackup}")
+        return 0
     if args.undo:
         backups = sorted(BACKUPS.glob("default.bak-open-*"))
         if not backups:

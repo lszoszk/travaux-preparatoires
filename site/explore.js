@@ -509,7 +509,7 @@ async function renderAbout() {
     ${section("Use it from your AI assistant (MCP &amp; Claude Skill)", `<p>The database is also exposed as a
       <a href="https://modelcontextprotocol.io/" target="_blank" rel="noopener">Model Context Protocol</a> (MCP) server, so Claude (or any MCP-capable assistant)
       can search speeches, read full meeting records, trace how an article's draft text evolved, inspect a delegation's speeches and roll-call votes, and verify citations directly against the 2,160 UN records instead of relying on memory. Programs and AI agents should use
-      this server: the site's own data addresses are for people reading the site, and refuse scripting clients, crawlers and cloud
+      this server: the site's own data addresses are for people reading the site, and refuse crawlers and requests from cloud
       servers.</p>
       <p>Six read-only tools are provided: <code>search_travaux</code> (full-text and filter search over speeches, chair turns, votes and paragraphs),
       <code>lookup_travaux</code> (read a meeting record or document in sequence by symbol, e.g. <code>A/C.3/SR.127</code>),

@@ -1463,3 +1463,15 @@ Dates are UTC (the ledger's); commits are counted by local date.
   (https://lszoszk.github.io/travaux-preparatoires/, the app shell; the API on the VM allows that origin), and the Zenodo DOI of
   the code: 10.5281/zenodo.23940406 (all versions; v0.9 is 10.5281/zenodo.23940407; software, MIT). The laptop backup on the VM
   is complete (4.1 GB).
+- 5 Nov: the site opened (the user ran deploy/open_vm.py; backup /etc/nginx/_backups/default.bak-open-20261104-073843). From
+  outside: the site and a browser's search 200, curl's and GPTBot's search 403, health and MCP 200, robots.txt served, the
+  GitHub Pages site loads its data from the VM (CORS); the public smoke test 22/22. The health probes now go through nginx. The
+  public repository got the service notice it lacked (built before that file was committed). Measured for the user's question
+  (should UNHRDB and HUDOC Researcher refuse clouds beyond Ask too?), nginx logs of 15 days without our probes: UNHRDB search
+  367 requests (browsers 72%, scripts and bots 20%, clouds 8%, one request per cloud address), HUDOC Researcher search 311
+  (browsers 41%, scripts 59% from 4 addresses), UNHRDB's MCP server 1,489 (clouds 91%: AI assistants' connectors run there).
+- 5 Nov (the user: the 403 should speak of a VPN; refuse crawlers only, not people's chatbots): open_vm.py --message run by the
+  user. The 403 now tells a person in a browser that a VPN or cloud service may be the cause, and programs to use the MCP server;
+  the User-Agent list holds only crawlers (training, search, SEO), not the fetchers acting for a person in a chatbot (ChatGPT-User,
+  Claude-User, Perplexity-User) nor a person's scripts. From outside: GPTBot and ClaudeBot 403; ChatGPT-User, Claude-User, curl
+  and a browser 200; MCP 200; smoke 22/22. Clouds stay refused on /travaux-api/api/ only (the site, llms.txt and MCP are open).

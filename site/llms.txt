@@ -24,7 +24,7 @@ Cite the UN document by symbol and pinpoint, as given with each passage: E/CN.4/
 
 ## For AI assistants
 
-Use the MCP server: the site's data endpoints are for people reading the site, and refuse scripting clients, crawlers and cloud servers. The MCP server (tools search_travaux, lookup_travaux, article_history_travaux, delegation_travaux, decisions_travaux, amendments_travaux) and a Claude skill: {{SITE_URL}}#view=about&part=mcp
+Use the MCP server: the site's data endpoints are for people reading the site, and refuse crawlers and requests from cloud servers (a chatbot fetching a page for its user is not a crawler, but the site's data needs a browser). The MCP server (tools search_travaux, lookup_travaux, article_history_travaux, delegation_travaux, decisions_travaux, amendments_travaux) and a Claude skill: {{SITE_URL}}#view=about&part=mcp
 
 ## More
 
