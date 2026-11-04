@@ -45,6 +45,14 @@
   .tour-dots{display:flex;gap:8px}
   .tour-dots .tdot{width:7px;height:7px;padding:0;border-radius:50%;background:var(--rule)}
   .tour-dots .tdot.on{background:var(--accent)}
+  .tour-film{margin-top:16px}
+  .tour-film button{display:flex;align-items:center;gap:14px;cursor:pointer;background:none;border:1px solid var(--rule);padding:6px 14px 6px 6px;
+    text-align:left;color:var(--ink)}
+  .tour-film button:hover{border-color:var(--accent)}
+  .tour-film img{display:block;width:160px;height:90px;object-fit:cover}
+  .tour-film b{display:block;font-family:var(--body);font-weight:600;color:var(--accent)}
+  .tour-film span span{font-family:var(--mono);font-size:.66rem;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3)}
+  .tour-film video{display:block;width:100%;height:auto;aspect-ratio:16/9;background:var(--paper-3)}
   .tour-views .s{display:none}
   @media (max-width:860px){.tour-nav button:not(.tdot){min-height:36px;padding:0 4px}
     .tour-dots{gap:0}.tour-dots .tdot{width:28px;height:32px;padding:12px 10px;background-clip:content-box}}
@@ -60,6 +68,7 @@
     .tour-list{margin-top:8px}
     .tour-list li{grid-template-columns:22px 1fr;padding:6px 0;font-size:.88rem;line-height:1.4}
     .tour-views .d{display:none}.tour-views .s{display:inline}
+    .tour-film img{width:112px;height:63px}
     .tour-chips{margin-top:10px;gap:6px}
     .tour-chips button{padding:6px 8px;font-size:.7rem}
     .tour-go{gap:8px;margin-top:12px}
@@ -82,7 +91,10 @@
          <div><b>${fmt(speeches)}</b><span>speeches</span></div>
          <div><b>${fmt(votes)}</b><span>decisions and votes</span></div>
          <div><b>1946–66</b><span>years covered</span></div>
-       </div>`,
+       </div>
+       ${typeof FILM === "undefined" ? "" : `<div class="tour-film"><button type="button" data-tour-film>
+         <img src="${FILM.poster}" alt="" width="160" height="90"><span><b>▶ The database in 90 seconds</b><span>a short film, with subtitles</span></span>
+       </button></div>`}`,
       `<div class="tour-kicker">The views</div>
        <h2 class="tour-h">Seven ways in.</h2>
        <ul class="tour-list tour-views">
@@ -161,6 +173,11 @@
       if (dot) return go(Number(dot.dataset.i));
       if (e.target.id === "tour-skip") return close();
       if (e.target.id === "tour-next") return index >= html.length - 1 ? close() : go(index + 1);
+      const film = e.target.closest("[data-tour-film]");
+      if (film) {
+        film.parentElement.innerHTML = `<video controls autoplay playsinline poster="${FILM.poster}" src="${FILM.src}"></video>`;
+        return;
+      }
       const ex = e.target.closest("[data-tour-q]");
       if (ex) {
         close();
@@ -177,6 +194,7 @@
   function go(i) {
     const n = wrap.querySelectorAll(".tslide").length;
     index = Math.max(0, Math.min(n - 1, i));
+    wrap.querySelectorAll("video").forEach((v) => v.pause());
     wrap.querySelectorAll(".tslide").forEach((s, k) => s.classList.toggle("on", k === index));
     wrap.querySelectorAll(".tdot").forEach((d, k) => d.classList.toggle("on", k === index));
     wrap.querySelector("#tour-next").textContent = index === n - 1 ? "Start exploring" : "Next →";
@@ -196,6 +214,7 @@
   function close() {
     if (!wrap) return;
     wrap.classList.remove("open");
+    wrap.querySelectorAll("video").forEach((v) => v.pause());
     document.documentElement.style.overflow = "";
     try { localStorage.setItem(DONE_KEY, "1"); } catch (_) { /* private mode: it may open again next time */ }
     if (lastFocus && lastFocus.focus) lastFocus.focus();

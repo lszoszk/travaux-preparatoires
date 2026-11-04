@@ -1,6 +1,8 @@
 // Travaux DB frontend: search over speeches, a record reader (dossier), a records list and
 // a workspace of saved passages. State lives in the URL hash, so any view can be linked.
 const $ = (id) => document.getElementById(id);
+// the 90-second film (About, and the tour's first slide): played from the author's site on GitHub Pages, which serves byte ranges
+const FILM = { src: "https://lszoszk.github.io/assets/video/travaux-film.mp4", poster: "assets/film-poster.jpg" };
 const CFG = { api: "", scans: "local", label: "working edition", version: "", author: "", affiliation: "", contact: "", url: "", ...(window.TRAVAUX || {}) };
 const API = CFG.api;
 if (CFG.title) document.title = CFG.title;

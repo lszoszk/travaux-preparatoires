@@ -474,6 +474,11 @@ ol.mcp-steps > li { margin-bottom: 12px; }
 }
 /* the tour's link on the About page (site/assets/tour.js) */
 .about-tour { margin: 6px 0 14px; color: var(--ink-2); }
+.about-film { margin: 4px 0 22px; max-width: 760px; }
+.about-film video { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; background: var(--paper-3); border: 1px solid var(--rule); }
+.about-film figcaption { margin-top: 6px; font-size: .85rem; color: var(--ink-3); }
+.about-film details { margin-top: 4px; color: var(--ink-2); }
+.about-film summary { cursor: pointer; color: var(--accent); }
 .linklike { font: inherit; color: var(--accent); background: none; border: 0; padding: 0; cursor: pointer; text-decoration: underline;
   text-underline-offset: 2px; }
 /* What is new (About, part=news) */

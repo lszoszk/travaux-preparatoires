@@ -465,7 +465,9 @@ function ledgerHTML(L) {
 }
 // What is new, for readers (the full record of every change is the build log, docs/devlog.md): newest first.
 const NEWS = [
-  ["5 November 2026", `<b>Check</b>: paste a text that cites the drafting records, and every UN symbol in it is held against the record
+  ["4 November 2026", `A 90-second <b>film</b> on what the database is and how far to trust it, here on the About page and at the start of
+    the tour. The site also has its own mark, square brackets (text not yet agreed), and its own colour, ink blue.`],
+  ["4 November 2026", `<b>Check</b>: paste a text that cites the drafting records, and every UN symbol in it is held against the record
     it names (the document, the page or paragraph, the delegate named, and the quotation before it). The article pages list the
     documents on an article by date.`],
   ["4 November 2026", `<b>Ask</b>, a search by meaning (experimental): put a question in a sentence and get the passages closest to it,
@@ -646,6 +648,11 @@ async function renderAbout() {
       delegation, on which article, with the page of the UN record beside it.</p>
     <p class="about-tour">New here? <button type="button" class="linklike" data-tour-open>Take the one-minute tour</button> (it is also
       in the footer, ✦ Tour). <a href="#view=about&part=news">What is new</a>: ${esc(NEWS[0][0])}.</p>
+    <figure class="about-film" id="about-film">
+      <video controls preload="none" playsinline poster="${FILM.poster}" src="${FILM.src}"></video>
+      <figcaption>The database in 90 seconds (English subtitles; the narration is voiced with AI, ElevenLabs). The film shows the counts of
+        4 November 2026. <details><summary>Transcript</summary><p>The Universal Declaration of Human Rights and the two Covenants were drafted at the United Nations between 1946 and 1966, and the drafting records run to more than eighteen thousand pages. To find who said what, and why a provision reads as it does, one reads them page by page. UN Travaux Préparatoires, an independent resource built from the UN's own documents, divides them into speeches, each with its speaker, delegation, date, article and page.</p><p>Search opens every result in its record, at its page, with a ready citation and a link to the UN copy. Each article can be followed through the drafting: its text at every stage, the meetings that debated it, and every vote, by name where the record gives one. Ask takes a question in plain words and returns the passages closest to it in meaning, even when the delegates used other words.</p><p>Summary records paraphrase the speakers, the text is machine-read, and about one article tag in twenty is wrong: the About page gives every figure, and every passage links to the scan. AI brings new risks, such as invented quotations, and two tools answer them.</p><p>Check holds every citation and quotation in your draft against the record it names. Through the MCP server and the Claude skill, your AI assistant cites the records by symbol and page, instead of from memory. The UN document remains the authority, one click away from every speech.</p></details></figcaption>
+    </figure>
     <p class="disclaimer"><b>Not an official United Nations product.</b> This is an independent research resource. It is not produced, endorsed or
       maintained by the United Nations or its Dag Hammarskjöld Library. The documents are the UN's; the passages here are machine-read text of
       them, and the UN copy linked on every passage is the authority.</p>
@@ -702,7 +709,8 @@ async function renderAbout() {
       used and where it needs work, it keeps counts, never a profile of anyone. A cookie-free counter (GoatCounter) records which
       view is opened (Search, Ask, Articles and so on), the site a visit came from and the screen size; it never receives the words
       of a search, a question, a filter or the records you open, and it sends nothing when your browser asks not to be tracked (Do
-      Not Track, Global Privacy Control). ${(CFG.analytics || {}).ga4 ? `Google Analytics runs only if you allow it in the banner,
+      Not Track, Global Privacy Control). The film on this page plays from the author's site on GitHub Pages (lszoszk.github.io),
+      and only once you press play. ${(CFG.analytics || {}).ga4 ? `Google Analytics runs only if you allow it in the banner,
       and receives the same view names. ` : ""}After some minutes of use the site may ask, once, who you are (researcher, student,
       practitioner and so on): one optional, anonymous click. The web server keeps an ordinary access log, in which the words of a
       search appear as part of the address; it is read only as counts (how many people a day). A question put to
