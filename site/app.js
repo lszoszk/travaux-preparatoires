@@ -611,6 +611,15 @@ async function applyHash() {
   if (open) await openRecord(open, seg);
 }
 
+// The box only gains the cursor, which alone looks like nothing happened: it also lights up for a moment
+function callSearch() {
+  const bar = document.querySelector(".searchbar");
+  bar.classList.remove("is-called");
+  void bar.offsetWidth;  // restarts the animation on a second click
+  bar.classList.add("is-called");
+  $("q").focus();
+}
+
 // ---------- events ----------
 document.addEventListener("click", async (e) => {
   if (e.target.closest(".result-actions a, .symref.ext, .pagebreak a, .dossier-head .meta a")) return;
@@ -627,9 +636,14 @@ document.addEventListener("click", async (e) => {
     }
     return setView(targetView);
   }
-  if (e.target.closest("[data-focus-search]")) {
+  if (e.target.closest("[data-focus-search]")) {  // the welcome's and the tour's "Search what delegates said"
     e.preventDefault();
-    return $("q").focus();
+    if (document.querySelector('.view[data-view="search"]').hidden) {
+      writeHash({ view: "search" }, true);
+      if (!$("results").children.length && $("welcome").hidden) runSearch(false, false);
+      setView("search");
+    }
+    return callSearch();
   }
   if (e.target.closest("[data-skip]")) {  // (the link's own address, #results, would wipe the search)
     e.preventDefault();

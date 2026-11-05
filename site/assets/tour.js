@@ -134,7 +134,7 @@
       `<div class="tour-kicker">Start anywhere</div>
        <h2 class="tour-h">Where to first?</h2>
        <div class="tour-go">
-         <a href="#view=search" data-tour-go="search">→ Search what delegates said</a>
+         <a href="#view=search" data-tour-go="search" data-focus-search>→ Search what delegates said</a>
          <a href="#view=ask">→ Ask a question in plain words</a>
          <a href="#view=article&i=UDHR&n=18">→ Follow an article: the freedom of religion (UDHR 18)</a>
          <a href="#view=votes">→ Check a vote</a>
@@ -184,10 +184,7 @@
         location.hash = "view=search&q=" + encodeURIComponent(ex.dataset.tourQ);
         return;
       }
-      if (e.target.closest(".tour-go a")) {
-        close();
-        if (e.target.closest('[data-tour-go="search"]')) setTimeout(() => document.getElementById("q")?.focus(), 50);
-      }
+      if (e.target.closest(".tour-go a")) close();  // "Search what delegates said" is then app.js's [data-focus-search]
     });
   }
 
