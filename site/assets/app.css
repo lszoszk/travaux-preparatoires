@@ -11,32 +11,36 @@ body { display: flex; flex-direction: column; height: 100vh; overflow: hidden; }
 .skip-link:focus { left: 12px; top: 12px; z-index: 99; background: var(--paper); padding: 6px 10px; border: 1px solid var(--ink); }
 
 /* Masthead */
-.mast { border-bottom: 1px solid var(--ink); background: var(--paper); padding: 14px var(--shell-pad) 10px; flex: 0 0 auto; }
-.mast-row { display: flex; align-items: flex-end; justify-content: space-between; gap: 32px; flex-wrap: wrap; }
-.mast-title { margin: 4px 0 0; font-size: 34px; font-weight: 500; letter-spacing: -0.01em; line-height: 1; color: var(--ink); }
-.mast-sub { font-style: italic; color: var(--ink-3); font-size: 13px; margin-top: 4px; }
+/* one thin row, as UNHRDB's compact masthead: the title and the tabs; the folio and the subtitle stay in the page (the
+   subtitle is the title's tooltip) but are not shown */
+.mast { border-bottom: 1px solid var(--ink); background: var(--paper); padding: 8px var(--shell-pad); flex: 0 0 auto; }
+.mast-row { display: flex; align-items: center; justify-content: space-between; gap: 8px 32px; flex-wrap: wrap; }
+.mast-title { margin: 0; font-size: 19px; font-weight: 500; letter-spacing: -0.01em; line-height: 1; color: var(--ink); white-space: nowrap; }
+.mast-sub, #mast-folio { display: none; }
 .mast-nav { display: flex; gap: 22px; align-items: center; font-family: var(--display); font-size: 14px; }
 .mast-nav a { color: var(--ink-2); text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid transparent; }
 .mast-nav a.active, .mast-nav a:hover { color: var(--ink); border-bottom-color: var(--accent); }
 .mast-sep { width: 1px; height: 18px; background: var(--rule); }
+.mast-nav .btn { padding: 2px 8px; }
 
 /* Search bar */
-.searchbar { border-bottom: 1px solid var(--rule); padding: 16px var(--shell-pad) 10px; background: var(--paper); flex: 0 0 auto; }
+.searchbar { border-bottom: 1px solid var(--rule); padding: 10px var(--shell-pad); background: var(--paper); flex: 0 0 auto; }
 .searchbar-inner { display: flex; align-items: center; gap: 16px; margin: 0; }
-.search-prompt { font-size: 22px; font-style: italic; color: var(--ink-3); font-weight: 400; flex-shrink: 0; }
-.search-input { flex: 1; min-width: 0; font-family: var(--display); font-size: 22px; background: transparent; border: 0; outline: none;
+.search-prompt { font-size: 19px; font-style: italic; color: var(--ink-3); font-weight: 400; flex-shrink: 0; }
+.search-input { flex: 1; min-width: 0; font-family: var(--display); font-size: 19px; background: transparent; border: 0; outline: none;
   color: var(--ink); border-bottom: 1px solid var(--ink-3); padding: 6px 0; }
 .search-input:focus { border-bottom-color: var(--accent); box-shadow: 0 1px 0 var(--accent); }
 .searchbar.is-called { animation: search-called 1.4s ease-out; }
 @keyframes search-called { from { background: var(--accent-soft); } to { background: var(--paper); } }
 @media (prefers-reduced-motion: reduce) { .searchbar.is-called { animation: none; } }
-.searchbar-hint { display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; margin-top: 8px; }
+.searchbar-hint { display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; margin-top: 6px; }
+.searchbar:has(#q:not(:placeholder-shown)) .searchbar-hint { display: none; }   /* the examples only while the box is empty */
 .suggest { font-family: var(--body); font-size: 13px; background: none; border: 0; border-bottom: 1px dotted var(--ink-4);
   color: var(--ink-2); cursor: pointer; padding: 0 1px; }
 .suggest:hover { color: var(--accent); border-bottom-color: var(--accent); }
 
 .ocr-banner { flex: 0 0 auto; background: var(--ocr-raw-soft); color: var(--ink-2); border-left: 3px solid var(--ocr-raw);
-  padding: 6px var(--shell-pad); font-size: 13px; }
+  padding: 4px var(--shell-pad); font-size: 12.5px; }
 
 /* Three columns */
 .layout { display: grid; grid-template-columns: var(--col-filters) minmax(320px, 1fr) var(--col-dossier);
@@ -128,8 +132,6 @@ details.masthead pre { white-space: pre-wrap; font-family: var(--body); }
   .results { padding: 8px 20px 40px; overflow: visible; }
   .dossier { border-left: 0; border-top: 1px solid var(--ink); }
   .dossier-body { overflow: visible; }
-  .mast-title { font-size: 24px; }
-  .mast-sub { display: none; }
 }
 @media (max-width: 640px) {
   .result { grid-template-columns: 1fr; gap: 6px; }
@@ -261,6 +263,15 @@ details.roll a { color: var(--ink-2); }
 .xfilter { width: 100%; max-width: 360px; margin: 12px 0 4px; }
 @media (max-width: 1100px) {
   .mast-nav { gap: 14px; flex-wrap: wrap; }
+}
+/* phones: the tabs in one row under the title, scrolled sideways, not three rows */
+@media (max-width: 760px) {
+  .mast-nav { flex: 1 1 100%; min-width: 0; flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; padding-bottom: 2px; }
+  .mast-nav::-webkit-scrollbar { display: none; }
+  .mast-nav a { white-space: nowrap; }
+  .searchbar-hint { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; }   /* the examples too */
+  .searchbar-hint::-webkit-scrollbar { display: none; }
+  .suggest { white-space: nowrap; }
 }
 @media (max-width: 1000px) {
   table.data { display: block; overflow-x: auto; }
