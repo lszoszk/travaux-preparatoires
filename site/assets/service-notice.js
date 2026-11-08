@@ -49,7 +49,7 @@
       st.textContent =
         ".svcn-bg{position:fixed;inset:0;z-index:2147483000;display:flex;align-items:center;justify-content:center;" +
         "background:rgba(20,20,24,.45);padding:16px}" +
-        ".svcn{--svcn-bg:#fffdf8;--svcn-ink:#242328;--svcn-mute:#5c5a60;--svcn-edge:#242328;--svcn-accent:#8d2f2f;" +
+        ".svcn{--svcn-bg:#fffdf8;--svcn-ink:#242328;--svcn-mute:#5c5a60;--svcn-edge:#242328;--svcn-accent:#2a4a88;" +
         "background:var(--svcn-bg);color:var(--svcn-ink);border:1px solid var(--svcn-edge);border-radius:3px;" +
         "box-shadow:0 2px 0 rgba(36,35,40,.18);max-width:520px;width:100%;max-height:85vh;overflow:auto;" +
         "padding:22px 24px 18px;font:15px/1.55 Georgia,'Times New Roman',serif}" +
@@ -61,8 +61,8 @@
         "text-transform:uppercase;cursor:pointer;border-radius:2px}" +
         ".svcn button:hover,.svcn button:focus-visible{color:var(--svcn-accent);border-color:var(--svcn-accent)}" +
         "@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .svcn{--svcn-bg:#1f1e22;--svcn-ink:#f3efe6;" +
-        "--svcn-mute:#b9b4ab;--svcn-edge:#6d6a70;--svcn-accent:#e08a8a}}" +
-        "[data-theme=dark] .svcn{--svcn-bg:#1f1e22;--svcn-ink:#f3efe6;--svcn-mute:#b9b4ab;--svcn-edge:#6d6a70;--svcn-accent:#e08a8a}";
+        "--svcn-mute:#b9b4ab;--svcn-edge:#6d6a70;--svcn-accent:#8cabe4}}" +
+        "[data-theme=dark] .svcn{--svcn-bg:#1f1e22;--svcn-ink:#f3efe6;--svcn-mute:#b9b4ab;--svcn-edge:#6d6a70;--svcn-accent:#8cabe4}";
       document.head.appendChild(st);
     }
     lastFocus = document.activeElement;
