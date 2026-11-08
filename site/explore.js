@@ -465,6 +465,8 @@ function ledgerHTML(L) {
 }
 // What is new, for readers (the full record of every change is the build log, docs/devlog.md): newest first.
 const NEWS = [
+  ["8 November 2026", `<b>Filters</b>: a box above the lists of records, sessions, delegations and speakers narrows each list as you
+    type (<i>325</i> leaves E/CN.4/SR.325 and A/C.3/SR.325); Enter chooses, Escape brings the whole list back.`],
   ["4 November 2026", `A 90-second <b>film</b> on what the database is and how far to trust it, here on the About page and at the start of
     the tour. The site also has its own mark, square brackets (text not yet agreed), and its own colour, ink blue.`],
   ["4 November 2026", `<b>Check</b>: paste a text that cites the drafting records, and every UN symbol in it is held against the record

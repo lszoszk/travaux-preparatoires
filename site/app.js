@@ -134,6 +134,29 @@ const getJSON = async (url) => {
   }
   return r.json();
 };
+// The long lists (records, sessions, delegations, speakers): the box above each keeps the options that contain every word
+// typed ("325" leaves E/CN.4/SR.325 and A/C.3/SR.325); Enter takes one of them, Escape clears the box
+const NARROWED = ["symbol", "session", "delegation", "speaker"];
+function narrow(id) {
+  const sel = $(id);
+  const words = document.querySelector(`[data-narrow="${id}"]`).value.trim().toLowerCase().split(/\s+/).filter(Boolean);
+  sel._all ||= [];
+  const known = new Set(sel._all);
+  for (const o of sel.options) if (!known.has(o)) sel._all.push(o);  // options added since (a value from a link)
+  const fits = (o) => words.every((w) => o.textContent.toLowerCase().includes(w));
+  const value = sel.value;  // rebuilding the list must not change the choice (a browser may select another option)
+  sel.replaceChildren(...sel._all.filter((o) => !o.value || o.value === value || fits(o)));
+  sel.value = value;
+  // Enter's choice: the option whose value is what was typed, else one that ends with it ("SR.60", not SR.603), else the first
+  const q = words.join(" "), left = sel._all.filter((o) => o.value && fits(o));
+  return left.find((o) => o.value.toLowerCase() === q) || left.find((o) => o.value.toLowerCase().endsWith(q)) || left[0];
+}
+function clearNarrow() {
+  for (const id of NARROWED) {
+    document.querySelector(`[data-narrow="${id}"]`).value = "";
+    narrow(id);
+  }
+}
 async function loadFacets() {
   // the three answers the page needs before it can show anything, asked at once
   const [f, titlesByInstrument, symbols] = await Promise.all([getJSON("/api/facets"), getJSON("/api/article-titles"), getJSON("/api/symbols")]);
@@ -597,6 +620,7 @@ async function applyHash() {
   searchSort = h.get("sort") === "date" ? "date" : "";
   $("instrument").value = h.get("instrument") || "";
   articleOptions();
+  clearNarrow();
   // a record, session, delegation or speaker the facet lists leave out (a link from another page) is still a valid filter
   for (const id of ["symbol", "session", "delegation", "speaker"]) {
     const v = h.get(id);
@@ -765,10 +789,29 @@ for (const id of FILTERS) $(id).addEventListener("change", () => {
   runSearch(false, true);
 });
 $("translations").addEventListener("change", () => runSearch(false, true));
+for (const id of NARROWED) {
+  const box = document.querySelector(`[data-narrow="${id}"]`);
+  box.addEventListener("input", () => narrow(id));
+  box.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && box.value) {
+      e.preventDefault();
+      box.value = "";
+      narrow(id);
+    } else if (e.key === "Enter") {
+      e.preventDefault();
+      const first = narrow(id);
+      if (first && $(id).value !== first.value) {
+        $(id).value = first.value;
+        $(id).dispatchEvent(new Event("change"));
+      }
+    }
+  });
+}
 $("more").addEventListener("click", () => runSearch(true));
 $("reset").addEventListener("click", () => {
   $("q").value = "";
   searchSort = "";
+  clearNarrow();
   for (const id of FILTERS) $(id).value = "";
   $("translations").checked = true;
   articleOptions();

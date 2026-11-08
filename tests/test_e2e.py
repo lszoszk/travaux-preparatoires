@@ -72,6 +72,21 @@ def test_search_open_a_record_and_come_back(page, base):
     assert not page.errors
 
 
+def test_the_box_above_a_long_list_narrows_it_and_enter_chooses(page, base):
+    page.goto(base + "#view=search")
+    page.wait_for_function("document.getElementById('symbol').options.length > 100")
+    box = page.locator('[data-narrow="symbol"]')
+    box.fill("sr.60")
+    left = page.eval_on_selector("#symbol", "s => [...s.options].map(o => o.value)")
+    assert "A/C.3/SR.603" in left and len(left) < 20  # every record that contains it is left, and only those
+    box.press("Enter")
+    page.wait_for_function("location.hash.includes('symbol=E%2FCN.4%2FSR.60&') || location.hash.endsWith('symbol=E%2FCN.4%2FSR.60')")
+    assert page.locator("#symbol").input_value() == "E/CN.4/SR.60"  # the exact symbol, not SR.603
+    box.press("Escape")
+    assert page.locator("#symbol option").count() > 100 and page.locator("#symbol").input_value() == "E/CN.4/SR.60"
+    assert not page.errors
+
+
 def test_a_record_opened_from_another_view_returns_to_it(page, base):
     # (fixed on 4 Nov: the search behind the reader rewrote the history entry of the view the reader was opened from)
     page.goto(base + "#view=records")

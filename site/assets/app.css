@@ -52,6 +52,10 @@ body { display: flex; flex-direction: column; height: 100vh; overflow: hidden; }
 .filters select { width: 100%; font-family: var(--body); font-size: 13.5px; color: var(--ink); background: var(--paper);
   border: 1px solid var(--rule); padding: 6px 8px; border-radius: 0; }
 .filters select:focus { outline: 1px solid var(--accent); border-color: var(--accent); }
+.filter-narrow { display: block; width: 100%; box-sizing: border-box; margin-bottom: 6px; font-family: var(--body); font-size: 13px;
+  color: var(--ink); background: var(--paper); border: 1px solid var(--rule-soft); padding: 5px 8px; border-radius: 0; }
+.filter-narrow::placeholder { color: var(--ink-3); }
+.filter-narrow:focus { outline: 1px solid var(--accent); border-color: var(--accent); }
 
 .results { padding: 8px 40px 80px; overflow-y: auto; min-height: 0; }
 .result-list { list-style: none; margin: 0; padding: 0; }
