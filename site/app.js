@@ -313,6 +313,11 @@ function download(name, text, type) {
 }
 
 // ---------- search ----------
+// a vote that failed is shown in red, one that passed in green (as yes and no in the Votes view)
+const FAILED = new Set(["rejected", "defeated"]);
+const failedVote = (v) => {
+  try { return FAILED.has(JSON.parse(v || "null")?.outcome); } catch (_) { return false; }
+};
 function hitHTML(h) {
   const vote = h.vote ? JSON.parse(h.vote) : null;
   const voteLine = vote ? `Vote: ${vote.outcome}${vote.yes != null ? ` ${vote.yes}–${vote.no}${vote.abstentions != null ? `, ${vote.abstentions} abst.` : ""}` : vote.unanimous ? " unanimously" : ""}` : "";
@@ -333,7 +338,7 @@ function hitHTML(h) {
   const quoteStr = `${citeStr}: “${excerpt}”`;
   const saveData = esc(JSON.stringify({ id: h.id, symbol: h.symbol, citation: citeStr, excerpt, meta: [h.body, h.session, dateLabel(h.meeting_date)].filter(Boolean).join(" · ") }));
   return `<li class="result" id="hit-${esc(h.id)}" data-open="${esc(h.symbol)}" data-seg="${esc(h.id)}">
-    <div class="result-margin"><span class="result-pn">${esc(pinpoint(h))}</span><span class="badge badge-${esc(h.kind)}">${esc(h.kind)}</span>${h.machine_translated ? `<span class="badge badge-mt" title="${esc(mtNote(h))}">machine translation</span>` : ""}</div>
+    <div class="result-margin"><span class="result-pn">${esc(pinpoint(h))}</span><span class="badge badge-${esc(h.kind)}${h.kind === "vote" && failedVote(h.vote) ? " failed" : ""}">${esc(h.kind)}</span>${h.machine_translated ? `<span class="badge badge-mt" title="${esc(mtNote(h))}">machine translation</span>` : ""}</div>
     <div class="result-main">
       <div class="result-headline"><a class="result-open" href="#view=search&open=${encodeURIComponent(h.symbol)}&seg=${encodeURIComponent(h.id)}" data-open="${esc(h.symbol)}" data-seg="${esc(h.id)}">${esc(h.symbol)}</a>${who}</div>
       <p class="result-text">${marked(h.snippet)}${h.snippet && !h.snippet.includes("\u0001") && h.snippet.length >= 320 ? "…" : ""}</p>
@@ -473,7 +478,7 @@ function segHTML(s, doc, rx) {
     ? ` <button type="button" class="star ${wsHas(s.id) ? "on" : ""}" data-save="${saveData}" title="Save to workspace">${wsHas(s.id) ? "★" : "☆"}</button>` : "";
   const report = isInteractive ? reportLink(s.id, s.symbol, cite, "report-seg") : "";
   const bodyHTML = highlightReaderHTML(linkSymbols(esc(s.text)), rx);
-  return `<div class="seg ${esc(s.kind)}" id="seg-${esc(s.id)}">${para}${who}${bodyHTML}${artChip}${citeBtns}${star}${report}${review}</div>`;
+  return `<div class="seg ${esc(s.kind)}${s.kind === "vote" && failedVote(s.vote) ? " failed" : ""}" id="seg-${esc(s.id)}">${para}${who}${bodyHTML}${artChip}${citeBtns}${star}${report}${review}</div>`;
 }
 
 async function openRecord(symbol, segId, push = false, focusReader = false) {
