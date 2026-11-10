@@ -18,6 +18,7 @@ import argparse
 import json
 import re
 import shutil
+import subprocess
 import sys
 from pathlib import Path
 
@@ -72,9 +73,11 @@ def main() -> int:
                 "analytics": cfg.get("analytics", {})}
     # the site's own address in the page's metadata (canonical, og:image, JSON-LD), robots.txt, sitemap.xml and llms.txt
     site_url = cfg.get("url", "") or "./"
+    # and the build, in the addresses of the scripts and styles, so that a browser does not keep the previous ones
+    build = subprocess.run(["git", "-C", str(ROOT), "rev-parse", "--short", "HEAD"], capture_output=True, text=True).stdout.strip() or "dev"
     for name in ("index.html", "robots.txt", "sitemap.xml", "llms.txt"):
         f = out / "site" / name
-        f.write_text(f.read_text(encoding="utf-8").replace("{{SITE_URL}}", site_url), encoding="utf-8")
+        f.write_text(f.read_text(encoding="utf-8").replace("{{SITE_URL}}", site_url).replace("{{BUILD}}", build), encoding="utf-8")
     (out / "site" / "config.js").write_text("// written by deploy/build_bundle.py from deploy/site_config.json\nwindow.TRAVAUX = "
                                             + json.dumps(settings, indent=2, ensure_ascii=False) + ";\n", encoding="utf-8")
     for f in ("LICENSE", "DATA_LICENSE.md", "CITATION.cff"):

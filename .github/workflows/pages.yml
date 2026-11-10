@@ -34,6 +34,7 @@ jobs:
             analytics: { goatcounter: "https://lszoszk.goatcounter.com/count", path: "/travaux", ga4: "${{ vars.TRAVAUX_GA4 }}" } };
           EOF2
           for f in index.html llms.txt robots.txt sitemap.xml; do sed -i "s|{{SITE_URL}}|${{ vars.TRAVAUX_URL }}|g" "site/$f"; done
+          sed -i "s|{{BUILD}}|${GITHUB_SHA::7}|g" site/index.html
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
